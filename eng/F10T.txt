@@ -1,0 +1,3 @@
+217  =F10T
+
+26   =You are unable to continue with the Match as there are less than 7 players on the pitch. You must substitute your injured player to play on.

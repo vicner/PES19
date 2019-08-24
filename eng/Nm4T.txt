@@ -1,0 +1,89 @@
+510  =Nm4T
+
+3    =Sending and receiving data needed in order to play.
+6    =This user's rating is currently being assessed.
+7    =The match has been abandoned as your opponent has disconnected.
+8    =The match has been abandoned as you have disconnected.
+9    =This match has been deemed a void match.
+10   =This match has been deemed a forfeited match.
+11   =You WIN!
+12   =You LOSE!
+13   =There will be no changes to your rating as this match was deemed void.
+The results from this match will not be recorded either.
+14   =The match has been abandoned as your opponent has disconnected.
+You WIN!
+15   =The match has been abandoned as you have disconnected.
+You LOSE!
+16   =This match has been deemed a void match.
+You WIN!
+17   =This match has been deemed a void match.
+You LOSE!
+18   =This match has been deemed a forfeited match.
+You WIN!
+19   =This match has been deemed a forfeited match.
+You LOSE!
+20   =Ratings have now been calculated.
+Your ratings and skill level have been set at %d and %s respectively.
+22   =Matchmaking will be restricted to opponents within a certain range of your own rating.
+If you cannot find any opponents, expand your range before you try again.
+23   =You will only meet opponents who have chosen certain teams.
+If you are having difficulties in finding opponents, we recommend you try changing these settings.
+24   =You will not be paired with opponents whose Pass Support Level settings greatly differ to yours.
+If you are having difficulties in finding opponents, we recommend you choose  "No Matchmaking Restrictions" before trying again.
+25   =Users who set Guest User to ON will only be paired with opponents who have also set Guest User to ON.
+26   =Skill Level: You are now %s level.
+27   =You will only meet opponents who belong to certain divisions.
+If you are having difficulties in finding opponents, we recommend you try changing these settings.
+28   =You are currently in one of the promotion places in Division %d.
+29   =In your current position, you will stay in Division %d.
+30   =You are currently in the Division %d relegation zone.
+31   =The season is now finished. Please check your final standings.
+32   =Congratulations!
+You have been promoted to Division %d.
+33   =You will be in Division %d again for next season.
+34   =Unfortunately, you have been relegated to Division %d.
+35   =Congratulations!
+You have retained your Division 1 status.
+36   =Season Points you can earn by winning matches.
+37   =This match will be called off as you stopped playing for some time.
+39   =Finish current season and move on to next season with the records as they stand. Proceed?
+40   =You can restrict the opponents with whom you are matched based on your rating.
+This restriction will not come into effect if your rating is over a certain level.
+If Matchmaking is proving unsuccessful, try changing the settings.
+41   =Search for an online opponent and start a match.
+You cannot cancel the match once Matchmaking has been completed.
+42   =You can restrict your opponents to those with a certain network connection quality.
+Adjust the settings and you will be only be matched with opponents with high-quality connections.
+For further information, please check "jaHelp".
+43   =Division %d
+This is the first of 10 games this season.
+You will need to obtain at least %d Season Points to stay in the division.
+Get %d or more Season Points to earn promotion.
+44   =Division %d
+This is the first of 10 games this season.
+Get %d or more Season Points to earn promotion.
+45   =Division %d
+This is the first of 10 games this season.
+Get %d or more Season Points to stay in the division.
+46   =Division %d
+This is the first of 10 games this season.
+To stay in the division, you will need to earn %d points.
+To be promoted, you will need to earn %d.
+47   =Division %d
+This is the first of 10 games this season.
+To be promoted, you will need to earn %d points.
+48   =Division %d
+This is the first of 10 games this season.
+To stay in the division, you will need to earn %d points.
+49   =You can restrict your opponents to those with a certain network connection quality.
+Adjust the settings and you will be only be matched with opponents with high-quality connections.
+50   =Search for an online opponent and start a match.
+You cannot cancel the match once Matchmaking has been completed.
+You may be paired with opponents playing Online Divisions.
+51   =The paired opponent is from Online Divisions.
+Selectable teams will be different from standard PES LEAGUE ones.
+52   =You have reached the maximum number of playable matches for this window.
+
+Time until next window:
+%s
+53   =Your playable match allowance has been reset.

@@ -1,0 +1,27 @@
+501  =Nm1T
+
+6    =Unable to connect to server. Please try again later.
+11   =Create New User Data.
+Once created, User Data cannot be deleted or recreated. You will also be unable to change your User Name.
+19   =You have included invalid letters or phrases.
+20   =There is already a User by the same name.
+22   =User Data Created.
+26   =Create User Data
+38   =You cannot delete User Data soon after it has been created.
+43   =Your Profile contains invalid letters or phrases.
+The relevant sections of your Profile will be shown as being "Unregistered".
+45   =Both your Avatar and profile can be edited later.
+Select [Online Settings] followed by [Edit Profile] whenever changes need to be made.
+47   =KONAMI One Time Password Service users only
+49   =Register Online Pass Code
+50   =Buy Online Pass
+53   =Login successful!
+Would you like to enable auto-login from next time?
+(Please note that if you are using KONAMI One Time Password Service, you will still need to enter your password before logging in.)
+54   =Settings completed.
+Your auto-login settings can be changed at anytime in the future by selecting [Online Settings] → [Auto-login Settings] from the Top Menu.
+55   =Account Details (Essential)
+56   =Cancel login.
+Are you sure?
+63   =Owing to excessive traffic affecting the re server, a login restriction is currently in place.
+Please try reconnecting again later.

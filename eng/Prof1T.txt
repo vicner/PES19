@@ -1,0 +1,4 @@
+650  =Prof1T
+
+117  =%s has started the game.
+118  =Press ka using a controller of your choice to restart the game as %s.

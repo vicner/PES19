@@ -1,0 +1,13 @@
+642  =Fd3W
+
+4    =Become a Legend Player
+9    =Downloading
+14   =Use
+15   =Don't use
+59   =Similar Level
+86   =Title
+93   =Results from last 20 online matches
+116  =Check Player Stats
+123  =Match Room Settings
+148  =Player Used
+149  =VS COM Match

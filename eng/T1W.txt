@@ -1,0 +1,12 @@
+22   =T1W
+
+4    =Free Training
+5    =Training Settings
+11   =GK/CK/Throw In 
+15   =Both Sides
+16   =Training Type
+19   =Training Settings
+20   =Training Side
+21   =Fixed GK Cursor
+22   =User Team Players
+23   =COM Team Players

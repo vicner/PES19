@@ -1,0 +1,10 @@
+220  =F13T
+
+3    =Select Long distance Free Kick Taker.
+4    =Select Short distance Free Kick Taker.
+5    =Select a Secondary Free Kick Taker.
+6    =Select who takes Left-sided Corner Kicks.
+7    =Select who takes Right-sided Corner Kicks.
+8    =Select Penalty Taker.
+13   =Select which players will go forward and join the attack in Set Pieces.
+Up to 3 players can go up front. If you choose a 4th, the player who was first selected will remain in his original position.

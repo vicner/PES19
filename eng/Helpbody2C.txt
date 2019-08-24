@@ -1,0 +1,464 @@
+122  =Helpbody2C
+
+0    =<Registered Position>i1
+A player's favoured position. This is indicated by a Position Icon which is shown along with the player's individual details.i0
+5    =Individual records of players who play for this team.
+i0
+<Related Icons>i1
+ Number of appearances.
+ Total Goals.
+ Total Assists.
+ Average Ratings from matches played.
+ Yellow Cards.
+ Red Cards.i0
+13   =<Stadium Name by Team>i1
+Stadiums can be given names other than the ones selected in Stadium Creator.
+These unique names will only be used when the Stadium is being used as the home venue of selected teams.i0
+33   =Records of individual players who play for the team.
+i0
+<Related Icons>i1
+ Total Goals.
+ Total Assists.
+ Yellow Cards.
+ Red Cards.i0
+52   =Personal Data allows you to save your own in-game preferences, including Cursor Settings and Command Configuration.
+When playing a match, you will need to assign Personal Data for every controller.
+
+The maximum number of sets of Personal Data you can create is 32.
+
+Each of your Personal Data Settings can individually be saved onto storage media. They can then be taken around to a friend's house and loaded, allowing you to play matches using your own settings.
+95   =Make use of both shapes and letters to create new Emblems. Images can be coloured, scaled or layered on top of each other making editing effortless!
+The Pen and Eraser tools can be used to make fine adjustments too.
+106  =The Players listed on this page are ones for which you need to check their respective target data.
+For more details or to make any changes, please select [Choose which player you want to import data to].
+If you encounter any problems trying to import Player Data, you will need to manually select the Player you want to import data to. 
+Please also note that importing and correctly applying Player Data may require players to be transferred from other teams beforehand. Should you proceed without transferring the players, you may unwittingly overwrite the data of unrelated players.
+If you are happy to overwrite the data of the players shown below, please select [Next].
+107  =By Importing the Data, the Players who are overwritten will become Imported Players. 
+The National Flags on screen represent the nationalities/regions of such players while Team Emblems which are displayed to their side show that they will be removed from the indicated teams once the Data is imported. 
+If players end up being removed from their teams in this manner, their places will either be taken by a random player or remain blank.
+
+If you want to overwrite a different Player, please select another player from the list of Created Players shown in the following screen.
+CREATED PLAYERS is a section where you can register players Created in Edit Mode. 
+Any free space where new players could be registered will be shown as Unregistered.
+If all slots are full, you will have to select players who can be overwritten.
+However, if the slot for the player being overwritten is empty, then the data cannot be imported. 
+If the player being overwritten is registered to a National Team, then his nationality/region will remain unchanged.
+If under certain conditions, the Imported Player cannot be copied then no changes will be made to the player being overwritten.
+118  =Create your Personal Data.
+Your Personal Data is a combined single control setting which includes Command Configuration, as well as Support Settings.
+First, try entering your Personal Data Name.
+119  =The Popularity Ranking shows which teams are the most popular amongst users entering competitions.
+In this competition, performance rankings between users who selected the same team are a key factor in advancing from the Qualifying Round. Opting for an unpopular team could prove to be a smart choice as you will have less competition.
+133  =You will not play against users registered to the Match Block List for the following online match modes.
+・Online Divisions
+・Quick Match
+・myClub: RANKED MATCH
+・myClub: Online Challenge Cup
+
+You can add users to the list on the Rating results screen following a match or by going to Statistics → Results from last 20 online matches.
+There is a limit to how many users you can add to the list.
+Also note that your Match Block List does not apply to Competition Qualifying Rounds.
+159  =In match rooms created within the Friendly Match lobby, you can play Friendly Matches. Results from these matches have no effect on your overall rankings.
+Should you play multiple matches, you will be able to check the records.
+i0
+<Load User Data>i1
+In Friendly Match, teams from both Master League and Master League Online can be selected. All you need to do is to load the user data. Once loaded, a message confirming this "LOADED USER DATA" will be displayed.
+i0
+<Add Guest User>i1
+You can play a co-op match by adding an extra guest user to each side.i0
+163  =This is where you can edit your Personal Data and choose your main Personal Data.
+
+The Personal Data which you chose as your main Personal Data will automatically be selected and used in some modes including Online.
+The name you give to your main Personal Data will be displayed in blue.
+168  =In the Match Lobby, you have the choice to either create your own room as its owner or to join one which was created by another user.
+In the Team Play Lobby, it is even possible to enter Match Rooms where a match is already in progress.
+If you are at a loss as to which room you should join, then use the search feature to seek out ones which meet your requirements.
+
+A list of various on-screen icons and their descriptions.
+
+<Related Icons>
+ Match in progress.
+ Password Required
+ Indicates Language Setting.
+169  =Match Rooms in the Team Play Lobby can accommodate up to 22 users who can play co-op matches.
+Once the owner selects [Start Match], the match will start automatically after 30 seconds regardless of whether or not all participants have selected the same option.
+
+The information displayed to the right of the screen are as follows:
+
+<Match Status>i1
+Have a look at the current status or progress of a particular match.i0
+
+<Entered Users/Capacity>i1
+This refers to the number of users who are inside a particular Match Room as well as its maximum capacity.i0
+
+<Ready for Kick Off>i1
+This indicates the number of users who are inside a particular Match Room as well as how many of them have selected the option "Start Match".i0
+
+<Owner>i1
+The user whose name is displayed is the Match Room owner.i0
+
+<User Information>i1
+Check out your average rating for each position to see which position you played best in all your previous matches in the Team Play Lobby.i0
+
+<Best Players by Position>i1
+Users in the Match Room who receive high ratings will be shortlisted by position.
+The 4 positions are Forward, Midfielder, Defender, Goalkeeper and it will be the Average Rating of each user which will be taken into account.
+If there are no suitable candidates, then none will be listed.i0
+170  =You can either create a new room and become its owner or join one which has already been created by another user.
+If there are certain types of Match Rooms you are looking for, try using the search feature.
+
+A list of various on-screen icons and their descriptions.
+
+<Related Icons>
+ You have a good connection with the owner.
+ You and the owner have minor connectivity issues.
+ You have a poor connection with the owner.
+ Match in progress.
+ Password Required
+ Indicates Language Setting.
+171  =<Players> i1
+Change player names and appearances. You can also create new players. 
+i0
+<Teams> i1
+Edit Game Plan, Team Names, etc. 
+i0
+<Manager> i1
+You can change a manager's name or create an image of him. 
+i0
+<National Team Selection> i1
+Pick players for their national teams. 
+i0
+<Transfer> i1
+Transfer Club Team Player. 
+i0
+<Stadium> i1
+Make changes to stadium names. 
+i0
+<Competitions> i1
+Choose competition names and regulations. 
+i0
+<Competition Structure> i1
+Swap clubs between competitions. 
+
+<Save>i1
+Save Edit Data.
+i0
+<Load>i1
+Load Edit Data.
+i0
+<Import/Export>i1
+You can import and export Team and Competition Data, and import and delete image data.i0i0
+173  =Profiles and records of users who play this game online.
+All information displayed in this section can be seen by all other online users.
+
+To create and edit your own profile, select [Online Settings] then [Edit Profile] in order.
+
+Courtesy rating in default circumstances is set to "A", but this could drop to "B" or "C" depending on the number of matches which are terminated incorrectly such as by intentional disconnection.
+Please be warned that drop in courtesy level can result in the restriction of online services.
+Lastly, even if your courtesy rating was to drop, it can recover if you continue to complete matches in an appropriate manner.
+176  =<Attacking Prowess>i1
+Indicates how quickly a player can respond to the ball when the team is attacking.
+i0
+<Ball Control>i1
+Indicates how good a player is at controlling the ball in general. Affects trapping and feints.
+i0
+<Dribbling>i1
+Indicates how intricate a player's touch is when running with the ball.
+i0
+<Low Pass>i1
+Indicates how accurate a player is when playing low passes along the ground.
+i0
+<Lofted Pass>i1
+Indicates the level of accuracy a player commands when playing lofted passes.
+i0
+<Finishing>i1
+Indicates level of accuracy when shooting.
+i0
+<Place Kicking>i1
+Indicates a player's accuracy from set pieces including free kicks and penalties.
+i0
+<Swerve>i1
+Indicates how much curl a player can put on the ball.
+i0
+<Header>i1
+Indicates accuracy when heading the ball.
+i0
+<Defensive Prowess>i1
+Indicates how quickly a player can respond to the ball when the team is defending.
+i0
+<Ball Winning>i1
+Indicates how good a player is at dispossessing an opponent.
+i0
+<Kicking Power>i1
+Indicates how much power a player can generate when striking the ball.
+i0
+<Speed>i1
+Indicates how quick the player is when off the ball.
+i0
+<Explosive Power>i1
+Indicates a player's agility and mobility.
+i0
+<Unwavering Balance>i1
+Indicates how well a player can fend off tackles and keep his feet when he loses balance due to physical contact.
+i0
+<Physical Contact>i1
+Indicates how well a player can hold off opponents and keep his balance when physically pressured.
+i0
+<Jump>i1
+Indicates how high a player can jump. 
+i0
+<Goalkeeping>i1
+Indicates how quickly a player can respond to the ball when playing in goal.
+i0
+<GK Catch>i1
+Indicates the goalkeeper's ability to catch the ball.  A higher value means that the keeper can catch more powerful shots.
+i0
+<Clearing>i1
+Indicates the goalkeeper's ability to knock the ball away to safe areas.
+i0
+<Reflexes>i1
+Indicates the goalkeeper's ability to make quick reaction saves.
+i0
+<Coverage>i1
+Indicates the goalkeeper's coverage of the goal and the size of the area in which he can make saves.
+i0
+<Stamina>i1
+Indicates a player's level of fitness and endurance.
+i0
+<Weak Foot Usage>i1
+Indicates how often a player will use his weaker foot. The maximum value is 4.
+i0
+<Weak Foot Accuracy>i1
+Indicates how accurate a player is with his weaker foot. The maximum value is 4.
+i0
+<Form>i1
+Indicates a player's ability to maintain form over time. The maximum value is 8.
+i0
+<Injury Resistance>i1
+Indicates a player's level of resistance to injury. The maximum value is 3.i0
+177  =Create your own in-game soundtrack. Simply tick the check boxes of the tracks you want to listen to.
+You can use jg or jh to switch between selecting tracks for each mode or screen such as Main Menu or Highlight Footage.
+178  =Apply filters and conditions to search for the player who matches your very needs.
+i0
+<Group>i1
+ This option enables you to look for players who don't play for the clubs featured in this title.
+You will be able to find free agents, created players and players from non-featured clubs and leagues.
+i0
+<List>i1
+Transfer-listed players who have been placed on the Transfer List or the Loan List are easier to sign.
+Additionally, players nearing the end of their contracts or those who are without a club can be signed without having to pay a transfer fee.
+i0
+<Combined Ability>i1
+The combined ability is a simplified numerical value which represents the player's performance level. 
+i0
+<Playing Style>i1
+Search for players by their style of play.
+i0
+<COM Playing Styles>i1
+Search for players by what special skills they employ when either you or the COM possesses the ball.i0
+180  =<Registered Position>i1
+A player's favoured position. This is indicated by a Position Icon which is shown along with the player's individual details.i0
+i0
+<Playable Position>i1
+Select positions in which the player is capable of playing.
+i0
+<Ability/Player Skills/Playing Style>i1
+Choose player stats, Player Skills, Playing Style and COM Playing Styles.
+i0
+<Base Copy>i1
+Copy data from another player to the one currently being edited.i0
+181  =<Save>i1
+Save Edit Data.
+i0
+<Load>i1
+Load Edit Data.
+i0
+<Import/Export>i1
+You can import and export Team and Competition Data, and import and delete image data.i0
+182  =In myClub, three Preset Tactics can be set for each Squad.
+Preset Tactic 1 will be the team's main strategy, while the other two will be set as the team's sub-strategies.
+If a Squad only has one registered manager, then that manager's Offensive Tactic/Defensive Tactic allocation will be as follows:
+・Preset Tactics 1: Main (Offensive)
+・Preset Tactics 2: Sub (Defensive)
+・Preset Tactics 3: Sub (Offensive)
+
+Preset Tactic can be changed with the Game Plan option, and can also be switched in real time during matches.
+183  =Three Preset Tactics can be set for a Squad, and a different manager can be set for each set of tactics.
+In Squad Management, press jg/jh to switch between Preset Tactics and assign a manager to each one.
+For Preset Tactic 2, the assigned manager's Defensive Tactic is guaranteed to be used. For Preset Tactic 3, an Offensive Tactic is used.
+184  =If you assign a manager to a sub-strategy, he will be registered in your Squad as an Assistant Coach. If managers are used in this way, their contracts will not run down.
+Unlike main strategies, sub-strategies do not allow for 100％ of the effects of Team Spirit to come into play.
+Additionally, if you use a manager as an Assistant Coach for a long time, his Familiarity (％) will gradually decrease.
+If you have a manager with an effective Offensive Tactic, you should use this as your main strategy.
+185  =Friendly Match rules are as follows:
+・Each match will be played without accumulated fatigue.
+・Loaned players cannot be used.
+・Contract Dur. will not be affected.
+・Contract expiry, injuries and suspensions do not come into play.
+・GP and Scout prizes cannot be acquired.
+・A player's Level and Team Spirit don't increase.
+186  =There are certain cases where the Matchmaking Settings will not be operational.
+・Users who have attained a certain rating will have all rating-related limitations removed.
+・If any user's Courtesy Rating is B or C, Network Connection Restrictions settings will be invalid.
+・If a match is a Special Match, for instance in myClub or RANKED MATCH, Network Connection Restrictions settings will be invalid.
+・If there are repeated cases of matches being abandoned, limitations related to the Pass Support Level will be removed.
+187  =<Create Player>i1
+Make new players from scratch.
+You can create a maximum of 160 new players.
+i0
+<Edit Player>i1
+Edit existing players.
+There is no limit to the number of players you can edit.i0
+188  =<Team Colour>i1
+Set your team's primary colour.
+This will determine the colour of the goal nets, the hoardings, and how your fans dress.
+i0
+<Rival Clubs>i1
+Set a team who will be your rival.
+This will affect various aspects of the game, including the Master League and Become a Legend.
+i0
+<Banner>i1
+Enter text that will be displayed on the crowd's banners during matches.i0
+189  =<Import Team>i1
+Load data which you created in Export.
+While Team Data exported from another source can be implemented, the Teams you can apply the data to can be different for each individual Team Data. Please note that because Team Data is linked with Lineup Data, the Imported Data can alter the Lineups of teams other than the ones you wanted to change. When importing the Team Data, you will be given a choice of whether or not you want to apply the Lineup Data. If you choose not to apply it, the Player Data will not be imported. There are also other conditions which may stop the Data from being Imported.
+i0
+<Export Team>i1
+Extractable Team Data include: Game Plan, Squad Numbers, Team Name, Emblem Design, Strip Design, Home Stadium Settings, Player Lineup along with their appearances and stats. All these data can be extracted as a single block of data and subsequently exported from the game.
+i0
+<Import Competition>i1
+You can import competition data you have previously exported.
+
+You will need to save this competition data to the WEPES folder at the same level as the save folder.
+i0
+<Export Competition>i1
+Save the selected competition's name and regulations as a single save data.
+i0
+<Import Images>i1
+You can import images into the game.
+You can only edit imported images.
+i0
+<Delete Images>i1
+Imported images can be deleted.i0
+190  =Scouts come in a variety of types and with a range of different Grades. You can select the Scout you are after and add them to your Wish List.
+It's simple to check whether or not a Scout you have saved to your Wish List is available to bid for in an Auction.
+You can register 50 types of Scout to your Wish List.
+
+It's possible to register specific Scouts to your Wish List in the following ways:
+
+Choose "Scout" → "Auction Search" to search allAuctions. You can then select any Scout you want using jl and add them to your Wish List.
+You can also select "Scout" → "Sign Player" → "Simulation" to list up any Scouts you are after. You can then press jl to add them to your Wish List.
+191  =This is a list of currently active Auctions.
+i0
+<The Auction Process>i1
+There are two rounds in an Auction: the 1st Round and the Final Round.
+i0
+<1st Round>i1
+In order to take part in the Auction, you will need to bid in the 1st Round.
+Participants are free to make bids that are higher than the current price, but be aware that the bid you make will be visible to everyone else.
+If there are multiple people taking part, things will proceed to the Final Round after a certain amount of time.
+In order to make a bid in the 1st Round, you will need to use GP, but note that if someone else tops your bid, the GP you have used will be returned to you.
+If the 1st Round contains only 1 bidder, the Final Round will immediately finish and will be declared the winner.
+If that is the case, if an Auto Bid has been set for the Final Round, the price set for the bid will be charged.
+i0
+<Final Round>i1
+In the Final Round, each participant will be allowed to make one bid.
+The bids made in the Final Round will not be visible to the other participants and the highest bidder will win.
+Note that even if someone is the highest bidder in the 1st Round, they will only have the right to make a single bid.
+In case more than one user bids the same amount, the first one to bid will be judged the winner.
+When the deadline is reached or every participant has made their bid, the Final Round comes to the end.
+Bidding in the Final Round will also use GP, but if your bid is not successful, this GP will be returned to you.i0
+
+
+<Related Icons>
+
+Already added to your watchlist.i0
+192  =A list of current auctions and ones to watch.
+i0
+<The Auction Process>i1
+There are two rounds in an Auction: the 1st Round and the Final Round.
+i0
+<1st Round>i1
+In order to take part in the Auction, you will need to bid in the 1st Round.
+Participants are free to make bids that are higher than the current price, but be aware that the bid you make will be visible to everyone else.
+If there are multiple people taking part, things will proceed to the Final Round after a certain amount of time.
+In order to make a bid in the 1st Round, you will need to use GP, but note that if someone else tops your bid, the GP you have used will be returned to you.
+If the 1st Round contains only 1 bidder, the Final Round will immediately finish and will be declared the winner.
+If that is the case, if an Auto Bid has been set for the Final Round, the price set for the bid will be charged.
+i0
+<Final Round>i1
+In the Final Round, each participant will be allowed to make one bid.
+The bids made in the Final Round will not be visible to the other participants and the highest bidder will win.
+Note that even if someone is the highest bidder in the 1st Round, they will only have the right to make a single bid.
+In case more than one user bids the same amount, the first one to bid will be judged the winner.
+When the deadline is reached or every participant has made their bid, the Final Round comes to the end.
+Bidding in the Final Round will also use GP, but if your bid is not successful, this GP will be returned to you.i0i0
+193  =Players subject to a Live Update will receive a Condition Rating from A to E, with A being the highest rating and E being the lowest.
+The Condition of players adjusted via a Live Update will be decided according to their Condition Rating at kick-off.
+
+Players with a good Condition Rating are more likely to enjoy improved Condition during matches.
+The same applies to players who are on good Form.
+
+Players' Condition during matches will be impacted according to their Condition Rating as follows.
+A: 
+B: 
+C: 
+D: 
+E: 
+
+*Players not subject to Live Update changes play with Condition equivalent to a C rating.
+194  =In some competitions of the Online Challenge Cup and the VS COM Challenge Cup, you may appoint a player who brings you an additional bonus when he appears in the game.
+In such cases, an icon is displayed on the player in the Squad Management screen in the competition menu.
+195  =With Clan Matches, you can create your own Clan Match Room or enter a Clan Match Room made by another user and join a team with whoever's there. Matchmaking will then find an opponent for you to play against, either from another room or a team playing a Casual Match.
+
+<Related Icons>
+ Match in progress.
+ Password Required
+ Indicates Language Setting.
+: only Clan members can enter the match room.
+: users you're following.
+196  =Your Following List displays the other users you're currently following.
+
+You can follow up to 100 people, but after you reach 100, each newly followed user will replace the oldest existing user in the list. However, you have the option to lock users to prevent them being deleted.
+197  =Whenever you play a Casual Match, you won't be matched to the same team with any users on your Rejection List.
+198  =This is a list of potential candidate signings. Grayed-out players cannot be signed. Players with an icon next to them are those you already have on your books.
+199  =See the details below for the number of matches stipulated in Other Requirements.
+i0
+<RANKED MATCH matches>i1
+Refers to RANKED MATCH or 1-vs-1 Online Challenge Cup and myClub Competitions matches. You can confirm the number of matches by going to the Records tab in the Main Menu and selecting "MYCLUB HISTORY" → "Club Information and Records" and checking RANKED MATCH Records.
+i0
+<VS COM matches>i1
+Refers to VS COM or 1-vs-COM VS COM Challenge Cup matches. You can confirm the number of matches by going to the Records tab in the Main Menu and selecting "MYCLUB HISTORY" → "Club Information and Records" and checking VS COM Records.i0
+200  =<Goal Netting Design>i1
+You can choose your own goal netting design. You can set two colours as Goal Net Colour 1 and Goal Net Colour 2.i0
+201  =You can sign players randomly from your List of Targets according to signing success rates for each rarity.
+
+・Signing success rates by rarity and target signing totals (no. of players) by rarity have no correlation.
+・When you sign a target through an Agent, success rates do not change no matter how many players you sign.
+・You have an equal chance of signing all players of the same rarity.
+・You may end up signing a player you already have.
+・When you sign three players at once via an Agent, you may end up signing duplicates of the same player.
+・When you sign three players at once via an Agent, the displayed signing success rate is the same for each of the three players.
+・After signing a player, you can claim the Agent Option bonus item.
+・If you lose your connection to the server during the signing cutscene, the player can be signed as expected by following the signing conditions shown on screen.
+202  =Selection Box can be used to sign a random set of players from your List of Targets.
+
+Each player you sign from the box reduces the total number of signings you can make by 1. You can view how many potential signings are left at each rarity in the jfProfile.
+
+When the option to do so is available, you can reset the box with jc. A reset of the box reverts the number of remaining potential signings at each rarity to their default values. Each box has its own maximum number of signings, but note that resetting a box may result in signing duplicate players.
+
+・You have an equal chance of signing all players of the same rarity.
+・You may end up signing a player you already have.
+・After signing a player, you can claim the Agent Option bonus item.
+・If you lose your connection to the server during the signing cutscene, the player can be signed as expected by following the signing conditions shown on screen.
+203  =Collector's Box can be used to sign each and every one of the players on your List of Targets.
+
+Each player you sign from the box reduces the total number of signings you can make by 1. You can view how many potential signings are left at each rarity in the jfProfile.
+
+When the option to do so is available, you can reset the box with jc. A reset of the box resets the number of remaining potential signings at each rarity to their default values. Each box has its own maximum number of signings, but note that resetting a box may result in signing duplicate players.
+
+・You have an equal chance of signing all players of the same rarity.
+・You may end up signing a player you already have.
+・After signing a player, you can claim the Agent Option bonus item.
+・If you lose your connection to the server during the signing cutscene, the player can be signed as expected by following the signing conditions shown on screen.

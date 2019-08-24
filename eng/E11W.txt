@@ -1,0 +1,14 @@
+42   =E11W
+
+3    =Player Name
+48   =Emblem
+51   =Stadium Name
+56   =Competition Name
+59   =Game Plan
+60   =Description
+61   =Competition Name, Pre-match Entrance Music
+62   =Team Emblems
+63   =Competition Emblems
+64   =↑
+65   =Edit Competition
+66   =Group stage match total

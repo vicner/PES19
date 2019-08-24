@@ -1,0 +1,23 @@
+247  =Mc3T
+
+65   =Save Data is corrupted.
+90   =Insufficient space to save.
+130  =You must save applicable data to enable Auto Save. Please save your data.
+137  =Load Data Not Found.
+143  =Re-select Hard Disk?
+151  =Unable to access Hard Disk.
+165  =You can load the following image types.
+
+Max file size : 5MB
+Max resolution : 1024×1024 pixels
+File Format : JPEG, PNG, BMP (some not supported)
+166  =Exceeds Maximum File Size.
+167  =Exceeds Maximum Resolution.
+173  =Unable to load because the Save Data is of a different version.
+174  =Implementing Downloaded Contents.
+175  =Download new contents to update data.
+176  =Unable to load because data is from different version.
+Download new contents to update data.
+184  =Your data will not be saved. Still proceed?
+190  =Unable to load image.
+Either the file does not meet the below requirements or it may be corrupted:

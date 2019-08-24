@@ -1,0 +1,1215 @@
+550  =Onml1T
+
+0    =Write a Comment
+1    =Proceed without Comment
+2    =Broadcast Comment
+5    =Hard Luck. You were relegated to %s last season.
+14   =Sign
+15   =Add to Listed Players
+24   =You can now sign %d player(s). 
+
+(The more matches you play, the more players you can sign.)
+25   =You can now sign %d player(s).
+27   =Signed %s.
+34   =You can now sign %d player(s).  The number of players you can sign will not increase anymore.
+38   =You cannot change the name of this team.
+40   =Quit Master League Online and return to Top Menu.
+42   =Added to Listed Players.
+44   =Copied Team Design.
+45   =Remove from Listed Players
+46   =You cannot select Reset Team while taking part in a Competition.
+48   =Quit Competition and return to myClub Main Menu.
+49   =Take a break from the Qualifying Round and return to myClub Main Menu.
+51   =You cannot sign any more players.
+52   =Removed from Listed Players.
+54   =You cannot change Team Name while taking part in a Competition.
+55   =You cannot Copy Team Design while taking part in a Competition.
+56   =You cannot change Squad Numbers while taking part in a Competition.
+60   =There are players whose contracts have expired.
+Players who are out of contract are ineligible for selection.
+Please release them or alternatively, renew their contracts.
+64   =Some players have picked up an injury.
+74   =Transaction Complete! The player's contract has been renewed.
+75   =Edit Comment
+85   =Your list of Listed Players is already full.
+108  =A very physical and fast-paced league.
+Being in this league allows you to sign physical and quick players at a lower cost.
+There is also a league wide wage cap which restricts the total costs of your team.
+109  =A very defensive league where the ethos is to concede as few goals as possible.
+Being in this league allows you to sign defensive players at a lower cost.
+There is also a league wide wage cap which restricts the total costs of your team.
+110  =An attack-oriented league featuring many of the world's most technically gifted players.
+Being in this league allows you to sign technical players and good passers of the ball at a lower cost.
+There is also a league-wide wage cap that restricts the total cost of your team.
+111  =A league filled with superstars playing in all positions, where dream teams compete against other dream teams.
+Entry to this league is a privilege reserved only for those who have built up an impressive asset points total.
+Unlike other leagues, there are no wage caps and teams are free to spend however much they want in order to fulfill their ambitions.
+112  =You will only be paired with opponents who also play in the same league.
+113  =You will only be paired with opponents of similar Team Strength.
+114  =Congratulations! You have unlocked an achievement which is unique to this league.
+%s/%s
+115  =You have unlocked the %s achievement: %s!!
+116  =Why not let the world know about your incredible feat?
+Would you like to leave a comment?
+117  =You have been granted the right to play in %s as you have accumulated the required Total Asset Points.
+To move to another league, please select [Change League] from the Master League Online Main Menu.
+118  =The total cost of players in your team has exceeded your Total Asset Points.
+Please adjust your lineup so that the total cost of players does not exceed your Total Asset Points.
+119  =You do not have enough Asset Points to sign this player.
+122  =At present, you can sign 0 players.
+In order to sign more players, you must play more matches.
+123  =This player has already been registered to My Team.
+124  =Pt
+126  =Move to %s and load your My Team data from %s.
+127  =Your My Team data from %s will be saved on to the server with the team's lineup in its current state. It will be loaded in the same state were you to rejoin %s.
+128  =Are you sure you want to change leagues?
+129  =You have changed leagues.
+Why not let everyone know that you are about to embark on a new challenge?
+Would you like to leave a comment?
+130  =You will move to %s with your current lineup.
+All leagues are subject to their own rules regarding player costs and if the re-calculated total cost of players in the lineup was to exceed your Total Asset Points, then you will be forced to make the necessary changes.
+131  =Your current Total Assets stand at %d points.
+To play in %s, your points total must be %d or more.
+132  =You already play in %s.
+133  =You have been awarded extra asset points.
+%d points have been added to your total assets.
+Please check Online Information for further details.
+134  =The total cost of players in your team has exceeded the league-wide wage cap.
+Make changes to your lineup to ensure that the total cost of players does not exceed the permitted amount.
+135  =Unable to sign this player as your total cost of players will exceed the league-wide wage cap.
+136  =Your squad size is below the required minimum of 16.
+Please use your Total Assets to create a squad of over 16 players which is not in breach of the league wide wage cap.
+137  =You cannot change leagues while taking part in a competition.
+140  =Your Total Assets have exceeded %d.
+The Wage Cap settings of this league enforce a Total Costs limit of %d.
+141  =Delete [%s]. Proceed?
+
+*All Squad players will be automatically unregistered (Please note they will not be released).
+142  =When you select Reset Team, all team data, including players acquired during promotions or using special agents, managers, and trainers, will be deleted, and the team will be restored to its default state. You will also be unable to redo the first tutorial.
+If you have followed the advice given below and still cannot advance, tick the box and select "Proceed".
+・Excess players and managers can be released in exchange for GP.
+・You can also earn rewards for every day you play myClub.
+143  =Both players and teams have been restored to their default states as you have selected "Reset Team".
+144  =Player slots: Increased as follows:→ 
+%d → %d
+*When "-" is displayed in the Points Required column, you cannot expand slots using myClub Coinss.
+145  =You cannot obtain any more player slots as you have already reached the maximum number allowed.
+146  =Not enough GP.
+147  =You now have %d player slots.
+148  =Day %d play bonus awarded.
+149  =You cannot sign more players as you have no vacant slots.
+If you want to sign new players, you must release some existing ones.
+150  =You cannot sign more players as you have no vacant slots.
+If you want to sign new players, you must release some existing ones.
+Or alternatively, you can obtain extra player slots by selecting myClub Store - [Increase Players Slots] in order.
+151  =The list has been updated.
+152  =You cannot sign more manager as you have no vacant slots.
+If you want to sign new managers, you must release some existing ones.
+153  =%d more time(s)
+154  =Pay %d myClub Coins in commission
+155  =Sign a player.
+*Signings begin at Lv.1.
+
+Proceed?
+156  =You are all set to sign %s.
+Do you want to proceed?
+157  =Change managers.
+Proceed?
+158  =Release %s.
+(You will gain %d GP should you proceed)
+Are you sure?
+159  =You cannot release a player from the Squad whilst taking part in a competition.
+160  =%s has renewed his contract.
+161  =You cannot give further extensions to this contract.
+162  =Give %s a 10 match contract extension.
+Proceed?
+163  =%s
+Use item to recover player stamina.
+Proceed?
+(Item Stock : %d)
+164  =Stamina recovered: %s.
+165  =Replace %1$s| with %2$s|. Proceed?
+166  =You don't have the appropriate item.
+167  =Not enough GP.
+168  =Not enough myClub Coins.
+169  =You cannot release a manager from the Squad which you are currently using.
+170  =Release %s.
+(You will gain %d GP should you proceed)
+
+Releasing him will result in the deletion of his Squad.
+Are you sure?
+171  =Released %s.
+His Squad has now been deleted.
+172  =Unregister the player.
+(Please note that the player will still remain with the club)
+
+Are you sure?
+173  =Congratulations! You have made the required conditions and will therefore be promoted to:
+
+Match Level : %s 
+
+Let's keep it up.
+The opponents can only get stronger now, but stronger opposition means the greater the GP you earn!
+It's time to show that you are up for the challenge!
+174  =Congratulations on your first win of the day!
+You have earned %s.
+175  =Unlocked "%s".
+You have earned %s.
+176  =Unfortunately, you failed to meet the required conditions and will therefore be demoted to:
+
+Match Level : %s 
+
+Don't be too down on yourself.
+There will always be chances to claw your way back up!
+177  =Welcome to myClub!
+
+myClub gives you the platform to build the club of your dreams while taking on rivals from all over the world.
+178  =Next, select a manager for the team.
+179  =Next, choose the players that make up your team.
+The crux of the squad will be made up of players of the nationality which you have just selected.
+180  =Your team's lineup has now been selected.
+181  =Your club has been registered and you're all set to go.
+
+In myClub, the key to success is to earn GP by playing matches and entering competitions, and then using it to attract the best players and managers to your club.
+182  =Okay, now it's time to experience some basic gameplay.
+183  =In order to sign a player, you must consult an agent.
+
+There are many opportunities in this game to obtain agents including playing in matches and competitions.
+Have a look in your "Inbox". You should find that an agent's been sent to you!
+184  =This is a gift to celebrate your myClub debut.
+You have signed a contract with a new Scout!
+185  =So, let's try signing a player.
+First, select "Contract" then choose the agent who will handle the negotiations.
+186  =Let's try signing a player.
+Press ka to select a Scout of your choice from the list, then press jf to confirm.
+187  =Congratulations! A new player has joined your team.
+New agents can be obtained by playing matches.
+If you are looking to sign a big name player, try assigning multiple agents for the job.
+Give it a try!
+188  =Newly signed players cannot play in matches straight away. They must first be registered to your team. 
+Now, let's set up your squad in "Squad Management".
+189  =Now, set up your matchday Squad.
+You are free to form multiple squads using all players who are registered to your club.
+It's time to learn the workings of Squad Management.
+190  =Think you know all about Squad Management now?
+If you're still unsure, select "No" to run through the tutorial again.
+191  =It's now time you play for real.
+
+In myClub, there are both human and COM opponents.
+Follow the instructions on screen to start your match.
+192  =myClub Coins can afford you the services of more high-calibre agents.
+
+Now, it's time you got yourself to the negotiating table!
+193  =Hiring "Top Agents" can drastically improve your odds when trying to sign quality players.
+Such agents tend to be specialists in negotiating with players of certain positions.
+Choose an agent depending on the position of the player you are looking to sign.
+194  =Congratulations!
+You seem to have signed a player you can build your whole team around.
+Don't forget to register him in your Squad if you want him to play matches for you.  
+195  =Well, it's finally time for your myClub career to begin!
+The key to winning matches in this mode is to strengthen your club.
+Use various managers and players and build the best unit that you can!
+196  =There are no items.
+197  =You have received all items.
+198  =You couldn't receive some of the items as you have reached the allowed maximum.
+199  =You cannot receive this item as you already own one. 
+200  =You cannot receive this item as you already have the allowed maximum.
+201  =The loan periods of some players have expired.
+As a result, they have left the team.
+202  =Specialist in "%s" players.
+203  =You can either edit your Squad or switch between multiple Squads.
+204  =Sign players and hire managers. Find the right talents that can help strengthen your team.
+205  =Recover the stamina of all players at the club.
+Proceed?
+206  =Sign players using a Scout.
+207  =Sign players using a Top Agent. You are more likely to sign a quality player than when using a Scout.
+208  =Sign players on loan.
+209  =Hire manager.
+210  =You have no agents at your disposal.
+211  =Each manager has 2 tactics one for attack, another for defence.
+Switch between the two using jgand jh.
+To do this during matches, select Auto change Preset Tactics.
+To change tactics in game plan, you must change managers.
+212  =Managers have their own "Team Instructions" depending on tactical preferences in both attack and defence. The same applies to players.
+
+Should they match, the link icon will flash and the more links there are, the better the tactical fit between them.
+213  =If you field players in positions that suit the manager's Team Instructions, that area of pitch on the heat map will change from green to red.
+
+The more red areas on the map, the better your players' on-pitch chemistry will be.
+214  =Players tend to link up better and like similar Team Instructions if they play for the same club/national team.
+
+Even if that's not the case, things will improve by constantly playing them together.
+215  =Your Team Spirit indicates the team's overall chemistry.
+
+Team Spirit has a maximum value of 99.
+216  =Have a look at some basic info on your players.
+The keys to successful team building are to build up Team Spirit and to make quality signings that enhance your team's strengths.
+Get them right and you'll be a force to be reckoned with.
+217  =Each player has individual Costs related to their abilities.
+The overall Costs of all the players who are registered to the Squad is referred to as the Total Costs.
+
+If the Total Costs exceeds the manager's Management Skills, Team Spirit will decrease significantly.
+That means that if you really want your best players to be able to shine, you will need a manager with a high Management Skills.
+
+Note that you can use items to gradually increase Management Skills.
+218  =The number of matches in which managers and players can take part in is dictated by their contracts.
+Players who are out-of-contract remain with the club, but cannot play.
+
+Now, select a player (or manager) then press jf in Player Menu (Manager Menu) to renew his contract.
+219  =See below for selectable options in Player/Manager Menu. To open the menu, select a player/manager, then press jf:
+
+ ・Player/Manager Change
+ ・Stamina Recovery
+ ・Contract Renewals
+ ・Player Releases
+ ・Checking Details
+220  =You cannot play the match as your manager's contract has now expired.
+Please either extend his contract or appoint another manager.
+221  =You cannot play the match as you do not have enough players.
+There are vacancies in the starting lineup or the substitutes bench or you may have called up ineligible players.
+Please select [Squad Management] from the myClub Menu to reorganise your team.
+222  =The team's current cost exceeds the amount allowed by the manager's managerial skills. This will lead to a huge reduction in Team Spirit.
+Are you sure you want to play the match?
+223  =You cannot release a manager from the Squad while taking part in a competitions.
+224  =You cannot change Squads while taking part in a competitions.
+225  =You cannot replace managers or players while taking part in competitions.
+226  =You cannot switch managers as you have no other available managers.
+227  =You cannot select Game Plan as your Squad contains less than 11 registered players. Please select [Squad Management] and register more players.
+228  =Please wait until competitions are next held.
+229  =jc: See below for selectable options that apply to the whole team in Team Menu:
+
+ ・Sign Players/ Hire Managers
+ ・Edit Squad Number
+ ・Squad List
+ ・Stamina Recovery (All Players)
+ ・Select Team lineup Automatically
+230  =Signed %s on loan.
+*The duration of contract is set at 10 matches (Non-extendable).
+231  =Replenished the stamina of all players.
+232  =Team Data cannot be saved as your Squad comprises of less than 16 players or the starting lineup contains less than 11 players.
+Please go to [Squad Management] and register more players.
+233  =You have hired a new manager. To check his details, select [myClub Members] → [Managers List] in order.
+234  =You cannot sign this player as the list is already expired.
+235  =Teams finishing in the below final positions are eligible to receive the rewards indicated:
+i0
+<Winner>i1
+%si0
+<Runner-up>i1
+%si0
+<Semi-finalists>i1
+%si0
+<Quarter-finalists>i1
+%si0
+<Last 16>i1
+%si0
+<Did not qualify>i1
+%si0
+236  =%s is now out of contract.
+Please renew the contract or hire a different manager.
+237  =Total player costs have exceeded the amount allowed by the manager's managerial skills. This will result in a huge reduction in Team Spirit.
+Please reorganise your team.
+238  =You cannot create any more Squads.
+(The maximum number of Squads you are allowed is 10)
+239  =The more compatible the Team Instructions between a player and a manager, the better their tactical fit (See in Tactical Link).
+Players who have the attributes to be better suited to the manager's team instructions receive a bonus in tactical fit too.
+Assembling players who are a good tactical fit with the manager improves the team's overall teamwork level.
+(See in Team Spirit)
+If a player is of a poor tactical fit with the manager, be patient. Given both time and opportunities, things will get better. 
+240  =Selectable Team Instructions: "%s".
+241  =There were no players that met the agent's conditions.
+242  =You cannot sign him as he is already a member of your myClub.
+243  =Icons displayed in Tactical Link indicate team instructions.
+Each icon represents the following team instructions.
+i0
+<ATK styles>i1
+CTR: Counter Attack
+POS: Possession Game
+i0
+<Build up>i1
+LNG: Long-pass
+SHT: Short-pass
+i0
+<ATK area>i1
+WDE: Wide
+CEN: Centre
+i0
+<Positioning>i1
+MTN: Maintain Formation
+FLX: Flexible
+i0
+<DEF Styles>i1
+FLP: Frontline Pressure
+AOD: All-out Defence
+i0
+<Penning Area>i1
+MID: Centre
+WDE: Wide
+i0
+<Pressuring>i1
+AGG: Aggressive
+CSV: Conservativei0
+244  =You will receive no GP for releasing this player as he was signed on loan.
+Are you sure?
+245  =Select Sign Player: Scout.
+246  =This feature is currently unavailable. 
+Please refer to Online Information for further details.
+247  =Select automatically by Team Strength
+248  =Select automatically by Team Spirit
+249  =Create Squad without registering the players
+250  =Players chosen based on selected conditions.
+Have a look at individual positions before trying it out in an actual match.
+251  =By selecting "Reset Team", your team will be restored to its default state.
+All players, managers and agents who are on your team's books as well as recovery items will be lost.
+Are you sure?
+252  =You have bought myClub Coins!
+%s → %s
+253  =There were no myClub Coins available for you to buy.
+254  =You were unable to buy any myClub Coins.
+255  =Edit Data will be applied to the team's commentary name (Changes can be made in Edit Mode).
+256  =You cannot buy myClub Coins unless you accept the terms of the User Agreement.
+Are you sure?
+257  =Please ensure that you have 18 squad members excluding players on loan.
+258  =Your current squad size is only 18 which is the bare minimum.
+Should you lose any players to injury or suspension, you will be forced to forfeit subsequent matches.
+Therefore, it is highly recommended that you include some reserve players in your Squad.
+Are you sure you want to enter the competition with your current squad?
+259  =Pay %s GP.
+Are you sure?
+260  =Pay %s myClub Coins.
+Are you sure?
+261  =Use item.
+Are you sure?
+262  =Either %s  or %s 
+263  =You are about to extend your contract with %s for a further 10 matches.
+You can pay by either GP or myClub Coins.
+264  =You are about to replenish the stamina of all players in your squad.
+You can pay by either GP or myClub Coins.
+265  =Sign players using an Agent.
+You can pay by either GP or myClub Coins.
+266  =You are about to sign %s on loan.
+The duration of contract is set at 10 matches (Non-extendable).
+You can pay by either GP or myClub Coins.
+267  =You are about to hire %s. You can pay with either GP or myClub Coins. (Only myClub Coins can be used if the manager is locked.)
+268  =Your Squad will be reorganised according to the selected criteria.
+Since this is done with reference to overall positional balance, it is possible that your Team Strength and Team Spirit may actually decrease.
+Would you like to reorganise your team and reflect the following changes?
+[Team Status Change]
+Team Strength: %1$d| → %2$d|
+Team Spirit: %3$d| → %4$d|
+269  =* Team Spirit will be reduced as team cost is too high
+271  =You are not eligible to enter this competition.
+
+[Eligibility for Entry and Restart]
+%s
+
+[Entry and Restart Conditions]
+%s
+272  =This competition is in knockout format.
+To become champion, you must win in all rounds.
+273  =This competition is in league format.
+To become champion, you must accumulate %d or more points.
+274  =Your opponents will be restricted to fellow competition entrants.
+275  =Your opponents will not be restricted to fellow competition entrants.
+276  =You have been eliminated. 
+However, you can keep challenging while this competition is still in progress. 
+Don't give up!!
+277  =Congratulations! You completed the %s!
+278  =This competition is now finished.
+279  =You cannot play in multiple competitions at once.
+Should you proceed, you will lose all progress from the %s.
+Are you sure?
+280  =Select 1 player to remove in exchange.
+281  = Added to Squad: %s.
+
+ %s
+282  = Added to myClub Members.
+
+%s
+283  =Suspend the Online Challenge Cup?
+*You can restart at any time while the tournament is taking place.
+284  =Suspend the VS COM Challenge Cup?
+*You can restart at any time while the tournament is taking place.
+285  =A competition decided by a one-off match.
+Win the match and you win the competition.
+286  =*During the player signing animation, even if the connection to the server is lost the player will be signed according to the displayed Signing Conditions.
+287  =Take a look at all the players who are available to sign in myClub.
+*This is not a list of players who are available via a certain Agent or Scout.
+*The attributes displayed are those the player will have when he reaches Lv. 30.
+288  =Squad for Cloud Match: Unable to play Cloud Match. %s does not have enough registered players.
+289  =The manager's contract will be extended at no cost once the Contract Extension Option conditions have been met in any match category during the contract term.
+290  =The Contract Extension Option conditions have been met. A new contract will be signed once the current contract comes to an end.
+291  =The manager's contract has come to an end. Unfortunately, the Contract Extension Option conditions were not met.
+292  =The manager's contract has ended without him successfully meeting all the set Contract Extension Option goals.
+Do you want to renew your contract with %s?
+293  =You will renew %s's contract.
+You can pay using either GP or myClub Coins.
+294  =%s has left his club after his contract ended.
+295  =There is no manager currently under contract. We will need to sign a new manager.
+Please select the manager you'd like to sign.
+296  =Please select a successor.
+297  =The contract with %s has been extended.
+298  =A new contract with %s will be signed.
+Are you sure you want to proceed?
+299  =%s will be registered as a successor.
+Are you sure you want to proceed?
+300  =In order to proceed to kick-off, you will need to retire from the current Competition.
+Would you like to withdraw from the Competition?
+301  =Scout could not be acquired. You do not have any free slots.
+302  =You cannot enter the myClub Competitions with a Squad that includes players on loan.
+303  =Use a EXP Trainer to train your players. 
+Once training is complete, the EXP Trainer will leave the club.
+304  =You will request training for %s. Once the training is complete, %s will leave the club. Are you sure you want to proceed?
+305  =There is no Special EXP Trainer or EXP Trainer available. You can convert any player into an EXP Trainer by first selecting "Squad Management" → "jfPlayer Menu" or "myClub Members" → "Members List", then "jcPlayer Menu".
+306  =Unable to proceed. Every EXP Trainer slot has been filled. You can have a maximum of 100 Trainers.
+307  = You will convert %s into a EXP Trainer. You can have a maximum of 100 Trainers. Once this has been done, you will not be able to include him in your squad. Are you sure you want to proceed with the Convert into a EXP Trainer process?
+308  =A player who is currently taking part in the myClub Competitions cannot be converted into a EXP Trainer.
+309  =A new Trainer List has been created. 
+%s has been removed from your squad.
+310  =Select [Pay with myClub Coins] to restore the stamina of all players, including your Substitutes.
+Select [Use This Item] to use a single Stamina Recovery (single) to restore the stamina of each fatigued player in your Starting Lineup.
+311  =You will restore the stamina of %d fatigued player(s) in the Starting Lineup.
+One Stamina Recovery (single) will be used for each player.
+Are you sure you want to proceed?
+312  =A Reset Team will take place.
+From this point onwards, the Reset Team cannot be cancelled.
+Are you sure you want to proceed?
+313  =Unable to proceed with the Reset Team. The necessary box was not ticked.
+314  =A contract has been signed with Manager for %d games.
+His contract will run down with every match played and can be extended if you so wish.
+315  =Okay, let's start with the process of acquiring a player.
+
+I'll give you a Scout as a present. He'll help you acquire players.
+Now, select INBOX.
+316  =You've signed a contract with a Scout.
+317  =Let's sign a player using your new Scout.
+Select CONTRACT to get started.
+318  =Select a Scout from the list to start negotiations.
+319  =Congratulations!
+%s has just joined the club. Let's put him straight into the Starting Lineup.
+Go ahead and select SQUAD MANAGEMENT.
+320  =SQUAD MANAGEMENT allows your manager to select the Squad they want to field.
+It's a good idea to learn the basics and optimise your Squad.
+321  =Select %s, the goalkeeper currently registered to your starting squad and confirm with ka.
+322  =Select the icon in the bottom left.
+323  =You can choose to swap players in your Squad.
+For example, select %s, who plays at the same position and press ka to confirm the swap.
+324  =Success!
+%s is now a starting member of the squad and this has boosted Team Spirit.
+325  =This time you added a player from myClub MEMBERS. However, if you select [Add to Squad] when acquiring a new player, you can also add them to your Starting Lineup immediately after acquiring them.
+326  =Now let's take a look at the other things you can do on this screen.
+327  =Select the Top Agent.
+328  =Players earn experience by playing in matches.
+Once they have earned a certain number of Experience Points, their level will increase and their abilities will develop.
+329  =One of your players has levelled up!
+Go ahead and check out his abilities!
+330  =Your Manager's contract has Contract Extension Option conditions.
+If you can meet the conditions in any one of the categories set here, his contract can be extended for free. 
+If the conditions are not met, you will need to spend GP or myClub Coins to extend their contract.
+331  =You can use the myClub Coins you've acquired to sign a highly skilled Top Agent. Go ahead and give it a try.
+332  =There is another way of building a talented squad.
+This is known as TRAINING.
+Let's give it a try!
+333  =Let's try converting a player into a EXP Trainer.
+To get started, select myClub MEMBERS and open the Members List.
+334  =Select %s, press ka to display a sub-menu, then select Convert into a EXP Trainer.
+335  =You will convert this player into a EXP Trainer. Once this has been done, you will not be able to include him on your squad.
+Are you sure you want to proceed?
+336  =%s has been added to the Trainer List. 
+Now, let's use this EXP Trainer to do some TRAINING with your players.
+337  =Select TRAINING.
+Then, display the Trainer List.
+338  =Select a EXP Trainer from the list.
+339  =This EXP Trainer has a lot in common with %s. 
+This means they should have a high level of affinity.
+340  =This high level of affinity is very important, because it has a big influence on the effectiveness of the training.
+Be sure to keep an eye on whether or not trainers and players have a lot in common.
+
+Now, time to start TRAINING by pushing ka!
+341  =Thanks to the high level of affinity he has with the EXP Trainer, this player has improved dramatically!
+Let's check out the results of his training.
+342  =Now, let's take a look at team chemistry.
+
+All managers have their own Preset Tactics, and for each set of Preset Tactics, there are Team Instructions. Each player will also have his own favoured Team Instructions.
+
+The better the match between the Team Instructions of the manager and the players, the better the chemistry between them and the resulting tactical strength of the team.
+
+As players get used to instructions with match experience, they'll become more adept at following the manager's Team Instructions.
+343  =When Team Spirit is low, players cannot perform at their best.
+To boost Team Spirit, try assembling a group of players who fit the Manager's tactics.
+Note that when you change the Manager, Team Spirit will be low for a while as they get used to their new boss.
+If you keep changing the Manager too often, you won't see your players at their best.
+344  =Each of your players has a contract which determines the number of games they can play for you.
+You can keep hold of players even after their contracts have expired, but you cannot select them for matches.
+Contracts can be renewed from the jfPlayer Menu.
+345  =This is the Squad screen where you set up the basic tactics known as Main (Offensive).
+There are also Squad screens for Sub (Defensive) and Sub (Offensive) tactics.
+You can switch between these three screens at any time using ji and jj.
+During a match, you can view these screens by selecting Auto change Preset Tactics.
+346  =On the Sub (Defensive) and Sub (Offensive) screens, by deploying a Manager as an Assistant Coach, you can have a variety of different tactics.
+
+You have been given a Manager as a gift,
+so go to Sub (Defensive) and set aManager as an Assistant Coach.
+
+Select your Manager from the following list.
+347  =You will now set the manager you just acquired, %s, as an Assistant Coach. First of all, switch the Squad screen to Sub (Defensive).
+Press jh to display the second page.
+348  =You are now viewing your Sub (Defensive) Preset Tactics. Place the cursor over Manager and press jf.
+Select Changing Managers from the Manager Menu, to change the Manager assigned to this Squad.
+349  =%s has now been assigned as an Assistant Coach for Sub (Defensive). Let's not forget about Sub (Offensive), though. Up to three people's tactics can be used during one match.
+What's more, when a Manager has been set as a Assistant Coach, their contract will not run down, so be sure to make good use of this function.
+350  =Now, press jg to return to Main (Offensive).
+351  =In Sub (Defensive), each Assistant Coach uses defensive Team Instructions. Be aware of your Squad's characteristic when choosing a Manager to use as an Assistant Coach.
+352  =Finally, don't forget that pressing jc brings up team-related menus, while jf brings up player and Manager-related menus. If you have any questions about management, be sure to let me know.
+353  =Well, that's the end of the basic Squad Management tutorial.
+For more details on various features, refer to the help that's available from the Main Menu by pressing ja.
+Try to make sure you have a good grasp on the game's features and rules!
+354  =Enter negotiations with up to three Scouts to try and find a player that's more suitable for your requirements.
+355  =In the Members List, you can select a player with ka and press jc to display a menu giving you various options.
+If you have selected multiple players, some menu options will be unavailable.
+356  =Next, let's look at some important points to consider when registering a player in a Squad.
+
+Each player has various Costs, based on their ability.
+The more talented a player is, the higher these costs become.
+A Squad's combined player Costs are known as the team's Total Costs.
+357  =If Total Costs exceed the Management Skills of your Manager, then Team Spirit will plummet.
+To get the best out of a team of great players, you will need to sign a Manager with high Management Skills.
+358  =Let's start TRAINING with %s.
+359  =If you start TRAINING, the EXP Trainer will no longer be able to play for you. 
+Make sure you have a thorough understanding of your team's situation and a clear plan before starting TRAINING.
+360  =You can pay by either GP or myClub Coins.
+361  =Use a special Agent to make a signing.
+362  =The contracts of the selected %d players will be renewed for 10 more matches.
+You can pay by either GP or myClub Coins.
+363  =The %d selected players will be released.
+You will earn %d GP for releasing these players.
+Are you sure you want to proceed?
+
+Selected Players
+ %s
+364  =You cannot release all the selected players, as it would result in your club not having enough players.
+365  =%d players' contracts have been renewed.
+366  =%d players have been released.
+367  =Not all selected players' contracts could be renewed. Some of the selected players already had contracts of the maximum possible length.
+All other players' contracts have been renewed.
+368  =The contracts of %d players (except Loaned Player) have been renewed.
+369  =Your selection contains a Loaned Player.
+You will receive no GP for releasing this player as he was signed on loan.
+Are you sure?
+370  =You will use a Contract Renewal Ticket to renew %s's contract.
+You will have %d Contract Renewal Ticket(s)  remaining after renewing this contract.
+Are you sure you want to proceed?
+371  =A Loaned Player cannot be converted into a EXP Trainer.
+372  =No Scout available.
+373  =Increase your number of scout slots.
+No. of scout slots: %d → %d
+You can pay by either GP or myClub Coins.
+374  =You cannot obtain any more scout slots as you have already reached the maximum number allowed.
+375  =You now have %d scout slots.
+376  =A loan deal for %d matches has been signed.
+377  =You cannot select more than %d players at once.
+378  =You are unable to proceed to the match because your Scout slots are full.
+You can either use a Scout of your choice until a slot becomes free, or you can add an additional Scout slot.
+379  =You are unable to take part in the tournament because your Scout slots are full.
+You can either use a Scout of your choice until a slot becomes free, or you can add an additional Scout slot.
+380  =You have retired from the competition.
+381  =The following training effect can be given to a player of your choice.
+%d
+382  =The maximum level has been reached. Further training cannot be undertaken.
+383  =The maximum number of Contract Renewal Tickets you can possess is 20.
+You already have the maximum number, and cannot receive any more.
+384  =Using a Special Agent makes it much easier for you to acquire talented players.
+Just for the tutorial, you'll get to use one without spending any  myClub Coins.
+Select an Agent from the list, and press ka to confirm.
+385  =Select "Special Agent".
+386  =First, you need to build up your club.
+You can sign a talented player on loan, so go ahead and select the player you'd like to sign.
+387  =Your club roster has now been decided.
+Go ahead and take a look at your team.
+388  =A Contract Renewal Ticket cannot be used for players who still have time remaining on their contracts.
+389  =Squad for Cloud Match: Unable to play Cloud Match. %s does not have enough registered players.
+390  =Squad for Cloud Match: Unable to play Cloud Match. %s has 5 or more Loaned Players.
+391  =Squad for Cloud Match: Unable to play Cloud Match. %s had 5 or more Loaned Players.
+392  =%s is already at the club.
+%s's contract has been extended for %d more matches.
+393  =You have been given the opportunity to sign a player on loan for %d match(es).
+Go to your Inbox to proceed.
+If the player is already at the club, then their contract will be extended.
+394  =Some items could not be received because the players/managers in question are already at the club.
+395  =Let's move to the "SQUAD MANAGEMENT" menu.
+396  =%s has been signed on loan.
+He has a contract for %d games. Please be aware that this contract cannot be extended and that he cannot be used in a Competition.
+397  =We're about to introduce features that experienced myClub players will be familiar with.
+Would you like to skip to the explanations of the new features?
+398  =We're about to explain important myClub features.
+Master these and you'll be one step ahead of other players!
+399  =Alright, it's time to explain the important new features.
+400  =Select Scout by pushing ka.
+401  =Go to the Manager Menu by pushing jf.
+402  =The player you've just acquired, %s, has been added to the Members List.
+All players at your club appear on this Members List.
+403  =View the players that the selected Agent can acquire for you.
+*The attributes displayed are those the player will have when he reaches Lv. 30.
+404  =How did the match go?
+
+Acquiring top-quality players is the easiest way to build a strong team.
+
+By spending myClub Coins, you can employ skilled agents.
+Now, let's try using a Special Agent.
+405  =You will request training for %s, a player on loan. Once the training is complete, the EXP Trainer will leave the club.
+
+Are you sure you want to start training this loanee?
+406  =Next, let's select the club that will serve as the basic template for your team.
+You will use the emblem and kit of the team you select.
+407  =Within the same Squad, you can have 3 different Preset Tactics each registered with a different manager, giving you 3 separate tactical options.
+To learn more about using this function, choose "Help" with ja in Squad Management.
+408  =You cannot convert this player into a trainer, as you would end up with too few players.
+409  =A Scout that allows you to sign players with this characteristic:
+410  =The released manager was registered to the Squad for Cloud Match, so your current Squad has been set as your Squad for Cloud Match.
+411  =This is a reward based on the results of your season.
+You can use a Contract Renewal Ticket to renew a player's expired contract.
+412  =A player's status may be indicated using the following icons.
+i0
+< Loaned Player>i1
+The player is on loan.
+Loaned player have certain restrictions. For example, they cannot play in myClub Competitions or myClub Friendly Match.
+i0
+< Suspended>i1
+The player is Suspended as a result of the cards they have been shown.
+Please note that cards and suspensions picked up during a Competition do not apply to matches outside that Competition.
+i0
+< Contract Expired>i1
+The player is out of contract.
+You will not be able to take part in matches if you have a player displaying this icon in your Squad.
+Renew the player's contract to remove this icon.
+i0
+<Squad Bonus>i1
+In some competitions of the Online Challenge Cup and the VS COM Challenge Cup, you may appoint a player who brings you an additional bonus when he appears in the game.
+In such cases, an icon is displayed on the player in the Squad Management screen in the competition menu.i0
+413  =Each Manager has his own preferred Team Instructions.
+The same applies to players.
+
+When a player's preference matches the Manager's, a "link" icon will flash. The more of these "links" a player has with a Manager, the higher their level of affinity.
+
+Players will gradually become comfortable with more and more Team Instructions as they gain more match experience.
+
+Positioning a player who is a good tactical fit with the manager turns the heat-map red.
+414  =You don't have any Contract Renewal Tickets.
+A certain number of Contract Renewal Tickets are acquired whenever you manage to achieve promotion.
+415  =You cannot take part in myClub Competitions with a Squad that includes loaned players.
+Make a new Squad without loaned players by selecting [Squad Management] on the Main Menu, then accessing the [jcTeam Menu] and selecting [Squad List].
+416  =%s is now your Squad for Cloud Match.
+417  =The ball colour that represents a player's Rarity is based on their Overall Rating at Lv. 30.
+418  =When you sign a player using a Scout, his Level is always 1.
+419  =%d Experience Points required to reach the next level.
+420  =You are in the Knockout Phase of myClub Competitions.
+You cannot take part in any other matches or competitions within myClub while the Knockout Phase is taking place.
+421  =The opposition team were controlled by the COM, and as such their Rating has not changed.
+422  =<The negotiation power of the selected Scouts>
+423  =Do you wish to change all of the currentPreset Tactics to %s's Sub Tactics?
+424  =You are now taking part in myClub Competitions. You cannot edit your Squad (for example, by bringing players from your Reserves into your lineup.)
+425  =Loaned Players cannot play in a myClub Friendly Match.
+Please remove the Loaned Players using Squad Management.
+426  =Do you want to view the myClub tutorial?
+427  =Unable to activate stamina recovery.
+428  =The selected %d players will become trainers. Any loaned players will be deselected. You will not be subsequently able to include them in your squad.
+
+Are you sure you want to proceed with the Convert into a Trainer process?
+
+Selected Players
+%s
+429  =Check out opponent's playing style.
+430  =This is a Special Match reward.
+431  =Sign players using your Scouts.
+432  =Sell Scouts you don't need.
+433  =Select your requirements for the auction.
+434  =A list of current auctions and ones to watch.
+435  =Are you sure you want to bid %sGP?
+
+*Players current targeted by Scouts may be subject to changes via Live Update or updates to the Data Pack.
+436  =The amount now being asked for is %sGP, totalling a Final Round bid of %sGP
+You will not be able to change your bid after placing it.
+Are you sure?
+437  =You have made your bid.
+438  =You can't bid a lower or identical value to the current bid.
+439  =They're no longer accepting bids, so it's too late to make an offer.
+440  =You're short of GP, so you can't make a bid.
+441  =Your bid wasn't successful as they received a better offer.
+442  =They've already reached the maximum number of bidders, so you can't make an offer.
+443  =They're not accepting bids yet.
+444  =You already made a bid.
+445  =Bidding is closed as they've already reached the maximum number of bidders.
+446  =You'll be able to find the Scout you bid for in your Inbox.
+447  =Bids are no longer being accepted for this auction.
+448  =This auction has been suspended.
+449  =Someone else has made a bid and the Current Price (GP) has changed.
+450  =Your bid was successful!
+451  =To take part in the auction, you need to make a bid in the 1st Round.
+Note that in the 1st Round, the price will change whenever a new bid is put in.
+
+See jaHelp for further details.
+452  =You have made your bid.
+If a number of people have made bids by the time the 1st Round closes, the auction will proceed to the Final Round.
+453  =In the Final Round, each participant can make a single bid.
+You will not be able to see other people's bids.
+The person who put in the highest bid will win the auction.
+(If more than one user bids the same amount, the person who made their bid first will be the winner.)
+454  =The Final Round is now over.
+This Scout was won by another bidder.
+455  =This Scout can focus on trying to acquire players based on their current Club.
+456  =This Scout can focus on trying to acquire players based on their league.
+457  =This Scout can focus on trying to acquire players based on their Nationality/Region.
+458  =This Scout can focus on trying to acquire players from a certain continent based on their Nationality/Region.
+459  =This Scout can limit the number of potential candidates for each Registered Position.
+460  =This Scout can focus on trying to acquire players based on their age.
+461  =This Scout can focus on trying to acquire players based on their notable skills or attributes.
+462  =This Scout can focus on trying to acquire players based on their Stronger Foot.
+463  =This Scout can focus on trying to acquire players based on the Team Instructions they respond best to.
+464  =This Scout can focus on trying to acquire players based on their height.
+465  =You are selling a Scout for %dGP.
+Do you want to proceed?
+466  =You received %dGP for selling Scout.
+467  =You are selling the %d Scouts you have selected.
+You will receive %dGP.
+Do you want to proceed?
+468  =You have sold the Scouts and received a payment of %dGP.
+469  =You have received a reward for a  myClub Records achievement.
+470  =Select "Inbox" in the Main Menu. Here you can claim rewards from events and campaigns.
+471  =Access the Main Menu and go to the CONTRACT tab before selecting "Scouts" → "Sign Player".
+You can combine your Scouts and try to acquire the players who appear on your List of Targets.
+472  =Access the Main Menu and go to the CONTRACT tab before selecting TOP AGENT.
+You can then try to acquire one of a select group of players with real potential.
+473  =Access the Main Menu and go to the CONTRACT tab before selecting SPECIAL AGENT.
+Here you can attempt to acquire a special list of players who are available for a limited time only.
+474  =Access the Main Menu and go to the CONTRACT tab before selecting LOAN CONTRACT.
+You'll see a regularly changing selection of players available on a temporary basis.
+475  =Access the Main Menu and go to the MATCH tab before selecting VS COM.
+You can tailor your Squad via SQUAD MANAGEMENT and then take on other users' teams.
+You'll be paired with opponents of different abilities, determined by your Match Level and your recent results.
+476  =Select "RANKED MATCH" from the MATCH tab in the Main Menu. Use a Squad configured in SQUAD MANAGEMENT to play against other online opponents.
+477  =Select "RANKED MATCH (SIM)" from the MATCH tab in the Main Menu. The COM controls your team in a match against another user's COM-controlled team.
+478  =Access the Main Menu and go to the MATCH tab before selecting myClub COMPETITIONS to take part in a live tournament.
+Note that tournaments are not always being held, so be sure to check when the next one is starting.
+A tournament will start with a Qualifying Round from which the top 16 teams will proceed to a Knockout Phase.
+You can find out more details about each tournament via the Regulations menu.
+479  =Access the Main Menu and go to the MATCH tab before selecting "WHAT'S ON" → "ONLINE CHALLENGE CUP" to take part in a live tournament. The games will be played as online matches. If you can meet the conditions for each tournament, you can earn rewards that will be invaluable for building a stronger team.
+480  =Access the Main Menu and go to the MATCH tab before selecting "WHAT'S ON" → "VS COM CHALLENGE CUP" to take part in a live tournament. You will be paired against original teams that come already registered to the game. If you can meet the conditions for each tournament, you can earn rewards that will be invaluable for building a stronger team.
+481  =Select TRAINING from the CLUB HOUSE tab on the Main Menu, and then choose a player from the list to train.
+
+To choose a EXP Trainer from the menu, press ka to select him and jf to start training.
+482  =Access the Main Menu and go to the CLUB HOUSE tab before selecting SQUAD MANAGEMENT.
+You can then choose a player and select "jfPlayer Menu" → "Contract Renewal".
+If you want to use a Contract Renewal Ticket, select "jfPlayer Menu" → "Contract Renewal Ticket".
+483  =Access the Main Menu and go to the CLUB HOUSE tab before selecting SQUAD MANAGEMENT.
+Choose a player and then select "jfPlayer Menu" → "Stamina Recovery (single)".
+If you want to restore stamina to a number of players at the same time, select "jcTeam Menu" → "Stamina Recovery (All)".
+484  =Access the Main Menu and go to the CLUB HOUSE tab before selecting "myClub MEMBERS" → "Members List".
+Select the players you want to release by pressing ka and then select "jcPlayer Menu" → "Release".
+485  =Access the Main Menu and go to the CONTRACT tab before selecting "EXPAND CLUB" → "Increase Players Slots".
+486  =Access the Main Menu and go to the CONTRACT tab before selecting "EXPAND CLUB" → "Additional Scout Slots".
+487  =Access the Main Menu and go to the CONTRACT tab before selecting HIRE MANAGER.
+The list of available managers will be updated regularly.
+488  =Access the Main Menu and go to the CLUB HOUSE tab before selecting SQUAD MANAGEMENT and then pressing "jcTeam Menu" → "Squad List".
+Select Create New from the list displayed and choose the Squad name, confirm the manager, then register players.
+489  =Access the Main Menu and go to the CLUB HOUSE tab before selecting SQUAD MANAGEMENT and use jg/ jh to switch Preset Tactics. Then select the manager before pressing "jfManager Menu" → "Change Assistant Coach".
+If you select a manager who does not have Preset Tactics 1: Main (Offensive) applied, you can choose from a whole range of different tactics for your Squad.
+490  =Access the Main Menu and go to the CLUB HOUSE tab before selecting SQUAD MANAGEMENT then choosing "jcTeam Menu" → "Squad List".
+You can then select your preferred Squad from the displayed list and confirm with "jfEdit" → "Use in Cloud Match Mode".
+Each time the selected Squad completes 10 games against other teams, you will earn GP rewards.
+491  =Pause myClub before accessing the re Top Menu and selecting "EXTRAS" → "ONLINE SETTINGS" → "Edit Profile".
+You can then create an Avatar on the settings screen displayed.
+492  =Access the Main Menu and go to the MATCH tab before selecting "RANKED MATCH". 
+Once you're paired up with an online opponent, the MATCH MENU will be displayed just before kick-off. 
+Then select "jcPlay Analysis". You can check the Play Analysis of the team you're facing and work on a Game Plan to give yourself a decisive advantage.
+493  =Access the Main Menu and go to the MATCH tab before selecting RANKED MATCH.
+When you are matched with opponents of the same Rating, you may sometimes have your game designated as a Special Match. This will allow you to collect much greater rewards than normal, meaning that you should do all you can to get a good outcome.
+494  =Access the Main Menu and go to the CONTRACT tab before selecting "Scouts" → "Auction Search".
+There will then be a search for Auctions meeting your requirements.
+Each Auction is comprised of a 1st Round and a Final Round. To take part in an Auction, you need to make a bid in the 1st Round.
+When multiple bids are made, the bidder with the highest bid in the Final Round will win the auction.
+495  =The Team Spirit is determined by the make-up of the Squad.
+If you field the same players, the team will become more cohesive and Team Spirit will grow.
+The maximum Team Spirit level is 99.
+496  =Registration to the Trainer List has been completed.
+
+Player(s) Added
+%s
+497  =Set %d to be the club's Home Town.
+498  =The Squad Bonus feature is enabled for this competition.
+You will receive a bonus when you include Squad Bonus players in your Squad a certain number of times.
+Players you can receive a bonus for will be indicated with a  on the Squad Management screen.
+
+Players Included in Squad
+%d
+
+Players Who Need to be in Squad
+%d
+499  =You have received a Squad Bonus.
+500  =You have received an item as a reward for using an agent.
+501  =You have no Special Trainer.
+502  =If a player is included in the Squad, it will boost their ability to work with team instructions when using Preset Tactics %d.
+After use, you will have %d remaining "Tactical Training“.
+Do you wish to proceed?
+503  =%s, the manager of the Squad, will have his Familiarity (％) boosted. All items will be used even if Familiarity (％) reaches the maximum 120％. After use, you will have %d remaining Familiarity Boost(s). Do you wish to proceed?
+504  =%s, the manager of the Squad will have their management skills boosted.
+After use, you will have %d remaining "Management Skills Boost“.
+Do you wish to proceed?
+505  =Your club currently has a suspended player.
+Once this player has missed a game from the same match category in which he was suspended, he will be able to play for the team again.
+506  =You cannot proceed as you have selected a player who is suspended.
+Remove this player from the Squad in order to proceed.
+507  =You cannot add anyone else to the Watch List.
+You will need to delete someone first.
+508  =This Scout will be removed from the Watch List.
+(Any Auctions where you already made a bid won't be removed.)
+Do you want to proceed?
+509  =Unable to use any Scouts as no players meeting your conditions could be found.
+510  =Unable to use any Scouts as all players meeting your conditions are already available to your team.
+511  =You have chosen to initiate a Scout sale for %sGP.
+Note that Grade ★★★★ or ★★★★★ Scout is included. Do you want to proceed?
+512  =You are selling the %d Scouts you have selected.
+You will receive %d GP.
+Note that Grade ★★★★ and ★★★★★ Scouts are included. Do you want to proceed?
+513  =This is the Scout you won in the Auction.
+514  =Now it's time to properly set up your club.
+Start by setting your Home Town.
+
+This will be displayed after matchmaking.
+515  =Enter the name of a location that will serve as the Home Town for your team.
+516  =You can change the name of your club.
+517  =You can edit the 3-character abbreviation of your club name.
+518  =You can set the name of your club which will be used in the game.
+519  =Now let's experiment with swapping players so you can see the effect this has on Team Spirit.
+520  =Manage the players you have to create a Squad with the highest possible Team Spirit and this will make your players into as tightly-knit a unit as possible.
+This is a really important factor in building an effective team.
+521  =So, do you think you've grasped the basics of managing your Squad?
+
+But to build a great team, you're going to have to get some new talent in the squad.
+Next, let's look at the process of acquiring a new player.
+522  =There are a variety of ways to sign a new player. Let's start by using an Agent.
+523  =Finally, let's take a closer look at the myClub Records.
+
+By meeting all of the requirements listed in the myClub Records, you can obtain rewards such as  myClub Coins which are indispensable for boosting your team's abilities.
+
+It looks like you have already met some of the requirements, so hurry up and claim your rewards!
+524  =If a present icon () is displayed, it means you have met the conditions for that achievement.
+Now select the achievement at the top and press ka to claim your reward.
+525  =As you earn myClub Records, you'll be able to learn about each of the myClub features.
+If you want a more detailed explanation of these myClub features, go to the Main Menu and press ja to access Help.
+526  =Unable to enter Home Town place name for the selected Nationality/Region.
+527  =The Home Town for your club has been set as %s.
+528  =You have not selected a Home Town for your club.
+529  =You successfully combined multiple Scouts and found a single player available for transfer.
+If you proceed with these negotiations, you are guaranteed to be able to sign a contract with this player.
+530  =One or more of the players you have selected have been designated as locked and so this sale cannot proceed.
+531  =Play Analysis - Online Divisions
+532  =Play Analysis - myClub: RANKED MATCH
+533  =Communication with the rf server was disrupted during the match.
+In order to save required data and end the match properly, you will need to log in.
+If you return to the Top Menu without logging in, the game will be recorded as a loss, the game will count as part of the contract for all starting members in your Squad, and you will be unable to claim any match rewards.
+* If the disruption is caused by Server Maintenance, the match is void and players contract terms will not be used.
+534  =The account has changed. Returning to Top Menu.
+535  =Cannot be used as Familiarity (％) is already at 120％.
+536  =Cannot be used as Management Skills are already at their maximum level.
+537  =Cannot be used as all players in the squad are already fully on board with the Team Instructions set to these Preset Tactics.
+538  =%d auction(s) underway.
+539  =This Scout has been added to your Wish List.
+You can use the Wish List via "Scouts" → "Wish List".
+540  =You cannot add anyone else to your Wish List.
+You can remove a Scout from the list via "Scouts" → "Wish List".
+541  =There is nothing registered to the list. 
+To initiate a search, go to Scouts → Auction Search and select "Auctions". Then choose a Scout you want from the list and press jl to add them to your Wish List. 
+You can also go to Scouts → Sign Player → Simulation to set the type of Scout you are looking for, then add any Scout you like to your Wish List in the same way.
+542  =Due to server maintenance, data transfer was disrupted during the match.
+The result of this match will therefore be disregarded.
+Returning to the Top Menu.
+543  =Up to %2$d| of the %1$s| item can be used at the same time.
+How many do you want to use?
+544  =Renewal of the manager's contract is pending your decision.
+Renew the contract via Squad Management or by accessing the Managers List in myClub Members.
+545  =There are no players who meet the requirements.
+546  =Congratulations! Your bid was successful.
+547  =You have received all the Rewards you have earned.
+548  =There are no empty player slots.
+You can either increase the number of slots or get rid of a current player. Do you wish to proceed?
+549  =You have no slots available for another Scout.
+You can either increase the number of Scout slots you have, or sell a Scout.
+550  =In order to play a match or take part in a tournament, you will need to make a Scout slot available.
+You can choose to either use a Scout, sell one, or increase the number of slots available.
+551  =There have been new updates in Auctions you are taking part in.
+You have received %d new report(s).
+If you have successfully obtained a Scout, he will be available via your Inbox.
+552  =This displays a list of all current Auctions.
+553  =A list of all Scouts you wish to obtain.
+554  =In Squad Management, you can use it in the jfPlayer Menu or jcTeam Menu .
+555  =In Squad Management, you can use it in the jfPlayer Menu.
+556  =In Squad Management, you can use it in the jcTeam Menu.
+557  =In Squad Management, you can use it in the jfManager Menu.
+558  =You can use it on the desired player by selecting them via their "TRAINING".
+559  =The player will be rated as a rookie in the first 10 games which affect their rating.
+In these games, the changes to the player's Rating will be much more marked than usual.
+560  =Next, let's take a look at how you can use a Scout to get hold of a player.
+561  =Select "SCOUT" from the Contract tab in the Main Menu.
+562  =Select "Sign Player" from the Scout menu.
+563  =Select a slot to set your Scout to.
+Select Slot 1.
+564  =As a special gift, you have 3 Scouts at your disposal.
+Let's start by selecting the Special Scout for the tutorial.
+565  =Here you can check the players that are available to you.
+
+The list of candidates will vary depending on factors including the type of Scout and their Grade. You will be able to obtain one of the players on the list.
+
+The higher a player's ability, the slimmer the chances of you getting them to join your squad.
+566  =By combining different types of Scout, you can narrow the field to players you really want to get hold of.
+
+Now let's set the remaining two Scouts in the same way you set the first.
+567  =By setting multiple Scouts, an average will be taken of the individual Grade of each Scout.
+
+By combining 3 Scouts, the number of candidate players has been reduced to just one: %s.
+Now, let's make a Negotiation request.
+568  =When you have reduced the field of available players to a single candidate, you are guaranteed to be able to add them to your squad.
+569  =Collect a range of different Scout types and you should be able to focus your searches on getting precisely the player you're after.
+570  =You can obtain a Scout at the end of every match.
+You can also obtain them via the Auction option on the Scout menu.
+
+You cannot sell your own Scout in Auction.
+
+Take a look when you get the chance.
+571  =%s
+572  =The contracts of the following players have expired.
+Do you wish to renew these contracts?
+*You cannot select them for matches unless the contract is renewed.
+
+%s
+573  =You do not currently have any Scouts.
+574  =You cannot change the manager as you currently only have one available candidate.
+575  =This is a special Scout with access to certain designated players.
+577  =%s
+578  =%s
+579  =This Scout was won by another bidder.
+580  =The attributes displayed are those the player will have when he reaches Lv. 30.
+581  =Play Analysis - PES LEAGUE
+582  =Your bid has been accepted.
+When multiple bidders are bidding in an Auction, a Final Round of bidding will follow the 1st Round.
+Select "Auto Bid (Final)" from the Auction Menu to set your bid for the Final Round.
+If your bid loses out to another, the pre-registered GP bid amount will be returned after the Final Round.
+583  =Your Auto Bid for the Final Round is now set.
+This can't be changed once the Final Round has begun.
+You cannot cancel your Auto Bid until the Final Round has ended.
+584  =This will cancel your Final Round Auto Bid.
+The pre-registered bid amount of %s GP will be returned.
+Are you sure?
+585  =This will cancel your Final Round Auto Bid.
+Since you are the highest bidder in the 1st Round, your bid of %s GP in the 1st Round will remain valid.
+The pre-registered bid of %s GP will be returned.
+Are you sure?
+586  =The pre-registered bid for the Final Round is %s GP.
+This will cancel the Auto Bid and %s GP will be returned.
+Are you sure?
+587  =This will pre-register a bid of %s GP for the Final Round.
+Setting an Auto Bid will automatically place a bid for the Final Round.
+You cannot cancel the bid before the Final Round has ended.
+Are you sure you want to register an Auto Bid?
+588  =This will add %s GP to your 1st Round bid value for a total pre-registered Final Round bid of %s GP.
+Setting an Auto Bid will automatically place a bid for the Final Round.
+You cannot cancel the bid before the Final Round has ended.
+Are you sure you want to register an Auto Bid?
+589  =You do not have enough GP to set an Auto Bid.
+590  =You cannot set a bid value that is the same or lower than your current 1st Round bid.
+591  =This will add %s GP to the pre-registered Auto Bid amount for a total Final Round bid of %s GP.
+You will not be able to change your bid after placing it.
+Are you sure?
+592  =You do not have enough GP to alter your Auto Bid.
+593  =Search for a scout by selecting the desired player.
+594  =The current Auction bidder rankings.
+595  =This will change your currently set Auto Bid value to a total Final Round bid of %s GP.
+A difference of %s GP will be returned.
+You will not be able to change your bid after placing it.
+Are you sure?
+596  =Your Final Round final bid is %s GP.
+You will not be able to change your bid after placing it.
+Are you sure?
+597  =This will bid a total Final Round bid of %s GP, as was pre-registered.
+You will not be able to change your bid after placing it.
+Are you sure?
+598  =The Final Round Auto Bid was cancelled.
+599  =The Auction has ended. The Final Round Auto Bid cannot be cancelled.
+600  =You earned a PES LEAGUE competition reward.
+601  =You already own this manager, but due to changes to Formation, Formation positions, as well as Team Instructions via the Live Update, you can sign a new contract and own duplicates.
+Your current manager's stats will be updated by taking the best values from both managers' Management Skills and Familiarity (％).
+Do you want to sign a new contract?
+602  =You already own this manager.
+Since both versions have identical Formation, Formation positions and Team Instructions, you cannot sign a new contract with the current one.
+603  =You acquired an identical manager to one you already own.
+Your current manager's stats were updated by taking the best values from both managers' Management Skills and Familiarity (％).
+For more details go to myClub Members > Managers List.
+604  =Your existing Squad was successfully copied.
+Your configuration data, including the manager, players, Game Plan, etc., was copied.
+605  =You have the option to manually assign shirt numbers to a certain number of players.
+When you register a player with a custom shirt number to a Squad, his shirt will automatically display the number you have assigned.
+You can do this for up to 25 players.
+
+Select a player you wish to assign a custom number.
+606  =Select the number to assign as the player's shirt number.
+607  =This Scout can focus on finding players according to their Player Skills.
+608  =This Scout can focus on finding players according to their Playing Style.
+609  =This Scout can focus on finding players according to their COM Playing Styles.
+610  =The following players from your Squads were selected for the match.
+
+%s
+611  =This competition is decided by a one-off match. 
+You can choose from Casual Match or Clan Match. Win the match and you win the competition!
+612  =This competition is in knockout format. 
+Create a Match Room in Clan Match to play a match. 
+Cup progression is tied to your Match Room's results, and to become champion you must win all rounds.
+613  =This competition is in knockout format. 
+Create a Match Room in Clan Match to play a match. 
+Cup progression is tied to your Match Room's results, and to become champion you must get %d or more points.
+614  =From the MATCH tab in the Main Menu, select "myClub CO-OP" → "Casual Match" to play an online CO-OP match. Players are automatically selected from your Squad.
+615  =From the MATCH tab in the Main Menu, select "myClub CO-OP" → "Clan Match", create your Clan and play a match with one or more users. You can go up and down divisions from season to season, with the top division Clans able to earn more GP from matches.
+616  =The same type of Scout is already on your Wish List.
+617  =You cannot select any more.
+618  =This competition is currently locked. You can unlock access to it by completing another competition.
+619  =The competition is played out over %d match(es). If a match is not completed due to a disconnection or forfeit, it may not be counted towards the competition.
+620  =A new competition is available.
+621  =No ranked users found.
+*Rankings will be updated shortly. Please check again later.
+622  =Weekly PES LEAGUE now available!
+
+In Weekly PES LEAGUE, you'll compete for ranking against users of a similar level. Rankings are reset weekly, so reach as high a ranking as you can to earn the best rewards.
+623  =You'll need to sign up to Weekly PES LEAGUE to earn ranking rewards for this week. Are you sure you don't want to enter?
+
+*You can still enter the competition by going to the Main Menu and selecting "WEEKLY PES LEAGUE" from the Records tab.
+624  =You have joined the Weekly PES LEAGUE. Any future RANKED MATCH games you play will count towards the rankings.
+625  =Congratulations! You reached a new Rating and have been awarded greater Acclaim.
+626  =You've reached the end of the rookie period. Your Rating has earned you greater Acclaim.
+627  =To enter Weekly PES LEAGUE, you must first finish your rookie period. To graduate from rookie status, play 10 1-on-1 ranked matches or in an Online Challenge Cup.
+628  =You earned a Weekly PES LEAGUE Group Rankings reward.
+629  =There were no players that met the agent's conditions.
+630  =There are no changes to your Weekly Points because your opponent is not participating in Weekly PES LEAGUE.
+631  =There are no changes to your Weekly Points because the match was deemed void.
+632  =Match conceded. The match will be counted as a loss.
+633  =There are no changes to your Weekly Points because the match was a draw.
+634  =There are no changes to your Weekly Points because the match was decided on penalties.
+635  =Make a random signing from the box's List of Targets.
+636  =All players in this Box are available to sign.
+637  =You can sign a random player from the available signings.
+638  =You can sign a random player based on position.
+639  =Make a random signing from the box's List of Targets.
+
+To find out the specific conditions needed to sign a player press jfProfile.
+640  =All players in this Box are available to sign.
+
+To find out the specific conditions needed to sign a player, press jfProfile.
+641  =Selection Boxes contain a List of Targets from which you sign a number of players. You can view how many players of each rarity are in the box from this list. You have an equal chance of signing players of the same rarity, and there are no duplicate players in the box. Refer to kiHelp for more detailed information.
+642  =
+643  =Collector's Boxes contain a List of Targets from which you will have the chance to sign every player on the list. You can view how many players of each rarity are in the box from this list. You have an equal chance of signing all the players in the box, regardless of their rarity. Refer to kiHelp for more detailed information.
+644  =The list shows the chances of success in signing players based on their rarity. You sign a random player from the List of Targets, and the chances depend on the player's rarity. You have an equal chance of signing all players of the same rarity, regardless of their ability stats. Lastly, there is a chance you will sign duplicates of the same player, as well as signing players you already own.
+Refer to kiHelp for more detailed information.
+645  =By resetting a Box, player counts at each rarity are reset to their initial value. This may result in you signing the same players as before the reset.
+646  =The Box was reset.
+647  =You currently own a number of Agents who are offering players at different player levels. Select the Agent who offers players at the level you desire. (The level you choose will apply to the players you sign.)
+648  =The players you will sign via this Agent will be Lv.%d.
+
+Are you sure you want to use this Agent?
+649  =The following player(s) were added to myClub Members.
+
+%s
+650  =No more players in the Box.
+651  =Please reset the Box.
+652  =You can exchange three duplicate cards for another card of the same rarity as the duplicates. Rarities must be identical for the exchange to be possible.
+
+Select three of the same cards, and then press jcConfirm Players to Release to proceed.
+653  =This list shows players available to sign via a TRADE. Select your target player.
+
+*Signings begin at Lv.1.
+*The attributes displayed are those the player will have when he reaches Lv. 30.
+654  =This will release 3x %s and replace them with %s. The new signing's level will be Lv.1.
+*The Overall Rating displayed is that of the signed player at Lv.30.
+655  =Select "Next" with ka to add obtained players to myClub Members.
+
+Select a player and press ka to perform an action from the following menu.
+Lock
+Convert into a EXP Trainer
+Release
+656  =No remaining acquired players.
+Continuing to next screen.
+657  =Player released
+658  =Player converted into Trainer
+659  =The player will learn one player skill. The skill the player will gain will be chosen at random based on the player's Position Training.
+660  =You can exchange the player skill "%s" learned in the previous training session for a new one. The skill the player will gain will be chosen at random based on the player's Position Training.
+661  =The player gained the skill "%s".
+662  =The player exchanged the skill "%s" for "%s".
+663  =The player gained a skill.
+664  =Maxes out one random low-compatibility Position.
+665  =A Position Trainer can't be used because the player does not have any positions needing improved compatibility.
+666  =The following Position Training is now maxed out.
+%s
+667  =Position Training improved! Remaining uses: %d.
+668  =You have completed the competition.
+669  =You were eliminated.
+670  =You received no rewards based on your rank.
+671  =Compete online and aim to become cup winners.
+672  =KONAMI's official e-sports online competition.
+673  =Compete online and complete cup challenges.
+674  =Play against the COM and complete cup challenges.
+675  =No Group Rankings found. You will be registered for Group Rankings after entering Weekly PES LEAGUE and playing a match.
+
+*Rankings are updated periodically. Please check back later after completing a match and rankings are updated.
+676  =There are no FEATURED PLAYERS at this time.
+677  =Some players included in the loaded data cannot be displayed correctly because a Live Update is yet to be applied.
+678  =You have reached the maximum number of players allowed. Please release any unwanted players.
+
+Do you want to display the myClub Members player list so that you can release any unwanted players now?
+679  =You have reached the maximum number of Scouts.
+Do you want to sell any unwanted Scouts now?
+680  =You don't have any Skill Trainers. You can earn them from exclusive events as well as other campaigns.
+681  =You don't have any Position Trainers. You can earn them from exclusive events as well as other campaigns.
+682  =The player cannot learn any more skills.
+683  =Position Training cannot be improved any further.
+684  =Select "AGENTS" from the CONTRACT tab on the Main Menu. You can attempt to sign specific targets included on the list.
+685  =Select "RANKED MATCH" from the MATCH tab on the Main Menu. You will be awarded Acclaim based on your opponents' strength over 10 matches.
+686  =This will release three players in exchange for the target player. Are you sure?
+687  =You chose to skip the tutorial on Squad Management.
+
+Remember, implementing new strategies is essential to strengthening the squad. Now, let's try signing a new player.
+688  =This time, we'll use a Special Agent to sign the player.
+689  =You can use a range of Agent types to bring in new players.
+
+Being able to sign the players available through the Agent will depend on the Agent type. Before attempting to sign players, press jf to learn more about the Agent.
+690  =An Agent's profile explains which players can be signed and the chances of signing them based on their rarity. There are also specific conditions for signing some players, so make sure to check those first. Once you have enough information, press kb to return to the previous screen and attempt to land a signing.
+691  =Are you confident you have all the information you need to sign your target?
+
+Once you sign a player, you can use a Trainer to develop them. Training players will help improve your team's overall strength, which in turn improves your chances of winning matches.
+692  =Lastly, here's an introduction on match categories in myClub.
+
+In WHAT'S ON, you can participate in a variety of cup competitions. You'll have the chance to enter time-limited competitions and can win a variety of rewards. Make sure to check upcoming events when you log in.
+693  =Ranked Matches are online matches played 1-on-1 between you and another opponent. Users are awarded "Acclaim" based on their records. To win even more Acclaim, you'll need to prove your worth against the opposition!
+694  =In myClub CO-OP, three users team up to play a match together.
+
+You can choose to be automatically matched with other users in a Casual Match, or link up with fellow clan members and play a Clan Match.
+
+Either way, this is the best place for experiencing CO-OP football at its most fun.
+695  =Let's take a look at the Agent's Signing Conditions.
+696  =Too many Position Trainers used.
+697  =There is a limited number of times this Box can be reset.
+
+Remaining: %d
+698  =You cannot sign any more players from this Box.
+699  =You can reset the Box to its defaults using jcReset Box.
+700  =Make a random signing from the box's List of Targets.
+
+You can reset the Box to its defaults using jcReset Box.
+701  =All players in this Box are available to sign.
+
+You can reset the Box to its defaults using jcReset Box.
+702  =You can no longer use this Agent because it has expired.
+703  =A locked player cannot be selected.
+704  =*Loaned Players are not displayed.
+705  =You do not possess any valid duplicates for a trade to go through. You can exchange three duplicate cards for another card of the same rarity as the duplicates. Rarities must be identical for the exchange to be possible.
+*For more information, go to "kiHelp" then "Converting Players".
+706  =In order to play in Weekly PES LEAGUE you must agree to the Terms of Use.
+707  =After signing a player, you can claim the Agent Option bonus item.
+708  =The manager list is updated every 8 hours as a general rule. During some campaigns, special managers may be added to and remain on the list for a limited time.
+709  =You were relegated to Division %d due to a period of inactivity in RANKED MATCH.
+710  =By resetting a Box, target signings are reset to their initial value, which means you then sign them again. No two players are the same in any one Box, but after resetting a Box, you may end up signing the same players as before the reset.
+711  =User's myClub data not found

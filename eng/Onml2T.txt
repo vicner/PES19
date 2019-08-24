@@ -1,0 +1,41 @@
+551  =Onml2T
+
+0    =Welcome to Master League Online
+
+Use asset points you earn from playing matches to build your ideal team.
+
+* Progress is saved automatically in Master League Online.
+4    =The following settings will be applied on choosing this team.
+
+・ Team Name
+・ Strip Design
+・ Emblem Design
+
+The Team Name cannot be Edited.
+5    =The following settings will be applied.
+
+・Strip
+・Emblem
+8    =You're all set!
+Why not let the world know about your arrival on the scene?
+Your comments will be broadcasted in the form of a news feed to all live users of Master League Online! 
+10   =The implementation of the latest Data Pack has changed your Team Name to one of an existing Team.
+Please reconfigure your Team Design.
+
+* There will be no changes to your lineup.
+14   =You cannot sign or release players while taking part in Competitions.
+16   =The following settings will be applied upon choosing this team.
+
+・ Team Name
+・ Strip Design
+・ Emblem Design
+
+The Team Name can be Edited.
+17   =The Team Name can be Edited.
+20   =In Master League Online, you will first need to select which league you want to play in.
+Each league has its unique style and characteristics and your choice also affects what type of players you will be able to sign.
+You are also free to switch from playing in one league to another.
+Once you build up a certain asset points total, you will have the freedom to play in any league of your choice.
+21   =Use asset points you earn from playing matches to build your ideal team.
+
+* Progress is saved automatically in Master League Online.

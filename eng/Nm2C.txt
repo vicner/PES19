@@ -1,0 +1,12 @@
+518  =Nm2C
+
+13   =May the best man win!
+14   =Hello!
+25   =May I add you as a friend?
+47   =Thanks! That was fun!
+60   =Thanks for a good game!
+61   =Play another one?
+64   =That was great.
+65   =Let's play again sometime.
+66   =Are we all ready to start?
+67   =OK!

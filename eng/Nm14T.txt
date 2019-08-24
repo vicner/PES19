@@ -1,0 +1,70 @@
+1126 =Nm14T
+
+1    =Any players used in this competition will have their overall ratings recalibrated to make them as uniform as possible across the board, regardless of their normal ability.
+As a result, the differences in overall strength between teams will be virtually eliminated.
+Players' individual abilities, such as having great pace, will be retained as much as possible.
+This way all users are free to use their favourite teams in the competition.
+2    =During PES LEAGUE competitions, Matchmaking windows will open for set periods.
+Outside of these windows users can't proceed to Matchmaking.
+The opening and closing times of each window can be viewed from the competition's main menu.
+3    =Match Time: %d min
+%s
+%s
+%s
+4    =In this competition your ranking is determined from your best cumulative results across %d consecutive matches.
+You can play as many matches as you like within the competition window.
+5    =In this competition your Clan ranking is determined from your best cumulative results across %d consecutive matches.
+You can play as many matches as you like within the competition window.
+6    =<Ranking system for this competition>i1
+Rankings are calculated in the following order of priority.
+1. Highest points total from %d consecutive matches.
+2. Number of completed matches until your highest points total was achieved.*
+3. Goal difference over the %d consecutive matches to achieve your highest points total.
+4. Time needed to achieve your highest points total.**
+*Fewer matches means a higher rating.
+**A shorter time means a higher rating.i0
+7    =In this competition, your rating, which goes up and down depending on your match results, is what determines your rank.
+8    =<Ranking system for this competition>i1
+Rankings are calculated in the following order of priority.
+1. Rating.
+2. Win percentage.
+3. Number of Wins.
+4. Number of matches played.*
+*Fewer matches means a higher rating.i0
+9    =All matches in this competition are Random Selection Matches.
+i0
+<What are Random Selection Matches?>i1
+These are matches where 24 players are randomly selected for each participating team.
+Additionally, you can participate in up to %d rounds of trading with your opposition.
+You can mark players you don't want to lose as Protected Players in each trading round.
+Try to trade in players not marked by the opposition as a Protected Player to give you the edge you need in the match.i0
+10   =Create a Clan Match match room to get your tournament started. 
+A maximum of three Clan members, including the Owner, can participate. 
+Once the tournament has begun, the participating Clan members can't be changed. 
+However, the Owner can set up and join a tournament alone, and the remaining two members can join later.
+11   =If you do not agree to the User Agreement, you will be unable to participate in competitions. Are you sure? 
+12   =Please wait until the Matchmaking window opens.
+13   =The competition will end shortly. Please wait.
+14   =Calculating final competition results...
+15   =The final results have been calculated.
+16   =This will stop play and withdraw you from the competition.
+Are you sure?
+*You can re-enter the competition at any time while it's still underway.
+17   =Your result in the %s means you've been promoted to PES LEAGUE Division %d.
+18   =Your competition rewards are ready to be claimed.
+Go to the myClub Main Menu and claim them from your Inbox.
+19   =The following players from your Squads were selected:
+
+%s
+20   =Your result in the %s means you've been promoted to PES LEAGUE Division %d.
+21   =Your result in the %s means you've been relegated to PES LEAGUE Division %d.
+22   =You're now eligible to participate in a Division %d-only competition.
+23   =All matches in this competition are Random Selection Matches.
+i0
+<What are Random Selection Matches?>i1
+These are matches where 24 players are randomly selected for each participating team.i0
+24   =The final results have been calculated. You can view them from the %s.
+25   =No results are present for this competition due to no matches being played.
+26   =The competition is now closed. This match will be suspended.
+27   =Return to %s?
+28   =In order to play in this competition you must agree to the Terms of Use.

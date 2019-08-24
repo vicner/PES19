@@ -1,0 +1,7 @@
+106  =Ha1C
+
+0    =Home
+2    =Away
+9    =Home & Away
+13   =HOME
+14   =AWAY

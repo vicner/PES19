@@ -1,0 +1,16 @@
+561  =Onml2W
+
+0    =Team Strength
+4    =Period
+5    =Squad Lineup
+7    =Change Team Name
+8    =Reset Team
+11   =Listed Players
+14   =Copy Team Design
+18   =Founded
+21   =%d Others
+22   =Match Category
+23   =1 vs 1
+24   =1 vs COM
+25   =3 vs 3
+26   =3 vs COM

@@ -1,0 +1,11 @@
+20   =F5W
+
+0    =Set Piece Settings
+10   =Long FK Taker
+11   =Short FK Taker
+12   =Left CK Taker
+13   =Right CK Taker
+14   =PK Taker
+17   =Long
+18   =Short
+30   =FK Taker 2

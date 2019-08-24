@@ -1,0 +1,745 @@
+210  =F3T
+
+5    =A balanced formation suited to teams with pace down the wings. Defensively solid in both central and wide areas.
+6    =A formation suited to attacking through the middle with a large concentration of players in central midfield.
+7    =The ideal formation for counter-attacking.
+8    =A formation with a greater focus on defence than the 4-1-2-3.
+Requires high-calibre offensive midfielders for it to work.
+10   =An attack minded formation which sacrifices strength in midfield.
+11   =A formation which is suited to both attacking and defending down the flanks.
+12   =A formation geared towards counter-attacking football with plenty of depth in central midfield.
+Quality in the attacking midfield slots are essential.
+13   =A formation with a compact midfield aimed to contain the opposition.
+14   =A formation geared towards controlling possession in midfield.
+15   =A formation where the focus is on keeping a tight backline.
+16   =A defensive formation suited to teams that like to hold on to the ball.
+29   =Set player positions using Formation presets.
+39   =Press ji or jj to switch between "Form/Stamina" and "Position/Overall Rating".
+The Overall Rating of each player in the starting line-up is based on his current Position.
+The Overall Ratings of substitutes are based on their favoured positions.
+If players have full stamina, the colour of the bar will change to bright green.
+40   =To make changes to either player positions or to the lineup itself, you must first move the cursor onto a player on the pitch 
+then press ka to grab the player (represented by a circular icon).
+All you need to do now is move the icon to an open part of the pitch and press ka again.
+The areas shown in yellow during this step indicate the player's preferred positions.
+(Once you choose a position, the player's role will be set automatically to the one with the highest Overall Rating.)
+To make substitutions, grab the Player Icon in the same way, then move it directly above that of another player and press ka. 
+Press kg for options such as "Select Position", "Select Captain" and "Mark Settings".
+Press kh for player details.
+41   =To "Select Position", push kg on the Team Sheet/Edit Position menu.
+Only positions that are available for the current area are displayed.
+i0
+<Centre Forward>i1
+A prolific goalscorer.
+i0
+<Second Striker>i1
+A withdrawn forward who plays off a Centre Forward.
+i0
+<Wing Forward>i1
+Creates chances from out wide by beating opposition Full Backs.
+i0
+<Attacking Midfielder>i1
+Conducts the attack from an advanced position.
+i0
+<Side Midfielder>i1
+Player looking to attack from out wide.
+i0
+<Centre Midfielder>i1
+An all-round midfielder who provides both attacking and defensive prowess.
+i0
+<Defensive Midfielder>i1
+Sits deep in midfield protecting the backline.
+i0
+<Full Back>i1
+Defends the wide areas while also providing width in attack.
+i0
+<Centre Back>i1
+A centrally positioned defender who guards the 18 yard box.i0
+43   =To name a player as your captain, go to the lineup screen, move the cursor onto a player of your choice, then press kg. While doing this, make sure you haven't selected any players beforehand.
+44   =Choose which opposition player to mark.
+If players have already been instructed to mark opposition players, there will be a red line linking them.
+The maximum number of players you can instruct to mark any single opposition player is 3.
+48   =The Computer controls all players while the User makes tactical decisions.
+55   =Save or load your Game Plan data.
+The data is saved in your Personal Data. Each Personal Data slot can contain three instances of Game Plan data.
+When playing in co-op mode, a selection screen will appear allowing you to decide to which Personal Data slot the data will be saved.
+56   =<Preset Tactics>i1
+You can configure Fluid Formation, Advanced Instructions, Change Formation, Team Instructions and Mark Settings at the same time.
+i0
+<Tactical Assistance>i1
+Choose your line up and Auto Trigger Setting.
+i0
+<Set Pieces>i1
+Select players who will take Set pieces such as Free kicks and Penalties as well as any defenders who will join the attack in such situations. 
+i0
+<Data Management>i1
+Save or load your Game Plan data.
+The data is saved in your Personal Data. Each Personal Data slot can contain three instances of Game Plan data.
+When playing in co-op mode, a selection screen will appear allowing you to decide to which Personal Data slot the data will be saved.
+i0
+<Coach Mode>i1
+The Computer controls all players while the User makes tactical decisions.i0
+57   =<Custom>i1
+Select no strategies.
+i0
+<Long Ball>i1
+Play a tight backline that can win back possession and play long balls to launch counter attacks.
+i0
+<Quick Counter>i1
+Pressure the opposition deep in their half and launch quick counters on winning back possession.
+i0
+<Possession Game>i1
+Get players to move in a way which suits possession football.
+i0
+<All-out Defence>i1
+Keep the Backline deep at all times when defending. Once in possession, the team will take the initiative through ball retention.
+i0
+<All-out Attack>i1
+The team piles forward with almost every player joining the attack.
+i0
+58   =<Player Support>i1
+The higher the value, the more the players lay emphasis on ball retention when positioning themselves. On a lower level, they will look to maintaining the team's overall shape. 
+i0
+<Support Range>i1
+The higher the level, the more players tend to spread themselves out when looking to receive passes.
+i0
+<Position Switch>i1
+The higher the level, the more frequently the players switch positions.
+i0
+<Front line pressure>i1
+The higher the level, the more pressure that will be applied by players in advanced positions.
+i0
+<Defensive Line>i1
+The higher the level, the further up the pitch the defensive line will be.
+i0
+<Defensive Compactness>i1
+The higher the level, the more compact the team's overall shape becomes when defending.
+i0
+<Shifting to Attack>i1
+The higher the level, the more the players tend to maraud forward when defence turns into attack. Conversely on a lower level, the players will tend to lay more emphasis on retaining possession and will position themselves in such a manner.
+i0
+<Attack/Defence Level>i1
+The higher the level, the more the players tend to take up advanced positions. This affects the number of players who joins the attack in set pieces.i0
+59   =Set player positions using Formation presets.
+If Fluid Formation settings are enabled, you can change the formation in Kick-Off, When in Possession or When out of Possession settings.
+i0
+<4-2-3-1>i1
+A flexible formation where numbers in midfield allow the team to play possession football or attack from out wide.
+i0
+<4-1-4-1>i1
+A formation with many attack minded players positioned high in midfield.
+Requires high calibre players to be positioned at the anchor to make up for any defensive deficiencies.
+i0
+<4-3-2-1>i1
+A formation geared towards counter-attacking football with plenty of depth in central midfield.
+Quality in the attacking midfield slots are essential.
+i0
+<4-2-2-2>i1
+A versatile and well balanced formation which is suited to attacking both through the middle and from out wide.
+i0
+<4-3-1-2>i1
+A formation suited to attacking through the middle with a large concentration of players in central midfield.
+i0
+<4-2-1-3>i1
+A formation with a greater focus on defence than the 4-1-2-3.
+Requires high-calibre offensive midfielders for it to work.
+i0
+<4-1-2-3>i1
+An attack minded formation which sacrifices strength in midfield.
+i0
+<3-2-4-1>i1
+A formation with great depth in midfield which makes it suitable for possession football as well as attacking from out wide.
+i0
+<3-2-3-2>i1
+A versatile well balanced formation which is best suited to attacking from out wide.
+i0
+<3-3-2-2>i1
+This formation places more players in the centre than out on the flanks.
+As space will naturally open up more on the wings, players need to be prepared to make use of it and cover it in case of opposition attacks.
+It demands a lot from playmakers and requires the players on the wings to cover more ground.
+i0
+<3-2-2-3>i1
+A formation where players are positioned evenly on the pitch.
+It is an offensive formation best suited to attacking from out wide.
+i0
+<5-2-2-1>i1
+This formation places players in defensive positions.
+In this formation, some players remain in forward positions ready to attack from the wings on the break.
+i0
+<5-2-1-2>i1
+This formation places players in defensive positions.
+In this formation, some players remain in forward positions ready to attack from the centre on the break.
+i0
+<5-3-2>i1
+This formation places players in defensive positions.
+This formation is more centre-weighted than 5-2-1-2. It demands a lot from both playmakers, and players up top when attacking.
+i0
+60   =<Select Captain>i1
+Please select a captain.
+i0
+<Long FK Taker>i1
+Select Long distance Free Kick Taker.
+i0
+<Short FK Taker>i1
+Select Short distance Free Kick Taker.
+i0
+<FK Taker 2>i1
+Select a Secondary Free Kick Taker.
+i0
+<Left CK Taker>i1
+Select who takes Left-sided Corner Kicks.
+i0
+<Right CK Taker>i1
+Select who takes Right-sided Corner Kicks.
+i0
+<PK Taker>i1
+Select Penalty Taker.
+i0
+<Players to Join Attack>i1
+Select which players will go forward and join the attack in Set Pieces.
+Up to 3 players can go up front. If you choose a 4th, the player who was first selected will remain in his original position.i0
+61   =Game Plan Options
+74   =To switch ON the One-touch Settings display, go to Data Management and change the necessary settings.
+88   =Would you like to keep using "One-Touch Settings"?
+90   =Reset all settings?
+92   =Playing Style refers to the roles displayed beneath the Player Details showing suitability for different positions.
+i0
+<Goal Poacher>i1
+A predatory striker who plays off the shoulders of the last defender.
+i0
+<Dummy Runner>i1
+A player who attracts the defence to create space for other players to exploit.
+i0
+<Fox in the Box>i1
+A striker who lurks in the opposition 18 yard box just waiting for the ball.
+i0
+<Target Man>i1
+A player who becomes the focal point of attack by holding the ball up in an advanced position.
+i0
+<Creative Playmaker>i1
+A player who takes advantage of any opening in the defense to initiate attacks and assists in shots on the goal.
+i0
+<Prolific Winger>i1
+A player who positions himself on the wing to receive passes, occasionally cutting into the center when the opportunity arises.
+i0
+<Roaming Flank>i1
+A player who tends to cut inside from the wing to receive passes.
+i0
+<Cross Specialist>i1
+A player who hugs the touchline, waiting for a chance to cross the ball in.
+i0
+<Classic No. 10>i1
+An old-style static playmaker who makes use of deft touches and passes rather than pace or movement.
+i0
+<Hole Player>i1
+A player who looks to make runs into the opposition goal area when the team is on the attack.
+i0
+<Box-to-Box>i1
+A player who tirelessly covers every blade of grass for the full 90 minutes.
+i0
+<The Destroyer>i1
+A tenacious battler who keeps opposition attacks at bay through hard tackling and pressing.
+i0
+<Orchestrator>i1
+A player who lurks in deeper positions, ready to initiate attacks.
+i0
+<Anchor Man>i1
+A deep sitting defensive midfielder protecting the backline.
+i0
+<Build Up>i1
+A player who likes to drop back to receive the ball and trigger attacks from deep.
+i0
+<Extra Frontman>i1
+A defender who likes to join in the attack and lay siege on the opposition goal at every given opportunity.
+i0
+<Offensive Full-back>i1
+An attack-minded full back who will run upfield and join the attack when presented with a chance.
+i0
+<Full-back Finisher>i1
+An attacking full-back who enjoys joining the attack in high central areas.
+i0
+<Defensive Full-back>i1
+A solid full back who prefers to stay back and stick to defensive duties.
+i0
+<Offensive Goalkeeper>i1
+A keeper playing a sweeper type role who often comes out to cover the area behind the defence.
+i0
+<Defensive Goalkeeper>i1
+A solid keeper who prefers to stay around the goal line.i0
+93   =<Auto Offside Trap>i1
+Choose whether or not players will automatically attempt to play the Offside Trap during matches.
+i0
+<Auto Substitutions>i1
+Choose how frequently Substitutions are automatically performed during matches.
+i0
+<Auto change Preset Tactics>i1
+Choose whether or not your team automatically changes its Preset Tactics during matches.
+It will switch between Main (Offensive) and Defensive as necessary, depending on the match situation.
+i0
+<Auto Change Attack/Defence Level>i1
+Choose whether to enable automatic Attack/Defence Level switches during matches.i0
+94   =%s has been set to  %s.
+95   =You can configure Fluid Formation, Advanced Instructions, Change Formation, Team Instructions and Mark Settings at the same time.
+96   =Choose your line up and Auto Trigger Setting.
+102  =While you can select up to 3 different types of combined strategies, they can only be implemented one at a time in each area.
+Please select the combined strategies of your choice and the areas where they are to be implemented.
+
+When implemented, players will link up in an attempt to create space or to lose their markers in the selected areas.
+
+To implement combined strategies, press ll twice when the Combination Play icon is shown on screen.
+103  =Chosen settings are as above.
+104  =There are no areas where %s can be implemented.
+106  =A flexible formation where numbers in midfield allow the team to play possession football or attack from out wide.
+107  =A versatile and well balanced formation which is suited to attacking both through the middle and from out wide.
+108  =A formation with many attack minded players positioned high in midfield.
+Requires high calibre players to be positioned at the anchor to make up for any defensive deficiencies.
+109  =A formation with great depth in midfield which makes it suitable for possession football as well as attacking from out wide.
+110  =A versatile well balanced formation which is best suited to attacking from out wide.
+111  =A formation where players are positioned evenly on the pitch.
+It is an offensive formation best suited to attacking from out wide.
+112  =When on the ball, players will burst forward looking to get themselves into threatening areas.
+113  =Players look to retain possession when there is little space. Any available teammates will then provide the necessary support.
+114  =Direct playing style involving long balls being played to the front line.
+Players will pull away opposition players to create space and once a long ball hits its target, they turn to providing support to the attackers ahead of them.
+115  =Break down the opposition by out-passing them all the way up the pitch.
+Players keep themselves at a certain distance to create more space for passes.
+116  =Team attacks mainly from out wide.
+More links and combinations played in the wings during build up.
+117  =Team attacks mainly through the middle.
+More links and combinations played in the central areas during build up.
+118  =Players try to maintain the team's overall shape.
+119  =Players play free-flowing football, exchanging positions to cover for teammates.
+120  =Adjust the number of players who will join in the attack.
+121  =When possession is lost, players apply pressure from the front looking to win the ball high up the pitch.
+122  =When possession is lost, players drop back into their own half and form a defensive wall.
+123  =Form a defensive line that cuts out all avenues for forward passes, then force the opposition players towards the middle where the team can defend in numbers.
+124  =When defending, shepherd opposition players out wide then defend in numbers when they try to play forward passes.
+125  =The first defender will move in and close down opposition attackers, trying to win back the ball.
+126  =The first defender will hold up opposition attackers by keeping them at an arm's length rather than move in and risk being beaten.
+127  =Adjust the number of players who will drop back and defend.
+128  =Change your lineup, substitute players and name your captain.
+129  =Choose formations, team instructions as well as mark settings.
+130  =Choose free kick and penalty kick takers.
+You can also instruct defensive players to join the attack during set pieces.
+131  =Use simple settings to choose Preset Tactics and your starting lineup.
+132  =See which tactics and strategies will be implemented automatically during matches.
+133  =Choose whether to enable or disable Fluid Formation as well as interchangeable Preset Tactics.
+134  =The Overall Rating of each player in the starting line-up is based on his current Position.
+The Overall Ratings of substitutes are based on their favoured positions.
+135  =<Lineup>i1
+Change your lineup, substitute players and name your captain.
+i0
+<Preset Tactics>i1
+Choose formations, team instructions as well as mark settings.
+i0
+<Set Piece Settings>i1
+Choose free kick and penalty kick takers.
+You can also instruct defensive players to join the attack during set pieces.
+i0
+<One-Touch Settings>i1
+Use simple settings to choose Preset Tactics and your starting lineup.
+i0
+<Auto Trigger Setting>i1
+See which tactics and strategies will be implemented automatically during matches.
+i0
+<Tactical options>i1
+Choose whether to enable or disable Fluid Formation as well as interchangeable Preset Tactics.
+i0
+<Data Management>i1
+Save or load your Game Plan data.
+The data is saved in your Personal Data. Each Personal Data slot can contain three instances of Game Plan data.
+When playing in co-op mode, a selection screen will appear allowing you to decide to which Personal Data slot the data will be saved.i0
+136  =<Lineup>i1
+Change your lineup, substitute players and name your captain.
+i0
+<Preset Tactics>i1
+Choose formations, team instructions as well as mark settings.
+i0
+<Set Piece Settings>i1
+Choose free kick and penalty kick takers.
+You can also instruct defensive players to join the attack during set pieces.
+i0
+<Auto Trigger Setting>i1
+See which tactics and strategies will be implemented automatically during matches.
+i0
+<Tactical options>i1
+Choose whether to enable or disable Fluid Formation as well as interchangeable Preset Tactics.
+i0
+<Data Management>i1
+Save or load your Game Plan data.
+The data is saved in your Personal Data. Each Personal Data slot can contain three instances of Game Plan data.
+When playing in co-op mode, a selection screen will appear allowing you to decide to which Personal Data slot the data will be saved.i0
+138  =<Lineup>i1
+Change your lineup, substitute players and name your captain.
+i0
+<Preset Tactics(Offensive)>i1
+Choose Formation and Mark Settings.
+You can also check which Team Instructions have been set.
+i0
+<Preset Tactics(Defensive)>i1
+Choose Formation and Mark Settings.
+You can also check which Team Instructions have been set.
+i0
+<Set Piece Settings>i1
+Choose free kick and penalty kick takers.
+You can also instruct defensive players to join the attack during set pieces.
+i0
+<Auto Trigger Setting>i1
+See which tactics and strategies will be implemented automatically during matches.i0
+139  =<Lineup>i1
+Check player stats.
+i0
+<Preset Tactics>i1
+Choose formations, team instructions as well as mark settings.
+i0
+<Set Piece Settings>i1
+Choose free kick and penalty kick takers.
+You can also instruct defensive players to join the attack during set pieces.
+i0
+<Auto Trigger Setting>i1
+See which tactics and strategies will be implemented automatically during matches.
+i0
+<Tactical options>i1
+Choose whether to enable or disable Fluid Formation as well as interchangeable Preset Tactics.i0
+140  =To change players in the lineup, move the cursor onto a player then press ka. Once you have selected the player, move the cursor over to another player then press ka again.
+During matches, you can initiate a substitution by swapping players who are in the starting lineup with those on the bench. The substitution will then take place when the ball goes out of play.
+You can also Select Position by pressing kg.
+Press kh to see more detailed player information.
+141  =You can adjust your team's Mark Settings.
+You can also check any Team Instructions here.
+142  =To change a player's positioning on the pitch, place the cursor over that player, then press and hold ka. Once you have done this, move the cursor into an area of open space, and release ka to confirm the move.
+While performing a Edit Position, the brighter area of the pitch indicates where you can position the player.
+(If you use Edit Position to move a player to a part of the pitch where his current position is not available, the position with the highest Overall Rating will be automatically chosen.)
+Player positions can also be chosen by pressing kg and using Select Position.
+Press kh to see more detailed player information.
+143  =To change a player's position, place the cursor over a player, then press and hold ka. Then move the cursor into an area of open space, and release ka to confirm the move.
+The distance each player can be moved is limited.
+While performing a Edit Position, the brighter area of the pitch indicates where you can position the player.
+Player roles can also be chosen by pressing kg and using Select Position.
+Press kh to see more detailed player information.
+146  =You can have your starting lineup chosen automatically based on player ability, player form, or a combination of both.
+However, when the Switch Preset Tactics are enabled, it is set based on the Preset Tactics that is currently selected. Some of the players selected may not be the best fit for the other Preset Tactics so if this is the case, select "Tactical options" and allocate a more suitable Position to those players.
+147  =Preset Tactics: Choose your 2 sub-formations Defensive/Custom.
+You can also choose to enable or disable Fluid Formation. These settings will be saved in your personal data.
+148  =A fluid formation is a system that enables formations to be adapted and re-shaped based on whether the team is in or out of possession.
+The formation naturally becomes more attacking when the team has possession of the ball and more defensive when possession is conceded. 
+
+The fluid formation system can be enabled or disabled in Preset Tactics in Game Plan.
+If enabled, you will need to select multiple formations. One for how the team will line up for kick-off, one for when in possession and one for when not in possession.
+You can use the jn to switch between the 3 formations above.
+149  =Revert current settings to their defaults.
+150  =Team Instructions dictates the team's overall movements based on whether they are in possession or out of possession.
+You can use jg and jh to switch between Team Instructions for either of these situations.
+For more details on how you can configure Team Instructions, refer to the relevant section in the Help Text by pressing ja.
+151  =<Preset Tactics>i1
+Choose formations, team instructions as well and mark settings.
+i0
+<Set Piece Settings>i1
+Choose free kick and penalty kick takers.
+You can also check which defensive players will join the attack during set pieces.
+i0
+<Auto Trigger Setting>i1
+See which tactics and strategies will be implemented automatically during matches.
+i0
+<Tactical options>i1
+Choose whether to enable or disable Fluid Formation as well as interchangeable Preset Tactics.i0
+152  =<Scissors Feint>i1
+Enables players to execute the Scissors Feint at high speed.
+i0
+<Double Touch>i1
+Enables players to deftly execute the Double Touch.
+i0
+<Flip Flap>i1
+Enables players to execute the Flip Flap.
+i0
+<Marseille Turn>i1
+Enables players to execute the Marseille Turn.
+i0
+<Sombrero>i1
+Enables players to execute the Boomerang Trap and the Crescent Turn.
+i0
+<Cross Over Turn>i1
+Enables players to deftly execute the Cross Over Turn.
+i0
+<Cut Behind & Turn>i1
+Enables players to execute the Cut Behind.
+i0
+<Scotch Move>i1
+Enables players to execute the Scotch Move.
+i0
+<Step On Skill control>i1
+Enables step on ball control to execute feints and turns.
+i0
+<Heading>i1
+Improves the accuracy of headers as well as the frequency of downward headers.
+i0
+<Long Range Drive>i1
+Enables players to hit curling shots with great accuracy from a distance.
+i0
+<Chip shot control>i1
+Enables accurate chip shots.
+i0
+<Knuckle Shot>i1
+Enables players to hit knuckle shots with greater ease, also applies to Free Kicks.
+i0
+<Dipping Shots>i1
+Enables top spin shots that bounce erratically in front of the goalkeeper.
+i0
+<Rising Shots>i1
+Enables shots that begin with a low trajectory that rise sharply.
+i0
+<Acrobatic Finishing>i1
+Enables players to find a finish even from awkward positions or when off balance.
+i0
+<Heel Trick>i1
+Enables players to pass and shoot using the heel, even from awkward positions or when off balance.
+i0
+<First-time Shot>i1
+Improves technique and precision when taking first-time shots.
+i0
+<One-touch Pass>i1
+Improves technique and precision when playing one-touch passes.
+i0
+<Weighted Pass>i1
+Enables players to apply back-spin when playing lofted passes and through balls improving accuracy.
+i0
+<Pinpoint Crossing>i1
+Enables players to curl in crosses with great accuracy.
+i0
+<Outside Curler>i1
+Enables players to shoot and pass using the outside of the boot even at long distances.
+i0
+<Rabona>i1
+Enables players to execute a Rabona and means they can pass or shoot when the opposition is not expecting it.
+i0
+<No Look Pass>i1
+Enables passes that misdirect opponents.
+i0
+<Low Lofted Pass>i1
+Enables players to hit a long accurate Lofted Pass with a low trajectory when appropriate.
+i0
+<Low Punt Trajectory>i1
+Enables players to take long accurate punt kicks with a low trajectory.
+i0
+<GK High Punt>i1
+Enables goalkeepers to take long, high punt kicks that end up deep in opposition territory.
+i0
+<Long Throw>i1
+Improves the range of long throws.
+i0
+<GK Long Throw>i1
+Improves the range on throws by the goalkeeper.
+i0
+<Penalty Specialist>i1
+Enables higher accuracy penalty kicks.
+i0
+<GK Penalty Saver>i1
+Enables better goalkeeping reactions against penalty kicks.
+i0
+<Malicia>i1
+Enables players to win free kicks when on the ball.
+i0
+<Man Marking>i1
+Enables a player to stick to and persistently chase down an opponent.
+i0
+<Track Back>i1
+Enables an offensive player to actively pressure the opposition player who is on the ball to try to win it back.
+i0
+<Interception>i1
+Enables better interception skills.
+i0
+<Acrobatic Clear>i1
+Enables players to clear the ball using their feet, even from awkward positions.
+i0
+<Captaincy>i1
+Become the team's inspiration on the pitch, reducing the effects of fatigue for all the team.
+i0
+<Super-sub>i1
+Improves player's abilities when introduced in the second half of the game.
+i0
+<Fighting Spirit>i1
+Enables players to perform better under pressure and fatigue, as well as adversity.i0
+153  =Press ji or jj to switch between "Form/Stamina", "Position/Overall Rating" and "Level".
+The Overall Rating of each player in the starting line-up is based on his current Position.
+The Overall Ratings of substitutes are based on their favoured positions.
+If players have full stamina, the colour of the bar will change to bright green.
+154  =You can copy another Preset Tactic to the currently selected  Preset Tactics.
+All items that can be set in the Preset Tactics will be copied.
+155  =Use this setting to specify whether Simple Settings Menu is displayed or not when first entering "Game Plan".
+Turn this off if you don't need it.
+You can turn it back on by going to the Support Settings and changing the necessary settings.
+156  =This straight-forward option allows you to select a keyword and then have the formation, Team Instructions and player selection set for you.
+Only the selected Preset Tactics will be applied, and if Fluid Formation is set to ON, the formation will be adjusted depending on whether it is At Kick-off, When in possession or When out of possession.
+Players will be selected based on the optimum balance between their condition and abilities.
+During the game, you will only be able to switch the players who are on the pitch.
+157  =When set to ON, you can configure three Preset Tacticss and switch between them during a match by holding ta/tb. The Preset Tactics selected when leaving the Match Menu during matches or on the Main Menu will be the one that's used during the match. When set to OFF, Auto change Preset Tactics will be disabled, and the Preset Tactics will not be changed during the match.
+158  =Revert the current Game Plan settings to their defaults.  
+If you are using them during a match, the lineups and Player Settings will not be reverted.
+159  =Please select a captain.
+160  =You can check players' stats.
+161  =You can view your Team Instructions.
+163  =You can select the Team Instructions when in possession.
+i0
+<Attacking Style: Counter Attack>i1
+When on the ball, players will burst forward looking to get themselves into threatening areas.
+i0
+<Attacking Style: Possession Game>i1
+Players look to retain possession when there is little space. Any available teammates will then provide the necessary support.
+i0
+<Build Up: Long-pass>i1
+Direct playing style involving long balls being played to the front line.
+Players will pull away opposition players to create space and once a long ball hits its target, they turn to providing support to the attackers ahead of them.
+i0
+<Build Up: Short-pass>i1
+Break down the opposition by out-passing them all the way up the pitch.
+Players keep themselves at a certain distance to create more space for passes.
+i0
+<Attacking Area: Wide>i1
+Team attacks mainly from out wide.
+More links and combinations played in the wings during build up.
+i0
+<Attacking Area: Middle>i1
+Team attacks mainly through the middle.
+More links and combinations played in the central areas during build up.
+i0
+<Positioning: Maintain Formation>i1
+Players try to maintain the team's overall shape.
+i0
+<Positioning: Flexible>i1
+Players play free-flowing football, exchanging positions to cover for teammates.
+i0
+<Support Range>i1
+The higher the level, the more players tend to spread themselves out when looking to receive passes.i0
+164  =You can select the Team Instructions when out of possession.
+i0
+<Defensive Style: Frontline Pressure>i1
+When possession is lost, players apply pressure from the front looking to win the ball high up the pitch.
+i0
+<Defensive Style: All-out Defence> i1
+When possession is lost, players drop back into their own half and form a defensive wall.
+i0
+<Containment Area: Middle>i1
+Form a defensive line that cuts out all avenues for forward passes, then force the opposition players towards the middle where the team can defend in numbers.
+i0
+<Containment Area: Wide>i1
+When defending, shepherd opposition players out wide then defend in numbers when they try to play forward passes.
+i0
+<Pressuring: Aggressive>i1
+The first defender will move in and close down opposition attackers, trying to win back the ball.
+i0
+<Pressuring: Conservative>i1
+The first defender will hold up opposition attackers by keeping them at an arm's length rather than move in and risk being beaten.
+i0
+<Defensive Line>i1
+The higher the level, the further up the pitch the defensive line will be.
+i0
+<Compactness>i1
+The higher the level, the more compact the team's overall shape becomes when defending.i0
+165  =View your Captain, Set Piece Takers and the Players to Join Attack.
+166  =<Auto Offside Trap>i1
+Choose whether or not players will automatically attempt to play offside traps during matches.
+i0
+<Auto Substitution>i1
+Choose how frequently the players are automatically substituted during matches.
+i0
+<Auto Change Attack/Defence Level>i1
+Choose whether to enable automatic Attack/Defence Level switches during matches.
+i0
+167  =<Attacking Prowess>i1
+Indicates how quickly a player can respond to the ball when the team is attacking.
+i0
+<Ball Control>i1
+Indicates how good a player is at controlling the ball in general. Affects trapping and feints.
+i0
+<Dribbling>i1
+Indicates how intricate a player's touch is when running with the ball.
+i0
+<Low Pass>i1
+Indicates how accurate a player is when playing low passes along the ground.
+i0
+<Lofted Pass>i1
+Indicates the level of accuracy a player commands when playing lofted passes.
+i0
+<Finishing>i1
+Indicates level of accuracy when shooting.
+i0
+<Place Kicking>i1
+Indicates a player's accuracy from set pieces including free kicks and penalties.
+i0
+<Swerve>i1
+Indicates how much curl a player can put on the ball.
+i0
+<Header>i1
+Indicates accuracy when heading the ball.
+i0
+<Defensive Prowess>i1
+Indicates how quickly a player can respond to the ball when the team is defending.
+i0
+<Ball Winning>i1
+Indicates how good a player is at dispossessing an opponent.
+i0
+<Kicking Power>i1
+Indicates how much power a player can generate when striking the ball.
+i0
+<Speed>i1
+Indicates how quick the player is when off the ball.
+i0
+<Explosive Power>i1
+Indicates a player's agility and mobility.
+i0
+<Unwavering Balance>i1
+Indicates how well a player can fend off tackles and keep his feet when he loses balance due to physical contact.
+i0
+<Physical Contact>i1
+Indicates how well a player can hold off opponents and keep his balance when physically pressured.
+i0
+<Jump>i1
+Indicates how high a player can jump. 
+i0
+<Goalkeeping>i1
+Indicates how quickly a player can respond to the ball when playing in goal.
+i0
+<GK Catch>i1
+Indicates the goalkeeper's ability to catch the ball.  A higher value means that the keeper can catch more powerful shots.
+i0
+<Clearing>i1
+Indicates the goalkeeper's ability to knock the ball away to safe areas.
+i0
+<Reflexes>i1
+Indicates the goalkeeper's ability to make quick reaction saves.
+i0
+<Coverage>i1
+Indicates the goalkeeper's coverage of the goal and the size of the area in which he can make saves.
+i0
+<Stamina>i1
+Indicates a player's level of fitness and endurance.
+i0
+<Weak Foot Usage>i1
+Indicates how often a player will use his weaker foot. The maximum value is 4.
+i0
+<Weak Foot Accuracy>i1
+Indicates how accurate a player is with his weaker foot. The maximum value is 4.
+i0
+<Form>i1
+Indicates a player's ability to maintain form over time. The maximum value is 8.
+i0
+<Injury Resistance>i1
+Indicates a player's level of resistance to injury. The maximum value is 3.i0
+168  =Playing Style refers to the roles displayed beneath the Player Details showing suitability for different positions.
+169  =Place the cursor over a player on the pitch and press jk to appoint him as your captain.
+171  =Do you wish to use Simple Settings in the Game Plan?
+172  =To use Simple Settings, select "Support Settings" then "Go to Simple Settings".
+173  =Choose whether to enable automatic Attack/Defence Level switches during matches.
+174  =To use Simple Settings, select "Support Settings" then "Go to Simple Settings".
+If Simple Settings Menu was missing from your Game Plan, you will find Simple Settings Menu displayed the next time you access the Game Plan.
+175  =This formation places players in defensive positions.
+In this formation, some players remain in forward positions ready to attack from the wings on the break.
+176  =This formation places players in defensive positions.
+In this formation, some players remain in forward positions ready to attack from the centre on the break.
+177  =This formation places players in defensive positions.
+This formation is more centre-weighted than 5-2-1-2. It demands a lot from both playmakers, and players up top when attacking.
+178  =This formation places players in defensive positions.
+179  =This formation places more players in the centre than out on the flanks.
+As space will naturally open up more on the wings, players need to be prepared to make use of it and cover it in case of opposition attacks.
+It demands a lot from playmakers and requires the players on the wings to cover more ground.
+180  =Press jl to automatically choose your starting eleven based on stats. Press again to reset the line-up.

@@ -1,0 +1,277 @@
+223  =T2T
+
+1    =Choose to play in defense or attack.
+2    =Choose the type of training.
+3    =Choose whether to play as only the goalkeeper.
+4    =Choose how many players will participate in training. Some training types require a minimum number of players.
+5    =Choose whether fouls are allowed.
+6    =Choose which team starts with the ball when it goes out of play.
+7    =Choose how many players will participate in COM team training. The minimum number of players required varies depending on the type of training.
+8    =Configure game plan settings.
+9    =Watch a replay.
+10   =Returning to Top Menu.
+197  =You have cleared %s!
+199  =Training now features the all new Skills Training!
+
+Skills Training allows you to practise skills in a realistic match-like situations. If you are ever unsure, help is at hand in the shape of visual hints and tips.
+Why not give yourself the edge over your rivals by mastering these techniques before they do?
+
+Want to give Skills Training a try?
+274  =Master the dribble and the dash dribble; the most basic controls when a player is on the ball.
+275  =Learn how to shoot while on the run as well as how power level affects the flight of the ball.
+276  =Learn the controls and the timing required in order to dispatch a First-Time Shot from a cross.
+277  =Master the Low Pass; the most fundamental of skills for any player who is on the ball.
+278  =Learn the controls and the timing required in order to carve out goal scoring opportunities with a well placed through ball.
+279  =Learn how to play lofted passes to switch flanks effortlessly. Try familiarising yourself with the ball's flight over long distances.
+281  =To increase both accuracy and power when kicking the ball, try setting yourself up by taking a touch when stationary.
+282  =Master the art of executing the perfect trap to settle the ball at your feet.
+284  =Learn how to take penalties with confidence by mastering the controls.
+285  =Learn what you as a goalkeeper can do when trying to save a penalty.
+286  =Master the intricate art of the controlled shot and see how you can use its increased accuracy to your advantage.
+287  =Learn the technique and timing required in order to chip the goalkeeper.
+289  =Make use of the Auto-Feint feature to pull off special techniques with ease.
+290  =Try figuring out how you can time the 1-2 pass when confronted by opposition defenders.
+294  =Learn how to keep the ball under control by seeing how elevation and swerve affect the flight of the ball.
+299  =Push ob while you are on the ball to dribble.
+If you need extra pace while dribbling, press lj to dash dribble.
+Using both forms of dribbling where appropriate will be your key to success 
+in slaloming your way through all the training cones and scoring a goal at the end of your run before time runs out.
+300  =Push ob towards desired direction to dribble. Press lj whilst dribbling to Dash Dribble
+301  =To cross the ball, press la when you are deep in opposition territory.
+Follow the on-screen guides when crossing the ball to ensure that the ball goes between the cones.
+Once the cross comes in, press lc to meet it with a first-time shot. Now, can you do all this within the time limit?
+302  =Press la to cross
+Followed by lc to take a first-time shot
+303  =Press lb to play a low pass.
+To direct your pass, push ob in the desired direction.
+Your task is to pass the ball to the highlighted player 10 consecutive times while making sure that the opposition players don't get the chance to intercept. Can you do all this within the time limit?
+304  =Press lb to play a low pass
+To direct your pass, push ob in the desired direction
+305  =Press ld to play a through ball to your teammate. You will be required to receive the ball then play it through to another teammate who will then apply the finishing touch. Make sure that you get the ball to go between the training cones and that you complete this task within the task within the time allowed.
+306  =Press ld to play a through ball into the space ahead of an unmarked player
+307  =If you have no options available for a pass, then try playing a lofted pass to a teammate who is in open space.
+Now press la to play a long ball to a distant teammate within the allowed time.
+308  =Press la to play a lofted pass
+310  =You misplaced your initial pass.
+311  =Press ld before the initial pass reaches its intended receiver.
+312  =You've put too much on the pass.
+314  =Whilst stationary, press lk and push jn in the desired direction to take a touch and set yourself up for a shot.
+The better you are at controlling your touch, the greater the accuracy and the power of the subsequent shot.
+315  =Press lk and push jn in the desired direction to take a touch to set up the shot
+316  =You were too slow with your little knock-on. Try again, but a little quicker.
+319  =You were a little too early when pressing lk.
+320  =You were a little too slow when pressing lk.
+321  =Failed
+326  =When shooting, push ob in the desired direction to take aim.
+Next, press and hold lc to adjust power level.
+By shooting before the power gauge builds up, you can shoot for accuracy at the expense of power. 
+Similarly, shooting once the power gauge has built up will result in a more powerful shot, but at the expense of accuracy.
+Hold lj to display the target on screen.
+Pushing ob too far or building up the power gauge excessively, results in a larger target area which ultimately reduces your accuracy.
+Your objective is to take out all 6 panels by adjusting both the direction and the power of your shots.
+327  =Push ob in the desired direction to take aim
+Press and hold lc to adjust power level
+Press lj to display target area
+328  =Push ob in the desired direction to adjust position. You will not be able to adjust positions once the penalty taker starts his run-up.
+Push ob before the penalty is taken if you think the opponent will go for power. Push ob after the penalty is taken if you think the opponent will go for placement. Try saving 2 shots within the allowed time.
+329  =Push ob to adjust the goalkeeper's position
+Push ob before the kick is taken to save powerful strikes
+Push ob after the kick is taken to save softer strikes
+330  =You were too slow. Make sure you push ob  before the ball has been struck.
+331  =You were too quick. Make sure you push ob  only when the ball has been struck.
+336  =If you want to dribble in other directions whilst facing the opposition goal, push ob while holding lk.
+Deft touch dribbling is a useful technique to change direction without having to use elaborate turns.
+Now, use the deft touch dribble to hold the ball up. Once support arrives and you have teammates in front of you, play a pass and let them apply the finish. within the allowed time. Note that when passing to your teammate, you must be facing the opposition goal.
+337  =If you want to dribble in all directions without having to turn, push ob while holding lk.
+338  =If you need to go for placement when shooting, press lc while holding lk.
+The controlled shot is the perfect way to hit the corners with great accuracy.
+Now, your objective is to score a team goal finished off with a controlled shot in the allowed time. Play a pass to your teammate then get him to apply the finishing touch.
+339  =Press lk+lc to take a well-placed shot
+340  =Make sure you press lk by the time you make contact with the ball.
+341  =To go for the delicate chip over the goalkeeper, press lc while holding li. 
+This is particularly effective when you are in front of goal and the opposition goalkeeper is coming out towards you.
+Once the keeper is close enough, you should be able to chip the ball over his head and into an empty net.
+Now, pass the ball to a teammate and score with a chipped finish within the allowed time.
+342  =Press li+lc for a chip shot
+343  =Make sure you hold li until you shoot when trying to chip the ball.
+346  =Try to draw the goalkeeper in closer when pulling the kick feint.
+347  =You were too slow there. Try pulling the feint a bit quicker next time.
+348  =Incorrect control inputs. Check the correct controls, then try again.
+349  =You can pull a wide variety of tricks and feints by using both ob and jn.
+If you use jn to pull a feint, then you would need to push ob in the direction you want to take the ball once you have executed your move.
+Now try using these moves for real. Your objective is to lose your marker using the Auto-Feint then scoring a goal within the allowed time.
+350  =Hold jn forwards, backwards, right or left in relation to your run and ob in the direction you want to take the ball
+353  =To initiate a one-two, press lb while holding li. Then press ld just before the ball receiver traps the ball to complete the move.
+Now, try using the one-two to pass your way through the defence and score a goal within the allowed time.
+354  =Press li+lb then ld just before the ball receiver traps the ball
+355  =When receiving a lofted pass, press lk to absorb the ball's momentum and maintain close control over it.
+This allows you to get your shot off quicker after taking your first touch.
+Now, try using the Perfect Trap to receive a lofted pass from your teammate, 
+then score a goal all within the allowed time.
+356  =Press lk as you are about to trap the ball when receiving a lofted pass
+359  =Try pressing lk just before the player traps the ball.
+360  =Try trapping the ball away from opposition defenders.
+369  =Try taking out all 4 targets placed at the corners with perfectly placed free kicks. Make sure you give it the right amount of elevation and curl.
+The longer you hold lc, the greater the power, but at the same time this leads to a reduction in accuracy.
+Use ob and jn to adjust the trajectory and the direction of your shot respectively. Once you are set, hold them in place then press lc to choose the power level.
+Try taking out all 4 targets within the allowed time.
+370  =Use lc to control accuracy and power
+jn to adjust direction
+ob to adjust the trajectory
+lj to choose whether or not to display aiming guides
+378  =Familiarise yourself with the newly introduced advanced shooting controls.
+379  =Advanced shooting controls use both  ob and lc just as you do in Basic shooting controls. The only major difference is that in the case of the former, you will see a target shown on screen.
+You only need to hold lc briefly if you want to put placement over power when shooting and similarly you can sacrifice accuracy for increased power if you hold lc for longer.
+Press lc to display the target on your screen and use ob to control both the direction and elevation. Going for the corners will make it harder for the keeper to save, but at the same time it will decrease your own chances of hitting the target.
+Now, try taking out all 4 panels within the allowed time.
+380  =While pressing lc, take aim by moving the target by pushing ob towards the desired direction, then release lc
+381  =Learn the all new Through Ball (Advanced) controls.
+382  =The advanced through ball allows you to pick both the destination and the trajectory of your through balls.
+While you use both ob and ld just like with ordinary through balls, you can also display a target which shows the ball's expected destination by holding ld.
+Your task is to play a through ball using advanced controls and to finish off the move by scoring a goal.
+383  =Push ob in desired direction to move the target while holding ld. Then release ld
+386  =Learn the necessary controls for Deft Touch Dribbling as well as what type of situations it will prove to be most useful.
+392  =Your objective is to hit all 4 targets with shots taken while you are on the run. Press lc while you are dribbling, but make sure that you shoot before you run past the training cones. This must all be done within the allowed time.
+393  =Take a shot on the run by pressing lc while dribbling
+428  =Pressure/Tackle
+429  =Learn how to pressure and tackle opposition players when trying to win back the ball.
+430  =Press lf to get close to your opponent and apply pressure.
+A pressured opponent is more likely to make mistakes which leads to chances for you to steal the ball. Quickly press lf twice to win back the ball within the allowed time.
+If you pull off a good tackle, then the ball will be yours, but there is always a risk of being out-foxed. So, don't be reckless as a cool head and sound decision making are the keys to success.
+431  =lf to get close to an opponent and apply pressure
+lf twice to make a tackle
+432  =Learn how much reach you have when tackling.
+433  =Try tackling when the ball leaves the opponent's foot.
+434  =Learn the controls for Hold-up play and see how it can be used to slow down opposition attackers.
+435  =When pressuring your opponent by pressing lf, push ob towards your goal. The player will then track the opposition player at a distance and slow down his run. This is called Hold-up play.
+Now, try holding up your opponent for the set length of time.
+It is the most basic, yet effective form of defence as the distance you keep between you and your opponent makes it more difficult for him to pass you.
+436  =Push ob away from your opponent while applying pressure
+437  =Hold-up your opponent at a distance where you cannot be passed.
+438  =New Controls: Physical play and its use when defending.
+439  =By holding lj and lf allows you to jostle contact with your opponent robbing him of options when on the ball.
+Your objective is to successfully jostle with your opponent within the allowed time.
+440  =Hold lj and lf to move in on your opponent
+441  =When chasing an opponent who is on the ball, push jn in his direction to dispossess him by delivering a quick shoulder barge.
+Now try barging your opponent off the ball within the allowed time.
+442  =Push jn towards your opponent when running parallel to him
+443  =Make sure you don't foul your opponent when attempting to shoulder barge him.
+444  =To stick out your arms in defence against an opponent who wants to get physical, push jn in his direction as he is about to shoulder barge you.
+Now, try blocking off an opponent within the allowed time.
+445  =Push jn towards your opponent just as he is about to shoulder barge you
+446  =Stick out your arms at the right timing to escape any unwanted attention from your opponent and hold on to the ball.
+447  =Learn how to dispossess an opponent who is on the ball by shoulder barging him and knocking him off balance.
+448  =Learn how to fend off any attempts to jostle by an opponent who is chasing you down.
+449  =Hold ob towards the direction you expect the opponent to pass the ball to make an interception.
+450  =Hold ob towards the direction you expect the opponent to play the ball to
+451  =<Skills Training>i1
+Familiarise yourself with both the basic and newly introduced controls used in this title via a set of interactive tutorials.i0
+452  =<Free Training>i1
+[Free Training] allows you to use the whole pitch to practise all types of plays including set piece situations as many times as you would like.
+You can also freely choose how many players to field on your side of the pitch as well as that of the COM. i0
+456  =Learn the most basic controls you need in playing re.
+457  =Learn the basic controls required in goal-scoring situations.
+458  =Learn more challenging and complex controls which will give you more variety to your game.
+459  =Master the advanced techniques and skills which will give your game a new dimension.
+460  =Features new to re are introduced in demo movies.
+463  =A movie showing %s. A feature new to re.
+464  =Learn to anticipate your opponent's next move and block off any pass, shot or an attempt to run pass you.
+465  =Push ob towards your intended target, then press lb to play a pass. The exercise ends if the ball leaves the coned area or an opponent touches it. A new opponent comes into play every 4 passes.
+466  =+%d complete a pass
+467  =Use ob to control the direction your player moves. Guide your player through the three courses as quickly as possible.
+468  =+%d cross cone gate
++%d complete a course
++ bonus for time remaining
+469  =Use ob to take aim, then press lc to shoot.  Score goals to advance through the exercise.
+470  =+%d score a goal
++%d score in top corners
++%d score in bottom corners
++ bonus for time remaining
+471  =Press la to cross and control the direction with ob . Hit the targets to score points and advance to the next position.
+472  =+%d cross to teammate/target
++%d score a goal
++ bonus for time remaining
+473  =Press lc as the ball approaches to clear it first time. You can also take a touch before clearing it. 
+474  =+%d clear the ball
++ bonus for clearing to a safe pitch area
++ bonus for time remaining
+475  =Tilt ob in the direction you want to aim, then press lc to shoot. When the player begins his run-up, use ob again to apply curl to the shot. You'll advance to the next exercise when you score a goal.
+476  =+%1$d| score in top corner
++%2$d| score in bottom corner
++%3$d| score for a goal
++ bonus for consecutive goals
+477  =A teammate will cross the ball to you. Move your player and press lc as the ball arrives. Score goals to advance through the exercise.
+478  =+%d score a goal
++%d score in top corner
++%d score in bottom corner
+479  =Hold lf to close down an opponent. The player will automatically attempt a tackle when close enough. Use lj and lf to sprint when closing in. Attempt a standing tackle by pressing lf twice.
+480  =+%d tackle opponent
++%d get possession
++%d use correct tackle type
++ bonus for time remaining
+481  =Press ld to pass the ball into the space ahead of your teammate. Time your passes to create opportunities for him to score. You will advance through the exercise by hitting successful through balls.
+482  =+%d pass to teammate
++%d score a goal
++%d pass ball between cones
++ bonus for time remaining
+483  =Use ob to take aim then press lc to take the penalty. Going for more power or trying to hit the corners make the shot less accurate.
+484  =+%d score in top corner
++%d score in bottom corner
+485  =Press leto slide tackle an opponent. Earn points for a successful tackle and advance to the next position.
+486  =+%d for tackling in first coned area
++%d for tackling in second coned area
++%d for tackling in third coned area
++ bonuses for gaining possession and time remaining
+487  =Press la to play a Lofted Pass. Press la while holding lk for a higher ball. The exercise ends if an opponent touches the ball or if you receive it outside the coned area.
+488  =+%d complete a pass
+489  =Press li and ld to chip the ball into the space ahead of your teammate. Time the pass to create an opportunity for him to score. You will advance through the exercise by hitting successful through balls.
+490  =+%d pass to teammate
++%d score a goal
++ bonus for time remaining
+491  =Hold lg to instruct a teammate to pressure an opponent who is on the ball. Score points by winning the ball back using either player and advance to the next position.
+492  =+%d get possession
++ bonus for time remaining
+493  =Use ob to position your goalkeeper. When the opponent strikes the ball, push ob in the direction you think it will go to attempt a diving save.
+494  =+%d penalty save
++%d dive in the correct direction
++%d for consecutive penalties saved
+495  =Press li and lc to chip the ball over the goalkeeper. The longer you hold the buttons, the higher the lob. Score goals to advance through the exercise.
+496  =+%d score a goal
++ bonus for time remaining
+497  =Aim with ob and press both lk and lc to take a "Controlled Shot" which sacrifices power for increased accuracy. The ball will also curl which allows you to go for goal from a wider variety of positions.
+498  =+%1$d| score in top corner
++%2$d| score in bottom corner
++%3$d| score a goal
+499  =Press ob+lj to sprint past defenders and create a goal-scoring opportunity. Score goals to advance to the next round.
+500  =+%d score a goal
++ bonus for time remaining
+501  =Press and hold  lk while dribbling for Close Control. Switch back to normal dribbling by releasing lk. Exercise Close Control in the coned areas and score goals to advance through the exercise.
+502  =+%d for exercising Close Control in coned area
++%d for scoring a goal
++ bonus for time remaining
+503  =Tilt ob in the direction you want to aim, then press la to kick the ball. When the player begins his run-up, use ob again to apply curl to the corner kick. You'll advance to the next exercise when the ball successfully reaches one of your players.
+504  =+%d pass to teammate
++%d score a goal
++ bonus for time remaining
+505  =Press li and lb to pass the ball to a teammate then make a forward run. Press ld before the receiver traps the ball to play a first-time return pass. Score goals to advance through the exercise.
+506  =+%d pass through cone gate
++%d score a goal
++%d score in top corner
++%d score in bottom corner
++ bonus for time remaining
+507  =Perform 7 tricks in %d seconds. Use the controls highlighted on screen to perform each of the tricks.
+508  =+%d perform correct trick
++ bonus for time remaining
+509  =Use all of the skills you have learned to beat this selection of attacking situations. 
+You will face 1 on 1, 2 on 1 and 1 on 2 situations. Score goals to advance through the exercise.
+510  =+%d score a goal
++%d bonus for consecutive goals
++ bonus for time remaining
+511  =Unsure with the controls? Try Skills Training!
+512  =Skills Training enables you to learn the controls through a series of situation-based realistic tutorials. 
+There are 23 such tutorials covering everything from the basics to advanced techniques which are divided into 4 levels: Basic, Intermediate, Advanced and Expert.
+513  =A different player touched the ball
+514  =Use the displayed controls to execute a feint. As the on-pitch guide will show you, the best timing to execute a feint is when the opponent player makes his move. You progress to the next action when you score.
+515  =+%d perform correct trick
++%d score a goal
++ bonus for time remaining

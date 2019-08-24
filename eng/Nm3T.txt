@@ -1,0 +1,20 @@
+507  =Nm3T
+
+8    =Too many matches. Narrow down your search conditions.
+14   =No Game Data.
+21   =Please wait...
+22   =Unable to find User.
+61   =Lost connection to server.
+62   =An error has occurred.
+64   =No Data
+135  =Connection with "PSN" has been lost.
+139  =A list of various on-screen icons and their descriptions.
+143  = Password Required
+147  = Indicates Language Setting.
+148  = You have a good connection with the owner.
+149  = You and the owner have minor connectivity issues.
+150  = You have a poor connection with the owner.
+210  =An unexpected problem has occurred while communicating with the rf server.
+211  = Match in progress.
+213  =Your final standings from competitions will only be shown in special competitions held in myClub.
+214  =If you are not logged in rf server, you cannot access network features such as receiving GP that you could be rewarded.

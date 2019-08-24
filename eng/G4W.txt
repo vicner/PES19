@@ -1,0 +1,6 @@
+13   =G4W
+
+5    =Training Menu
+9    =Left Corner Kick
+10   =Right Corner Kick
+43   =Free Kick

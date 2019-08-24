@@ -1,0 +1,37 @@
+19   =F4W
+
+28   =Offside Trap
+30   =Team Strategy
+62   =Change Formation
+64   =Formation Change
+65   =Copy Preset Tactics
+66   =Kick-Off
+67   =When in Possession
+68   =When out of Possession
+69   =Change Formation At Kick-off
+70   =Change Formation When in possession
+71   =Change Formation When out of possession
+72   =Copy Preset Tactics %s to the current Preset Tactics %s.
+Proceed?
+73   =Preset Tactics were copied.
+74   =Auto Offside Trap
+75   =Advanced Instructions
+76   =Attack
+77   =Defence
+78   =Attack%d
+79   =Defence%d
+80   =Hug the Touchline
+81   =False No. 9
+82   =False Full Backs
+83   =Attacking Full Backs
+84   =Wing Rotation
+85   =Tiki-Taka
+86   =Centring Targets
+87   =Swarm the Box
+88   =Deep Defensive Line
+89   =Gegenpress
+90   =Tight Marking
+91   =Counter Target
+92   =Defensive
+93   =False Winger
+94   =Wing Back

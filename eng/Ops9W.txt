@@ -1,0 +1,10 @@
+45   =Ops9W
+
+115  =GP
+116  =Data Pack
+130  =DP
+138  =DP Details
+140  =%d : %s
+141  =Data Pack Application Settings
+142  =Update Club Squads
+143  =Update National Squads

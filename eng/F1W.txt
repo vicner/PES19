@@ -1,0 +1,22 @@
+16   =F1W
+
+35   =Lineup
+36   =Tactics
+37   =Game Plan
+42   =One-Touch Settings
+45   =Tactical Assistance
+46   =Preset Tactics
+47   =Auto Lineup Select
+48   =Tactical options
+49   =Player Settings
+50   =Team Sheet/Edit Position
+51   =Preset Tactics/Fluid Formation Tutorial
+52   =Team Sheet/Edit Position Tutorial
+53   =Hold Down
+54   =Preset Tactics %d: %s
+55   =Advanced Instructions Tutorial
+56   =Go to Normal Game Plan
+57   =Switch Formation Only
+58   =Reset
+59   =Team Sheet
+60   =Go To Game Plan Menu

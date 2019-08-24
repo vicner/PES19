@@ -1,0 +1,36 @@
+249  =Mc5T
+
+1    =Loading...
+2    =Loading Complete.
+4    =Loading failed.
+9    =Saving...
+10   =Saving Complete.
+15   =Unable to Save.
+24   =Overwrite this data?
+34   =Save Data Not Found.
+36   =Deleted Successfully.
+41   =Saving. Please do not turn off your system.
+42   =Saving...
+43   =Loading System Data will erase current settings. Proceed?
+44   =Loading Edit Data will erase current data. Proceed?
+58   =Changes in Edit Mode will be saved automatically. Create Edit Data?
+59   =Changes in Edit Mode will be saved automatically. Unless you create Edit Data, you will not be able to make use of Edit Mode. 
+63   =In order to make changes in edit mode, you must first create Edit Data.
+64   =In order to make changes in edit mode, you must first create Edit Data.
+Changes in Edit Mode will be saved automatically. Create Edit Data?
+65   =Finish editing and return to Top Menu?
+66   =Live Update in progress.
+67   =Unable to implement Live Update Data.
+68   =Unable to download Live Update Data.
+70   =No Live Update changes to Condition Rating. All players' conditions will change each match from among the following:
+
+ 
+71   =There are currently no updates via Live Update.
+72   =Try saving again?
+73   =Try loading again?
+74   =Live Update services are no longer available.
+The latest update has been applied to the player database.
+75   =Failed to delete data.
+77   =This will delete already-downloaded Live Data. Are you sure you want to proceed?
+78   =Downloading new data assets...
+79   =New data asset download unsuccessful. Some player photos were not updated.

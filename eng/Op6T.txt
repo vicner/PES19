@@ -1,0 +1,62 @@
+281  =Op6T
+
+1    =Please select which Personal Data you want to Save.
+2    =Please select which Personal Data you want to Load.
+10   =Choose Command Configuration.
+If you wish to fine tune your controls, please select Custom.
+13   =Choose from 5 levels the degree to which passes are set to automatically track and home in onto receiving players.
+18   =Your rm Settings have been registered to your Personal Data.
+19   ="Stats Data Upload" has been disabled.
+20   =Enabling this feature will allow you to import your stats data onto rm regardless of whether you are online or not.
+So, even if you are not a regular online user, you can still make the most of rm.
+Please note that you do not need to enter your KONAMI ID when using this feature.
+22   =Uploaded Data onto rm.
+24   =To enable this feature, you will need a KONAMI ID.
+Please enter your KONAMI ID information here.
+Set to ON in order to send match data to rm automatically.
+26   =Redo settings?
+28   =Incorrect account information. Please enter the correct information in order to enable this setting.
+29   =Set to ON in order to send match data to rm automatically.
+33   =Players on your team will frequently attempt sliding tackles when trying to win back the ball.
+34   =Players on your team will occasionally attempt sliding tackles when trying to win back the ball.
+35   =Players on your team will not attempt any sliding tackles.
+42   =rf Tracks
+64   =Standard controls. Pass Support Level will be reflected accordingly.
+65   =A control setting that allows you more freedom over through balls than in Basic.
+66   =The ball's direction and power level are both controlled manually.
+67   =Standard controls which allow you to shoot towards the right, left and centre.
+68   =A control setting that allows you more freedom when shooting than in Basic.
+69   =Directional guides will be displayed when performing a Manual Pass, Manual Shot, Shooting (Advanced) or a through pass (Advanced).
+70   =Target players will be indicated when using Off the Ball Controls, Teammate Controls or Manual Cursor Change.
+71   =Guides will be displayed to show the best position for the player to be in for specific situations. (Co-op Match and Fixed only)
+72   =Aiming guides will not be shown on screen. (Co-op Match and Fixed only)
+73   =Easy-to-pull skill controls will be selected automatically based on the way the player is running.
+74   =Easy-to-pull skill controls will be selected semi-automatically based on direction of movement.
+75   =All skill controls will be executed manually.
+76   =Aiming guides will not be shown on screen.
+82   =(Only on Fixed Cursor setting)
+83   =You have not entered a Personal Data Name.
+84   =The ball curls towards the selected direction.
+85   =The ball curls away from the selected direction.
+86   =rm is a mobile application.
+It allows you to import and check results from rf matches on your mobile devices.
+If you enable this setting, a 2D-code will be shown on the screen after the completion of each match. By starting rm on your mobile device, you can read this code and reflect the stats from the match on rm.
+* Stats are only available for 1 VS. 1 matches against other users
+87   =Choose a name for your Personal Data.
+88   =Choose button configuration for in-game controls.
+89   =Change settings so that stats related to individual Personal Data can be sent to rm.
+90   =Choose your Main Personal Data!
+91   =In Personal Data Settings, you can save your own in-game preferences including Cursor Settings, Command Configuration and Support Settings. The maximum number of sets of  Personal Data you can create is 32.
+Now, try choosing and configuring your Main Personal Data to be used in each mode.
+92   =Load Data.
+Proceed?
+93   =No assistance is provided. Passes will reflect the Power Gauge and the direction a player is facing.
+94   =A little assistance will be provided with regards to pass accuracy and strength. Passes can be controlled using ob and the pass button.
+95   =Assistance will be provided with regards to the pass target, accuracy and strength. Passes can be controlled using ob and the pass button. 
+96   =Assistance will be provided with regards to the pass target, accuracy and strength. Pass destinations and strength are controlled automatically.
+97   =An indicator will display above the head of the player you will switch to controlling when you press "Cursor Change". In co-op play, only one indicator will be visible to each user.
+98   =There will be no indicator above the head of the player you will switch to controlling when you press "Cursor Change".
+99   =(Co-op Match and Fixed only)
+100  =Select your preferred Command Configuration. You can make individual adjustments on the next screen.
+101  =This is the classic rd Command Configuration.
+102  =This is another general Command Configuration.

@@ -1,0 +1,21 @@
+202  =Envs1T
+
+124  =When set to [ON], fatigue will build up and affect the player's performance in the next match.
+169  =Choose player form for both home and away team players.
+170  =Choose motivation level for both home and away team players.
+171  =Choose whether a player's Motivation affects his Condition during a match.
+172  =Choose the difficulty level of vs. COM matches. The difficulty level increases in order from Beginner to Legend.
+
+Legend only becomes available in all game modes after winning 5 matches in Super Star difficulty.
+173  =Coach Mode has been enabled. You cannot assign any more than 1 Controller to the side with Coach Mode enabled.
+174  =・The team rosters, that are contained in the demo version, are based primarily on May 2018 data
+・Please note that due to licensing, some players on the team rosters, who are contained in the demo version, might be not on the team roster of the retail version.  
+
+You can play the game with the latest team roster by applying Live Update which service starts on the same week that the retail version launches
+*Due to licensing, some teams are not applied by the Live Update. Please refer to the official web site (https://www.konami.com/wepes/2019) for further details.
+175  =If you return to the previous screen, your Game Plan and Strip settings will be lost.
+Proceed?
+176  =You can now select the Match Level "Legend" when playing against the COM in any game mode.
+177  =Choose difficulty level of vs. COM matches.
+Increases in order from Beginner to Super Star.
+178  =Match Time is set to 5 minutes. Match length in the full version can be set freely.

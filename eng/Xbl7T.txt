@@ -1,0 +1,4 @@
+1115 =Xbl7T
+
+12   =This match room no longer exists.
+16   =Unable to connect with opponent.

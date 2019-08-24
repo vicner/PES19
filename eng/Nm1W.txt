@@ -1,0 +1,16 @@
+500  =Nm1W
+
+4    =Login
+17   =Please enter the text.
+20   ="PSN"
+21   =rf Game Server
+22   =User Data
+24   =Account
+25   =Auto-login
+26   =Auto-login settings
+27   =Live Update Condition Rating: Players in Form
+28   =Live Update Condition Rating: Players Out of Form
+29   =Live Update: Condition
+30   =x %d players
+31   =Sort by Overall Rating
+32   =Sort by Form

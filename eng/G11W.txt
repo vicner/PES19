@@ -1,0 +1,4 @@
+67   =G11W
+
+0    =PK
+3    =You cannot remove the goalkeeper from the lineup.

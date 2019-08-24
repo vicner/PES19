@@ -1,0 +1,521 @@
+126  =Tip1C
+
+107  =Control Tips: Deft Touch Dribbling
+108  =Control Tips: Speed Burst
+109  =Control Tips: Short Knock-on 
+110  =Control Tips: Coming to a quick stop
+111  =Control Tips: How to come to a stop facing the opposition goal
+112  =Control Tips: Perfect Trap
+113  =Control Tips: Flick
+114  =Control Tips: Turning towards the opposing goal while trapping the ball
+115  =Control Tips: Through Feint
+116  =Control Tips: Low Pass
+117  =Control Tips: Lofted Pass
+118  =Control Tips: High Pass
+119  =Control Tips: Low Through Ball
+120  =Control Tips: Chipped Through Ball
+121  =Control Tips: Crossing
+122  =Control Tips: Early Cross
+123  =Control Tips: Shooting
+124  =Control Tips: Controlled Shot
+125  =Control Tips: Chip Shot
+126  =Control Tips: Knuckle Shot
+127  =Control Tips: Low Shot
+128  =Control Tips: Downward header
+129  =Control Tips: Stronger Foot
+130  =Support Settings: Through Ball Type
+131  =Control Tips: Manual Pass
+132  =Control Tips: Manual Shot
+133  =Control Tips: One-two pass
+134  =Control Tips: Dynamic one-two
+135  =Control Tips: Pass and Move
+136  =Control Tips: Teammate Controls (Assisted)
+137  =Control Tips: Teammate Controls (Manual)
+138  =Control Tips: Combination Play
+139  =GK controls: Place the ball on the ground
+140  =GK controls: Pick up the ball
+141  =GK controls: Goalkeeper movements
+142  =GK controls: Throwing the ball
+143  =GK controls: Throwing the ball into space
+144  =GK controls: Punt Kick
+145  =GK controls: Pass Feint
+146  =GK controls (When cursor is fixed): Selecting and deselecting the intended pass receiver
+147  =GK controls (When cursor is fixed): Instruct players to pass the ball
+148  =GK controls (When cursor is fixed): Instruct players to pass the ball back to you
+149  =GK controls (When cursor is fixed): Instruct players to make runs
+150  =GK controls: Through ball command
+151  =GK controls (When cursor is fixed): Instruct players to shoot
+152  =GK controls (When cursor is fixed): Instruct players to clear the ball
+153  =Control Tips: Physical Play
+154  =Control Tips: How to slide tackle
+155  =Control Tips: Clearing the ball
+156  =Control Tips: Predictive Interception and blocking
+158  =GK controls: Auto Positioning
+159  =GK controls: GK Dash
+160  =GK controls: GK Block
+161  =GK controls: GK Tackle
+162  =GK controls: GK Trap
+163  =GK controls: Instruct teammates to pressure an opponent
+164  =Control Tips: Shepherding
+165  =Control Tips: Controlling the defensive line
+166  =Control Tips: Laying the offside trap
+167  =Control Tips: Dash
+168  =Control Tips: Coming to a quick stop then facing the ball
+169  =Control Tips: Changing which players you control
+170  =Control Tips: Taking control of the goalkeeper
+171  =Control Tips: Manual Cursor Change
+172  =Control Tips: Switch Preset Tactics
+173  =Control Tips: Super Cancel
+174  =Control Tips: Switch Tailing Camera
+175  =Control Tips: Defensive Instructions
+176  =Control Tips: Chat
+177  =Set Piece Controls: Choosing the set piece taker
+178  =Set Piece Controls: Displaying aiming guides
+179  =Set Piece Controls: How to keep the ball low
+180  =Set Piece Controls: How to kick a high ball
+181  =Set Piece Controls: Applying left side spin on the ball
+182  =Set Piece Controls: Applying right side spin on the ball
+183  =Set Piece Controls : Fix Pass/Shoot Direction and Trajectory
+184  =Set Piece Controls: High Pass
+185  =Set Piece Controls: Off the Ball Controls
+186  =Free Kicks (Attacking): Knuckle Shot
+187  =Free Kicks (Attacking): Line up 2 free kick takers
+188  =Free Kicks (Attacking): Trick FK
+189  =Free Kicks (Attacking): Lay off
+190  =Free Kicks (Attacking): Quick Restart
+191  =Free Kicks (Defending): Jumping
+192  =Free Kicks (Defending): Charge Down
+193  =Free Kicks (Defending): GK Near Positioning
+194  =Corner Kicks: Short corner
+195  =Throw in: Basic controls
+196  =Goal Kick: Position Shift
+197  =PK: Power Level
+198  =PK: Chip Shot
+199  =PK (GK Controls): Positioning
+200  =PK (GK Controls): Guessing which way the penalty taker will go
+201  =PK (GK Controls): Diving after the ball is struck
+202  =Control Tips: How to hold off your marker
+203  =Control Tips: Tackling your opponent
+204  =Control Tips: Shoulder barging your opponent
+205  =Control Tips: Call on your teammates to apply pressure
+206  =Control Tips: Instruct your teammates to apply pressure in numbers
+208  =Support Settings: Shot Type
+209  =Control Tips: Pressure
+210  =Special Abilities: Playing Styles
+211  =Special Abilities: COM Playing Styles
+212  =Special Abilities: Player skills
+213  =Game Plan: Player Support
+214  =Attacking Instructions: Support Range
+215  =Game Plan: Position Switch
+216  =Game Plan: Front line pressure
+217  =Defensive Instructions: Defensive Line
+218  =Defensive Instructions: Defensive Compactness
+219  =Game Plan: Shifting to Attack
+220  =Game Plan: Attack/Defence Level
+221  =Game Plan: Combination Play
+222  =To move freely in any direction without the need to turn, hold lk while dribbling. The deft touch dribble allows you to have close control of the ball using the sole of your foot.
+This is particularly useful if you are trying to hold on to the ball while looking for openings or waiting for support to arrive.
+223  =To outrun an opponent with a quick burst of speed, quickly press lj twice and ob in the desired direction.
+224  =Whilst stationary, hold down lk and push jn in the desired direction to take a touch and set up the ball.
+This allows you to subsequently pass or shoot with greater accuracy and power.
+225  =To dribble, push ob when you have the ball, but if you release ob while on the run, your momentum will continue to carry you forward. If you want to come to a sudden stop, first release ob, then press lj.
+226  =To come to a stop and immediately face the opposing goal, release ob, then press lk while you have the ball.
+227  =When receiving a ball which is being played to you at speed, press lk as you trap the ball to absorb its momentum and exercise close control.
+This is particularly useful when you are trying to receive the ball in a crowded area.
+228  =To flick the ball up as soon as you trap it, you will need to press and hold jl prior to receiving the ball.
+This is a skill which has many applications. It could be used as a means of escaping a marker who is coming in from behind when receiving the ball or as a means to set up a powerful strike.
+229  =To turn towards the opposing goal as you trap the ball, release ob, then hold lk prior to receiving the ball.
+230  =To trick an opponent into thinking you are going to receive the ball, release ob, then hold li and lj before the ball gets to your feet. If there is an unmarked player who is running in behind you, you can use this trick to create confusion among the defense, which can then be exploited.
+231  =To play a low pass, press lb. If you want to play a pass to a more distant teammate, hold lb for longer.
+232  =To play a lofted pass, press la. If you want to play a pass to a more distant teammate, hold la for longer.
+233  =Press la while holding lk to play a high pass.
+It can prove very effective if you have a tall target man playing up front.
+234  =To play a low through ball, press ld. If you want to pick out a more distant teammate, hold ld for longer.
+235  =To play a chipped through ball, press ld while holding li. If you want to pick out a more distant teammate, hold ld for longer.
+236  =To cross the ball, press la when you are on the ball in a wide position.
+To hit a low cross along the ground, quickly press la twice. For a high cross, press la while holding lk.
+237  =If you are running with the ball and looking to exploit the space between the opposition goalkeeper and his defence, try hitting an early cross by pressing la while holding li.
+238  =Press lc to shoot. The longer you hold lc, the greater the elevation. Accuracy and power when shooting can also be influenced by factors such as the speed you are running when shooting on the run or the distance of the run up you took before striking the ball.
+239  =If you need additional accuracy when shooting press lc while holding lk.
+Controlled shots sacrifice power for accuracy, but tend to be harder for goalkeepers to save.
+240  =To go for a delicate chip, press lc while holding li.
+If you see that the goalkeeper is off his line, try lobbing the ball over his head and into an empty net.
+241  =To hit a wobbling shot which takes an unpredictable flight towards goal, press lc once to set the power level, then press lc again just as you are about to strike the ball.
+242  =To take a low shot, press lc once to set the power level, then press ld again just as you are about to strike the ball.
+243  =To head the ball in to the ground, press lc followed by ld as you are about to make contact with the ball.
+244  =Finishing with the weaker foot can present a serious challenge for players with low weak foot accuracy.
+Try adjusting the angle of your run towards goal so that the player can catch the ball with the inside of his stronger foot when shooting.
+245  =When set to "Basic", you will receive COM assistance when playing through balls in accordance to your Pass Support Level. "Advanced" will give you full control over the destination of your passes using ob regardless of the selected Pass Support Level. This also includes curling the ball.
+246  =The manual pass which you can play by pressing ll when passing is designed to give you full control of both the direction and the pace on the ball.
+Aiming guides showing the direction the ball is likely to travel can be turned ON/OFF in Personal Data → Support Settings.
+247  =The manual shot which you can take by pressing ll when shooting is designed to give you full control of both the direction and the power you put behind your effort on goal.
+Aiming guides showing the direction the ball is likely to travel can be turned ON/OFF in Personal Data → Support Settings.
+248  =Press lb while holding li to make a player pass the ball and immediately start a run toward the opposing goal. Before the ball reaches its intended target, release ob, then press ld or li + ld to make the ball receiver play a return pass, thus completing the one-two.
+249  =Press lb while holding li to play the initial pass. 
+You can then make the player who started the move run in any direction you choose by pushing jn while still holding li.
+250  =Press lk when passing to make the player run towards the opposition goal on completing his pass.
+251  =To make your teammate run towards the opposition goal, hold li then push jn towards the intended player. Releasing jn subsequently will make the player start his run.
+252  =To gain full control of a teammate who is off the ball, push jn towards the intended player while holding li, then release jn.
+You can then use jn to control the player's movements for the time you keep holding li.
+253  =To execute Combination Play, press ll twice while the Combination Play icon is flashing on the screen.
+254  =To make your goalkeeper put the ball down, release ob, then press lj.
+255  =To make your goalkeeper pick up a ball that is on the ground, release ob, then press lj.
+256  =Use jm (or jo) to control the movements of your goalkeeper. If you hold lk at the same time, the keeper will lower his centre of gravity and move in towards the player who is on the ball.
+257  =Press lb while the goalkeeper has the ball in his hands to make him throw it.
+The longer you hold lb, the further the ball will travel.
+258  =Press ld while the goalkeeper has the ball in his hands to make him throw it into open space.
+The longer you hold ld, the further the ball will travel.
+259  =Press la while the goalkeeper has the ball in his hands to make him kick it up the pitch.
+The longer you hold la, the further the ball will travel.
+260  =Press lb just as the goalkeeper is about to kick or throw the ball to make him fake a pass.
+261  =To instruct your teammates to attack, you must first use jn to select the player who will receive the ball.
+You do this by pushing jn while holding li towards the direction of the intended player, then release jn. To deselect the player, press li again.
+262  =Once you have chosen the player who will be receiving the ball using li + jn, you as the goalkeeper can instruct your teammates to pass the ball to him by pressing either la,lb or ld. If no ball receiver was selected in advance, the COM will pass the ball automatically to the player deemed most appropriate.
+*To select the player to receive the ball press li + jn, and to deselect, press li.
+263  =If you want your teammates to pass the ball back to you, press lb. This can only be done if the ball is in your own half and there are no selected ball receivers.
+* To select ball receiver, press li + jn and li to deselect.
+264  =Once you have selected the player who will be receiving the pass, you can make him run by pushing jn in the desired direction.
+* To select ball receiver, press li + jn and li to deselect.
+265  =Once you have chosen the player who will be receiving the ball using li + jn, you as the goalkeeper can instruct his teammates to pick him out with a through ball by pressing ld. If no ball receiver was selected in advance, the COM will pass the ball automatically to the player deemed most appropriate. 
+266  =To get a teammate to shoot, press lc.
+267  =To get someone from your team to clear the ball to safety, press lc when the ball is in your own half.
+268  =When chasing an opponent who is on the ball, you can jostle by holding lj and lf.
+269  =Press le to perform a Sliding Tackle and slide towards the feet of an opponent who is on the ball. If you time it right, you can steal the ball, potentially setting up a dangerous counter attack.
+270  =Whenever the ball is in your own half, you can punt the ball away from goal by pressing lc.
+It is a useful defensive move when there are no safe ways to try and play the ball out from deep.
+271  =If you feel confident that you can guess which way your opponent will pass, shoot or try to pass you, push jm (or jo) in the desired direction to deal with the threat appropriately.
+273  =When controlling the goalkeeper, you can automatically adjust your position by holding lf. To fine tune your position further, you can use ob.
+274  =When controlling the goalkeeper, hold lj and lf to sprint towards the player on the ball in an attempt to close him down.
+275  =When controlling the goalkeeper, press le and ob towards the desired direction to make a diving block.
+*If no buttons are pressed, the goalkeeper will react automatically according to his saving abilities.
+276  =If you have direct control over your goalkeeper, you can quickly press lf twice to put your body in the way of incoming shots to make a save.
+277  =When controlling the goalkeeper, you can choose to trap an incoming ball rather than catching it by holding down jl before the ball comes into the box. This allows you to smoothly transition to your next play.
+*This does not apply when the goalkeeper cannot use his hands, such as with back passes from teammates.
+278  =To instruct your teammate to apply pressure on an opposition player who is on the ball, press lg.
+279  =When playing matches with the Fixed Cursor setting on, you can give general instructions to your outfield players while controlling just just one player. Press jo (or jm) towards the touchline to give instructions such as “Push the opposition to the flanks" or "Don't allow the opposition to make straight runs at goal".
+280  =To instruct the backline to push higher up the pitch or to drop back when necessary, press and hold oa towards either your own goal or the opposition goal.
+281  =To set the offside trap, quickly press oa twice towards the opposition goal and move the back line further upfield for a limited time.
+282  =To make players who are off the ball sprint, push ob while holding lj. However, making players constantly sprint will tire them out quickly which may prevent them from performing at their best towards the end of the match.
+283  =To run, push jm (or jo) in the desired direction when you are on the ball. Even if you were to release jm (or jo) while on the run, your momentum will continue to carry you forward.
+If you are trying to come to a sudden stop, release jm (or jo), then press lj to face the direction in which the ball is.
+284  =To take control of a different player by switching the cursor, press li.
+You will need to set your "Cursor Settings" to "Unassisted" if you want to switch cursors manually at all times.
+285  =If you want to take control of the goalkeeper as opposed to another outfield player, press li and jl at the same time. To reselect an outfield player, press li.
+286  =To manually select a player you want to take control of, push jn towards the intended player. On releasing jn, the cursor will move on to the selected player.
+287  =Preset Tactics can be changed in real time during matches by holding down ta or tb.
+You can select up to 3 Preset Tactics in Game Plan.
+288  =Press lj and lk at the same time to override and cancel any previous commands you have entered including passes or shots.
+289  =When controlling a single player on a fixed cursor setting, press ja to switch the camera target to either the ball or other players on the pitch.
+290  =When controlling a single player with the Fixed Cursor setting on, you can give loose defensive instructions to your teammates by pressing jo (or jm)  towards the touchlines while holding li.
+291  =When playing in an online match in the Team Play Lobby, you can communicate with other users who are on your side using 4 pre-set messages by pushing jn while holding ll. However, you can only chat when you are off the ball.
+292  =To change the kicker or thrower without opening the pause menu, press ja when there is a set piece situation including free kicks, throw ins, penalties and corner kicks.
+293  =Press lj in set piece situations such as penalties, corner kicks and free kicks to see the predicted flight of the ball.
+294  =When taking free kicks and corners, you can use jm (or jo) to control the ball's trajectory as you build up the power gauge in preparation to strike.
+To keep the ball low off the ground, push jm (or jo) .
+*To change the command, go to Support Settings.
+295  =When taking free kicks and corners, you can use jm (or jo) to control the ball's trajectory as you build up the power gauge in preparation to strike.
+To give the ball height, push jm (or jo) .
+*To change the command, go to Support Settings.
+296  =When taking free kicks or corner kicks, you can control the ball's trajectory with jm (or jo).
+Push jm (or jo)  to curl the ball by applying a leftward spin.
+*To change the command, go to Support Settings.
+297  =When taking free kicks or corner kicks, you can control the ball's trajectory with jm (or jo).
+Push jm (or jo)  to curl the ball by applying a rightward spin.
+*To change the command, go to Support Settings.
+298  =In set piece situations such as free kicks and corner kicks, you can select the direction and trajectory (use ob to control) of the resulting pass or shot in advance by pressing lk. This can be repeated up until the moment the player makes contact with the ball.
+299  =Press la while holding lk to play a high pass from a set piece.
+It can prove very effective if you have a tall target man playing up front.
+300  =In set piece situations such as free kicks, corner kicks or throw ins, take control of a player who is off the ball by pushing jn while holding li towards the direction of the intended player. Then release jn to play the ball towards him.
+301  =When going for goal from a free kick, you can hit knuckle shots, which take an unpredictable flight towards the goal. To put a knuckling effect on the ball, press lc once to set the power level, then press lc again just as you are about to strike the ball.
+302  =When taking a free kick, you can line up a second free kick taker by pressing ok while holding li or make him stand next to the first free kick taker by pressing ol also while holding li. The position they take depends on their dominant foot.
+303  =When you line up 2 free kick takers, you can get the first free kick taker to fake a run up by pressing lc quickly followed by lb. To get the second free kick taker to fake the run up instead, enter the same commands while also holding ll.
+304  =When you line up 2 free kick takers, you can get the first free kick taker to lay off the ball by pressing li + lb. This enables the second free kick taker to shoot from a position where there is less chance of hitting the wall. To reverse the roles, enter the same commands while holding ll.
+305  =When you're awarded a free kick, you can sometimes opt to take it quickly. If you judge that the opposition defence isn't ready, it's the perfect chance to catch them off guard.
+306  =When defending Free Kicks, players in the wall will automatically jump to try and block the incoming ball. However, you can press le to choose when they jump, or hold down lb to stop them jumping at all.
+307  =When defending Free Kicks, you can hold down lg in time with the kick to make your players charge towards the free kick taker.
+308  =When defending Free Kicks, you can hold down lh in time with the kick to make your goalkeeper edge towards the near post in anticipation of the shot coming that way. Guess the direction of the shot correctly, and your chances of saving it improve; guess wrongly, and you risk conceding.
+309  =To play a short corner, press li to get a teammate to come closer to the corner flag before you kick the ball.
+310  =Perform a throw in with lb. The longer you press and hold lb before releasing, the farther away a target you can reach with your throw.
+311  =When taking a goal kick, you can move the entire team further up the pitch or drop back deeper by pressing li.
+312  =When taking a penalty, the amount of power in your shot depends on how long you press lc or in other words, how much you build up the power gauge.
+Weaker penalties tend to have better placement while going for power leads to reduced accuracy.
+313  =To take a chipped penalty, press lc while holding li. This is the perfect way to show up a goalkeeper who has already decided which way to dive.
+314  =When facing a penalty, you can adjust the goalkeeper's position by pushing ob toward the desired direction up to the moment the penalty kick taker strikes the ball.
+315  =A goalkeeper stands a decent chance of saving a powerfully struck penalty if you guess right by pushing ob in the direction you want before the ball is struck. However, this technique doesn't work so well against penalty takers who deliberately take weak shots to disrupt your rhythm and make you commit early.
+316  =A player may sometimes choose to go for placement over power when taking a penalty. In such cases, the keeper can quite comfortably pull off a save by pushing ob to dive after the ball has been struck. However, this doesn't work well against powerful strikes where committing early is the key to making a save.
+317  =When an opponent who is chasing you tries to get a grab of you, push jn in his direction to spread your arms and hold him off.
+318  =Quickly tap lf twice to perform a tackle on an opposition player. Performing a tackle from behind is particularly risky, as referees are strict in awarding fouls for unfair challenges and worse yet, should you mistime your tackle, the opponent can leave you for dead. Keeping an eye on your opponent's movements is the key to a successful tackle.
+319  =When jostling with an opposition player on the ball, you can dispossess him by shoulder barging him. Push jn towards your opponent just as you are about to make physical contact. However, make sure you don't overdo it as you can easily give away fouls or possibly even worse.
+320  =When defending, hold lg to instruct your teammates to pressurise the opposition player who is on the ball.
+321  =To get 2 to 3 players from your team to apply pressure on an opposition player who is on the ball, quickly press lg twice, then continue to hold lg.
+323  =When set to "Basic", you can take aim at 1 of 3 directions. Right, Left and Centre.
+When set to "Advanced", you can take aim at any spot within the goal mouth. 
+When set to "Semi-Assist", you will have full control over both the direction and power of your shot.
+324  =To get a player from your team to pressure and close down an opponent who is on the ball, hold lf.
+Once close enough, he will automatically attempt a tackle.
+325  =Some players may possess Special Abilities called Playing Style. When players with a Playing Style are played in their correct positions, these players will display distinctive movements when off or receiving the ball.
+326  =Some players possess Special Abilities called COM Playing Styles.
+These skills trigger special actions such as specific feints when the COM is controlling the player on the ball.
+327  =Some players possess Special Abilities called Player Skills. It allows players for example to shoot when they are off balance or in awkward positions.
+328  =This is one of the 3 selectable options in Preset Tactics.
+Choose whether you prefer the team to keep its overall shape under all circumstances or for to move in a way that draws out passes between teammates.
+329  =This is one of the 3 selectable options in Preset Tactics.
+Choose how far supporting players will position themselves from the player on the ball.
+330  =This is one of the 3 selectable options in Preset Tactics.
+Choose how frequently you want players who are off the ball to interchange positions with their teammates.
+331  =This is one of the 3 selectable options in Preset Tactics.
+Choose how far up the pitch you want your players to pressure the opposition when trying to win back possession.
+332  =This is one of the 3 selectable options in Preset Tactics.
+Choose where you want to deploy your defensive line.
+333  =This is one of the 3 selectable options in Preset Tactics.
+Choose how closely players position themselves to each other when defending.
+334  =This is one of the 3 selectable options in Preset Tactics.
+Choose whether you want the team to build up steadily or make forward attacking runs when turning defence into attack.
+335  =This is one of the 3 selectable options in Preset Tactics.
+Choose the team's overall balance in terms of attack and defence.
+336  =To set up your "Combination Play" settings, select Combination Play in Game Plan.
+Combination Play allows your players to act in tandem in to create space or to lose markers in a specific area of the pitch around the opposition goal. You can choose up to 3 such combined strategies for each area.
+337  =Control Tips: Close Control
+338  =Control Tips: Trap Feint
+339  =Game Plan: Team Instructions
+340  =Game Plan: Changing the numbers of players in defence
+341  =Attacking Instructions: Build Up
+342  =Attacking Instructions: Attacking Areas
+343  =Attacking Instructions: Positioning
+344  =Game Plan: Changing the numbers of players in attack
+345  =Defensive Instructions: Defensive Styles
+346  =Defensive Instructions: Containment Area
+347  =Defensive Instructions: Pressuring
+348  =Control Tips: Quick Pressure
+349  =Control Tips: Giving instructions using in-game chat
+350  =Press lk when dribbling to pull off a jinking run. The jinking run allows you to face the opposition goal at all times while keeping close control of the ball.
+This move allows you to keep opposition markers at an arms length while you look for any openings to beat him. Alternatively, it could be used to evade any unwanted attention when in tight space.
+351  =Hold lj but release ob just as you trap the ball to execute the trap feint. The player will turn and chase the ball rather than take a touch to control it. This is particularly useful if you want to run onto the ball while making use of its pace or to outwit any marker who is looking to move in as you try to bring the ball under control.
+352  =Select team instructions for both situations where the team are in/out of possession.
+Team instructions can alter the team's overall movements. For example, it could make players run in a certain way during a counter-attack or chase opposition players into selected areas of the pitch when defending.
+353  =A sub-setting which you can select in Game Plan for "Attacking Instructions". If set high, players stand further apart from each other creating more routes for passes.
+To choose your setting, select [Preset Tactics] → [Attacking Instructions].
+354  =A sub-setting which you can select in Game Plan for "Defensive Instructions". This dictates how deep a position the defensive line takes up.
+To choose your setting, select [Preset Tactics] → [Defensive Instructions].
+355  =A sub-setting which you can select in Game Plan for "Defensive Instructions". This dictates how spread out the defensive line is.
+To choose your setting, select [Preset Tactics] → [Defensive Instructions].
+356  =Team Instructions which you can select in Game Plan which apply to situations where the team are out of possession. This allows you to choose the number of players who will drop back and defend.
+To choose your setting, select [Preset Tactics] → [Team Instructions].
+357  =Team Instructions which you can select in Game Plan which apply to situations where the team are in possession. Select "Long-pass" if you are looking to play long balls from deep or "Short-pass" if your preferred style is a possession based game in which you play around the opposition.
+To choose your setting, select [Preset Tactics] → [Attacking Instructions].
+358  =Team Instructions which you can select in Game Plan which apply to situations where the team are in possession. Select "Middle" or "Wide" based on whether you prefer to build your attacks through the centre or down the wings.
+To choose your setting, select [Preset Tactics] → [Attacking Instructions].
+359  =Team Instructions which you can select in Game Plan which apply to situations where the team are in possession. Select "Maintain Formation" or "Flexible" based on whether you want the team to keep its overall shape at all times or to move in a more fluid manner with players constantly exchanging positions.
+To choose your setting, select [Preset Tactics] → [Attacking Instructions].
+360  =A sub-setting which you can select in Game Plan for "Attacking Instructions". This allows you to choose the number of players who will join the attack.
+To choose your setting, select [Preset Tactics] → [Team Instructions].
+361  =Team Instructions which you can select in Game Plan which apply to situations where the team are out of possession. Select "Frontline Pressure" or "All-out Defence" depending on whether you are looking to win the ball back further upfield or to defend deep in numbers.
+To choose your setting, select [Preset Tactics] → [Defensive Instructions].
+362  =Team Instructions which you can select in Game Plan which apply to situations where the team are out of possession. Select "Middle" or "Wide" depending on which areas of the pitch you want to focus when preventing opposition runners from breaking through.
+To choose your setting, select [Preset Tactics] → [Defensive Instructions].
+363  =Team Instructions which you can select in Game Plan which apply to situations where the team are out of possession. Select "Aggressive" or "Conservative" depending on whether you want players to chase and close down opposition players who are on the ball, or to slow them down while keeping a safe distance to reduce the risk of being beaten for pace.
+To choose your setting, select [Preset Tactics] → [Defensive Instructions].
+364  =To quickly close down opposition players, hold lj while pressing lf. However, running makes it harder for players to turn which makes it easier for opponents to take evasive action.
+365  =Team Instructions which you can select in Game Plan which apply to situations where the team are in possession. Select "Counter Attack" or "Possession Game" depending on whether you want the team to constantly look to play on the break or to retain the ball when space is at a premium.
+To choose your setting, select [Preset Tactics] → [Attacking Instructions].
+366  =Master League: Player Skills
+367  =Master League: Team Spirit
+368  =Master League: Team Role
+369  =Master League: Still Developing
+370  =Master League: Monthly Report
+371  =Master League: Affection
+372  =Master League: Nickname
+373  =Become a Legend: Manager's Trust Level
+374  =Become a Legend: Player Skills
+375  =Become a Legend: Position Learning
+376  =Become a Legend: Internationals
+377  =Become a Legend: Offer Received
+378  =Become a Legend: Player Data
+379  =Master League: Players to Watch
+380  =Tip: Area Events
+381  =Tip: Battling for a High Ball
+382  =Tip: Sub-Team Instructions
+383  =Tip: Dynamic Weather
+384  =Dynamic Wide Camera
+385  =Tip: Trick Passes
+386  =Tip: Slipping and Falling
+387  =After scoring a goal, you can make your player perform simple actions, or have him perform his own unique goal celebrations.
+If you change a player's goal celebrations using Edit Player, this will be reflected in the controls that are available to you post-scoring.
+388  =A Goal Celebration allows you to direct your player to a specific section of the stadium, where they will launch into a celebratory performance. It's up to you to find out what kind of performances are available!
+389  =If you attempt to tackle an opposition player when positioned alongside them, you will perform a Shoulder Barge. If this is successful, you will knock your opponent off-balance and steal the ball. Be careful, however. A foul will be given if you barge into an opponent with too much strength, or from behind.
+390  =When the ball's been launched into the air as a result of a long pass or a clearance, you can use ob to control the player located near where the ball will land. This allows you to perform various maneuvers, such as moving into a better position to beat an opponent who has a height advantage or taking a step back to blast a volley. Make sure to try various moves and see what you can pull off!
+391  =Based on the Team Instructions you select, various interrelated plays known as sub-team instructions will be carried out, allowing you to overwhelm the opposition more effectively, or steal the ball from them more efficiently. Sub-team instructions are more likely to be executed when Team Spirit is high.
+392  =In most modes, rain may start falling at any point during a game. Rain will change the condition of the pitch, affecting the movement of the ball and the players. Be sure to adjust your playing style to suit the conditions.
+393  =The default Dynamic Wide Camera setting allows you a good view across the width of the pitch. When the opposition is pressing hard, this can allow you to spot a player who's in space on the wing, potentially creating a great goalscoring chance.
+394  =Players who have a high passing ability or special passing skills can perform trick passes depending on the circumstances. These can involve floating the ball to a teammate, or kicking the ball using their standing leg. Draw the opposition defence towards you, then unleash a devastating final pass!
+395  =Changing direction at high speed can lead to a player slipping and falling over. It's especially easy to slip when it has been raining, and the pitch is wet. Leading an opponent to think that you're heading in one direction before feinting and going the other way can lead to them charging in and slipping to the ground, giving you a great chance to create something!
+396  =Control Tips: Shoulder Barge
+397  =Setting Advanced Instructions will give your players a distinctive style of play and allow them to adapt to the opponent's attacks.
+Experiment by combining these tactics with specific Team Instructions and see what you can get out of your players.
+398  =During a match, you can make changes to the "Attack/Defence Level", allowing you to adjust the number of players in attack and defence and tweak their positioning.
+When Attack/Defence Level is at its highest level, the CB can come forward and threaten the opposition's goal. If it is at its lowest level, on the other hand, your whole team will play defensively, making it good for when you're trying to run down the clock.
+399  =For corner kicks or free kicks near the corner, the attacking team can choose from 4 strategies, including Dash and Train, while the defending team can choose from Zonal, Man-to-Man or Mixed. Try to select the strategy most appropriate for your players' strengths and the tactics of the opposition.
+400  =Press oa while holding ll during a match to toggle Advanced Instructions ON and OFF in real time.
+Advanced Instructions are a part of your Game Plan and allow you to set two attacking tactics and two defensive tactics.
+401  =If you quickly press ta twice, you can increase the Attack/Defence Level.
+Alternatively, press tb to decrease the Attack/Defence Level.
+There are five Attack/Defence Levels. The higher the level, the more attacking your team will be.
+402  =When taking a corner kick or free kick, use td to select "Set Piece Strategies".There are strategies for taking Free Kicks as standard and also strategies for Corner Kicks and Free Kicks near corners. There are 4 Set Piece Strategies available for the attacking team, and 3 for the defending team.
+403  =COM-controlled teams can also use Advanced Instructions and Attack/Defence Level in line with the flow of the game.
+If your attacking tactics start to run you into trouble, try switching your style.
+404  =Even if you don't get booked for a foul, if you keep committing the same type of foul, you are liable to eventually earn a yellow card.
+If the referee has a word, take note and try to avoid committing further fouls.
+405  =If you keep dribbling at pace over a long distance, the player will grow tired and their precision will decrease.
+You don't want to miss the target, so try not to burn out when engaged in a Dash Dribble.
+406  =From the Simple Settings in Game Plan, use Simple Tactical Settings to automatically set your team's Formation, Team Instructions and Starting Lineup based only on your preferred tactics.
+It's a good idea to switch tactics depending on your opponent as it may open your eyes to new ways to play.
+407  =If one of your players scores a goal in an online match, they can perform a Goal Celebration.
+But note that you will only be allowed one uninterrupted chance per match to bask in goal-scoring glory. After that, your opponent can choose to skip your celebrations, so think about saving it until that all-important winning goal.
+408  =Use the ob when receiving a pass and you will move towards the ball as you take it.
+You can make use of this in a variety of tactical moves, whether it's beating the player you're marking to the ball, taking the ball without dropping your pace and unleashing a shot at goal, or dummying and beating your man.
+409  =By setting it so your Controller vibrates when you shoot or are engaged in physical play, it can really up the excitement.
+You can toggle this function ON and OFF by going to System Settings and selecting "Controller Vibration Setting".
+410  =Control Tips: Switch Advanced Instructions
+411  =Control Tips: Switch Attack/Defence Level
+412  =Corner Kick: Corner Kick Strategies
+413  =Tip: COM Team Tactics
+414  =Tip: Repeated Fouling
+415  =Tip: Long-Distance Dash Dribble
+416  =Game Plan: Simple Tactical Settings
+417  =Tip: Online Match Goal Celebrations
+418  =Tip: Moves When Receiving Passes
+419  =Settings: Controller Vibration
+420  =Set Piece Strategies (Corner Kicks): Dash
+421  =Set Piece Strategies (Corner Kicks): Train
+422  =Set Piece Strategies (Corner Kicks): Far Post
+423  =Set Piece Strategies (Corner Kicks): 6-Yard Box
+424  =Set Piece Strategies: Man-to-Man
+425  =Set Piece Strategies: Zonal
+426  =Set Piece Strategies: Mixed
+427  =A number of players rush from the back of the penalty area towards the goal mouth. Before the corner kick, press td to select the Set Piece Strategies you wish to use.
+428  =A number of players form a line in the middle of the penalty area, making it hard for opponents to mark them. Before the corner kick, press td to select the Set Piece Strategies you want to use.
+429  =A number of players gather near the far post. A player is also stationed in the middle of the penalty area, ready to deflect the cross. Before the corner kick, press td to select the Set Piece Strategies you want to use.
+430  =Several players are stationed by the six-yard box. Another player is stationed by the penalty spot, ready to pounce on any loose balls. Before the corner kick, press td to select the Set Piece Strategies you want to use.
+431  =Utilize man-to-man marking on your opponents. This is a particularly good defensive strategy when no overall tactics have been set. Before the corner kick, press td to select the Set Piece Strategies you want to use.
+432  =Players are positioned in front of the goal, each responsible for defending their zone. Before the corner kick or free kick, press td to select the Set Piece Strategies you wish to use.
+433  =Players are positioned in front of the goal for corner kicks and on the back line for free kicks, each responsible for defending their zone and man-marking players. Before the corner kick or free kick, press td to select the Set Piece Strategies you wish to use.
+434  =Earn GP With Corner Kick Strategies!
+435  =Earn GP by Switching Attack/Defence Level!
+436  =By making use of Corner Kick Strategies, you can earn GP rewards.
+Select from the Corner Kick Strategies displayed in the simple pop-up window prior to the corner kick.
+
+Use oa and  to choose your approach.
+*When the Camera is Behind the Goal.
+437  =By switching your Attack/Defence Level, you can earn GP.
+You can adjust your players positioning during games, adapting strategy to attack or defend.
+
+Quickly press oa twice to raise the Attack/Defence Level.
+Quickly press oa twice to lower the Attack/Defence Level.
+*When the Camera is Behind the Goal .
+438  =Master League: Budget
+439  =Master League: Position Learning
+440  =Master League: Club Operations
+441  =Master League: Import a myClub Player
+442  =Become a Legend: Preferred Number
+443  =Become a Legend: Preferred Position
+444  =Game Plan: Advanced Instructions
+445  =Settings: Role Control
+446  =Settings: Co-op Match Settings
+447  =Tip: Blocking
+448  =It's possible to automatically move into position to be able to cut off passes or block shots.
+By turning Auto Sliding OFF in Edit Personal Data only Sliding Tackle blocks will not be possible.
+449  =Tip: Attack/Defence Level
+450  =Tip: Corner Set Piece Strategies
+451  =Tip: Goal Celebration
+452  =Tip: Stadium Settings
+453  =Tip: Dynamic Wide Camera
+454  =Control Tips: High Ball Positioning
+455  =Control Tips: Icon Chat
+456  =Free Kicks (Attacking): Position Shift
+457  =Free Kicks (Attacking): Switch Camera Angle
+458  =Set Piece Strategies (Free Kick): Dash
+459  =Set Piece Strategies (Free Kick): Target Man
+460  =Set Piece Strategies (Free Kick): Far Target
+461  =Set Piece Strategies (Free Kick): Dash and Hold
+462  =Set Piece Strategies (Short Corner)
+463  =Set Piece Strategies (Short Corner): Touchline
+464  =Set Piece Strategies (Short Corner): Runner From Edge of Box
+465  =Set Piece Strategies (Short Corner): Runner From Deep
+466  =Set Piece Strategies (Short Corner): Two Options
+467  =Support Settings: Next Player Indicator
+468  =Tip: Set Piece Strategies(Free Kick)
+469  =Tip: Set Piece Strategies(Short Corner)
+470  =Tip: Goal Celebration (CO-OP Match)
+471  =Online CO-OP
+472  =Online CO-OP: Casual Match
+473  =Online CO-OP: Clan
+474  =Online CO-OP: Follow
+475  =Online CO-OP: Following List Invites
+476  =Online CO-OP: Rejection List
+477  =Online CO-OP: Guest Users
+478  =Online CO-OP: CO-OP Division 
+479  =Online CO-OP: CO-OP Level
+480  =myClub: myClub CO-OP
+481  =myClub: Shirt Number Settings
+482  =myClub: Final Round Auto Bids
+483  =myClub: Scout Database
+484  =myClub: Level Cap
+485  =Master League: Club Operations
+486  =While holding lk to receive a high ball such as from a goal kick, adjust your positioning with ob.
+487  =In Online CO-OP, press jn while holding ll when the ball is out of play to switch between four emoticons.
+488  =Press li during Free Kicks to cycle through options for how far or near players are positioned relative to one another. 
+489  =When defending Free Kicks from central positions, press jl to cycle through the different camera angles. There are angles to help with direct free kicks, as well as those for free kicks that lay the ball off to a shot taker.
+490  =A number of players line up horizontally in a forward position before rushing towards the goal mouth. This is not triggered when close positioning is selected as a Position Shift option. 
+Press  td when there's a free kick to select the Set Piece Strategies.
+491  =Players strong in aerial duels are positioned in a forward position. When one of these players receives a long ball pass, nearby teammates ready themselves to be played in on goal. 
+This is not triggered when close positioning is selected as a Position Shift option. Press  td when there's a free kick to select the Set Piece Strategies.
+492  =A number of players line up horizontally in a forward position. As the free kick taker takes the kick, one teammate sprints down one of the wings. Others players push up, ready to receive the ball in an advanced position. This is not triggered when close positioning is selected as a Position Shift option. 
+Press  td when there's a free kick to select the Set Piece Strategies.
+493  =A number of players line up horizontally in a forward position. Some rush towards the goal mouth while others hang back to protect against the counterattack. This is not triggered when close positioning is selected as a Position Shift option. 
+Press  td when there's a free kick to select the Set Piece Strategies.
+494  =Press tc during a Corner Kick to select a Short Corner strategy. 
+There are four Short Corner strategies.
+495  =One player is positioned along the touchline near the corner. 
+Press  tc during the corner kick to select a Short Corner strategy.
+496  =One player is positioned near the corner of the edge of the box. 
+Press tc during the corner kick to select a Short Corner strategy.
+497  =One player is positioned far away from the penalty area. 
+Press tc during the corner kick to select a Short Corner strategy.
+498  =One player is positioned along the touchline and another between the kicker and the goal. 
+Press  tc during the corner kick to select a Short Corner strategy.
+499  =This is one option in Personal Data. When off the ball, this will help you understand which player you will switch to. Additionally, when executing a Call for Pressure, the player to apply pressure will be indicated by this cursor.
+500  =For free kicks, the attacking team can choose from 4 strategies, including Dash and Target Man, while the defending team can choose from Zonal, Man-to-Man or Mixed. Try to select the strategy most appropriate for your players' strengths and the tactics of the opposition.
+501  =For corner kicks, the attacking team can choose from 4 Short Corner strategies, including Touchline and Runner From Edge of Box.
+502  =After scoring in a CO-OP match, entering the command indicated on the top of the scorer's head will trigger a CO-OP celebration. Other players will join in with the scorer to put on a coordinated performance.
+503  =Online CO-OP allows for up to three users to play a CO-OP match. Skilfully build play between yourselves through controlling off-the-ball players with target cursors and victory will be yours.
+504  =In Online CO-OP Casual Matches, you will be automatically matched with CO-OP partners and an opposition side to play against. Your side is also chosen automatically in Casual Matches.
+505  =In Online CO-OP you can create your own Clan and join other users' Clans. Try joining up with friends to climb your way up the Clan Rankings.
+506  =Follow other users you've played with in an Online CO-OP match and you'll have the chance to join their matches when those users start a Clan Match. To join a match go to the Main Menu in any mode and select "jkCO-OP Room List" before proceeding to the Match Room.
+507  =In Online CO-OP, you can invite other users on your Following List to your Clan.
+508  =After a CO-OP match, you have the option to add users you played with to your Rejection List. Whenever you play a Casual Match, you won't be matched with any user on your Rejection List.
+509  =In Online CO-OP matches, you also have the option to add a Guest User to your team so you can enjoy local CO-OP play with a friend or family member at home. You can add up to two Guest Users for a maximum of three CO-OP users.
+510  =Online CO-OP Clans are placed in Division based on their Clan Match results. Results are tallied on a regular basis to determine which Division your clan plays in.
+511  =In Online CO-OP, you are awarded points post-match based on your match performance. This in turn will affect your CO-OP Level. Earn more points than is standard for your current level and your level will go up. Earn less, on the other hand, and your level will go down.
+512  =In myClub CO-OP up to three users can play together in competitive matches. Players are automatically selected from each user's Squad, and post-match rewards are dependent on your Squad strength. The more powerful your Squad, the more rewards up for grabs.
+513  =You can assign a fixed shirt number for up to 25 of your players. Players with an assigned fixed shirt number are assigned that number when registered to the Squad. You can assign numbers by going to Squad Management → jcTeam Menu → Shirt Number Settings.
+514  =You can pre-select a Final Round bid during an Auction's 1st Round. Auto Bids can be changed to be used as a final bid or withdrawn entirely during the Final Round.
+515  =Use the database to quickly search for Scout combinations that can sign specific targets. From the Contract tab in the myClub Main Menu select "Scouts" → "Database" to identify your target player. This will list up all the scouts that can sign players on your List of Targets, helping you identify various potential scout sets.
+516  =The level cap for players is determined on a player-by-player basis. Players with low starting ability (at Lv.30) or young players are given a high level cap, and vice versa.
+517  =You can choose between Classic or Challenge playing modes. In Challenge you will face many hurdles as you manage your team.
+518  =Edit: Import Team
+519  =myClub: RANKED MATCH
+520  =myClub: Acclaim
+521  =myClub: Weekly PES LEAGUE
+522  =myClub: WHAT'S ON
+523  =myClub: Skill Trainer
+524  =myClub: Position Trainer
+525  =myClub: Duplicate Signings (Agents)
+526  =myClub: Updates to List of Targets
+527  =myClub: Duplicate Signings (Scouts)
+528  =myClub: Other Users' Squads
+529  =myClub: Converting Players
+530  =Control Tips: Quick Substitutions
+531  =Tip: Player Fatigue
+532  =Tip: Match Injuries from Player Fatigue
+533  =GK controls: High Punt Kick
+534  =Control Tips: Bring out the Goalkeeper

@@ -1,0 +1,11 @@
+77   =Lcm11W
+
+0    =Sponsor(s)
+4    =Annual Sponsorship
+5    =Supporters
+6    =Sales of %s Merchandise
+7    =Sales of Merchandise (%d Other Player(s))
+8    =Extra Effect of %s
+9    =Extra Effects (%d Other Player(s))
+10   =(Up %d％)
+11   =Fan-Favourite Bonus

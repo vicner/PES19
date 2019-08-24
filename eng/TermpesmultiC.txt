@@ -1,0 +1,5 @@
+940  =TermpesmultiC
+
+56   =Competitions
+125  =Squads
+175  =Reserve teams

@@ -1,0 +1,20 @@
+299  =G2T
+
+128  =Injuries
+130  =Return to Top Menu?
+Unsaved data will be lost.
+131  =Qualifying Round time has expired. This match will now be abandoned.
+132  =First knockout round time has expired. This match will now be abandoned.
+133  =Quarter-finals time has expired. This match will now be abandoned.
+134  =Semi-finals time has expired. This match will now be abandoned.
+599  =This is one of the 3 selectable options in Preset Tactics.
+601  =We've detected that your connection with your opponent is not stable.
+Press ll + ja within 15:00 of the 1st half to request to abandon the match. Once confirmed, the request can't be withdrawn.
+Only when the other user also requests the same will the match end and be considered void.
+602  =When both users request to abandon the match within 15:00 of the 1st half, the match will be abandoned and deemed void.
+Neither user will be informed of the other's desire to abandon the match or not.
+You can also request to abandon the match during play by pressing ll + ja.
+Do you want to send a request to abandon the match?
+603  =You requested to abandon the match.
+605  =You've requested to abandon the match.
+Only when the other user also requests the same will the match end and be considered void.

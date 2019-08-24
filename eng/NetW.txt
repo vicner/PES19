@@ -1,0 +1,26 @@
+44   =NetW
+
+24   =Your Connection was timed out.
+57   =Communication Error
+118  =Testing Network Environment
+120  =Please make sure your Network Settings are configured correctly.
+121  =Unable to connect to Connection Test Server.
+122  =The server may be too busy or taken down for maintenance work. Communications may also be restricted by your Firewall software or Router.
+123  =Unable to communicate through UDP port %d.
+124  =You may need to connect your hardware directly to the internet or correctly configure networking devices such as your router.
+125  =Apply DMZ, Port Mapping, NAT Table Configurations and other router settings to your PC system. Individual hardware systems may use unique terminology.
+133  =Auto Settings
+134  =UDP Port Number
+136  =When switched ON, UDP ports are automatically configured. If left OFF, the user is required to configure UDP Ports manually.
+137  =The range of valid port numbers is as follows:
+*The default number is %d
+160  =Update
+270  =Please help with our survey on PC Specs.
+
+ There is a feature in re, which sends details of our customers' PC specs to the Konami Digital Entertainment server in total anonymity. The information sent to KONAMI (hereinafter referred to as 'data') includes details of both your PC hardware and Operating System.
+
+ KONAMI will not, in any shape or form, intentionally collect any information such as files, names, addresses or email addresses which may reveal your identity. Furthermore KONAMI will not use this data, which may include personal details, to identify its customers.
+
+ This data will be stored on KONAMI's database using a secure computer server and will only be used for related software
+and the improvement of our services.
+271  =Send PC Spec Data?

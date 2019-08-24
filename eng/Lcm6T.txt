@@ -1,0 +1,135 @@
+260  =Lcm6T
+
+26   =No players meet the search conditions.
+27   =The transfer window is a crucial period for any club.
+While negotiations to sign or release players can be held throughout the season, players can only move from one club to another during the times the transfer window is open.
+
+The transfer window is open only for two periods in a calendar year.
+The off season and during mid season.
+The off season is often where the big transfers are made and they can make or break a club's fortunes in the coming season.
+
+It is imperative that you assemble a squad of players who will get you through a long gruelling season during these times.
+28   =To sign a new player, you have to negotiate on 2 fronts: the player himself, and the club that he plays for.
+The first step is to go to [Negotiations] to search for the type of player you need, then start negotiations over a potential deal.
+
+Replies will come in once you forward the date.
+Choose your targets wisely, as there are limits to the number of players you can talk to.
+29   =In the [Negotiations] menu, there is a "List of Targets" which systematically shortlists all players that you have a realistic chance of signing at an affordable price. These players have also been checked for how well they would fit in with your team strategy.
+
+If you ever find yourself lost in the chaos that is the transfer market, this list will be a very good starting point.
+30   =Your career in professional football starts once the transfer window closes.
+As there isn't much you can do up until then, it would be a good time to check out your current status.
+
+What are your strengths? What is your best position?
+What sort of tactics does the team use and who are your teammates? These are all very important.
+31   =Player development isn't restricted to just matchday as they are put through their paces in everyday training.
+
+You can change training regimes in [Player Menu].
+Training isn't just limited to improving basic skills such as shooting or passing. You can work on how to play in new positions as well as picking up special skills.
+If you feel that there are areas in your game that needs improving, the first place you should look to is training.
+32   =Naturally, players have to be paid, and signing players is also an expensive business.
+Gate receipts and sponsorship will serve as the main source for such funds.
+
+The players' annual salaries, which form the bulk of your yearly expenditures, are paid once the off season transfer window closes in August.
+To check your net funds after such payments, select [Expected Earnings].
+
+The [Expected Earnings] will serve as guidance when it comes to deciding your operation methods.
+33   =As the season progresses, you might receive a number of transfer offers.
+These might not have been from teams you want to move to, however.
+To increase your chances of a favourable transfer, you can specify which teams you'd like to move to from the Negotiations Menu.
+
+Of course, simply specifying your team of choice doesn't mean you'll get a move there.
+It all depends on how that team is doing, how you are doing, your abilities, and so on. Perhaps when everything falls into place, you'll get the move you've been waiting for.
+34   =If negotiations prove successful, it's time to decide how much will be paid in transfer fees and wages.
+Once you've reached an agreement over the terms, you can finalise the deal.
+If not, you can always try renegotiating on new terms.
+35   =You have qualified for the next na.
+36   =You have qualified for the next nb.
+37   =You have secured nd football for your club next season.
+38   =You have secured AFC Champions League football for your club next season.
+39   =Congratulations! Your efforts this season have earned the club a place in the na Group stage next season!
+40   =Congratulations! Your efforts this season have earned the club a place in the na next season! The club will have to go through the Play-offs,  but that doesn't mean you can't aim high.
+41   =You have qualified for next season's nb. Playing in this continental tournament will be a great experience for your players. Try and make your mark on the competition!
+42   =Congratulations!
+Thanks to your efforts, the club has secured a place in next season's nd Group stage!
+43   =Congratulations!
+Thanks to your efforts, the club has secured a place in next season's nd!
+The club must first make it through the Qualifying Round, but there's always room for hopes and expectations.
+44   =Congratulations!
+Thanks to your efforts, the club have secured a place in next season's AFC Champions League!
+45   =The transfer window is the only time of the year where player contracts can be renewed.
+As with all things, it's always advisable to get them done as early as possible.
+
+The transfer window is also the only time when new players can join the team.
+So, make sure that you finalise any ongoing negotiations during this period..
+46   =If you are thinking of moving to another team, then make sure that you seal the deal while the transfer window is open.
+Same goes for any contract extensions offered by your current club if you are looking to stay.
+47   =Today is transfer deadline day.
+All ongoing negotiations must be finalised today.
+All players who are currently negotiating over new contracts will automatically be given extensions to their existing deals.
+48   =This year is a special year where the greatest event on the footballing calendar, the "International Cup" is held. For many nations, it's been a 4 year wait to be named the greatest footballing nation on this planet.
+Offers coming from any national team, should be seen as a huge honour as well as a show of faith as they clearly feel that you are the ne that will guide them to glory.
+For teams that failed to make it, it will be a new beginning. A time for team building by looking out for talents and devising new tactics in friendly matches.
+49   =While there is no International Championships this year, the Continent-based Championships are only around the corner.
+It will be a good to be prepared for next year by starting to build a team now so that the players will be ready when their big day comes.
+50   =The 4 yearly Continent-based Competitions will be held this year.
+It is a huge competition where the bragging rights over an entire continent is at stake.
+If you have any offers, one of the key factors you need to take into consideration would be, the region the team is from. This ultimately decides which championship they will be playing in.
+51   =The qualifying rounds for the International Cup will be played this year.
+Unless the team make it through, there will be no place for them in the finals.
+This will be a huge year for all international teams.
+52   =All the fixtures on this season's calendar have now been completed. The transfer window will reopen tomorrow.
+It's time to reflect upon the team's performances as well as those of the individual players and decide what sort of team you want to build for next season.
+53   =The club have secured a place in next season's Copa Sudamericana.
+54   =Congratulations!
+Thanks to your efforts, the club has secured a place in next season's Copa Sudamericana Group stage!
+55   =Congratulations!
+Thanks to your efforts, the club has secured a place in next season's Copa Sudamericana!
+The club must first make it through the Qualifying Round, but there's always room for hopes and expectations.
+56   =There is no data available.
+Various team and player stats are tallied here.
+Data can be viewed when multiple matches have been played.
+(Matches played in Coach Mode and skipped matches are not included.)
+57   =The Team of the Month for the %s has been announced.
+58   =This month's Monthly Report is now ready.
+
+It contains all sorts of information, such as whether we were able to play according to our Team Instructions, which plays were effective and which were ineffective, and much more. It's a really useful source of information for our forthcoming matches.
+59   =The transfer window closes today.
+There's likely to be a lot going on today, but just be aware that the clock is ticking.
+Transfers cannot be concluded after midnight, so that gives you another %d hour(s).
+Be aware that everything takes time, so think carefully about how you want to proceed.
+60   =The transfer window will close in %d hour(s).
+61   =The transfer window will close in %d hour(s).
+The clock is ticking!
+If there are any offers that haven't been concluded yet, now's the time.
+When the deadline is reached, all ongoing transfer negotiations will be cancelled, and any player contracts being discussed will be automatically renewed.
+62   =The transfer window will close in %d hour(s).
+The clock is ticking!
+If there are any offers that haven't been concluded yet, now's the time.
+When the deadline is reached, all ongoing transfer negotiations will be cancelled, and any player contracts being discussed will be automatically renewed.
+63   =The date has changed and the transfer window is now closed.
+That was a pretty hectic day, wasn't it?
+Now you know the team you will be working with for the next six months.
+Now it's up to you to bring out their full potential!
+64   =VERSUS mode pits users against each other and/or the COM. The game data will be stored, allowing you to view the match stats against particular opponents as well as study each player's performance.
+65   =This will delete all match data in VERSUS mode.
+Ranking information and playing trait data will also be lost.
+Note that Personal Data settings will not be deleted.
+66   =Each player has a Personality, which is made from one trait from the following four categories: Team Player or Lone Wolf, Passion or Composure, Technique or Physical, Instinct or Insight. A player's Personality can change depending on the team's Playing Style, training and how a match plays out.
+
+A player's "Impact" is their overall presence within the team. The higher the player's Impact, the stronger the Team Role they develop. A player's Impact can improve through better performances and an increase in stats.
+67   =This will vary according to the distance a player covers in a match and the number of times they receive the ball.
+68   =This will vary according to a player's overall contribution during a game.
+69   =This will vary according to how successfully a player passes during a game and how closely their performance matches their team's overall tactical approach.
+70   =This will vary according to the skills a player has mastered and the parameters that indicate their technical prowess.
+71   =Configure home team controls.
+72   =Configure away team controls.
+73   =Normal: Standard control settings.
+Coach Mode: You only control game plan settings and substitutions. Cannot be changed mid-match.
+
+74   =All fixtures for this season's calendar have been completed. Thank you for your efforts over the course of the season. Make sure you find some time to reflect on your overall performance this year.
+75   =Import a myClub Player
+76   =Special players who are featured as a part of myClub can also be registered in Master League. Players you import will be part of the OTHER team, and will be able to sign to the club via transfer negotiations.
+77   =Player import complete. You can now bring them into the club via transfer negotiation.
+78   =No players are eligible to be imported.
+79   =To import players you must be logged into the rf server. Log in from the Main Menu by pressing jc.

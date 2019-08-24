@@ -1,0 +1,9 @@
+233  =E5T
+
+12   =Indicates how often a player will use his weaker foot. The maximum value is 4.
+13   =Indicates how accurate a player is with his weaker foot. The maximum value is 4.
+49   =As auto detection can only make a rough match, its results may not come out as intended. Still proceed?
+50   =Restore default appearance?
+51   =Creating Edit Data.
+52   =This is a player's stronger foot.
+It means he plays the ball more accurately with this foot than the other one.

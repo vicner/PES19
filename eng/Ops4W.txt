@@ -1,0 +1,12 @@
+6    =Ops4W
+
+1    =Sound Settings
+7    =Commentary Language
+12   =Commentary Volume Level
+14   =BGM Volume Level
+43   =None
+44   =Menu Screen Sound Effects
+45   =In-Game: Crowd Noise
+46   =In-Game: PA announcements
+47   =In-Game: Stadium Music
+48   =In-Game: Pitch Sounds

@@ -1,0 +1,8 @@
+632  =Fd3T
+
+21   =Unable to Download.
+72   =Reset all settings?
+103  =Because an inappropriate name was entered, player name will be changed to %s.
+150  =Choose the Type of Player
+151  =Play LEGENDS using your alter-ego from Become a Legend.
+Please note that you will need your Become a Legend Save Data.

@@ -1,0 +1,199 @@
+225  =Lcm1T
+
+64   =Choose the number of participating users.
+67   =Choose disciplinary regulations regarding red and yellow cards.
+68   =Select both the Personal Data and the team which is to be used by each participating user. 
+69   =You have lost the match through default as you do not have the minimum number of players needed in order to field a side.
+70   =You have won the match through default as your opponent does not have the minimum number of players needed in order to field a side.
+71   =Experience the beautiful game in the continent where it all began. The following cup competitions are played in this league.
+
+・nc
+・na
+・nb
+・%s
+・Domestic Cup
+
+Cup competitions will not be held in multi-player mode. Users will compete purely for league positions.
+72   =Experience firsthand how the beautiful game is played in Latin America.
+The below cup competitions are played in this league.
+
+・nd
+・%s
+・Domestic Cup
+
+Cup competitions will not be held in multi-player mode.
+Users will compete purely for league positions.
+73   =A league in the Asian region.
+The below cup competitions are also played in this league.
+
+・AFC Champions League
+・%s
+・Domestic Cup
+
+Cup competitions will not be held in multi-player mode.
+Users will compete purely for league positions.
+74   =No cup competitions are held when playing multi-player.
+There are also no promotions or relegations.
+75   =Competition regulations can be set freely.
+However, there will be no cup games as well as promotions or relegations.
+76   =Let me be the first to congratulate you on taking the helm for %s.
+I'm the Club Secretary. I can't wait to start working with you.
+The club's staff will make sure you have all the information you need to run the club.
+We're in the transfer window at the moment, which means you've got one month to get your team ready for the upcoming season.
+77   =The transfer window is open.
+In fact, it seems you've already received a transfer offer from another team.
+Take a look at your squad, and respond to the offer.
+You can respond using the Negotiations menu.
+When you're done, move the date forward using the Forward Time menu.
+78   =We have two budgets at our disposal: Transfer Budget and Salary Budget.
+The Transfer Budget is used to pay for players when negotiating transfers with other clubs.
+You can get more funds by transferring players to other teams.
+The Salary Budget is used to pay your players.
+Keep an eye on both budgets and try to negotiate in a sensible, balanced way.
+79   =You can view a list of all the players in the team here. You'll be able to negotiate transfers with other teams, discuss contract extensions and decide on how to deal with each player's contract.
+80   =You can search for players using detailed filters.
+81   =Specify the type of player you are looking for.
+It'll take a while, but I'll draw up a list of players based on your preferences.
+Negotiations with players on this list will proceed more smoothly than usual.
+You can issue up to 3 instructions at the same time.
+82   =Here's a list of the players I've found.
+I've already started negotiations with these players and their teams, so it's safe to assume that these talks will go more smoothly than others.
+Sometimes my lists of players contain valuable players available at a reasonable price. I'll let you know if this is the case.
+83   =This is where you can view any offers for managerial positions you have received.
+If you accept an offer from a national team, you will become the manager of the national team as well as your current club team.
+If you accept an offer from another club, you will leave this club and transfer to that club. I hope it won't come to that, but it's up to you if you feel like a new challenge, so I'll be sure to let you know of any offers received.
+84   =This is where you can designate the abilities that you want players to focus on during their daily training sessions.
+Check the types of training available and the players particular attributes and tailor the training regime to the player's individual needs. 
+That way, you can get the right player for the right role.
+85   =You can view a list of all the players in the team here. You'll be able to negotiate transfers with other teams, discuss contract extensions and decide on how to deal with each player's contract.
+
+If your instruction is for a player's contract to be extended, extension negotiations with that player will get under way. Extension negotiations can take place at any time, but once a contract is signed, you must wait for the contract negotiation period to open again before you can renegotiate with them.
+86   =These are the players in our Youth Team.
+You can offer players from the Youth Team a professional contract at any time.
+87   =You can take a look at the condition and status of your players here.
+Be aware that players who are injured or suspended cannot be selected for the next match. 
+Also, players who are selected for their national teams get tired after international matches, so be sure to keep an eye on their stamina.
+88   =As the name suggests, a Team Role is the role a player has within the team. A player with a team role can positively impact the team and his teammates, as well as his own play, in various ways. A player's Team Role will determine their Personality and their "Impact" on the team.
+
+Building your team around players who have a Team Role can lead to stronger team development.
+89   =Congratulations on signing your first player! No doubt you're looking forward to seeing him in action.
+Bear in mind, however, that newly signed players may not be accustomed to your Team Instructions.
+When a player with low Team Instruction Familiarity plays a match, Team Spirit will decrease, and teamwork between players will deteriorate.
+Of course, the more matches a player plays, the more accustomed he'll become to your Team Instructions, so it's worth persevering through the difficult learning period!
+90   =With the International Champions Cup kicking off tomorrow, be sure to think about your game plan. Select Team Management → Game Plan to adjust settings. Once you're all set, select the "Forward Time" option.
+91   =You can issue instructions for Skill Training here.
+Only players who possess certain abilities can take part in Skill Training.
+Note that you can only train one player at a time and that their training will last for a certain period of time.
+Effective training is all about planning.
+92   =This is the place to come to reflect on your career so far and plan how it's going to develop in the future.
+With the "My Favourite Players" setting, you can select the players that are most important to you. Note that you can only do this once a year.
+Think about the players you want to include so you're ready when the time comes.
+93   =You'll have two kinds of budget at your disposal: Transfer Budget and Salary Budget.
+Note that each budget is set at the end of each season. You may also receive special bonuses.
+Now, as we're celebrating the appointment of %s as our new manager, you'll receive a special bonus.
+Use it wisely!
+94   =It's time to register a player to "My Favourite Players".
+You're going to be managing a lot of players, but this is the place for the ones you consider your stars. Register them in "My Favourite Players" and in a few years, they may well be considered club legends.
+Note that you can only register a player in "My Favourite Players" once per year. Now, you've just got started, so register the player you have the highest hopes for.
+Select "Manager's Office"→"Select "My Favourite Players"" to register a player and then select the option to move time forward.
+95   =Select the team you wish to start the Master League with.
+If you want to see how an initially weak team will become gradually more experienced, select Master League Original Lineup.
+96   =Select the type of player you want to use in Become a Legend.
+97   =The Transfer Budget is used to pay for players when negotiating transfers with other clubs.
+You can get more funds by transferring players to other teams.
+The Salary Budget is used to pay your players.
+Keep an eye on both budgets and try to negotiate in a sensible, balanced way.
+98   =The status of negotiations with players from other clubs is displayed here.
+Players you have on loan from other clubs are also shown here.
+99   =Check the players registered as My Favourite Players.
+You're going to be managing a lot of players, but this is the place for the ones you consider your stars. Register them in "My Favourite Players" and in a few years, they may well be considered club legends.
+You can select a player to add to My Favourite Players once a year, and can only add a single player on the designated day.
+100  =<Season Results>i1
+This shows the results of each tournament you have played in this season, along with a tally of individual players' appearances.
+i0
+<Club Performance>i1
+Stats from each match are collected here.
+You can also view your tactical approach and the way the games went.
+i0
+<Player Stats>i1
+This displays a detailed breakdown of your players' stats.i0
+101  =<Season Results>i1
+This shows the results of each tournament you have played in this season, along with a tally of individual players' appearances.i0
+102  =Using this feature allows the very special players who only appear in myClub to also take part in the Master League.
+There are no new players in the selected team data.
+103  =The players listed below are now in the Master League.
+Try getting them on your team!
+104  =<Balanced> i1
+This won't enhance any particular ability dramatically, but will raise the overall skill level of the player.
+i0
+<Goal Poacher>i1
+A predatory striker who plays off the shoulders of the last defender.
+i0
+<Dummy Runner>i1
+A player who attracts the defence to create space for other players to exploit.
+i0
+<Fox in the Box>i1
+A striker who lurks in the opposition 18 yard box just waiting for the ball.
+i0
+<Target Man>i1
+A player who becomes the focal point of attack by holding the ball up in an advanced position.
+i0
+<Creative Playmaker>i1
+A player who takes advantage of any opening in the defense to initiate attacks and assists in shots on the goal.
+i0
+<Prolific Winger>i1
+A player who positions himself on the wing to receive passes, occasionally cutting into the center when the opportunity arises.
+i0
+<Roaming Flank>i1
+A player who tends to cut inside from the wing to receive passes.
+i0
+<Cross Specialist>i1
+A player who hugs the touchline, waiting for a chance to cross the ball in.
+i0
+<Classic No. 10>i1
+An old-style static playmaker who makes use of deft touches and passes rather than pace or movement.
+i0
+<Hole Player>i1
+A player who looks to make runs into the opposition goal area when the team is on the attack.
+i0
+<Box-to-Box>i1
+A player who tirelessly covers every blade of grass for the full 90 minutes.
+i0
+<The Destroyer>i1
+A tenacious battler who keeps opposition attacks at bay through hard tackling and pressing.
+i0
+<Orchestrator>i1
+A player who lurks in deeper positions, ready to initiate attacks.
+i0
+<Anchor Man>i1
+A deep sitting defensive midfielder protecting the backline.
+i0
+<Build Up>i1
+A player who likes to drop back to receive the ball and trigger attacks from deep.
+i0
+<Extra Frontman>i1
+A defender who likes to join in the attack and lay siege on the opposition goal at every given opportunity.
+i0
+<Offensive Full-back>i1
+An attack-minded full back who will run upfield and join the attack when presented with a chance.
+i0
+<Full-back Finisher>i1
+An attacking full-back who enjoys joining the attack in high central areas.
+i0
+<Defensive Full-back>i1
+A solid full back who prefers to stay back and stick to defensive duties.
+i0
+<Offensive Goalkeeper>i1
+A keeper playing a sweeper type role who often comes out to cover the area behind the defence.
+i0
+<Defensive Goalkeeper>i1
+A solid keeper who prefers to stay around the goal line.
+i0
+<Focused Training> i1
+This hones in on a particular ability and aims to improve it significantly.i0
+105  =You can negotiate loan transfers for players in the Youth Team by adding them to the Loan List. If the negotiations lead to an agreement, the player is promoted to the first team before being loaned out.
+106  =Here you can view your performance since becoming manager and the team's status. The owner's comment will tell you what they expect of you. Fail to meet those expectations and you'll lose their trust, putting your place in charge of the team in jeopardy.
+107  =These are the players in our Youth Team.
+You can offer players from the Youth Team a professional contract at any time.
+
+You can negotiate loan transfers for players in the Youth Team by adding them to the Loan List. If the negotiations lead to an agreement, the player is promoted to the first team before being loaned out.

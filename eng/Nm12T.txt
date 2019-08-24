@@ -1,0 +1,125 @@
+527  =Nm12T
+
+1    =Account verification failed.
+Please try to login again at a later time.
+5    =Unable to enter Match Room.
+6    =Server certificate verification error
+7    =Server certificate expired. Please check your system's clock.
+8    =Unable to connect to verification server.
+9    =Selected Lobby does not exist.
+11   =Unable to enter Text Chat.
+12   =Unable to access database.
+14   =Data Pack Incompatible.
+Please reboot re and update the software.
+16   =List is full.
+18   =Unable to login.
+19   =User cannot be found.
+21   =Invalid player data found.
+23   =You cannot send invites to yourself.
+26   =You cannot create any more Match Rooms.
+27   =Selected User is playing a match.
+28   =Selected User is not logged in.
+29   =Selected User is not in the Match Room.
+34   =Unable to register User.
+35   =Unable to delete User.
+58   =Unable to create Match Room.
+61   =No Competitions found.
+62   =Entries for this Competition are currently closed.
+65   =Qualifying Round time is almost up. You will not be able to start any more matches.
+68   =Unable to obtain Competition Data.
+69   =You are not eligible to take part in this Competition.
+70   =Unable to obtain Match Data.
+87   =This match will be abandoned due to unforeseen circumstances.
+91   =You cannot use real team names.
+92   =This player is currently under a Transfer Embargo.
+93   =You have not registered your KONAMI ID.
+97   =This issue may be solved by connecting directly to the internet or by configuring your networking device such as your router.
+112  =Data Pack Incompatible.
+113  =Unable to send or receive Data.
+117  =Due to restrictions placed on your connection by your networking devices, you will be unable to make use of certain features within the game.
+118  =Please select [EXTRAS] → [Data Pack update] on the Top Menu to download the data.
+120  =You have not provided sufficient information.
+Please note that you need your Login ID, KONAMI ID password and Registration code to login to online mode.
+122  =The maximum squad size permitted in "My Team" is 23.
+Therefore, you are unable to add any more players.
+123  =Unable to obtain relevant list.
+124  =An error occurred while accessing the rf database.
+125  =An error occurred while accessing the rf database.
+This game session will be terminated.
+126  =ID verification error.
+127  =Unable to obtain account details.
+128  =This game session no longer exists.
+129  =Unable to find game session.
+130  =Game session error.
+This session will be terminated.
+131  =An error occurred during owner verification.
+132  =Unable to create game session.
+133  =Game session status error.
+134  =An error occurred during host verification.
+This game session will be terminated.
+135  =An error occurred during participant verification.
+This game session will be terminated.
+136  =An error occurred while joining the session.
+This game session will be terminated.
+137  =No Guest Users have been assigned.
+138  =You cannot add any more Guest Users.
+139  =This game session cannot be started due to insufficient user numbers.
+140  =You were unable to participate.
+141  =An error occurred while obtaining participant status.
+142  =Unable to obtain match result data.
+143  =Unable to find any players that match your preferences.
+144  =The system you are using to connect has been denied access due to a violation of the Terms of Use or our Operation Policy.
+145  =You have already joined a game session and therefore cannot join another one.
+146  =Unable to obtain setting data.
+147  =An error has been found in the transmitted data.
+148  =You have already created a "My Team".
+149  =This ID has already been registered.
+150  =This ID has not been registered.
+151  =Competition not found.
+152  =You have not entered this competition.
+153  =You were unable to enter the competition.
+154  =Unable to obtain competition list.
+155  =Unable to obtain Team Class data.
+156  =Unable to obtain relay server data.
+157  =Data not found.
+158  =Unable to obtain relevant data.
+159  =Unable to obtain required ID verification data.
+160  =Unable to obtain My Team lineup data.
+161  =Unable to connect.
+162  =It has been noted that you have acted in direct breach of our Operation Policy and Terms of Use. Therefore, we have suspended your account in line with our policy on violations. Thank you for your understanding.
+163  =Unable to obtain competition progress data.
+164  =Competition progress has been affected as an error has just occurred.
+165  =Unable to obtain relevant team data.
+166  =Unable to obtain relevant data.
+167  =Unable to create My Team.
+168  =Unable to find any players that match your preferences.
+169  =Unable to connect with other user(s). The match could not be started.
+170  =Unable to change leagues.
+171  =Unable to obtain information.
+172  =This match will be abandoned as an error has occurred on the session owner's side. 
+173  =Unable to enter a match room as an error occurred while trying to connect to the server.
+174  =Invalid comment posted.
+175  =Unable to find team data.
+176  =Unable to find the opponent data.
+177  =Some of our online services are currently unavailable. Please refer to Online Information for further details.
+178  =The verification code you sent is invalid.
+179  =Unable to create match room as you have not achieved the required rating.
+180  =Unable to change settings as you have not achieved the required rating.
+181  =Unable to connect to the rf server.
+Please check the configuration of your network device.
+182  =The necessary login data could not be acquired from the rf server.
+184  =Unable to login. Account verification failed.
+185  =Unable to load content data.
+The data may be corrupted, or conditions for use may not have been met.
+186  =As the match ended in an unusually short time, this has been declared a void match.
+You LOSE!
+187  =You can choose to apply the latest player ratings and transfer information via the Live Update function.
+Do you want to enable the Live Update function?
+
+You can choose to switch the Live Update function "ON" or "OFF" by pressing jl at any point during the Select Team process.
+189  =You cannot participate in this competition due to a violation of the Terms of Use or our Operation Policy.
+190  =You cannot join the session while playing rj.
+Failed to enter Match Room.
+191  =You cannot create a new session in rj.
+192  =You can create a new game session only in myClub while playing rj.
+At most 2 players can join the session in myClub.

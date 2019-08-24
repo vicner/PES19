@@ -1,0 +1,9 @@
+63   =F10W
+
+4    =Data Management
+6    =Select Position
+18   =Please Wait
+19   =Sub out goalkeeper.
+30   =Suspended
+78   =READY
+82   =Strategy

@@ -1,0 +1,86 @@
+520  =Nm10T
+
+5    =The online service is currently unavailable. The server may be undergoing maintenance or you may be using incorrect network settings.
+
+To find out more on the status of the network or details on network settings, please visit the re official website.
+
+re Official Website
+https://www.konami.com/wepes/2019/
+8    =Verification Error.
+104  =Your version of re is out of date.
+Please update your game to the latest version then reconnect.
+113  =Incorrect KONAMI ID, KONAMI ID Password or KONAMI One Time Password Service.
+126  =A New update is available. Download the new update?
+127  =No New Updates available.
+131  =Installing
+132  =Download Complete.
+134  =Installation Complete.
+135  =Installation Failed.
+136  =You are about to register this Login ID and Registration Code Combination.
+No changes can be made once registered.
+To login from next time, please use your KONAMI ID or KONAMI ID registered e-mail Address.
+
+Proceed?
+140  =You need either your KONAMI ID or KONAMI ID registered E-mail address.
+If you do not have a KONAMI ID, please press jf and obtain one from the KONAMI ID website.
+Registering and using the KONAMI ID is free of charge.
+141  =Please enter your KONAMI ID password.
+142  =Please enter your registration code. The registration code can be found in the packaging of this game.
+143  =The KONAMI One Time Password Service is a disposable password that is used just once, as the name suggests. It is an effective way to improve online security, so if you are interested in using it, please visit the KONAMI ID website for details on how to register and use one.
+To visit the KONAMI ID website, please press jf.
+* Please note that this service is not available in certain areas.
+144  =Open browser
+145  =If you choose not to accept the Terms of Use/Privacy Policy, you will not be able to play this game online.
+Are you sure?
+(Please note that you can agree to the Terms of Use/Privacy Policy at a later time)
+146  =It has been noted that you have acted in direct breach of our Operation Policy and Terms of Use. Therefore, we have suspended your account in line with our policy on violations. Thank you for your understanding.
+147  =You need either a KONAMI ID or KONAMI ID registered E-mail address.
+If you do not have a KONAMI ID, please register for free of charge at the KONAMI ID website.
+148  =The KONAMI One Time Password Service is a disposable password. It is an effective way to improve online security, so if you are interested, please visit the KONAMI ID website for details on how to register and use one.
+* Please note that this service is not available in some areas.
+149  =The latest Data Pack has already been implemented.
+150  =Do you have a KONAMI ID?
+
+*Register a KONAMI ID to receive the latest news on your favourite content, as well as information on special campaigns.
+151  =Enter an e-mail address to register to your KONAMI ID.
+152  =Please enter a valid e-mail address.
+153  =We require your date of birth. Select the day.
+154  =We require your date of birth. Select the month.
+155  =We require your date of birth. Select the year.
+156  =Select your country and region.
+157  =This e-mail address has already been registered along with a different KONAMI ID.
+158  =Unable to login. Check your Login ID and password again.
+159  =E-mail sent.
+Please follow the instructions carefully to verify your account.
+160  =E-mail could not be sent to this address.
+Please wait before trying again.
+161  =Please enter the e-mail address registered to your KONAMI ID.
+*If you want to deactivate the KONAMI ID account link to your login, you can change your settings from https://my.konami.net/
+162  =Enter the one-time password indicated on the KONAMI OTP TOKEN.
+163  =If you have not registered a KONAMI OTP TOKEN, leave the "One-Time Password" field blank.
+164  =Continue to the game without logging in to a KONAMI ID.
+165  =You can log in to your KONAMI ID at any time by going to the Top Menu → EXTRAS → Online Settings → KONAMI ID.
+166  =To reset your password, please enter the e-mail address you used to register your KONAMI ID.
+167  =E-mail sent.
+Please follow the instructions carefully to reset your password.
+168  =You cannot register for a KONAMI ID unless you accept the terms of the User Agreement. Are you sure?
+169  =Sorry, but you are not eligible for a KONAMI ID at this time.
+170  =Login to your KONAMI ID successful. Account verified.
+171  =KONAMI ID verification complete.
+We hope you enjoy rf!
+172  =Proceed to the game without verifying your KONAMI ID.
+173  =Send instructions to the e-mail address.
+174  =Log in the entered KONAMI ID to verify your account and use our services.
+*If you want to deactivate the KONAMI ID account link to your login, you can change your settings from https://my.konami.net/
+175  =Confirm settings and proceed to the next section.
+176  =The KONAMI ID verification process is unavailable due to KONAMI ID. 
+Please try again later.
+177  =E-mail not recognised. Please enter your KONAMI ID e-mail address again.
+178  =This KONAMI ID is already verified.
+*If you want to deactivate the KONAMI ID account link to your login, you can change your settings from https://my.konami.net/
+179  =*Register a KONAMI ID to receive the latest news on your favourite content, as well as information on special campaigns.
+180  =Please check and agree to the terms and conditions on the website below.
+
+My KONAMI
+https://my.konami.net/
+181  =*If you want to deactivate the KONAMI ID account link to your login, you can change your settings from https://my.konami.net/

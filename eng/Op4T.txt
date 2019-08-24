@@ -1,0 +1,119 @@
+206  =Op4T
+
+26   =Adjust Screen.
+
+: Adjust position
+kc/kd:  Zoom-Out/Zoom-In
+70   =Choose whether or not to display cursors over the players' heads during matches.
+72   =The cursor will only move when you press li or jn. 
+74   =The Cursor will switch between players automatically. You can override this setting manually if you wish.
+76   =When switched ON, UDP ports are automatically configured. If left OFF, the user is required to configure UDP Ports manually.
+77   =The range of valid port numbers is as follows:
+*The default number is %d
+81   =Fix the Cursor onto selected player(s).
+82   =The Cursor will move automatically only when attacking.
+87   =A New update is available. Download the new update?
+88   =No New Updates available.
+91   =Downloading
+92   =Installing
+94   =Unable to Download.
+95   =Installation Complete.
+96   =Installation Failed.
+97   =Unable to connect to the rf server.
+98   =Communication Error. Unable to obtain URL List.
+99   =Download Cancelled.
+100  =The Downloaded File is Broken.
+101  =Insufficient Space left on Hard Disk.
+105  =Downloading from %d Clients.
+106  =Uploading to %d Clients.
+107  =%dKB/s
+109  =Download Method
+110  =Download by P2P (Recommended)
+111  =Download via HTTP
+114  =Upload Limit
+118  =Download
+187  =Adjust the in-match Game Speed.
+188  =Please choose Download Method.
+While Peer to Peer is recommended, you may need to select HTTP if you are unable to Download despite restricting your Upload Bandwidth.
+192  =Apply
+193  =Do not Apply
+195  =The new download content includes updated transfer data.
+If you choose to download this data, the updated transfer data will overwrite the current one which you have edited.
+If you want to retain the present transfer data, go to Edit where it can be exported.
+
+Are you sure you want to download the data?
+224  =Select Difficulty level.
+225  =Choose your support settings for in-game controls.
+You can choose whether or not you want to enable support settings for passing or shooting.
+227  =Connection test successful.
+228  =The selected port cannot be used.
+234  =Start rm now! You can upload match stats onto rm by taking a photo of the screen with a camera-phone.
+243  =Choose how to display the radar which shows both ball and player positions.
+244  =Choose the colour of player icons which are shown on radar.
+245  =Choose whether or not to show the power gauge for kicks and throw ins.
+246  =Choose whether or not to show scores and the time elapsed.
+247  =Choose whether or not to show the selected preset tactics during matches.
+248  =Choose whether to display the names of COM-controlled players above their heads in matches against the COM and online opponent player names in matches against online users.
+250  =Back up Edit Data
+251  =Unable to back up Edit Data
+257  =Choose your favourite team setting!
+This will enable you to quickly pick your favourite team in the Team Select screen.
+259  =This title uses an auto-save feature.
+ will be shown at the bottom-right of the screen when saving or loading is taking place.
+Please ensure that you do not turn OFF while this icon is displayed.
+
+In addition,  will be displayed while loading and  will be displayed at the bottom-left of the screen while establishing communications.
+267  =Logging out to configure Port Settings.
+268  =Unimplemented
+269  =No content available
+271  =M
+272  =A
+273  =H
+274  =X
+275  =Cancel download?
+276  =%s: %s
+278  =Next, would you like to register your favourite player?
+279  =Your Favourite Team :  %s
+Your Favourite Player : %s
+
+Settings Complete.
+281  =Your connection will now be severed in order to implement the updates from the new download content. Once completed, it will be restored.
+282  =rm services are currently unavailable.
+Please refer to Online Information for further details.
+284  =Saving edit data.
+The previous edit data will be backed up automatically.
+285  =To obtain this Data Pack, you are required to connect online and implement the latest updates.
+
+Please quit re and apply the latest updates.
+286  =Back up edit data found.
+Would you like to use this data?
+287  =The latest Download contains updated transfer data. 
+By implementing this data, all registered lineups will be updated and any previous edited lineup will be overwritten.
+If you wish to keep your edit data, please quit the game once, delete the latest data pack then go to Edit export the team data.
+296  =Choose whether or not to show gauges and player names at the bottom of the screen.
+297  =Choose whether or not to show control guides during set pieces.
+298  =Enable Fav. Team setting?
+(You can change your Favourite Team setting by selecting [EXTRAS] → [OPTIONS] at any time.)
+299  =You can choose who will be shown on the Top Menu.
+Would you like to choose a specific player from your favourite team?
+300  =Reset Settings.
+301  =Live Update Data is corrupted.
+Unable to load data.
+302  =When applying a Data Pack, you can decide whether or not to update club and national squads.
+Doing so will update the squads of all teams to the current squad. Game Plans and squad numbers are updated.
+303  =The Language Settings has been changed. Logging out from the rf server.
+Return to the Top Menu, and then press jc to log in.
+305  =You can turn the Controller vibration on or off.
+306  =<Controller Vibration Setting>i1
+Choose whether or not to enable Controller vibrations for on-the-pitch action.i0
+307  =The camera settings normally used in offline modes, including Exhibition Match and Master League.
+308  =The camera settings used in offline modes when multiple users play on the same team.
+309  =The camera settings normally used in online matches.
+310  =The camera settings used in online matches when two or more users play with Guest Users.
+311  =The camera settings used when playing a match in Become a Legend.
+312  =The camera settings used when controlling a single player in Team Play Lobby.
+313  =(1) Adjust the Contrast so the full colour range is visible, with the white on the right side as bright as possible and the black on the left side as dark as possible.
+(2) Adjust the Brightness so you can see the logo in the centre but not the balls to the left and right.
+314  =This setting is used for matches played at the rd Official Competition. Selecting ON will disable some gameplay features, such as the skip function for in-match cutscenes and earning GP during matches.
+316  =The Language Settings has been changed. Logging out from the rf server.
+317  =Adjust the slider until images 1 and 2 are the same brightness.

@@ -1,0 +1,199 @@
+279  =Lcm17T
+
+56   =The %s now underway!
+66   =All %1$s| fixtures for this season have now been completed.
+We have finished in pos. %2$s|.
+160  =Getting the most out of training.
+177  =The club's Operating Costs
+189  =%s now underway.
+191  =Congratulations! You won the %s!
+194  =The club will enter the nb Round of 32 after sealing a 3rd place finish in the na Group stage.
+195  =%s individual honours list announced.
+196  =%s list announced.
+203  =Received offers for some players.Please respond accordingly.
+204  =Negotiations have been put on hold. 
+Unless an agreement can be reached before the deadline, they will fall through.
+205  =Terms for the transfer have been fixed.
+Please respond by transfer deadline day.
+206  =Transfer negotiations have broken down.
+207  =Players have returned from their loan spells.
+211  =Some players have put their contract renewals on hold.
+213  =Some players are seeking contract renewals.
+214  =Some players have finalised their transfers.
+216  =New arrivals unveiled.
+221  =Players out Injured
+223  =Suspended players.
+224  =Some players are away on international duty.
+225  =Players returning to the squad
+227  =Club Ranking Update
+228  =League Ranking Update
+229  =Some players have announced their retirements.
+232  =Nothing to report currently.
+234  =The New Season has kicked off!
+241  =As the squad size is now less than the minimum %d, Youth Team players will be called up from the Youth Team.
+243  =Transfer window will close today. 
+250  =An agreement has been reached over the transfer terms. It's decision time.
+254  =The following players are set to retire at the end of this season.
+263  =The following players are available after injury.
+265  =We have been promoted! %s here we come!
+266  =A Crushing blow!! We are relegated to %s.
+270  =What is Master League?
+272  =Running your club
+279  =What is %s?
+283  =The draws for %1$s| %2$s| have been held.
+328  =Transfer Negotiations now underway.
+359  =Choose your Game Plan
+395  =%1$s| wins %2$s|!
+425  =%s's contract has now expired.
+434  =Start the game with the full squad of each club at your disposal.
+435  =Start the game with the Master League Original Lineup. The lineup will be the same regardless of which team you choose. If you choose a team from a 2 tiered league, then you will start from the lower division.
+437  =Winner of the %s award.
+439  =You were named %s MVP.
+440  =Current top scorer in %s.
+441  =Currently top of  the assist rankings in %s.
+442  =Picked for %s Team of the Season.
+455  =A severance payment of %s will be paid from the Transfer Budget.
+456  =Set your Training Regime
+541  =Good news! %s want you!
+Have a look at the terms and tell me what you think.
+547  =Congratulations! You were picked for the %s Team of the Tournament.
+549  =You were named %1$s| %2$s|.
+553  =There are some players who have left this team.
+568  =%s have made it clear to me that they want to hold on to you. 
+They're offering decent money, but I'd be inclined to hold out for something better to come along if I were you. Be sure to choose wisely.
+573  =You got offers from %dteams.
+Have a good look over them and let me know how you want to respond.
+583  =%d players have announced their retirement at the end of this season.
+606  =Please note that today is a special day for %s. It's going to be his last match.
+607  =There are some players who will bid farewell to the game today.
+608  =%s has joined up with the squad.
+609  =%d new players have joined up with the squad.
+618  =%s has returned from an injury lay-off.
+629  =%d players were selected for their national teams in today's Squad Announcements.
+631  =Are you sure you want to keep %s waiting?
+Today is the deadline for your response. Make sure you don't end up regretting this.
+632  =You sure you want to keep all %d clubs waiting?
+Today is the deadline for your response. Make sure you don't end up regretting this.
+639  =The %s national team squad has been announced.
+%s was not called up this time.
+648  =That's the contract extension done. 
+%s have shown faith in you, so you should repay them by becoming a key player for them.
+659  =So, it's finally here. This is your last day as a professional footballer.
+It's one of these things that have to happen at some point, but that doesn't make it any easier, does it? Just try to enjoy the occasion. You owe that to yourself.
+669  =All fixtures in %s have been completed.
+671  =The %s has just ended and your beloved %s were %s.
+676  =The %s will be played today.
+It will be a head-to-head meeting between the respective winners of %s and  %s.
+677  =%s has announced his retirement at the end of this season.
+722  =%s
+%s
+775  =Took the %s crown.
+776  =Become na Champions.
+777  =Welcome to %s. I'm the Club Secretary here. I'm very happy to be working with you.
+The club staff will provide you with all the information you need.
+778  =I'll take care of everything when it comes to sorting out your transfers. 
+I'm looking forward to having a long and fruitful relationship with you.
+779  =This is the last day of the season. Thanks for all your hard work. The transfer window reopens tomorrow.
+This is probably a good chance to take a look at your career so far.
+780  =This is the last day of the season. Thanks for all your hard work. The transfer window reopens tomorrow, and before long there'll be an international tournament to look forward to. It's going to be a busy time - good luck!
+781  =This is the last day of the season. Thanks for all your hard work. You will join your new team tomorrow.
+I hope you enjoy your fresh start!
+782  =The transfer window is open as of today. I'll let you know if any offers come in for you.
+This should be interesting, eh?
+And don't feel timid about letting clubs know what number you'd like on your shirt.
+783  =You're in the starting lineup today. Do your best, and good luck.
+784  =You're on the bench today. Be ready to come on at any time!
+785  =You're not in the squad today. It's time for you to focus on making sure you're ready for the next match.
+786  =You're not in the squad today. You need to focus on recovering from your injury.
+787  =I can't pick you for today's match because of your suspension.
+788  =It looks like you've picked up an injury. You won't be able to play for a while.
+You should be back in action at some point during %s.
+789  =You've fully recovered from your injury, and you're good to go. Be sure to give it your all in the next match!
+790  =National team squads have been announced ahead of the %s.
+No players from %s were selected.
+791  =%2$s|'s squad for the %1$s| has been announced.
+Unfortunately, you were not selected.
+792  =%2$s|'s squad for the %1$s| has been announced.
+Congratulations! You were selected to represent your country!
+793  =You've really improved dramatically as a result of your recent appearances.
+I'm going to keep picking you. Don't let me down!
+794  =The negotiations with %s went really well.
+Once you make the decision, the transfer can be completed.
+795  =I'm sorry, but talks with %s broke down.
+796  =I've got some bad news. Your contract's not going to be renewed.
+You're going to have to find a new team before the end of the season.
+797  =You're probably more than aware of this yourself, but your playing days are coming to an end.
+This is probably your last year, so give it your all!
+798  =It seems you've already decided to retire...
+You've still got one season left, though - let's make it a good one!
+799  =Congratulations. You're going to have a testimonial. It should be a really great day.
+800  =Your testimonial's just a way for us to say thanks. We're proud that we're going to be your last club. Thanks for everything.
+801  =There was never any question, you're in the starting lineup today!
+Now, here's my first instruction: go out there and enjoy yourself!
+802  =This is our last day working together...
+I just want to say thanks. It was a pleasure to be your agent.
+I hope I get to work with more players like you in the future.
+803  =An offer for %2$s| has been received from %1$s|.
+804  =There's been an update in the transfer negotiation for %s.
+805  =Transfer negotiations for %s have broken down.
+806  =There's been an update in %s's contract renewal negotiations.
+807  =%s's contract negotiations have broken down.
+808  =%s's contract renewal talks are on hold.
+809  =%s has decided to move to %s.
+810  =%s has left the club.
+811  =%s has left the club on loan.
+812  =%s's loan spell has ended and he has returned to the club.
+813  =%s have exercised their Option-to-buy and have decided to sign %s, currently on loan at the club.
+Go to Team Management → Negotiations → My Team to confirm this and you will receive the transfer fee.
+814  =A testimonial match will be held at the end of the season.
+Retiring players from all over the world will gather to play against our team. It should be a lot of fun!
+815  =The loan period for %s has come to an end and they have returned to %s.
+816  =The transfer window is now open. 
+You'll no doubt have plenty of players whose contracts you'll want to renew. You don't want to stretch the budget too much, so make sure you take account of the players you've already got on the books for the coming seasons. 
+Don't forget to keep an eye on your merchandise sales and contract option payments, too. This season's merchandise sales bonus is %s. Contract option payments will be %s. 
+For more information go to Manager's Office → Finance.
+817  =I'm Assistant Coach at %s. Nice to meet you. If there's a shirt number you've got your heart set on, let me know before the transfer window closes.
+818  =Congratulations! From now on, you're this club's new number %d!
+819  =Well, the word from the top has come in. From today, we're happy to say that you've taken over from %1$s| as our number %2$d|. Take it as a sign of just how important we think you're going to be for this club.
+820  =Hm. I hate to be the deliverer of bad news, but the brass has turned you down this time. If you want that shirt, you're going to have to prove you're up to it. Better luck next time, eh?
+821  =%1$s| has managed to make it into the %3$s| of the %2$s|.
+822  =%3$d| players have made it into the %2$s| of the %1$s|.
+823  =I already spoke with the manager, and we agreed that we want you to captain the side this season. You're already a leader on the pitch and in the dressing room. Don't let us down.
+824  =We'd like to give you the captain's armband again this season. Both the manager and I couldn't think of anyone more worthy. We're counting on you for the coming season.
+825  =I've made the decision to ask another player to wear the captain's armband this season. It's not that I've been disappointed in your performance, but we thought a new captain might help the team grow a bit bitter. Of course, with your experience leading the team last season we know you'll continue to be an inspiration on the pitch and in the dressing room.
+826  =We're going to be competing in next month's %s.
+Champions from various countries will play each other in a league-format competition.
+This is your chance to cement a first team place, so make it count.
+827  =Today's the day the %s gets going. Now might be a good time to give some younger players a run out or test new strategies.
+828  =The %s kicks off today.
+Getting yourself noticed in time for the season opener is the key.
+Show me what you've got.
+829  =This year's World Selection Challenge is just around the corner.
+As winners of last year's %s, we'll be playing the World All Stars and the entire globe will be watching.
+This has all the hallmarks of a footballing classic.
+830  =We're all set to appear in this year's World Selection Challenge.
+Whatever the outcome, competing against the World All Stars will be a match to remember for this club.
+831  =Congratulations are in order. You've been selected to the World Selection Challenge World All Stars squad.
+Playing alongside the world's finest footballers will be a great experience for you.
+Good luck, and don't forget to enjoy yourself!
+832  =So today's the day. You're playing for the World All Stars in the World Selection Challenge.
+Do us proud, you hear?
+833  =I have some unfortunate news.
+You just didn't produce the kind of consistent results the club expects and we've decided to let you go.
+834  =Today's the last day you can to reply to any managerial offers. You've already been let go from your previous post, so it's just a case of choosing an offer from one of the new clubs.
+835  =You can't perform any more duties as this club's manager since you've been given the sack.
+Your next course of action is to choose a new club to manage.
+I have a list of offers from clubs, so take your time before you make the next step in your football journey.
+836  =Club budgets are broken down into two areas: transfer budget and salary budget.
+Both are finalised at the end of a season, and they can change dramatically depending on how the previous season went. The key is to always keep an eye on your budget and use it sensibly.
+837  =The salary budget is money set aside to pay your squad. It can go up or down depending on not only the previous season's merchandise sales, but also bonus payments tied to player contracts.
+In fact, these contract options can eat up a large part of your salary budget, so keep a close eye on them.
+For more details go to Manager's Office then Finance.
+838  =A severance payment has been triggered by letting this player go.
+839  =You might want to sit down for this. 
+%s have paid %s's Release Fee and the boy's accepted their offer, meaning he's left the club effectively immediately. 
+The fee is available for you to accept in the Negotiations menu.
+840  =The owner has adjusted one of their goals for you. Review the change when you have time by going to "Manager's Office" → "Missions".
+841  =The squads for the upcoming %1$s| are confirmed. %2$s| will feature from %3$s|.
+842  =You're starting in today's %s opening match. Go out there and show us what you can do.
+843  =Negotiations cannot continue because the squad size you are negotiating with will go below the minimum number of players needed.

@@ -1,0 +1,213 @@
+1124 =Nm13T
+
+1    =A simple way to team up with an online co-op partner for a single match.
+2    =Create a match room and play online co-op matches with other Clan members. Clan match results will affect your ranking.
+3    =View the results of individual members and your Clan's ranking.
+4    =Create and join Clans and configure settings for Online CO-OP.
+5    =Set your online co-op match opponent.
+Select "3 vs COM" to play against the COM.
+While "Matchmaking" will match you against users with the same settings as you.
+6    =You'll only be matched with users whose Match Level is within the range that you selected.
+The match itself will follow your Match Level range settings.
+7    =Here you can add or remove Guest Users. Multiple local users can use a Controller to join online co-op matches. When Guest User settings are turned ON, you cannot select "3 vs COM" in VS Settings.
+8    =Search for other users to play with and against, and begin your match.
+Kick-off will go ahead once you're matched with another user and can't be cancelled.
+9    =*When your CO-OP Level is at Lv.1, you'll be locked out from a number of match settings.
+10   =No more Guest Users can be added to the match when the Match Room has reached its capacity.
+11   =No Online CO-OP match room found.
+
+After playing an Online CO-OP match you can follow any teammate who played on your team.
+When a user you're following creates an Online CO-OP match room, you can simply join their game from this menu.
+12   =You can't create a match room until you create a Clan.
+Select "Create / Edit Clan" from the CO-OP Settings of the main Online CO-OP menu and create your own Clan. 
+13   =Select your team.
+14   =Select your COM opponent's team.
+15   =You can't join this match room because you don't have the required Team Strength Level.
+16   =You can't join this match room because you don't have the required CO-OP Level.
+17   =You can't join this match room because you don't have the required CO-OP Courtesy Rating.
+18   =Non-Clan members can't enter this room.
+19   =No Clan registered.
+Either create your own Clan or join someone else's.
+20   =This will send a request to the Owner of %s to join their Clan.
+Are you sure?
+21   =The request to join %s was sent to the Owner.
+If the Owner accepts your request to join, you will officially become a member of their Clan.
+22   =You've already sent a request to this clan.
+Please wait until the Clan Owner responds to your request.
+23   =You can't send any more requests.
+You must cancel a request before you can send a new one.
+24   =You've already sent the maximum number of requests to %s.
+25   =You will no longer be a member of %s. 
+Are you sure?
+26   =You left %s.
+27   =Cancel the request?
+28   =Cancel the Invite to the Clan?
+29   =Your request was accepted. You are now a member of %s.
+30   =%s has joined your Clan.
+31   =Your request to join %s was declined.
+32   =Your Invite to the Clan was declined.
+33   =No requests sent.
+34   =You haven't created a Clan.
+35   =This request has already been responded to by the relevant clan and can't be cancelled.
+36   =This will mark all request entries as read and delete them from the list.
+Are you sure?
+37   =%s is requesting to join your Clan.
+Accept their request?
+38   =You've been invited to join %s's Clan.
+Accept their invite?
+39   =You can't accept any more members because the clan is full.
+40   =The sender of the request has already joined the maximum number of Clans.
+41   =The request was cancelled by the submitter.
+42   =You can't join this clan because it's already full.
+43   =You've already reached the maximum number of Clans you can join.
+44   =You can't join this Clan because the Invite was cancelled.
+45   =You have a number of requests that still require a response, and this is preventing you from receiving any more.
+Try to respond to requests on your Requests Received as frequently as you can.
+46   =This will decline and remove all requests that still require a response.
+Are you sure?
+47   =This will create your very own Clan.
+Are you sure?
+48   =You've created your own Clan!
+You can change your Clan's name or settings at any time.
+49   =The Match Room was closed because the Owner left.
+50   =You can't play against the COM when there are no other members in the room or only Guest Users are present.
+51   =One or more members of the room don't have the required players to proceed to the match.
+This could be due to having insufficient players in their Starting Lineup or Substitutes, or having ineligible players assigned to their squad.
+You can view your squad by selecting "Squad Management" from the Main Menu.
+52   =You cannot play a Loaned Player in PES LEAGUE.
+Swap out Loaned Players from Squad Management.
+53   =One or more members of the room have a Loaned Player in their Squad.
+You cannot play a Loaned Player in PES LEAGUE.
+Swap out Loaned Players from Squad Management.
+54   =Congratulations!
+You've been promoted to %1$s| Division %2$d|.
+55   =Last season's final ranking was %d.
+*%d clans participated in total.
+56   =You will remain in %1$s| Division %2$d|.
+57   =You were relegated to %1$s| Division %2$d|.
+58   =Congratulations!
+You managed to stay in %1$s| Division %2$d|.
+59   =Following other users you play with brings plenty of benefits.
+You can find users you follow who need more people for Clan Matches by joining their match room via the jkCO-OP Room List by pressing jk from the main menu of each mode.
+
+*You can follow up to 100 other users.
+*After 100, newly followed users will replace older ones, starting from the oldest first.
+*Clan members are followed by default.
+60   =Your Rejection List is full.
+First remove a user before adding a new one by going to the Main Menu and selecting "CO-OP Settings" → "Rejection List".
+63   =User removed from your Rejection List.
+64   =User added to your Rejection List.
+65   =Are you sure you want to remove %s from your Rejection List?
+66   =Are you sure you want to add %s to your Rejection List?
+67   =Your Clan won a match.
+68   =Your Clan lost a match.
+69   =The match has been abandoned as your opponent has disconnected.
+Your Clan won a match.
+70   =The match has been abandoned as you have disconnected.
+Your Clan lost a match.
+71   =This match has been deemed a void match.
+Your Clan won a match.
+72   =This match has been deemed a void match.
+Your Clan lost a match.
+73   =This match has been deemed a forfeited match.
+Your Clan won a match.
+74   =This match has been deemed a forfeited match.
+Your Clan lost a match.
+75   =This match will not affect your Rating because you have already played this opponent in a Casual Match.
+76   =You can't cancel this request because it has already been accepted.
+77   =You can't cancel this invite because the other user has already accepted it.
+78   =Could not find the selected user's Clan.
+79   =This will delete all requests that the recipients have already responded to.
+Are you sure?
+80   =Select "3 vs 3" to play an online match against another Clan.
+For matches against the COM, select "3 vs COM".
+81   =To restrict communication settings for all participants to a match, such as Text Chat, voice chat and in-game chat, select "OFF".
+82   =You can limit who can join the room based on Squads' Team Strength Level.
+83   =You can limit who can join the match room based on users' CO-OP Level.
+*CO-OP Level refers to their experience in online play.
+84   =You can limit who can join the match room based on users' CO-OP Courtesy Rating.
+85   =You sent an Invite to join your Clan.
+If the user accepts, they'll become a new member of your Clan.
+86   =You can't send this Invite because the user has too many unanswered requests at this time.
+87   =You've reached the maximum number of requests you can send.
+Please cancel a request from your Requests Made first.
+88   =You already sent an Invite to this user.
+Let's wait until they respond.
+89   =You can't send any more Invites because your Clan is full.
+90   =You're not following any other users.
+You can choose to follow any users you played with after finishing your match together.
+91   =You can't invite this user because they're already a member of the maximum number of Clans allowed.
+92   =You can't lock any more of your followed users.
+You must unlock a user before you can lock a new one.
+93   =This will remove %s from the Clan.
+Proceed?
+94   =User removed from Clan.
+95   =Your Request couldn't go through because %s is not currently accepting new members.
+96   =There was no change in level because the match controls were set to COM.
+97   =There was no change in level because of Guest User participation.
+98   =No change in level.
+99   =No points earned.
+100  =The match was abandoned because another user conceded.
+No change in level.
+101  =Match conceded.
+No points earned.
+102  =The match was abandoned because another user disconnected.
+No change in level.
+103  =This match was deemed void due to another user's actions.
+No change in level.
+104  =This match was deemed void due to your actions.
+No points earned.
+105  =This match was forfeited due to another user's actions.
+No change in level.
+106  =This match was forfeited due to your actions.
+No points earned.
+107  =This match was deemed void.
+No change in level.
+108  =%s disconnected.
+109  =You can't play against the COM when only Guest User are playing.
+Change your VS Settings to "3 vs 3" to proceed to the match.
+110  =Matchmaking cancelled.
+111  =You can't send Invites during a match.
+112  =Select "Start Match" and proceed to matchmaking to register Clan members to the tournament.
+Be aware that after setting up a tournament, you can't change the participating members or join another Clan's tournament.
+113  =You can't enter this Match Room as the Clan is already participating in another tournament with different members.
+114  =You can't create a room because you're already participating in another Clan's tournament.
+115  =You can't enter this room because you're already participating in another Clan's tournament.
+116  =Matched with: %s opponent.
+117  =
+118  =You can't send this Request because you've already joined the maximum number of Clans allowed.
+119  =You can't send this Request because you're already a member of this Clan.
+120  =You can't send this invite because the user is already a member of your Clan.
+121  =Exit Match Room.
+Proceed?
+*A Match Room Owner is able to restart competition progress by creating a new Match Room.
+122  =If you have already made competition progress in another Match Room, all progress data will be lost before entering the new Match Room.
+Proceed?
+123  =You will need at least three users in your Match Room to play a match in this competition.
+124  =You need to complete the myClub tutorial before you can proceed to the Match Room.
+125  =Are you sure you want to proceed to the Match Room?
+126  =This will take you to Match Room for this Online Mode. All unsaved data will be lost.
+Are you sure you want to proceed?
+127  =Owing to a significantly low connection quality, your CO-OP Level has been lowered. No issues were detected with other user's connections.
+128  =Owing to the match being suspended, your CO-OP Level has been lowered.
+129  =Owing to you conceding the match, your CO-OP Level has been lowered.
+130  =Owing to heavy traffic affecting the re server, we're limiting the number of CO-OP matches.
+Please try again later.
+131  =Are you sure you want to abandon the match?
+132  =You abandoned the match.
+133  =Your opponent conceded the match.
+Your Clan won a match.
+134  =Not enough users are present to continue the match. The match will now be called off.
+135  =Not enough users are present to continue the match.
+Your Clan lost a match.
+136  =This match will be abandoned as connection quality has deteriorated significantly. No issues were detected with other user's connections.
+137  =This Clan is currently inactive.
+138  =This Clan has been shut down due to a violation of the Terms of Use or our Operation Policy.
+139  =You are unable to use this feature due to a violation of the Terms of Use or our Operation Policy.
+140  =No requests received.
+141  =User Information not found.
+142  =Request accepted.
+143  =User followed.
+144  =User unfollowed.
+145  =User locked.
+146  =User unlocked.

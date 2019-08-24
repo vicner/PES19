@@ -1,0 +1,11 @@
+17   =F2W
+
+0    =Select Formation
+3    =Edit Position
+18   =Mark Settings
+19   =Defensive
+20   =Custom
+21   =At Kick-off
+22   =When in possession
+23   =When out of possession
+24   =Subs available

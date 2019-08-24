@@ -1,0 +1,10 @@
+991  =Org2C
+
+7    =Controller
+8    =Hard Disk
+15   =Controller
+16   =Online Mode
+28   =rf
+36   =Auto Lineup Select
+37   =Beginner
+38   =Regular

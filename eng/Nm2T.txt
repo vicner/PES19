@@ -1,0 +1,95 @@
+506  =Nm2T
+
+2    =The other users are choosing their settings. Please wait.
+11   =Paused. Please Wait.
+48   =This Match will be abandoned as communications with other users have been lost.
+56   =This match will now be abandoned for improper conduct.
+57   =This match will now be abandoned as connection quality has significantly worsened.
+59   =Paused. Please Wait. 
+jb: Go to Pause Menu
+62   =Play Ranking Match.
+69   =Added Guest User.
+73   =Deleted Guest User.
+82   =Exit Match Room.
+88   =Edit chat presets.
+111  =This match room no longer exists.
+116  =Unable to obtain Ranking Data.
+123  =Add Guest User. Press  on the Controller you want to add.
+132  =Quit Competition and return to Top Menu.
+154  = This feature has been restricted due to Privacy Settings.
+155  =Remove this user from your Match Block List. Proceed?
+156  =Add this user to your Match Block List. Proceed?
+157  =Remove from Match Block List
+158  =Removed from Match Block List.
+159  =Added to Match Block List.
+160  =Add to Match Block List
+161  =You can only add up to 400 users to the Match Block List.
+164  =In Friendly Match, teams from both Master League and Master League Online can be selected. All you need to do is to load the user data. Once loaded, a message confirming this "LOADED USER DATA" will be displayed.
+165  =Should you play multiple matches, you will be able to check the records.
+166  =You can play a co-op match by adding an extra guest user to each side.
+219  =To make alterations to your Match Block List, please select [Online Settings] → [Match Block List] from the Top Menu.
+220  =You can only add up to 400 users to the Match Block List.
+To make alterations to your Match Block List, please select [Online Settings] → [Match Block List] from the Top Menu.
+221  =This match will be abandoned as connection quality has deteriorated significantly.
+No issues were detected on your opponent's side.
+222  =This match will be abandoned as connection quality on your opponent's client has deteriorated significantly.
+223  =This match will be abandoned. There has been a connection problem between you and your opponent.
+224  =The connection to the server has been lost.
+225  =This match cannot continue as there are now an insufficient number of users.
+226  =This match has been deemed a forfeited match.
+Your team lost.
+227  =This match has been deemed a forfeited match.
+Your team won!
+228  =Your team lost.
+229  =Your team won!
+230  =This match has been deemed a void match.
+Your team lost.
+231  =This match has been deemed a void match.
+Your team won!
+232  =We will be undertaking maintenance work on our servers starting at %d:%02d today.
+All online services including online matches will be suspended during maintenance.
+Are you sure that you want to start a match now?
+233  ="%s" is currently unavailable online.
+Please refer to Online Information for further details.
+234  =This feature has been restricted by admin.
+236  =A problem has been detected within your home network. Possible causes may include issues with your communication hardware or the use of Wireless LAN.
+While it may be entirely possible to connect online using a Wireless Connection, we recommend that you use a wired connection on grounds of stability.
+237  =Frequent delays or losses in communication detected from your internet connection.
+Please refer this issue to your Internet Service Provider.
+238  =Unable to find any ranked users.
+*Rankings are updated regularly.
+*Users who have not yet played 10 games will not be ranked in Win Rate rankings.
+Please try again after a while.
+241  =This Match will be abandoned as communications between you and %s have been lost.
+242  =This match will now be abandoned as connection quality between you and %s has significantly worsened.
+256  =You cannot accept an Invite as a Data Pack is being downloaded or installed.
+257  =Choose and configure Online Match Room settings.
+258  =Choose and configure general settings for Online Matches.
+259  =This match will be abandoned due to unforeseen circumstances.
+The result is null and void and will not be recorded.
+264  =Users who have not yet played 10 games will not be ranked in Win Rate rankings.
+265  =The name and appearances of Legend Player has been changed.
+266  =Therefore Become a Legend data cannot now be loaded.
+267  =Data relating to the Avatar's appearance will be overwritten.
+Are you sure you want to proceed?
+268  =The connection to the rf server has been lost.
+Log in again once the match is over and you should be able to continue the game as normal.
+* Any GP that you obtained after the kick-off of this match cannot be retrieved.
+269  =Unable to start Game Session as re is currently being downloaded.
+270  =Add to the Match Block List.
+(You can add a further %d users to the Match Block List)
+Proceed?
+271  =You have reached the maximum number of users you can add to the Match Block List
+From the Top Menu, select EXTRAS → ONLINE SETTINGS → Match Block List, and remove a user.
+274  =Please select a Country/Region.
+275  =Country/Region
+%s
+
+This selection cannot be changed later. Are you sure you want to proceed?
+276  =To use the game's features, you must agree to both the Terms of Use and Privacy Policy.
+277  =To use the game's features, you must agree to the Terms of Use.
+278  =The following changes were made.
+279  =In order to use the game's features, you must view the Privacy Notice.
+280  =You will be unable to use any online features including online modes unless you view the Privacy Notice. Are you sure?
+281  =Cannot access video data. Cancelling playback.
+282  =Failed to acquire video data. Cancelling playback.

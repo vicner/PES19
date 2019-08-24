@@ -1,0 +1,10 @@
+236  =E8T
+
+18   =Choose player name and nationality/region (Basic Settings). 
+19   =Creating Base Copy.
+20   =Player Data will be overwritten.
+21   =Choose a player whose data you want to copy.
+22   =Created Base Copy.
+23   =Register this newly created player to a club?
+24   =Nationality region will not be copied as this player already plays for his national team.
+25   =Facial data needs to be reset before this player's face can be edited.

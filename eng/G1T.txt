@@ -1,0 +1,603 @@
+262  =G1T
+
+0    =<Dribbling>i1
+obi0
+3    =<Quick Stop>i1
+Release ob+lji0
+7    =<Dash Dribble>i1
+ob+lji0
+9    =<Low Pass>i1
+lbi0
+12   =<Lofted Pass>i1
+lai0
+15   =<Low Through Ball>i1
+ldi0
+17   =<Chipped Through Ball>i1
+li+ldi0
+18   =<1-2 pass>i1
+li + lb →  Release ob just before trapping the ball  →  ld or li + ldi0
+20   =<Pass and Move>i1
+lb or ld → lk before the player kicks the ball.i0
+23   =<Cross>i1
+lai0
+25   =<Low Cross>i1
+la×2i0
+26   =<High Cross>i1
+lk+lai0
+27   =<Early Cross>i1
+li + Any type of crossi0
+28   =<Shoot>i1
+lci0
+30   =<Chip Shot>i1
+li+lci0
+39   =<Through Feint>%si1
+ ob Let go → Before trapping the ball hold lji0
+43   =<Call for Pressure>i1
+Hold lg
+*Cannot be used in CO-OP mode.i0
+44   =<Sliding Tackle>i1
+When the opposition have the ball lei0
+45   =<Clear>i1
+lci0
+46   =<Bring out the Goalkeeper>i1
+Hold lhi0
+47   =<Move Cursor onto Goalkeeper>i1
+li+jli0
+48   =<Drop Kick>i1
+lai0
+50   =<Throw>i1
+lbi0
+51   =<Dash>i1
+ob+lji0
+52   =<Super Cancel>i1
+lj + lk
+Cancel all actions including COM assisted movements and power gauge inputs.i0
+54   =<Cursor Change>i1
+lii0
+64   =<Short Corner>i1
+Press li to call another player over towards the corner taker.i0
+73   =<Jump>%si1
+le just as the opponent kicks the balli0
+83   =<Call for the Ball>i1
+*Co-op Match and Fixed only
+lk×2i0
+95   =<Put the ball down/Pick up the ball>i1
+Release ob → lji0
+113  =<Trap>i1
+obi0
+120  =<Controlled Shot>i1
+lk+lci0
+129  =<Quick stop then face opposition goal>i1
+Release ob+lki0
+138  =<Quick Restart>i1
+Pass/Shooting command when a player is seen quickly placing the ball after a free kick has been awarded.i0
+140  =<Dive>i1
+jk+jl+li+lli0
+152  =<Chat>i1
+*When the player is off the ball
+ll+///i0
+209  =When playing towards 
+214  =<Throw in>i1
+lbi0
+218  =Save Data Not Found.
+221  =<Speed Burst> i1
+lj×2+obi0
+223  =<Hold-up play>i1
+ Push ob towards your goal while pressuring the opposition player who is on the balli0
+233  =<Teammate Controls (Assisted)>i1
+li + jn  →  Release jn
+The player in the direction of your last control input will make a forward run.i0
+234  =<Teammate Controls (Manual)>i1
+li + jn  →  Release jn
+Hold li + jn in the direction you want to make the player runi0
+242  =<Close Control>i1
+lk+obi0
+247  =<Perfect Trap>i1
+lk as the player is trapping the balli0
+248  =<Flick>i1
+Press and hold jl as the player goes to trap the balli0
+249  =<High Pass>i1
+lk+lai0
+250  =<Dynamic one-two>i1
+li + lb → Hold li + jn in the direction you want to make the player run.i0
+251  =<Knuckle Shot>i1
+lc as the player is about to strike the balli0
+259  =<Tackle>i1
+lf × 2i0
+265  =Only when stationary
+266  =<Dummy>i1
+* Only when stationary
+Push then release ob  →  hold lki0
+267  =<Knock-on>i1
+* Only when stationary
+lk + //////i0
+268  =<Trap the ball then face opposition goal>i1
+Push then release ob → Start holding lk before the player traps the ball.i0
+269  =<Low Shot>i1
+ld as the player heads or strikes the balli0
+270  =<Running>i1
+obi0
+271  =<Throw Into Space>i1
+ldi0
+272  =<Pass Feint>i1
+Any pass command  →  lb just as the player throws or kicks the ball.i0
+273  =<Through Ball (Advanced)>i1
+* Use the same buttons as a normal through ball.
+Use both ob and the power gauge to place the pass.i0
+274  =<Shooting (Advanced)>i1
+* Use the same buttons as normal shooting.
+Use both ob and the power gauge to take aim.
+
+og: Aim for top left corner
+oh: Aim for top right corner
+oi: Aim for bottom left corner
+oj: Aim for bottom right corneri0
+275  =<Manual Pass/Manual Shot>i1
+ll + ob + Relevant command for Shot/Passi0
+277  =li + jn  →  Release jn
+278  =<Select Ball Receiver>i1
+li + jn  →  Release jni0
+279  =<Change Ball Receiver>i1
+li while selecting ball receiveri0
+280  =<Trigger move>i1
+ Push jn  →  release jn in the direction of a teammate when selecting ball receiveri0
+281  =<Instruction to play Short-pass>i1
+lbi0
+282  =<Instruction to play Lofted Pass/Cross>i1
+lai0
+283  =<Instruction to play Through Ball>i1
+ldi0
+284  =<Instruction to Shoot>i1
+lci0
+285  =<Instruction to Clear>i1
+* Only when the ball is in your half
+lci0
+286  =<Physical Play>i1
+Hold lj + lfi0
+287  =<Block>i1
+Push ob towards desired direction in anticipation of a pass, shot or an opponent trying to pass youi0
+289  =<Auto Positioning>i1
+Hold lf
+Use ob to fine tune positioni0
+290  =<GK Dash>i1
+Hold lj+lfi0
+291  =<Blocking>i1
+le
+Dive to the selected direction to close down the angle.i0
+292  =<GK Tackle>i1
+lf × 2i0
+293  =<GK Trap>i1
+Hold jl Before trapping the balli0
+294  =<Defensive Line Control>%si1
+Move defensive line forward: tc
+Move defensive line deeper: tdi0
+295  =<Offside Trap>i1
+tc ×2
+Move the defensive line forward for a set amount of time.i0
+296  =<Jockey>i1
+lk + obi0
+297  =<Come to a stop and face the ball>i1
+Push then release ob  →  lji0
+298  =<Manual Cursor Change>i1
+jn
+Switch cursor to the selected player.i0
+299  =<Switch Preset Tactics>%si1
+Hold ta or tb
+*Controls will differ depending on which camera angle you're using.
+Can be adjusted for Set Pieces.i0
+300  =<Switch Camera>i1
+ ja
+Each press will switch the camera tracking to ball-cam or player-cam.i0
+301  =<Defensive Instructions>i1
+li + oa  or 
+Stop straight runners: Position the defence to prevent players trying to make a straight run towards goal.
+Shepherd runners out wide: Position the defence to force any runners towards the flanks.
+OFF: Players return to their default positions.
+These settings can also be changed during set pieces.i0
+302  =<Set Piece Taker>i1
+Press  ja to display a small window where you can change the set piece taker.i0
+303  =<Display Aiming Guides>i1
+lj
+Display guides which indicate the directions of control inputs.i0
+304  =oe/of
+305  =<Display/Adjust Aiming Guides>i1
+oe/ofi0
+306  =<Display/Adjust Aiming Guides>i1
+* When pressing lc or la
+ob: Low trajectory
+ob: High trajectory
+ob: Left spin
+ob: Right spin
+Press and release ob → lc as the player strikes the ball: Knuckle shoti0
+307  =<Fix Pass/Shoot Direction and Trajectory>i1
+*Offline only
+lk
+Fix both the trajectory and the direction of the pass/shot you are about to play regardless of whatever control inputs are entered subsequently. Re-enter the same inputs to over-ride.i0
+308  =Use power gauge to adjust velocity. A weaker ball trades power for accuracy.
+A harder ball carries more power, but at the expense of accuracy.
+309  =<Lofted Pass>%si1
+la
+Use power gauge to adjust velocity. 
+oc: Low trajectory
+od: High trajectory
+of: Right Spin
+oe: Left Spini0
+310  =<High Pass>i1
+lk + lai0
+311  =<Shooting> %si1
+lc
+Use power gauge to adjust velocity.
+oc: Faster shot
+od: Slower shot
+of: Curves right
+oe: Curves left
+Release ob → Press lc when making contact with ball: No spin.i0
+312  =<2nd FK Taker>%si1
+Position 2nd FK taker to the side of the ball: li + ok (Press again to cancel)
+Line up 2nd FK taker and 1st FK taker: li + ol (Press again to cancel)i0
+313  =<Trick FK>i1
+1st FK Taker: Press then release lc  →  lb immediately afterwards
+2nd FK Taker: ll + press then release lc  →  lb immediately afterwardsi0
+314  =<Short knock-on>i1
+1st FK Taker: li + lb
+2nd FK Taker: ll + li + lbi0
+315  =<Off the Ball Controls>i1
+li + jn  →  Release jn
+A cursor appears above the ball receiver's head and this player becomes fully controllable.
+Press any pass command to receive the ball.i0
+316  =<Charge Down>i1
+lg as opponent strikes the balli0
+317  =<GK positioning>i1
+lh + obi0
+318  =<Directing your passes>i1
+oe/ofi0
+319  =<Adjust Pass trajectory>i1
+* Only when pressing la
+ob: Low trajectory
+ob: High trajectory
+ob: Left Spin
+ob: Right Spini0
+320  =<Fix Pass Direction and Trajectory>i1
+*Offline only
+lk
+Fix both the trajectory and the direction of the pass you are about to play regardless of whatever control inputs are entered subsequently. Re-enter the same inputs to over-ride.i0
+321  =<Select Thrower>i1
+Press  ja to open a small menu window to change throwers.i0
+322  =<Off the Ball Controls>i1
+li + jn  →  Release jn
+A cursor appears above the ball receiver's head and this player becomes fully controllable.
+Press lb to have the ball passed towards the player's feet or ld to have the ball passed into open space.i0
+323  =<Position Shift>%si1
+Press li to move players further forward or back deeper each time.i0
+324  =<Adjust Shot Direction>i1
+obi0
+325  =<Shoot>i1
+lc
+Use power gauge to adjust velocity. A weaker ball trades power for accuracy.
+A harder ball carries more power, but at the expense of accuracy.i0
+326  =<Chip Shot>i1
+li +lc
+Build up the power gauge for higher trajectory.i0
+327  =<GK positioning>i1
+obi0
+328  =<Saving>i1
+Push ob before the kicker strikes the ball to respond to a hard shot
+Push ob after the player strikes the ball to respond to a weaker shot.i0
+329  = ()   Release
+330  =Release jn (In any direction)
+331  =Hold
+332  =Hold jn (In any direction)
+333  =Push ob immediately afterwards to turn
+334  =<Gambetta>i1
+ ()   Release
+Push ob immediately afterwards to turni0
+335  =<Gambetta>i1
+Release jn (In any direction)
+Push ob immediately afterwards to turni0
+336  =< Run Around/Nutmeg >i1
+lj×2 + ob towards the opponenti0
+337  =<Scissors Feint>i1
+()   →  Release
+Push ob immediately afterwards to turni0
+338  =<Scissors Feint>i1
+ ()   Release
+Push ob immediately afterwards to turni0
+339  =<Scissors Feint>i1
+Release jn (In any direction)
+Push ob immediately afterwards to turni0
+340  =<Step-over>i1
+()   →  Release
+Push ob immediately afterwards to turni0
+341  =<Step-over>i1
+ ()   Release
+Push ob immediately afterwards to turni0
+342  =<Step-over>i1
+Release jn (In any direction)
+Push ob immediately afterwards to turni0
+343  =<Multiple Scissors Feint>i1
+()  →  Release
+Push ob immediately afterwards to turni0
+344  =<Multiple Scissors Feint>i1
+ ()   Release
+Push ob immediately afterwards to turni0
+345  =<Multiple Scissors Feint>i1
+Release jn (In any direction)
+Push ob immediately afterwards to turni0
+346  =<High Speed Scissors Feint>i1
+* Prerequisite skill: Scissors Feint
+()   →  Release
+Push ob immediately afterwards to turni0
+347  =<High Speed Scissors Feint>i1
+* Prerequisite skill: Scissors Feint
+ ()   Release
+Push ob immediately afterwards to turni0
+348  =<High Speed Scissors Feint>i1
+Release jn (In any direction)
+Push ob immediately afterwards to turni0
+349  =<Draw & Open>i1
+Hold  + od/oj / ofi0
+350  =<Draw & Open>i1
+Hold jn (In any direction) + ob  or  or i0
+351  =<Draw and Close>%si1
+* Prerequisite skill: Cut Behind & Turn
+Hold  + oci0
+352  =<Draw and Close>i1
+Hold jn (In any direction) + ob  or i0
+353  =<Draw and Close>i1
+* Prerequisite skills: Precise Touch
+Hold jn  + ob  or i0
+354  =<Draw and Close>i1
+* Prerequisite skills: Precise Touch
+Hold jn  + ob  or i0
+355  =<Draw and Close>i1
+Hold jn (In any direction) + ob  or i0
+356  =<Scotch Move>i1
+* Prerequisite skill: Scotch Move
+Hold  + oj / ofi0
+357  =<Scotch Move>i1
+* Prerequisite skill: Scotch Move
+Hold  + oj / ofi0
+358  =<Inside Bounce>i1
+Hold jn (In any direction) + ob  or  or i0
+359  =<Out & In>i1
+Hold  + ohi0
+360  =<Out & In>i1
+Hold  + ohi0
+361  =<Out & In>i1
+Hold jn (In any direction) + ob i0
+362  =<In & Out>i1
+Hold  + oji0
+363  =<In & Out>i1
+Hold  + oji0
+364  =<In & Out>i1
+Hold jn (In any direction) + ob i0
+365  =<Flip Flap>i1
+* Prerequisite skills: Flip Flap
+Hold  + ohi0
+366  =<Flip Flap>i1
+* Prerequisite skills: Flip Flap
+Hold  + ohi0
+367  =<Flip Flap>i1
+Hold jn (In any direction) + ob i0
+368  =<Reverse Flip Flap>i1
+* Prerequisite skills: Flip Flap
+Hold  + oji0
+369  =<Reverse Flip Flap>i1
+* Prerequisite skills: Flip Flap
+Hold  + oji0
+370  =<Reverse Flip Flap>i1
+Hold jn (In any direction) + ob i0
+371  =<Marseille Turn>i1
+Hold () + of/oj/od(of/oh/oc)i0
+372  =<Marseille Turn>i1
+Hold  + of/oj/od(of/oh/oc)i0
+373  =<Marseille Turn>i1
+Hold jn (In any direction) + ob  or  or i0
+376  =<One-footed Marseille Turn>i1
+Hold jn (In any direction) + ob  or  or i0
+377  =<Outside Marseille Turn>i1
+* Prerequisite skill: Marseille Turn
+Hold jn  () + ob  ()i0
+378  =<Outside Marseille Turn>i1
+* Prerequisite skill: Marseille Turn
+Hold jn  + ob  ()i0
+379  =<Outside Marseille Turn>i1
+Hold jn (In any direction) + ob  ()i0
+380  =<Double Touch>i1
+Hold () + obi0
+381  =<Double Touch>i1
+Hold jn (In any direction) + ob i0
+382  =<Cross Over Turn>i1
+Hold  + oc/oh/og(od/oj/oi)i0
+383  =<Cross Over Turn>i1
+Hold jn (In any direction) + ob  or  or ( or  or )i0
+384  =<Sombrero>i1
+* When the ball is either flicked or off the ground
+Hold jl + obi0
+385  =<Crescent Turn>i1
+* When the ball is either flicked or off the ground
+* Prerequisite skill: Sombrero
+Hold jl + ob
+Allows players to control high balls when attempting the Sombrero.i0
+386  =<Boomerang Trap>i1
+* Prerequisite skill: Sombrero
+Hold jl + ob towards opponenti0
+387  =<Rainbow Flick>i1
+jl×2i0
+388  =<Kick Feint>i1
+lc or la →  Just before the player kicks the ball lbi0
+389  =<Cut Behind>i1
+* Prerequisite skill: Cut Behind & Turn
+lc or la →  Just before the player kicks the ball lb+oc/oh/og/oe(od/oj/oi)i0
+390  =<Hold off Marker>i1
+Push jn towards your opponent just as he is about to shoulder barge youi0
+391  =<Pressure>i1
+Hold lfi0
+392  =<Shoulder Barge>i1
+Chase down an opponent, then push jn towards him just when you are both about to make physical contacti0
+393  =<Call For Pressure in Numbers>i1
+lg × 2, then hold lg
+2 to 3 players will surround the opponent and apply pressure.
+*Cannot be used in CO-OP mode.i0
+394  =<Trap Feint>%si1
+ob Let go → Before trapping the ball hold lji0
+397  =<Fake Shot Pass>i1
+Push lc  →  lb as the player goes to kick the ball  →  any passi0
+398  =<Chase Down>i1
+Press and hold lj+lfi0
+399  =<Celebration 1>i1
+lci0
+400  =<Celebration 2>i1
+ldi0
+401  =<Full Celebration 1>i1
+lb
+The player performs the action allocated to Full Celebration 1 in Edit Player.i0
+402  =<Full Celebration 2>i1
+la
+The player performs the action allocated to Full Celebration 2 in Edit Player.i0
+403  =<Display Control Guide>i1
+ja
+Toggle the control display guide ON and OFF.i0
+404  =()   →  Release
+Push ob immediately afterwards to turn
+405  =Hold  + oh
+406  =Hold  + of/oj/od(of/oh/oc)
+407  =* When the ball is either flicked or off the ground
+Hold jl + ob
+408  =lc or la →  Just before the player kicks the ball lb+oc/oh/og/oe(od/oj/oi)
+409  =Hold  + oj / of
+410  =lk+lc
+411  =You can also switch for set pieces.
+412  =<Advanced Instructions>%si1
+ll+ok switches Attack1 ON/OFF
+ll+ol switches Attack2 ON/OFF
+ll+om switches Defence1 ON/OFF
+ll+on switches Defence2 ON/OFF
+You can also switch for set pieces.i0
+413  =<Switch Attack/Defence Level>%si1
+ta×2 increases Attack/Defence Level
+tb×2 decreases Attack/Defence Level
+*Controls will differ depending on which camera angle you're using.
+You can also switch for set pieces.i0
+414  =Press td to open a window that displays Corner Kick Strategies.
+415  =<Attacking Operation>%si1
+Press td to open a window that displays Corner Kick Strategies.
+*Controls will differ depending on which camera angle you're using.
+ok Dash
+ol 6-Yard Box
+om Train
+on Far Posti0
+416  =<Call for Pressure>%si1
+Press td to open a window that displays Corner Kick Strategies.
+*Controls will differ depending on which camera angle you're using.
+ok Mixed
+om Man-to-Man
+on Zonali0
+417  = ()   Release
+Push ob immediately afterwards to turn
+418  =Hold  + oh
+419  =Hold () + of/oj/od(of/oh/oc)
+420  =When the Camera is Behind the Goal
+421  =<Positioning (High Balls)>%si1
+lk+obi0
+422  =Offline only
+423  =<Attacking Operation>%si1
+Press td to open a window that displays Corner Kick Strategies.
+*Controls will differ depending on which camera angle you're using.
+ok Dash
+ol Far Target
+om Dash and Hold
+on Target Mani0
+424  =Only in opposition's half
+425  =<Switch Camera Angle> %si1
+*Only in opposition's half
+Press jl to switch the camera between horizontal and vertical views.i0
+426  =Press tc to open a window that displays Set Piece Strategies.
+427  =<Attacking Operation (Short Corner)>%si1
+Press tc to open a window that displays Set Piece Strategies.
+*Controls will differ depending on which camera angle you're using.
+ok Touchline
+ol Runner From Deep
+om Two Options
+on Runner From Edge of Boxi0
+428  =<CO-OP Celebration>%si1
+lci0
+429  =<Celebration >%si1
+ldi0
+430  =Adjust the direction using ob.
+431  =Press la to kick the ball. Hold it down for more distance.
+432  =Adjust the ball's trajectory with oc/od.
+433  =You can curl the ball with oe/of and adjust its trajectory with oc/od.
+434  =Press oa  to open the strategy window.
+435  =Press td/tc to open the strategy window.
+436  =Instruct your team as to which strategy to use with oa.
+437  =This strategy applies only to set pieces taken in the opposition's half.
+438  =Press lc to shoot.
+439  =Press and hold for a more powerful shot.
+440  =Press lh when your opponent shoots to have the goalkeeper make a step.
+If you guess the direction correctly, you'll have a better chance of saving the shot.
+441  =When holding lj a target marker will display on screen.
+442  =Holding down will increase shot power, but at the expense of accuracy.
+443  =Tilt the ob to the  or  before the kick to choose a direction to move in. When the set piece taker kicks the ball, you will jump in the direction you tilted. The earlier you tilt the ob, the farther you can jump.
+444  =Adjust the direction using ob.
+Press la to kick the ball. Hold it down for more distance.
+Adjust the ball's trajectory with oc/od.
+445  =Adjust the direction using ob.
+Press la to kick the ball. Hold it down for more distance.
+You can curl the ball with oe/of and adjust its trajectory with oc/od.
+446  =Press oa  to open the strategy window.
+Instruct your team as to which strategy to use with oa.
+*This strategy applies only to set pieces taken in the opposition's half.
+447  =Adjust the direction using ob.
+Press lc to shoot. Press and hold for a more powerful shot.
+You can curl the ball with oe/of and adjust its trajectory with oc/od.
+448  =Press td/tc to open the strategy window.
+Instruct your team as to which strategy to use with oa.
+449  =When holding lj a target marker will display on screen.
+Adjust the direction using ob.
+Press lc to shoot. Holding down will increase shot power, but at the expense of accuracy.
+450  =Controls will differ depending on which camera angle you're using.
+451  =Ball not in play
+452  =<Icon Chat>%si1
+*Ball not in play
+ll+///i0
+453  =Two-Player Kick-Off
+454  =<2nd Taker>%si1
+li + ok (Press again to cancel)i0
+455  =<Pass/Shoot by 2nd Taker>%si1
+Holdll while performing action.i0
+456  =<Prevent Jump>%si1
+Keep holding lfuntil your opponent takes the kick.i0
+457  =Opponent's central area only
+458  =<Near Positioning>%si1
+Keep holding lhuntil your opponent takes the kick.i0
+459  =You'll find it easier to clear the wall and hit the target if you add curl to a free kick and charge the power gauge to 60-70％. If you want to score more free kicks, you'll have to adjust both the trajectory and power of your shots according to the angle and distance from goal.
+460  =Cannot be used in CO-OP mode.
+461  =When playing to the 
+462  =Hold  + oj
+463  =<High Punt Kick> %si1
+lk+lai0
+464  =<Quick Substitution> %si1
+*When ball is out of play
+ja
+Open a window for executing quick substitutions.i0
+465  =Hold  + oj
+466  =<Draw and Close>%si1
+Hold  + ohi0
+467  =Hold  + oh
+468  =Hold () + ob
+469  =Hold  + oc/oh/og(od/oj/oi)
+470  =<Lofted Pass>%si1
+la
+Use power gauge to adjust velocity. 
+oc: Low trajectory
+od: High trajectoryi0
+471  =You can make substitutions with ja when the ball is out of play. First, select the play to take off, then the player to replace him with. The list of players is in order of who has the least stamina.
+472  =You can change defensive level to determine how attack-minded or defence-minded the team will be. Pressing ta twice will make them play more aggressively. Pressing tb twice will make them play more defensively.
+473  =You can give your team instructions using Advanced Instructions. Use ll + oa in any direction to turn the instructions ON/OFF. You can adjust Advanced Instructions in Game Plan.
+474  =%s is complaining of pain in his leg. Keeping him on will increase the risk of injury. You might want to consider taking him off.
+475  =()  →  Release
+476  =()   →  Release
+477  =<Quick Body Feint>i1
+Push oc (od), then Push ob immediately afterwards to turn. i0
+478  =Hold  + od/oj / of

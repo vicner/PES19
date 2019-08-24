@@ -1,0 +1,5 @@
+920  =PcC
+
+47   =Press Any Button
+56   =Player %d
+147  =Incorrect Registration Code. Please make sure you enter the correct characters in the correct cases.

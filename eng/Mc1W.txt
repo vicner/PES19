@@ -1,0 +1,19 @@
+53   =Mc1W
+
+8    =Scorer
+9    =Assist
+32   =Load
+168  =New
+174  =User name
+196  =Create New
+197  =Hard Disk
+198  =Number of Users
+201  =System Data
+202  =Edit Data
+224  =Face Data
+225  =Strip Data
+264  =Competition Emblem Data
+276  =Personal Data
+277  =Screenshot Data
+278  =Backup Edit Data
+279  =Continue

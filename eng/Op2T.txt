@@ -1,0 +1,4 @@
+204  =Op2T
+
+24   =You can make another player from your team go on a straight run at the opposition.
+25   =You can make another player from your team run in any direction you choose.

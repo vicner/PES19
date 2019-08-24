@@ -1,0 +1,71 @@
+512  =Nm6T
+
+8    =Enter Password.
+9    =Incorrect Password.
+14   =Cannot Enter as Maximum Capacity has been reached.
+32   =Could not obtain information on the opponent.
+44   =The [Room Security] of this Match Room has been set to [Entrance Limitations].
+Access is now restricted to User you have personally invited.
+Once you are in the Match Room, select [Invite] to invite other User.
+45   =The Owner has left the Room.
+65   =Unable to Enter as a Match is currently being played.
+72   =Unable to access due to NAT type restrictions.
+78   =Entrance to this room is by password only. Enter password.
+92   =You cannot play a Match as there are no other users.
+102  =<Ranking Match>i1
+Play against other online users with an established set of rules.
+Ranking MatchIn the Quick Match mode, you can set your desired conditions before being automatically paired with a suitable opponent.i0
+103  =<Friendly Match Lobby>i1
+Play matches with custom rules against other online users.
+To play a match, enter a lobby of your choice then create a match room. Or alternatively, you can join match rooms which have been created by other users.i0
+104  =<KICK OFF>i1
+Take on a friend or the COM in a single match. You have the option of four modes: Exhibition Match, Random Selection Match, VERSUS and CO-OP.i0
+105  =<Exhibition Match>i1
+Watch as 2 COM controlled teams play each other.i0
+107  =Please wait until the current match in this Match Room has finished.
+109  =All users will be given a position once they have selected their preferred positions just before kick off.
+You can then, choose to use the Legend Player in your match.
+110  =You will play as a %s.
+Please choose your player.
+112  =You have picked the HOME side.
+113  =You have picked the AWAY side.
+114  =Return to Match Room List. All unsaved data will be lost.
+Proceed?
+115  =<Rating>i1
+You can choose to filter potential opponents by ensuring that you will only face users falling within a certain range either side of your own rating.i0
+116  =<League>i1
+Matchmaking can be restricted in such a way that you will only play against teams from the same league as you.
+The converse is also true in that if diversity is what you are looking for, you can choose to accept opponents from all leagues.i0
+117  =<Team Strength Level>i1
+"Team Strength Level" refers to a 5 point scale which categorises teams by the total costs of all the players in their respective squads.
+You can use this option to ensure that you are only pitted against teams with the same Team Strength Level.i0
+118  =<Support Setting Level>i1
+If you are seeking out opponents whose Support Settings are identical, if not similar to yours, then choose "Similar Level".i0
+119  =To check out your ranking, simply select [Statistics] → [Overall Ranking Match Rankings] in the Top Menu.
+120  =<Team Play Lobby>i1
+In Team Play Lobby, users are able to play co-op matches with anything between 2 and 22 participants.
+Users can enter a lobby of their choice and either create their own match room or join one which has already been created by another user.i0
+121  =You have been selected side leader.
+You will be the one to decide all team matters.
+122  =Place the cursor on your preferred side (HOME or AWAY).
+123  =Choose match level for co-op matches against the COM.
+124  =See in which division you amassed your most impressive Season Points tally to date.
+You can also check out your current Season Points Ranking.
+* Please note that there may be a certain time delay until your rankings are correctly reflected.
+125  =See which users both past and present amassed the most impressive Season Points total while playing in this division. Users are ranked in descending order.
+* The user data to the right of the screen indicate their current division and lifetime records.
+126  =<Online Divisions>i1
+Have you got what it takes to play through a gruelling series of 10-match seasons and make it to the very top?
+You will play random opponents that meet your selected preferences.i0
+127  =<Quick Match>i1
+Have fun playing quick matches where results don't matter. 
+You will play random opponents that meet your selected preferences.i0
+128  =You can only enter numbers.
+129  =The player name you choose in Become a Legend will also be displayed online and will be visible to other users.
+Is this OK?
+130  =Save Data for Become a Legend campaigns that began with the "Existing Player" option for player type cannot be used.
+131  =Please select preferred position.
+133  =<Online CO-OP>i1
+An online cooperative mode. Automatically search for other users to play with and form a team to work your way up the Leaderboards.i0
+134  =<PES LEAGUE>i1
+Win competition events played with different regulation settings.i0

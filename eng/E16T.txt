@@ -1,0 +1,8 @@
+244  =E16T
+
+0    =Revert current data to default.
+2    =Are you sure you want to delete this player? 
+16   =Unable to save player as no name has been entered.
+18   =Discard current Edit Data.
+19   =Editable
+20   =Not Editable

@@ -1,0 +1,7 @@
+968  =Widget1C
+
+0    =%s has just joined.
+1    =%s has just left.
+9    =You were unable to join the Session.
+26   =Comment
+33   =Preset

@@ -1,0 +1,9 @@
+514  =Nm7W
+
+0    =Add friend
+16   =Rating
+32   =Go to Matchmaking
+33   =Quit Match Now
+37   =Rookie (Fewer than 10 Games)
+38   =5 Consecutive Victory Bonus
+39   =Request to Abandon Match

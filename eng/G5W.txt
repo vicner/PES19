@@ -1,0 +1,19 @@
+14   =G5W
+
+0    =Camera Type
+2    =Normal
+5    =Long
+6    =Vertical
+10   =Wide
+12   =Zoom
+16   =Tailing Camera
+22   =Player
+23   =Ball
+26   =Blimp
+27   =Pitch Side
+28   =3D
+29   =Mid Range
+30   =Live Broadcast
+31   =Fan View
+32   =Dynamic Wide
+33   =Dynamic Wide Custom

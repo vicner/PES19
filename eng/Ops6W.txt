@@ -1,0 +1,13 @@
+8    =Ops6W
+
+0    =Install
+1    =Install Game Data. 
+Proceed?
+3    =Do not shut down your system or quit the game while the Hard Disk Activity Light is flashing.
+4    =Installing Game Data.
+5    =Game Data Installation Complete.
+6    =Game Data Installation Cancelled.
+9    =Port Settings
+10   =Auto Settings
+11   =UDP Port Number
+17   =Test Connection

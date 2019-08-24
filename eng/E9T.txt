@@ -1,0 +1,12 @@
+237  =E9T
+
+22   =No players who could be registered were found.
+25   =Remove %s from team?
+37   =Register %s to the team.
+38   =Swap %s for %s.
+39   =You cannot register any more players to this team.
+40   =Switch %s and %s.
+41   =Add a player
+42   =Transfer %s to %s?
+43   =Resetting player registration.
+Please wait...

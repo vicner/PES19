@@ -1,0 +1,7 @@
+600  =Fan1T
+
+1    =Check Game Plan
+2    =Individual Titles
+39   =League Best Eleven
+90   =Goals
+184  =Overwrite?

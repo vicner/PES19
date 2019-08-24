@@ -1,0 +1,528 @@
+274  =Lcm12T
+
+4    =The below teams will exchange league places once the season finishes. 
+
+・ Relegation
+ Bottom 3 teams of %s 
+・ Promotion
+ %s top 3 teams
+12   =Some players are unavailable for the next match.
+21   =It's now the second half of the season. Check on your league position now that all first half fixtures have been played.
+208  =%s has retired.
+593  =・Contested by %d teams
+・%d Home & Away Fixtures
+596  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Goal Difference
+3. Goals Scored
+600  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Goal Difference
+3. Goals Scored
+4. Points from head-to-head results between relevant teams
+601  =<Yellow cards> (All suspensions start from the following fixture)i1
+Players receive a 1-match suspension after 5 cautions
+Players receive a 2-match suspension after 10 cautions
+Players receive an automatic 3-match suspension after 15 cautionsi0
+<Red cards>i1
+Automatic 1-match suspension for a Red card (2 Yellows)
+Automatic 3-match suspension for a straight Red cardi0
+608  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Points from head-to-head results between relevant teams
+3. Goal Difference from head-to-head results between relevant teams
+4. Goals Scored from head-to-head results between relevant teams
+5. Goal Difference
+6. Goals Scored
+609  =<Yellow cards>i1
+Receiving 5 cautions leads to a 1-match suspensioni0
+<Red cards>i1
+A Red card leads to an automatic 1-match suspensioni0
+613  =<Yellow cards>i1
+Players are suspended for a match after 5 cautions.
+They'll then get further suspensions after 5 cautions, 4 cautions, 3 cautions, 2 cautions and finally a single caution.i0
+<Red cards>i1
+Players receive an automatic 1-match suspension for a Red cardi0
+632  =・Contested by the 16 teams that made it through the Group Stage
+・Single leg knockout format
+・3rd place playoff to be played.
+645  =<Yellow cards>i1
+Players receive a 1-match suspension for 2 cautionsi0
+<Red cards>i1
+Players receive an automatic 1-match suspension for a Red cardi0
+651  =<Yellow cards>i1
+Players receive a 1-match suspension for 3 cautionsi0
+<Red cards>i1
+Players receive an automatic 1-match suspension for a Red cardi0
+706  =Single Leg Knockout Format
+707  =・No 3rd place playoff
+709  =Contested in Knockout system Home & away matches.
+710  =Final played as Single match.
+712  =Contested by the 16 teams that made it through the Group Stage
+715  =・3rd place playoff to be played.
+728  =Placed on Transfer List.
+729  =Removed from Transfer List.
+730  =This player was added to the Loan List.
+731  =This player will be removed from the Loan List.
+732  =Enter Transfer Negotiations.
+733  =Enter negotiations for a loan transfer.
+735  =Cancel negotiations?
+736  =Because it is a mid-season transfer, you need to pay half the player's Salary: %s.
+737  =Master League is all about building your ideal club.
+To do this, you will have to nurture the right talents and buy wisely in an often chaotic transfer market.
+You may want to take your ambitions even further by managing different clubs or taking charge of national teams.
+
+What is your goal? Lifting the coveted World No. 1 Trophy? Or is it all about building a proud history by seeing great players come and go? The choice is yours.
+
+So, are you up for the challenge? Yes? GOOD! Then it's time to start Master League!
+758  =The more matches a player plays, the more tired he'll become. When a player is tired, it is easier for him to get injured, and his condition will deteriorate, so be careful.
+In order for your players to be able to perform throughout a long season, you will need to regularly change your starting eleven to keep control of the team's condition.
+
+During the League Season, players from your club may be called to represent their respective countries or regions. 
+They will then play in International Friendly Matches or Continent Based Championship Competitions.
+
+Players returning from International Duty tend to be very tired and you will need to be very watchful of their fitness levels when playing them.
+760  =Players who've decided to call it a day after reaching a certain age will announce their own retirement.
+Players who make a Retirement Announcement will retire at the end of that season.
+
+Unattached players who could not find a team, or Youth Team players who weren't picked up by anyone by the age of 20 will also retire, despite still being relatively young.
+779  =・Contested by %d teams.
+・Contested in Knockout system Home & away matches.
+780  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Points from head-to-head results between relevant teams
+783  =・Contested by %d teams playing Home & away matches under the Knockout system.
+・Winning teams advance to the next round.
+・Losing teams advance to the European Masters Cup Group stage.
+784  =・Contested by %d teams.
+・Participating teams are divided into groups of %d.
+・All teams play a total of %d matches on a Home & away matches basis.
+・Top %d teams from each group advance to the next round.
+・Teams which finish third in each group enter the European Masters Cup Round of 32. 
+789  =League contested by 20 teams.
+Each team will play 38 Home & Away fixtures in total.
+790  =・Contested by %d teams.
+・Single leg knockout format.
+791  =・Contested by %d teams
+・Contested in Knockout system Home & away matches.
+・Final played as Single match.
+830  =Refuse Contract Renewal. 
+834  =<Yellow cards>i1
+Receiving 4 cautions leads to a 1-match suspensioni0
+<Red cards>i1
+A Red card leads to an automatic 1-match suspensioni0
+847  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Goal Difference
+3. Wins
+4. Goals Scored
+5. Points from head-to-head results between relevant teams
+848  =<Yellow cards>i1
+Players receive a first 1-match suspension after 5 cautions
+Players can be suspended for a second time after a further 4 cautions and a third time after another 3. From then on, every 2 cautions will result in a 1-match suspension.i0
+<Red cards>i1
+Players receive an automatic 1-match suspension for a Red cardi0
+849  =・Contested by %d teams.
+・Teams are divided into groups of %d.
+・All teams play total of %d matches in single Round Robin format.
+・Top %d teams from each group advance to the next round.
+850  =・Contested by %d teams.
+・Teams are divided into groups of %d.
+・All Teams play total of %d matches on a Home & away matches basis.
+・Top %d teams from each group qualify for the International Cup in the following year.
+851  =・Contested by %d teams
+・Teams are divided into groups of %d
+・All Teams play total of %d matches on a Home & away matches basis
+・Top %d teams from each group advance to the next round
+852  =・Draw Size
+  %d Teams
+
+・Group stage
+  %s
+
+・Competition Format
+  %s
+
+・Final
+  %s
+
+・3rd Place Playoff
+  %s
+853  =・Contested by %d teams playing Home & away matches under the Knockout system.
+・Winning teams advance to the next round.
+854  =Negotiations are now underway.
+855  =As a top flight manager, you will have the choice of selecting which team you want to manage come next season.
+When the season reaches its climax, offers will come from a selection of teams. It will then be down to you to choose whether you want to stay on with your current team or look for pastures anew.
+
+The better you perform, the better the team which will come in and make the offer.
+There may also be opportunities to play in other leagues should an offer arrive from teams outside the league you currently play in.
+856  =Select players for national team.
+Please select which players to drop and who to call up as replacements.
+857  =National Team selections need to be made approximately 2 weeks in advance of any upcoming friendly matches or competitions.
+
+The national team squad must consist of 23 players, meaning that in order to add someone, another player will need to give up his place. 
+
+For international friendlies, you are free to change your squad lineup for each match.
+However, this does not apply in the case of international competitions where changes to the squad cannot be made once the competition is underway.
+858  =Accept the role of %s manager.
+859  =Extend your tenure as %s manager for another year.
+860  =You can manage National Teams to take on the challenge of winning a variety of international competitions.
+However, please note that you can only manage teams who have formally approached you with an offer.
+The role of national team manager will be part time and you will need to fit such commitments in with your league season schedule.
+
+Should you accept the role, your tasks will include: guiding the national team to victory in competitions as well as selecting the players who you feel are fit to represent the nation/region.
+
+The type of offers you receive will be totally dependent on your performance as league manager or national team manager during the season.
+861  =See how far you have come as a player this season.
+862  =What to do once a deal is agreed with a transfer pending.
+863  =Competition prize money has been paid out
+864  =The team will now take part in the %s.
+865  =Annual sponsorship fee for next season has been finalised.
+Use the amount as reference when looking for reinforcements.
+866  =A number of National Teams have offered you the manager's job.
+Your can continue your club career while managing a national team.
+You need to reply before the end of the day.
+867  =There are players who are now unavailable as they have already retired.
+868  =There is another team who is interested in your services.
+You must now choose between accepting this offer and staying with your current team.
+869  =Today is Payment Day.
+Wages have been paid along with other expenses.
+Do not forget to check the remaining Team funds.
+870  =Today is National Team Selection day.
+It's time to narrow down your options and to make a decision.
+872  =Make the most of this pre-season transfer window to prepare for the upcoming season.
+873  =How do player transfers work?
+874  =You can manage multiple clubs by changing teams.
+875  =Why not take the opportunity to manage a national team?
+876  =You have joined up with your new team.
+Now is the time to look at the new team's Game Plan.
+877  =%2$s| %1$d|
+You joined %3$s| as their manager.
+878  =You are now the manager of %s.
+879  =All fixtures for this season have been completed.
+There are some teams who have expressed an interest in your services.
+Now is the time to choose.
+880  =Your exploits from last season has earned you a chance to manage a national side.
+Make your choice wisely.
+881  =Today is selection day for the %s national team.
+See who deserves to play in the upcoming %s.
+882  =%1$s| has been named %2$s| %3$s|.
+883  =%1$s| has been selected for the %2$s| national team.
+884  =%s has left the team.
+885  =%d players have left the team.
+886  =%s finished no. %d in the table.
+887  =%s were %s.
+888  =Offer received.
+Please respond accordingly.
+889  =Renegotiating terms.
+890  =・Contested by %d teams.
+・All teams play in double round-robin format over %d fixtures.
+891  =Once the season finishes, teams who finish in the below positions (based on their performances throughout the whole calendar year) are either automatically promoted or relegated.
+
+・Relegated
+Bottom 3 teams in %s
+・Promoted
+Top 3 teams in %s
+892  =Negotiations in Progress.
+893  =All fixtures for this season have been completed.
+894  =National team squads have been announced.
+No one from %s was called up.
+895  =Some players are going away on loan.
+897  =・Contested by %d, including the 24 winners from the European Masters Cup Group stage and the 8 third-placed sides from the European Club Championship Group stage.
+・Contested in Knockout system Home & away matches.
+・Final played as Single match.
+898  =Players who represented their countries in the %s have just returned.
+Take great care when picking them as they may still be very tired.
+899  =The club will enter the nb Group stage following its elimination from the na Play-offs.
+900  =There are no matches this month.
+Make sure that you check up on player development and training.
+901  =No fixtures this month.
+902  =1 or 2 special practice matches can be held in months where there are no official fixtures.
+These matches offer players the opportunity to earn greater amounts of experience points compared to normal matches.
+It is the perfect chance for promising youngsters to earn bonus experience which is so crucial in their development.
+
+However, make sure you play the match or else you will only earn the same experience points as you would earn playing a normal match.
+903  =1 or 2 special practice matches can be held in months where there are no official fixtures.
+These matches offer players the opportunity to earn greater amounts of experience points compared to normal matches.
+
+However, make sure you play the match or else you will only earn the same experience points as you would earn playing a normal match.
+904  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Goal Difference
+3. Goals Scored
+4. Random Draw
+905  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Goal Difference from head-to-head results between relevant teams
+3. Away Goals from head-to-head results between relevant teams
+4. Goal Difference
+5. Goals Scored
+906  =Standings are ranked in order of decreasing priority, by:
+1. Points
+2. Goal Difference
+3. Goals Scored
+4. Away Goals Scored
+907  =Players receive a 1-match suspension after 2 cautions.
+908  =Players receive a 1-match suspension after 3 cautions.
+909  =Players receive a 1-match suspension after 4 cautions.
+910  =Players receive a 1-match suspension after 5 cautions.
+911  =Players receive a 1-match suspension after 5 cautions.
+Players receive a 2-match suspension after 10 cautions.
+Players receive a 3-match suspension after 15 cautions.
+912  =Players are suspended for a match after 5 cautions.
+They'll then get further suspensions after 5 cautions, 4 cautions, 3 cautions, 2 cautions and finally a single caution.
+913  =Players receive a 1-match suspension after 5 cautions.
+Subsequent suspensions are received after 4, 3, then 2 cautions. From this point on, 2 cautions will result in an automatic 1-match suspension.
+914  =Automatic 1-match suspension.
+915  =Automatic 3-match suspension.
+However, a dismissal resulting from 2 yellow cards only leads to a 1-match suspension.
+916  = The bottom 3 teams in %s face automatic relegation.
+917  =The top 2 teams in %s are automatically promoted.
+The third team to be promoted will be the winners of a 4 team play-off to be played by teams that finished between 3rd and 6th.
+918  =The top 2 teams in %s are automatically promoted.
+The third team to be promoted will be the winners of a 4 team play-off to be played by teams that finished between 3rd and 6th. Reserve teams however, are not eligible for promotion and therefore, the final positions of Reserve teams will not be taken into consideration when deciding which teams are promoted either automatically or via the play-offs.
+919  =Top 3 teams %s will be promoted automatically.
+920  =The top 2 teams in %s are automatically promoted.
+The third team to be promoted will be the winners of a play-off involving 2 to 6 teams that all finished the season within 14 points of the 3rd placed team.
+If there is a difference of 10 points or more between the 3rd and 4th placed teams, then the former is given automatic promotion and no play-off will take place.
+921  =There are no promotions or relegations in this league.
+922  =Only the Final is played over 2-legged Home & away matches
+923  =・Contested by %d teams
+・Single leg knockout format
+・Only the Final is played over 2-legged Home & away matches
+924  =・The Semi-finals and Final are both played over 2-legged Home & away matches
+・Quarter-finals (if necessary) are played in single-leg knockout format
+925  =The 4 teams that finished between 3rd and 6th in the league.
+926  =The 4 teams that finished between 3rd and 6th in the league.
+This excludes Reserve teams as they are not eligible for promotion.
+927  =2-6 teams that finish within 14 points of the 3rd placed team.
+No play-offs are held if the 3rd placed team finishes 10 or more points ahead of the team in 4th.
+928  =・The Semi-finals are played over 2-legged Home & away matches
+・Single fixture Final
+・With Extra Time
+・With Penalty Shootout
+929  =・The Semi-finals and Final are both played over 2-legged Home & away matches
+・No Extra Time
+・No Penalty Shootout
+・If the scores finish level, the team who finished higher in the league is awarded the win
+930  =・The Semi-finals and Final are both played over 2-legged Home & away matches
+・The Quarter-finals (if required) are played as single fixtures 
+・With Extra Time
+・No Penalty Shootout
+・If the scores finish level, the team who finished higher in the league is awarded the win
+931  =Reserve teams are not eligible for promotion to %s.
+932  =There are currently no Reserve teams playing in %s.
+933  =The Reserve teams currently playing in %s are as follows.
+934  =A special competition where the respective winners of last season's %s and %s go head-to-head.
+935  =If both competitions were won by the same team, the team that finished 2nd in %s will be selected as opponents.
+936  =If both competitions were won by the same team, the team that finished runner-up in %s will be selected as opponents.
+937  =A special competition where the winners of the nd and the Copa Sudamericana go head-to-head.
+If both competitions were won by the same team, the team that finished runner-up in the nd will be their opponents.
+938  =・Single match
+・No Extra Time
+・With Penalty Shootout
+939  =・Home & away matches
+・With Extra Time
+・With Penalty Shootout
+940  =・Single match
+・With Extra Time
+・With Penalty Shootout
+941  =The third-placed teams which advance from each group are determined, in order of priority, by :
+1. Points
+2. Goal Difference
+3. Goals Scored
+942  =- Total of %d clubs to take part.
+- %d teams in a group.
+- Each team plays all other teams in their group once for a total of %d matches.
+- The top %d teams advance to the next round.
+- The%d best 3rd-place teams also advance.
+943  =You will still be able to change your mind until you forward the date.
+944  =You can still change your mind up until %1$s| %2$d|.
+945  =The player has been removed from the list.
+946  =・Contested by %d teams
+・All teams play in round-robin format over %d fixtures.
+947  =Contract extension negotiations are now underway.
+948  =・Contested by %d teams.
+・Each team plays each other Home & away matches, meaning %d matches in total.
+・The top %d teams proceed to the following year's International Cup.
+949  =Bottom 2 teams in the %s are relegated.
+950  =Top 2 teams in the %s are promoted.
+951  =・%d teams take part.
+・Teams are divided into groups of %d.
+・All Teams play total of %d matches on a Home & away matches basis
+・The top %d teams from each group advance to the next round.
+・Four of the third placed teams from each group also advance to the next round.
+952  =・A competition featuring the top-placed teams from each country.
+・All four teams play one match against the other teams in a round robin format, with the top team crowned champion.
+953  =・A one-match competition between champions of the %s and a team comprised of the world's best players.
+954  =・A testimonial match for players retiring this season.
+955  =・Single match
+・No Extra Time
+・No Penalty Shootout
+956  =・Your career achievements have been recognised by the awarding of a testimonial match.
+957  =Standings are ranked in order of decreasing priority, by: 
+1. Points 
+2. Wins 
+3. Goal Difference 
+4. Goals Scored 
+5. Away Goals 
+6. Away Victories
+958  =・All %d teams participate.
+・2-stage competition.
+・1st leg: Round robin format of %d matches.
+・2nd leg: Round robin format of %d matches.
+959  =・All %d teams participate.
+・2-stage competition.
+1st leg: Round robin format of %d matches.
+2nd leg: Round robin format of %d matches.
+・When a stage is complete, the top 8 teams progress to a knockout stage.
+960  =・All 16 teams participate.
+・All teams play in a round robin format for a total of 30 matches, after which the group is divided into top 6 and bottom 10 teams.
+・Top 6 teams play a round robin format of 10 matches.
+・Bottom 10 teams are further divided into two groups of 5 teams, with each group playing a round robin format of 8 matches.
+961  =・All 12 teams participate.
+・All teams play in a round robin format for a total of 33 matches, after which the group is divided into top 6 and bottom 6 teams.
+・Each group plays a round robin format of 5 matches.
+962  =・All 14 teams participate.
+・All teams play in a round robin format for a total of 26 matches, after which the group is divided into top 6 and bottom 8 teams.
+・Top 6 teams play a round robin format of 10 matches.
+・Bottom 8 teams are further divided into two groups of 4 teams, with each group playing a round robin format of 6 matches.
+963  =・All %d teams participate.
+・All teams play in a round robin format for a total of 30 matches, after which the group is divided into top 8 and bottom 8 teams.
+Each group plays a round robin format of 7 matches.
+964  =・The 1st place teams of the %s and %s, and the 4th place team of the %s participate in a play-off, with the winner earning a berth in the %s.
+・Single Leg Knockout Format
+965  =・The 1st and 2nd place teams of the %s and %s, and the 4th place team of the %s participate in a play-off, with the winner earning a berth in the %s.
+・Single Leg Knockout Format
+966  =・na
+The 1st to 3rd place teams in the league earn a berth in the Group stage, and the 4th place team earns a Playoff berth.
+
+・nb
+The domestic cup winners earn a berth in the na if they have not already done so. 3 teams including this team earn a berth.
+
+・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+967  =・na
+The 1st and 2nd place teams in the league earn a berth in the Group stage, and the 3rd place team earns a Playoff berth.
+
+・nb
+The domestic cup winners earn a berth in the na if they have not already done so. 3 teams including this team earn a berth.
+
+・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+968  =・na
+The league winners earn a berth in the Group stage, and the runner-up team earns a Playoff berth.
+
+・nb
+The domestic cup winners earn a berth in the na if they have not already done so. 3 teams including this team earn a berth.
+
+・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+969  =・na
+The Championship Play-offs winners earn a berth in the Group stage, and the runner-up team earns a Playoff berth.
+・nb
+The 3rd place Championship Play-offs team and winners of the post-season Play-Off Finals earn a berth.
+・Play-Off Finals
+The 4th place Championship Play-offs team and winners of the Play-Offs Group A and Play-Offs Group B earn berths.
+
+・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+970  =・na
+The Top Six winners earns a berth in the Group stage, and the runner-up team earns a Playoff berth.
+
+・nb
+The domestic cup winners earn a berth in the na if they have not already done so. 3 teams including this team earn a berth.
+
+・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+971  =・%s
+The 1st place teams in the league earn a berth in the Group stage, and the 2nd place team earns a spot in the Playoff.
+
+・%s
+The 3rd place team in the league earns a berth.
+
+・Earning a competition berth
+The winners of the %s and %s earn a berth in next season's %s Group stage and Playoff, which may impact the allocation of berths as described above.
+972  =・na
+The Championship Round winners earn a berth in the Group stage, and the runner-up team earns a Playoff berth.
+
+・nb
+The 3rd place Championship Round team and winners of the post-season Play-Offs earn a berth.
+
+・Play-Offs
+The 4th place Championship Round team and winners of the Bottom Round Group A and Bottom Round Group B earn berths.
+
+・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+973  =・%s
+The 1st place team in the %s earns a berth in the Group stage, and the 2nd place team earns a spot in the Playoff.
+
+・%s
+The 3rd place team in the %s earns a berth.
+
+・Earning a competition berth
+The winners of the %s and %s earn a berth in next season's %s Group stage and Playoff, which may impact the allocation of berths as described above.
+974  =・%s
+The 1st place team in the league earns a berth in the Group stage.
+
+・Earning a competition berth
+The winners of the %s and %s earn a berth in next season's %s Group stage and Playoff, which may impact the allocation of berths as described above.
+975  =・nd Group stage
+The domestic cup winners earn a berth in the Group stage if they have not already done so. The top 4 teams in the league not including this team earn a berth.
+・nd Qualifying Round
+The top 2 teams that have not earned a berth in the Group stage earn a berth in the Qualifying Round.
+
+・Order of Berth Eligibility
+The nd champions automatically earn a berth for next season's Group stage. However, when another team from the same league is also eligible, berth eligibility can change.
+976  =・nd Group stage
+The domestic cup winners earn a berth in the Group stage if they have not already done so. The top 4 teams in the league not including this team earn a berth.
+
+・nd Qualifying Round
+The top place team that has not earned a berth in the Group stage earns a berth in the Qualifying Round.
+
+・Order of Berth Eligibility
+The nd champions automatically earn a berth for next season's Group stage. However, when another team from the same league is also eligible, berth eligibility can change.
+977  =・nd Group stage
+The winners of each league earn a berth in the Group stage. When the same team wins multiple leagues, berth eligibility is decided by top overall rank.
+
+・nd
+2 teams earn a berth in the Qualifying Round. The domestic cup winners earn a berth in the Group stage if they have not already done so. The remaining team is decided by top overall rank.
+
+・Order of Berth Eligibility
+The nd champions automatically earn a berth for next season's Group stage. However, when another team from the same league is also eligible, berth eligibility can change.
+978  =・nd
+The winners of the %s and %s earn a berth in the Group stage, with the overall 1st and 2nd place teams earning a berth in the qualifying round.
+
+・Earning a competition berth
+The winners of the nd earn a berth in next season's nd Group stage, which may impact the allocation of berths as described above.
+979  =・nd
+The winners of the %s and %s earn a berth in the Group stage.
+
+・Earning a competition berth
+The winners of the nd earn a berth in next season's nd Group stage, which may impact the allocation of berths as described above.
+980  =・nd
+The 1st place team in the %s and the 1st place team in the %s earn a berth in the Group stage.
+
+・Earning a competition berth
+The winners of the nd earn a berth in next season's nd Group stage, which may impact the allocation of berths as described above.
+981  =・AFC Champions League
+4 teams earn a berth in the AFC Champions League. The domestic cup winners earn a berth in the AFC Champions League if they have not already done so. The remaining teams are decided by top overall rank.
+982  =The winners earn a berth in the nb.
+983  =The winners earn a berth in the nd Group stage.
+984  =The winners earn a berth in the nd Qualifying Round.
+985  =・nd
+The winners of the %s earn a berth in the Qualifying Round.
+
+・Earning a competition berth
+When the winners of the %s and %s are different teams, the berth can be re-allocated according to %s season result.
+986  =The winners earn a berth in the AFC Champions League.
+987  =・Order of Berth Eligibility
+The na champions and nb champions both automatically earn a berth for next season's na. However, when both teams are from the same league, berth eligibility can change.
+988  =・nb
+The domestic cup winners earn a berth in the na if they have not already done so. 3 teams including this team earn a berth.
+989  =・nd Group stage
+The domestic cup winners earn a berth in the Group stage if they have not already done so. The top 4 teams in the league not including this team earn a berth.
+990  =・Order of Berth Eligibility
+The nd champions automatically earn a berth for next season's Group stage. However, when another team from the same league is also eligible, berth eligibility can change.
+991  =The winners earn a berth in the nb.
+992  =The previous season's na champions and nb champions play each other.

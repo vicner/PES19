@@ -1,0 +1,51 @@
+511  =Nm5T
+
+71   =Player development will not be reflected in Online Mode. 
+Players created in Edit Mode cannot be used either.
+72   =This Team data cannot be used as it has a less than 16 available players.
+92   =No new Information to report.
+95   =You can now start the match by selecting Start Match.
+96   =Please wait until there are enough users to start a match.
+97   =Please wait for everyone to select [Start Match].
+98   =Please wait for all users to return to the main menu.
+99   =Change the name of this Match Room.
+100  =You can choose to restrict room entry to certain users.
+101  =If you restrict room entry to via Password only, then you will need to choose one (maximum 8 characters) beforehand.
+102  =Select "11 VS 11" in order to play a match where multiple users are placed in both the HOME and AWAY side, then pitted against each other.
+Alternatively, you can choose "11 VS COM" if you would like to team up with other users to play a co-op match against the COM.
+103  =You can choose to block users wanting to use their alter-egos from Become a Legend by turning this setting "OFF".
+104  =Switch "ON" this setting to enable users to take control of multiple players or "OFF" if you prefer that users control only a single fixed player throughout the match.
+105  =Set Match Room Capacity to either 4 or 8 users.
+106  =Choose the approximate length of each match from kick off to the final whistle.
+107  =Choose whether or not to enable player injuries during matches.
+108  =Choose whether or not to have player form decided at random.
+109  =Choose whether or not to have player form decided at random when starting the match.
+110  =Select which type of ball to use in the match.
+111  =Choose the lengths of waiting times before the match, at half time and whenever a match is paused. You can choose from 3 lengths.
+112  =Choose whether or not to play extra time for matches which are tied at the end of full time.
+113  =Choose whether or not to decide a winner via a penalty shootout for matches that end all square.
+114  =Choose the number of permitted substitutions for each match.
+116  =<Match Status>i1
+Have a look at the current status or progress of a particular match.i0
+117  =<Entered Users/Capacity>i1
+This refers to the number of users who are inside a particular Match Room as well as its maximum capacity.i0
+118  =<Ready for Kick Off>i1
+This indicates the number of users who are inside a particular Match Room as well as how many of them have selected the option "Start Match".i0
+119  =<Owner>i1
+The user whose name is displayed is the Match Room owner.i0
+120  =<User Information>i1
+Check out your average rating for each position to see which position you played best in all your previous matches in the Team Play Lobby.i0
+121  =<Best Players by Position>i1
+Users in the Match Room who receive high ratings will be shortlisted by position.
+The 4 positions are Forward, Midfielder, Defender, Goalkeeper and it will be the Average Rating of each user which will be taken into account.
+If there are no suitable candidates, then none will be listed.i0
+122  =The owner has left the match room.
+As no other user replace the owner due to NAT restrictions, this room will be closed down.
+123  =Users can choose to use their alter-egos from Become a Legend.
+124  =The Side Leader selects the starting lineup before the match starts.
+125  =You need to complete the myClub tutorial before you can accept an Invite.
+126  =When choosing positions, you can disable the selection of the Goalkeeper by choosing "OFF".
+127  =Select the type of player you wish to use in the match.
+Select the player you wish to control just prior to kick-off.
+128  =Select desired mode.
+129  =You cannot proceed as you have not completed the myClub tutorial.

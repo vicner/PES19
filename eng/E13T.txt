@@ -1,0 +1,7 @@
+241  =E13T
+
+83   =Add new strips to the team. Please select which type.
+84   =Delete this strip. Proceed?
+86   =Chest logos and Sleeve logos will be saved in a single save file which is unique to each strip.
+87   =Lock aspect ratio
+88   =You cannot edit this strip.

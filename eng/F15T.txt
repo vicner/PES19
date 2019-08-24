@@ -1,0 +1,63 @@
+263  =F15T
+
+1    =Would you like to view a tutorial about Preset Tactics and Fluid Formation, which have changed for re?
+You can view the tutorial later on via Help.
+2    =Toggling Switch Preset Tactics allows you to choose between having one set of Preset Tactics, or to use three different strategies. You can choose between these options with Switch Preset Tactics. The default setting is to use one strategy.
+3    =If Switch Preset Tactics is set to ON, you can set up to three Preset Tactics. A Formation, Team Instructions etc. can be set for each Preset Tactic, allowing you to switch tactics to suit the match situation.
+4    =Switch Preset Tactics can be toggled from Support Settings.
+5    =If the Switch Preset Tactics settings are switched off, the Change Preset Tactics settings are also disabled.
+6    =Try setting Switch Preset Tactics to ON.
+7    =You can now use three strategies.
+9    =Above and below the Preset Tactics icon on the Main Menu, there is a mark indicating if a switch is possible.
+11   =Press oc or od to switch Preset Tacticss.
+12   =The Preset Tactics was switched. During a match, you can switch between Preset Tacticss by holding down ta/tb.
+13   =Next, here is an explanation about Fluid Formation.
+14   =In Fluid Formation, the team's shape will change "When in possession" and "When out of possession".
+16   =Try setting Fluid Formation to ON in Preset Tactics.
+17   =In Fluid Formation, you can turn each of the 3 Preset Tactics on or off.
+18   =Teams which are using Fluid Formation have the following icon displayed in the top right of their formation display: .
+19   =Let's enable Fluid Formation.
+20   =Fluid Formation has been set to ON. Preset Tactics settings have changed.
+21   =Move jn left and right to display your formations : At Kick-off, When in possession, and When out of possession.
+22   =Let's switch the displayed formation by pushing the jn.
+23   =The displayed formation has been switched.
+24   =In Fluid Formation, Position may be different for formations When in possession and When out of possession.
+25   =A player's Position will determine whether or not he can perform to the best of his ability. Use Team Sheet/Edit Position to view how each player will perform in various formations.
+26   =That's all  there is to know about multiple Preset Tactics and Fluid Formation.
+
+For details about Game Plan, refer to the relevant help menu.
+28   =In Team Sheet/Edit Position, you can change players in the lineup by selecting a player and pressing ka. Hold down ka to edit his position.
+29   =While holding down ka, use  or jm to move the player,
+then release ka to confirm his new position.
+
+Refer to the help section for more detailed information.
+32   =If Preset Tactics and Fluid Formation are enabled, the change is applied to all formations.
+37   =If you move a player onto another player during Edit Position, the positions and roles of these players will be switched in the current formation only.
+40   =If, for example, you have selected Hug the Touchline, the whole team will take positions that open up the full width of the pitch.
+41   =If you have set Advanced Instructions, they will be set to ON at the start of games. 
+You can toggle them ON and OFF by pressing ll + oa.
+
+Refer to the help section for more detailed information.
+42   =Refer to the help section for more detailed information.
+43   =By setting Advanced Instructions, you can make dramatic switches in your team's attacking and defensive play.
+44   =By setting Advanced Instructions, you can make dramatic switches in your team's attacking and defensive play.
+The Advanced Instructions you have selected will determine your team's playing style.
+You can set two attacking and two defensive tactics.
+
+If you have set Advanced Instructions, they will be set to ON at the start of games. 
+You can toggle them ON and OFF by pressing ll + oa.
+
+Attack1:ll+ok
+Attack2:ll+ol
+Defence1:ll+om
+Defence2:ll+on
+
+If the designated player goes off the pitch, Tight Marking and Counter Target will be cancelled.
+46   =If you have set Advanced Instructions, they will be set to ON at the start of games. 
+You can toggle them ON and OFF by pressing ll + oa.
+47   =Set your team's Attack/Defence Level to indicate how attacking or defensive you want them to play.
+
+There are 5 Attack/Defence Levels.
+Quickly press oa twice to play more attacking football, and quickly press oa twice to play more defensive football.
+
+Turning this setting to ON will automatically adjust the Attack/Defence Level to the match situation.

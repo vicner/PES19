@@ -1,0 +1,96 @@
+631  =Fd2T
+
+1    =Start with %s.
+2    =If you select this nationality/region, you will not be able to play in any internationals.
+95   =Being called up to the national team
+100  =Fast-Forwarding Matches
+223  =You cannot quit matches even if you are not playing. 
+You can however, use the fast forward meter to skip through the scenes while you are on the bench. Just make sure you don't miss the real action as you cannot rewind. 
+239  =You are about to embark on a journey to become one of the greats of the Beautiful Game.
+248  =If you select this nationality/region in Become a Legend, you will not be able to play in any internationals.
+328  =Become a Legend
+350  =Select player mould.
+364  =Start the game by creating your alter-ego.
+365  =Start the game as a real-life player of a club featured in Become a Legend.
+366  =What is Become a Legend?
+377  =Players you developed can be used in Master League and Online
+410  ="Become a Legend" lets you experience the beautiful game through the eyes of a single player all the way from his professional debut until the day he retires.
+When playing for your team, always think about what's expected of you and how you can better yourself through Training. Do you have what it takes to become a legend?
+446  =Besides offers from other clubs, you may be offered a Contract Extension by your current club. If you are happy to stay at the same club, then this is the choice for you.
+468  =The Transfer Window is now open.
+471  =You can now play %s.
+472  =You have acquired %s!
+474  =You have been nominated for the World Footballer of the Year Award.
+475  =You have won the %s award!
+478  =You have been called up to the %s National Team.
+Make sure you are well versed in their style of play by checking the Game Plan.
+479  =You have received an offer from %s.
+Make sure you check out the details and respond accordingly.
+482  =You have agreed to a contract with %s.
+492  =You were left out of the Matchday Squad.
+493  =You are unavailable for selection due to injury.
+A full recovery is expected by the end of %s.
+496  =You are unavailable for selection due to suspension.
+506  =You have been offered a contract extension.
+509  =You have been appointed captain of %s!
+526  =You were picked for the starting lineup today.
+531  =Sign a contract with this club.
+532  =Turn down this offer.
+533  =Put this offer on hold.
+534  =Choose Player Nationality/Region.
+584  =Your player stats have been set!
+Take a look and if you are happy, press ka to proceed.
+613  =A deal has been reached over a transfer to %s.
+Please respond to finalise the move.
+614  =A contract extension with %s has been agreed.
+You will officially be playing for %s next season.
+615  =Negotiations with %s have broken down.
+616  =Please choose player details.
+617  =You will have the chance to indicate your desire to move once the next transfer window opens.
+618  =Currently negotiating with preferred club.
+Waiting for an official response.
+619  =Please select which club you want to move to.
+620  =You are not signed to a club at the moment.
+If you proceed, a club will automatically be chosen for you.
+Are you sure you want to proceed?
+622  =A transfer Request can only be sent to one team at a time.
+You will be made to wait until you receive an official reply.
+Submit your request?
+623  =Make sure to check on your team's status.
+624  =%2$s| %1$d|
+You have signed your first professional contract with %3$s|.
+625  =You have signed for %s.
+Time to open a new chapter in your career.
+626  =This will be your last season in professional football.
+Whatever you do, make sure you have no regrets once it's all over.
+627  =All good things must come to an end.
+It's now time to prepare for the last chapter in your career that is the testimonial.
+628  =You have received multiple offers including one from %s.
+Make sure you check out the details and respond accordingly.
+629  =There are many career choices for a footballer. Perhaps you may be the standard bearer for your boyhood club, or move from one major club to the next in a quest for accolades. What path will you follow?
+
+It's time for you to [Become a Legend]!
+632  =Unable to find Edit Data.
+If you wish to save any Player Data, please return to Edit Mode to create your Edit Data.
+633  =When requesting a transfer to a certain club team, there are many factors which have the potential to decide the outcome.
+However, the 2 most important ones are the following:
+Firstly, your ability to fit into the team. Can you play in a position that suits their formation? Secondly, your capabilities. Are you good enough to start in the position they want you to play in? Unless your capabilities are good enough to at least earn you a place on their bench, then no club is going to want you.
+
+If you are unable to play in the requested position, then it's best to learn in training.
+634  =The transfer to %s will be confirmed.
+Are you sure you want to proceed?
+635  =Your contract with %s will be extended.
+Are you sure you want to proceed?
+636  =Save this player in the Edit Data?
+637  =Player data has been saved in the Edit Data.
+638  =You can make a request to switch to the number %d shirt.
+It will take several days for the club to respond.
+639  =You have cancelled your request to change shirt numbers and will continue to wear the number %d shirt.
+640  =Please select preferred position. But please note that the decision on who should get on the pitch depends entirely on players' performances.
+641  =This is the last season of his career, so he can't make a transfer request.
+642  =%2$s|, %1$d|.
+%3$s| is playing for %4$s|.
+His career is now in your hands.
+643  =%2$s|, %1$d|.
+%3$s| has decided to retire.
+644  =The player's nickname is now %s.

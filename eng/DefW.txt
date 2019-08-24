@@ -1,0 +1,37 @@
+52   =DefW
+
+64   =English
+65   =Français
+66   =Deutsch
+67   =Italiano
+68   =Español
+69   =한글
+70   =日本語
+135  =繁體中文
+162  =An error has occurred.
+182  =Português
+192  =Ελληνικά
+193  =Svenska
+194  =Nederlands
+195  =Русский
+196  =English US
+197  =Español Latinoamericano
+206  =Türkçe
+207  =Português do Brasil
+213  =The right level if this is your first Football Game.
+214  =Still find Football Games a bit tough?
+215  =Think you know your Football Games?
+216  =The right level for a seasoned veteran.
+217  =Think Football Games are too easy? Then try this level!
+220  =There is a new Data Pack available.
+Please select [EXTRAS] → [Data Pack update] on the Top Menu to download the data.
+225  =If the Stamina Gauge is set to ON, Stamina will be shown in the form of a green bar which gradually turns red.
+227  =العربية
+228  =A difficulty level for the true football game master
+229  =Español (Argentina)
+230  =Español (Chile)
+231  =Español (México)
+232  =简体中文
+233  =There is a new Data Pack available.
+234  =普通话
+235  =粵語

@@ -1,0 +1,222 @@
+230  =E2T
+
+8    =This player's nationality/region cannot be changed back as he is registered to a national team.
+11   =Use prequel Lineup Data?
+Certain lineups will not be fully replicated.
+14   =Use rh Edit Data in rf.
+19   =Finished Exporting Data.
+21   =Finished Importing Data.
+25   =Unable to import data
+26   =Unable to export data
+30   =Implemented Prequel Data.
+31   =The Prequel Data will overwrite your Current Data.
+36   =Cancelled Prequel Data Implementation.
+37   =Starting Prequel Data Implementation.
+41   =Please select which Data you want to Import.
+42   =You cannot import these players and their club info. The number of players is less than the minimum required.
+43   =Apply Lineup Data?
+Please note that applying the data can also affect the lineups of other teams. If you choose to cancel, Player Data will also not be applied.
+45   =There is a player who cannot be imported. Please select which player to overwrite.
+46   =You cannot import this data, as your team will contain less than 16 registered players if applied.
+47   =Change player you want to import data to. Now, please choose another player.
+48   =Change player you want to import data to. Proceed?
+49   =There are not enough available slots for Chest Logos which can be attached to the Outfield Players 1st Strip.
+50   =There are not enough available slots for Chest Logos which can be attached to the Outfield Players 2nd Strip.
+51   =There are not enough available slots for Chest Logos which can be attached to the Goalkeeper's Strip.
+52   =This bitmap will not be imported if you choose not to overwrite.
+56   =Export Team Data. Select which Team you want to Export.
+58   =Choose where you want to save your data to.
+62   =There are not enough available slots for Emblem Data.
+63   =There are not enough available slots for %s Face Data.
+64   =Unable to Import Data as you have not implemented the latest Data Pack.
+65   =Unable to Import Data as you have not implemented the latest Data Pack.
+66   =Unable to Import Data as you have not implemented the Lineup Data from the Data Pack.
+68   =Import Data. Select which Team you want to apply this Data to.
+71   =This data cannot be imported due to inconsistencies in the Team License Data.
+72   =There are players who cannot be imported due to differences in Team Lineup Data obtained from Data Packs.
+73   =This Data includes players who cannot be Imported.
+74   =This Data cannot be Imported as there are less than the minimum 16 players that can be imported. This is due to differences in the Team Lineup Settings obtained from Data Packs.
+75   =Exporting Team Data.
+76   =The data you are trying to import contains players whose nationalities/regions cannot be changed. Data related to these players cannot be imported due to conflicting squad lineups.
+77   =In order to recreate the Squad Lineups contained in this Data, you will be required to move a large number of players from other teams. This may lead to certain teams being short on players. Please apply the Data if you are happy with the possible consequences. If you choose not to apply the Data, then Player Data will not be reflected.
+78   =There are Players whose Import Target Data requires checking. Please check the settings of Players who you are about to overwrite.
+82   =You cannot import this data, as your team will contain less than 23 registered players if applied.
+84   =Use Competition Emblems from a Prequel Title?
+85   =Registered to %s
+86   =There is some data which cannot be used.
+89   =Importing data.
+96   =You cannot alter the appearances of any more than 9999 players.
+102  =Cancelled Data Conversion.
+105  =Data Conversion complete.
+108  =No available logo slots for Outfield player's 3rd strip.
+109  =No available logo slots for Outfield player's 4th strip.
+110  =No available logo slots for Goalkeeper's 1st strip.
+111  =No available logo slots for Goalkeeper's 2nd strip.
+113  =The Prequel Data will overwrite your Current Data.
+There is also, some data which cannot be used.
+114  =There is no Edit Date of rh.
+115  =Please select which data you want to transfer.
+116  =Transferring Team Emblems.
+117  =Transferring Competition Emblems.
+118  =Transferring player data.
+119  =Transferring team data.
+120  =Transferring stadium data.
+121  =Transferring competition data.
+122  =Cancel data transfer?
+123  =Contents to be imported:  Team Name, Emblem, Players, Manager, Home Ground, Game Plan and Squad Number
+Please note that there are some contents which cannot be imported.
+124  =Transfer Team Emblems.
+125  =Transfer Competition Emblems.
+126  =There is a limit to the number of emblems you can save.
+Please note that no more emblems can be saved once all available slots have been filled.
+127  =Transfer player stats and appearances.
+Boots and dribbling motion cannot be transferred.
+The same applies to player age.
+128  =Transfer team emblems and team strips.
+Data which cannot be transferred include, the Game Plan, team lineups and any images used to create edited strips.
+129  =Transfer names of stadia which feature in the game.
+130  =Transfer competition data including names, emblems, regulation and pre-match music.
+Competition structure, entry numbers and the match ball cannot be transferred.
+131  =This is an overview of players who can be imported. In order to port over game plans and players' numbers, the players will need to be imported too.
+Do you want to proceed?
+132  =Transfer edit data from rh to rf.
+Please note that the current edit data will be overwritten should you proceed.
+133  =Load data which you created in Export.
+While Team Data exported from another source can be implemented, the Teams you can apply the data to can be different for each individual Team Data. Please note that because Team Data is linked with Lineup Data, the Imported Data can alter the Lineups of teams other than the ones you wanted to change. When importing the Team Data, you will be given a choice of whether or not you want to apply the Lineup Data. If you choose not to apply it, the Player Data will not be imported. There are also other conditions which may stop the Data from being Imported.
+134  =Extractable Team Data include: Game Plan, Squad Numbers, Team Name, Emblem Design, Strip Design, Home Stadium Settings, Player Lineup along with their appearances and stats. All these data can be extracted as a single block of data and subsequently exported from the game.
+135  =Cancel Emblem Conversion.
+136  =Transfer emblems from rh to rf.
+Please select which data to copy.
+137  =No rh %s found.
+Emblem Conversion cancelled.
+138  =Emblem Data found.
+Copying Emblem.
+139  =Copying %s.
+140  =You have already reached the maximum number of emblems that can be copied.
+Emblem Conversion cancelled.
+141  =There were %d emblem(s) that could not be copied.
+142  =Emblem Conversion complete.
+143  =Transfer emblems from rh to rf.
+144  =Choose where you want to save the manager's photo.
+145  =This manager's photo will not be imported if you choose to cancel.
+146  =You can import images from the following folder:
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+Images matching the following criteria can be used:
+Resolution: 64x64 to 2048x2048 pixels.
+File type: JPEG or PNG.
+Please select the image file type you wish to import.
+147  =Import All Images
+148  =Import Selected Images
+149  =De-Select All
+150  =Importing will be cancelled.
+152  =You cannot import any more images.
+The import will be cancelled.
+To import more data, first delete unnecessary images using the Delete Images option.
+153  =Imported images can be deleted.
+Select the types of image you want to delete.
+154  =Delete all Images
+155  =Delete Selected Images
+156  =Selected images will be deleted. Are you sure you want to proceed?
+157  =No images available.
+To use an image, save it to the folder below and import it by going to "Import/Export" then "Import Images".
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system setup.
+158  =All images will be deleted. Are you sure you want to proceed?
+159  =Importing %s. Please select a save slot.
+160  =Importing Strip (%s). Please select a save slot.
+161  =You can import images into the game.
+You can only edit imported images.
+163  =No image data available.
+164  =Deleting data...
+166  =Imported images can be deleted.
+167  =You do not have any free Edit Data slots. No further players can be saved.
+168  =Import complete.
+%d image(s) could not be imported.
+169  =The pasted image will be removed.
+Are you sure you want to proceed?
+170  =You cannot edit while pasting images.
+171  =Please select data to delete.
+175  =File names must be made up of alphanumeric characters, dashes and underscores.
+176  =You can import previously exported team data.
+
+Team data must be saved to the following folder:
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+177  =Please note that using this feature will affect saved data so it's a good idea to save Edit Data before you proceed.
+
+Save Edit Data?
+179  =You shall be fully responsible for any data created by you or a third party which is imported into the game.
+KONAMI shall accept no liability for any data that is corrupted or lost during the import process.
+180  =Select the edit data you wish to import.
+
+Images used for the team strip and emblem will also automatically be imported by storing them in the WEPES folder.
+Just be aware that you need to use the same file names used when the images were attached. 
+181  =Select all files
+182  =Select team to import data to.
+183  =Apply player and squad data.
+184  =You can select which team you wish to apply each set of team data to.
+You can choose a different team for each set of data.
+If you do not apply this setting, the data will be automatically applied to teams when the data is exported.
+185  =You can choose whether or not to import edited data relating to players or squad data such as game plans.
+You cannot choose to apply this data individually to separate teams.
+This data will be applied to all imported teams.
+186  =Starting data import.
+187  =%s is being imported to %s.
+190  =You can export edit data.
+Exported data is saved to the following folder:
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+
+Images are not included in exported data. Exported data and images can be imported together by saving images to the same folder as the exported data.
+
+Select the team you wish to export.
+191  =Enter the file name.
+File names must be made up of alphanumeric characters, dashes and underscores.
+192  =The current Live Update cannot be applied to the Edit Data.
+193  =No Team Data is available.
+194  =Select the team data file you wish to import.
+196  =Data Import Precautions
+197  =Please note that using this feature will affect saved data so you need to save Edit Data before you proceed.
+
+Save Edit Data?
+198  =You will need Edit Data in order to use this feature.
+Do you want to create Edit Data?
+199  =Live Update has been applied.
+200  =The Live Update will be applied to Edit Data and the data will be overwritten. Select Update Club Squads to update information about players' current clubs. If unselected, the players will be added without updating the clubs they play for.
+201  =You can export edit data.
+Exported data is saved to the following folder:
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+
+Images are not included in exported data. Exported data and images can be imported together by saving images to the same folder as the exported data.
+202  =This player has been added via Live Update, which means you cannot reset his edited data.
+203  =This manager has been added via Live Update, which means you cannot reset his edited data.
+204  =Failed to import %s to %s.
+205  =Checking files on USB memory.
+This may take several minutes.
+206  =Because this player was added by Live Update, edit data excluding Face cannot be Reset.
+207  =Select the team you wish to export.
+208  =Please select the competition data to export.
+209  =You can export edit data.
+Exported data is saved to the following folder:
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+
+Images are not included in exported data. Exported data and images can be imported together by saving images to the same folder as the exported data.
+
+Please select the competition data to export.
+210  =You can import competition data you have previously exported.
+
+You will need to save this competition data to the WEPES folder at the same level as the save folder.
+211  =Overwriting image files of the same name
+212  =When importing image files, any files of the same name will be overwritten.
+Uncheck the selection to skip the import of these files.
+213  =No competition data is available.
+214  =Select the competition data file you wish to import.
+215  =This data cannot be imported due to inconsistencies in the competition licence data.
+216  =%d image(s) could not be imported.
+217  =C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+218  =Select Data Management → Import/Export → Import Images to import this image data and use it in-game.
+219  =Save the selected competition's name and regulations as a single save data.

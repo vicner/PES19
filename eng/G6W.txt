@@ -1,0 +1,11 @@
+15   =G6W
+
+2    =Radar
+3    =Bottom
+4    =Top
+5    =Left
+7    =Right
+10   =Time
+13   =Score
+15   =Translucent 
+17   =Display opponent player name

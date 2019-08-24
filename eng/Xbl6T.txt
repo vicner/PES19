@@ -1,0 +1,11 @@
+1114 =Xbl6T
+
+3    =The re online service is currently unavailable. The server may be undergoing maintenance or you may be using incorrect network settings.
+
+To find out more on the status of the network or details on network settings, please visit the re official website.
+
+re Official Website
+https://www.konami.com/wepes/2019/
+10   =You cannot select this mode due to your Parental Controls Settings.
+21   =This feature has been disabled due to restrictions which have been imposed on your account.
+25   =You cannot select this feature due to your parental control settings.

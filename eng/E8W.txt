@@ -1,0 +1,11 @@
+39   =E8W
+
+0    =Base
+2    =Change Manager Name
+3    =Create Image
+4    =Create Image (Import)
+5    =Initials
+6    =%d/%d
+7    =Create Image
+8    =Manager Photo
+9    =Managers List

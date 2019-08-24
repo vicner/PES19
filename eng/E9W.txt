@@ -1,0 +1,22 @@
+40   =E9W
+
+2    =Create New
+46   =Fill
+54   =Delete
+65   =Rotate
+66   =Font Type
+67   =Enter Text
+97   =Dropper
+102  =Sort
+158  =Select Image
+180  =Shapes
+181  =Images
+182  =Letters
+183  =Pen
+184  =Eraser
+190  =Undo
+191  =Redo
+195  =％
+197  =%d x %d px
+199  =Paste Image
+200  =Move/Rotate

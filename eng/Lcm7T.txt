@@ -1,0 +1,72 @@
+269  =Lcm7T
+
+52   =Select Team.
+59   =Select League.
+76   =Choose your nationality/region.
+82   =Choose Difficulty Level.
+86   =Choose Match Length.
+92   =If you  if you switch "ON" this option, classic players will appear as a "Free Agent". 
+This cannot be changed later.
+93   =Do not feature Classic Players.
+103  =Teams play a Home Leg and an Away Leg.
+104  =All Matches will be Single Matches.
+123  =This Fixture is still unconfirmed.
+137  =Choose Currency Unit. It cannot be changed mid-game.
+143  =Renegotiating Terms. 
+Please wait for a response.
+147  =Players will be affected by injury if set to [ON].
+153  =No Name Entered.
+155  =If you set this to ON, classic players will appear in the game.
+Please note that this setting cannot be altered later.
+156  =Please select your initial lineup of players for Master League.
+157  =Choose the club where you will start your managerial career.
+Your contract is renewed on a yearly basis.
+Meanwhile, offers from other clubs give you chances to ply your trade elsewhere.
+158  =Select your nationality/region.
+Note: You are more likely to receive offers to manage the national team of your own country/region.
+159  =You will not be able to become the national team manager of your selected country/region.
+(Offers may come from other countries/regions still).
+Are you sure?
+160  =Daily training regimes have far more say in player development than what they do on the pitch on every match day.
+It is down to you to choose which elements of a player's game you'd want to work on.
+So, if there's anything you want to improve in a hurry, try allocating more focus points.
+161  =Teams which make history are full of players who become legends.
+
+Some players give their all to one club,
+others move on and become world-beaters,
+while the select few become revered as heroic captains.
+
+Now it is time to follow in their footsteps, and make history anew.
+162  =Already Acquired.
+163  =Please select your team.
+164  =This team cannot be promoted.
+Are you sure?
+165  =This team cannot be promoted once relegated.
+Are you sure?
+166  =If enabled, you will be able to choose the number of participants before matches and play multi-player co-op games.
+167  =Choose whether or not to include the 3 additional leagues: %s, %s and %s in this mode.
+These 3 leagues are all ready for you to customise in Edit Mode.
+Please note that the clubs registered in these leagues cannot be changed later.
+168  =Choose Co-op Match options.
+If controls are set to  "Role Control", each participating user will only control players of a selected role.
+169  =Select which competition you want to enter.
+170  =You can freely alter the competition draw.
+171  =If you select a team from within this category, you will need to choose which league you want to play in.
+172  =You can choose to play in any of the South American based leagues.
+173  =You can choose to play in any of the European based leagues.
+174  =If you select a team from within this category, you will be playing in the %s.
+175  =Set tournament regulations.
+176  =Change various settings. Match Level and Match Time settings can also be changed later on.
+177  =Set league regulations.
+178  =Adjust settings for cooperative multiplayer play.
+179  =You can select how frequently time stops during the transfer window.
+Select Only When There is Progress, and time will only stop when there has been progress in a transfer negotiation, or when you have received a report from a scout.
+180  =Set the names of each group in the Group stage.
+181  =In this category, the leagues of the teams you have chosen will be selected.
+182  =Participating teams will be determined from %s onwards.
+183  =You can now choose between Classic and Challenge modes.
+In Challenge mode, you can expect to run into more obstacles in managing your squad.
+You may find players tougher to deal with and contracts harder to negotiate, and your players may sign for other clubs.
+A run of poor results or trouble with the team and you may even be shown the door.
+184  =Change various settings. Club Operations, Match Level, Match Time and Stops During Transfer Window settings can be changed later on.
+185  =You can choose to play in any of the Asian based leagues.

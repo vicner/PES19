@@ -1,0 +1,16 @@
+701  =Cmt2W
+
+0    =Matches
+58   =Draw
+110  =Yellow Cards Average
+111  =Shots Average
+112  =Fouls Average
+113  =Red Cards Average
+114  =Goals Against Average
+115  =Goal Average
+116  =Shots Faced Average
+118  =Last Updated
+120  =Number of Teams
+124  =Opponent
+125  =Ball Winning Average
+126  =OPP

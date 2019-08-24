@@ -1,0 +1,18 @@
+239  =E11T
+
+0    =Player deleted.
+2    =Choose which audio tracks to play during matches (Played at random if multiple tracks have been selected).
+3    =Choose which audio tracks to play in matches against rival teams (Played at random if multiple tracks have been selected).
+4    =Choose which audio tracks to play when the team are leading.
+5    =Choose which audio tracks to play when the team are trailing at home or at a neutral venue.
+6    =Choose which audio tracks to play when the team are top of the league.
+7    =Choose which audio tracks to play when the match-up is announced in a home game.
+8    =Choose which audio tracks to play as the players make their entrance in a home game. Does not apply to competitions which have their own set theme tunes.
+9    =Choose which audio tracks to play during half-time in a home game.
+10   =Choose which audio tracks to play when a player goes close with a shot during a game held at home or at a neutral venue. Does not apply if the fans have their own special chants for the player.
+11   =Choose which audio tracks to play when a goal has been scored.
+12   =Choose which audio tracks to play during corner kicks.
+13   =Choose which audio tracks to play during free kicks.
+14   =Choose which audio tracks to play at the final whistle in a game held at home or at a neutral venue.
+15   =Choose which audio tracks to play at the final whistle in a home defeat (Excluding matches at neutral venues). 
+16   =Choose which audio tracks to play when a player who performed well is substituted during a home game.

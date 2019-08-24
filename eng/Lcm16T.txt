@@ -1,0 +1,357 @@
+278  =Lcm16T
+
+4    =Get past the Group stage of the na.
+6    =Win the nb.
+8    =Get past the Group stage of the nb.
+226  =Congratulations. You have reached the %2$s| of the %1$s|.
+228  =The club have been eliminated from the %1$s| in the %2$s|.
+252  =I heard that you mastered the %s skill. Pulling it off in a match will certainly do your chances no harm.
+253  =So you can now play %s, right? Well, versatility is the key to getting more chances. So good on you!
+270  =The %s Team of the Season has been announced.
+275  =Use your alter-ego in Master League!
+284  =Play an exhibition match in the perfectly recreated surroundings of the %s.
+285  =Watch two COM controlled teams play against each other. It's almost as good as watching the %s for real!
+287  =Enter Online Competitions and test yourself against the best players from all around.
+288  =Take control over your club on and off the pitch. Become the world's most successful club by winning domestic and international silverware.
+289  =Get a taste of what life is like in the beautiful game by playing through the career of a footballer.
+290  =Delve into the chaotic world of the modern day transfer market and create your very own team to take on opponents from all around the world.
+291  =Take on a friend or the COM in a single match. You have the option of four modes: Exhibition Match, Random Selection Match, VERSUS and CO-OP.
+292  =Play against friends and rivals online to contest the coveted No.1 ranking.
+293  =Watch two COM controlled teams play against each other.
+294  =Competition regulations can be set freely.
+296  =The player is open to negotiations. However, any offer we make is likely to be snubbed.
+310  =We can't make offers for him as he has announced his retirement already.
+373  =Choose the number of teams which can take part in the competition.
+376  =All matches will be played in Home & Away format with the exception of the final which will be a single-legged match.
+377  =During the qualifying phase, teams are divided into groups and play each other in round-robin format. The top teams in each group can then advance to the knockout phase.
+378  =All rounds in this competition will be played under the knockout system.
+379  =If enabled, the losing semi-finalists will contest for 3rd place in a 3rd place play-off.
+382  =Test yourself in the %s to contest for the title of Latin America's No.1 club.
+390  =%s has been selected as your Main Personal Data.
+When playing single-player modes, your Main Personal Data will be the one loaded each time.
+This setting can also be changed in the mid-match pause menu.
+408  =Changes have been made to the squad.
+409  =The club have qualified for next season's %s.
+410  =%s Team of the Tournament announced.
+411  =You have been offered a national team manager's job!
+420  =You were named amongst the substitutes today.
+421  =A new player has been brought to your attention.
+422  =You were named %s best manager.
+423  =Some players are showing real promise.
+Giving them more playing time could prove a catalyst for a real breakthrough.
+424  =Some players have shown remarkable progress.
+425  =Some players unfortunately were unable to shine when given the chance.
+426  =Looking very promising of late.
+Could make a real breakthrough if given more playing time.
+427  =Made rapid progress after making the most of his chances.
+428  =Looked good, but was ultimately flattered to deceive.
+429  =There are some teams that are interested in your services.
+Choose which offer you want to take up.
+430  =Due to poor performances, %s have opted not to renew your contract.
+Choose which team you want to manage next season.
+431  =%s has been looking really good.
+A bit more playing time may be all he needs to make that breakthrough.
+432  =There are %d players who have shown some very promising signs.
+More minutes on the pitch could be exactly what they all need to make some real progress.
+433  =%s is improving dramatically at the moment!
+434  =%d players have made rapid progress.
+435  =A breakthrough looked on the cards for %s. 
+Sadly it didn't happen this time.
+436  =%d players unfortunately, weren't able to make the most of their recent chances.
+440  =%2$s| has been appointed new manager of %1$s|.
+Do your best to build up mutual trust and respect.
+441  =Due to poor performances, %s have decided not to renew your contract.
+Choose which team you want to play for next season.
+442  =New recruits join %s youth team.
+443  =Club team rankings have been updated. %s are now ranked no. %d
+444  =League rankings have been updated. %s is now ranked no. %d
+445  =The National Team rankings have been updated. %1$s| are now ranked no. %2$d|
+446  =%s named the No.1 National Team in recent ranking update.
+447  =%s unrepresented in latest national team squads
+448  =No %1$s| call up for %2$s| man %3$s|.
+449  =%2$s| man %3$s| gets %1$s| call.
+450  =%3$s| calls up %1$s| man %2$s|.
+451  =%2$s| of %1$s| prepares for his final game
+453  =%s announces retirement from football
+455  =%2$s| of %1$s| named %3$s|
+456  =%3$s| of %2$s| named %1$s| MVP
+457  =%3$s| of %2$s| named %1$s| top scorer
+458  =%3$s| of %2$s| named %1$s| assist leader
+459  =%2$s| of %1$s| named in the %3$s| Team of the Tournament
+461  =%2$s| take %1$s| crown with all scheduled fixtures completed.
+462  =%1$s| %2$s| draws announced
+463  =%s unavailable due to suspension
+464  =%1$s| injury situation: %2$s| expected back in %3$s|
+465  =%s makes his return from injury
+466  =%1$s| make %2$s| %3$s| offer
+467  =OFFICIAL: %2$s| leaves %1$s| to join %3$s| in a move worth %4$s|
+468  =OFFICIAL: %2$s| seals loan switch to join %3$s| from %1$s| 
+469  =%1$s| joins %2$s|
+470  =%s returns from loan
+471  =%3$s| fail in their bid to land %1$s| from %2$s| 
+472  =%3$s| and %1$s| fail to agree on a loan deal for %2$s| 
+473  =%2$s| signs new %3$s| a year deal  with %1$s|
+474  =OFFICIAL: %2$s| leaves manager's post at %1$s|
+475  =OFFICIAL: %2$s| sacked by %1$s| over poor results
+478  =OFFICIAL: %2$s| appoint %1$s|
+481  =%2$s| showing promise at %1$s|.
+482  =%2$s| flourishes for %1$s|
+483  =%1$s| on taking on %2$s|
+484  =%1$s| offers his take on facing %2$s|
+485  =%1$s| on what it's like to play %2$s|
+487  =%1$s| on the %2$s| match
+489  =%2$s| placed %3$s| maintain impressive form in %1$s|
+490  =Out of form and out of sorts. %1$s| stuck in %2$s| doldrums
+491  =%3$s| placed %1$s| now  dark horses for %2$s|
+492  =Out-of-sorts %1$s|  in %2$s| lull
+493  =An enthralling %2$d| way contest for %1$s|
+494  =The %1$s| title race. Can %2$s| hold on for %3$d| games?
+495  =%2$s| placed %3$s| "very much contenders" for the %1$s| title
+496  =%2$s| placed %3$s| now out of the %1$s| title race
+497  =The 4 semi-finalists raring to go in the %s
+498  =%2$s| claim first-leg advantage in the %1$s| semi-final.
+499  =%2$s| face uphill struggle in the %1$s| semi-final second leg.
+500  =%2$s| and %3$s| make the %1$s| final
+501  =%2$s| draws first blood in the %1$s| final.
+502  =%s on his woes
+503  =%s on his wonderful form
+504  =%s talks loyalty
+505  =%s
+508  ="You can count on me to give it my all!!"
+509  ="Turning out for my country is something I always look forward to."
+510  ="I'll make sure I am in tip-top form!"
+511  ="Signing off with a win would be the perfect end to my career."
+512  ="It's like any other game for me. Giving 110％ until the very end. That's what I am about."
+513  ="I'll make it a day to remember. I owe that to all the people who supported me throughout my career."
+514  ="This season will be my last."
+515  ="Every game's going to be like a cup final for me."
+516  ="This is my last year. It's time for me to give something back to the fans."
+517  ="This is an incredibly emotional moment for me. It's a tremendous honour."
+518  ="This is what every footballer dreams of, whether you're a top pro or a young lad kicking a ball in the street."
+519  ="All I can do is to thank everyone who is involved with me. My teammates, fans...they are all my family."
+520  ="The greatest thanks go to my team. They made me the player that I am today."
+521  ="I just want to get this over with and move on."
+522  ="All I can do is to say sorry to the fans. It's they who I've let down the most."
+523  ="It's a huge relief to be back."
+524  ="I need to regain that bit of sharpness."
+525  ="I'm glad that the pain's gone."
+526  ="I am always striving to better myself."
+527  ="You can count on me to give my all to the team."
+528  ="I will not let down the fans."
+529  ="I want to show that I came back a better player."
+530  ="I'm glad to be back home."
+531  ="I've taken this club as far as I could."
+532  ="I wish the team all the best and a bright future."
+533  ="I leave with a heavy heart. Such a fantastic team full of wonderful people."
+534  ="I've done all I could and it's time for me to move on."
+535  ="Now's a good time for me to take time out of management."
+536  ="It's sad that I can't complete my job of building this team."
+537  ="All I can say is that I've let the fans down and I'm sorry for that."
+538  ="Well, the results just didn't go our way and I have to take responsibility for that."
+539  ="This team still has a long way to go."
+540  ="My objective is to build a winning team."
+541  ="I will give my all to make this a better team."
+542  ="This is a team with a lot of potential."
+543  ="I see a team that's going places."
+544  ="I can tell I've really hit a purple patch!"
+545  ="I'm feeling really sharp at the moment."
+546  ="I feel as if I can take on anything."
+547  ="I can tell that I'm improving."
+548  ="Anything I try just seems to come off."
+549  ="I can say with confidence that I am a better player than I was yesterday."
+550  ="Losing to %s is not an option."
+551  ="We just need to focus on playing our game."
+552  ="We all know about %s. We can't take this lightly."
+553  ="I'm sure it will be a wonderful game of football."
+554  ="The result is what matters at the end of the day."
+556  ="There is no way we're going to let them beat us. No way."
+557  ="Hats off to %s. He definitely got the better of us."
+558  ="It was a great game for the neutrals I'm sure."
+559  ="Things didn't go for us. We just have to make sure that's not the case next time."
+560  ="It was a very even match."
+561  ="It could so easily have gone either way."
+563  ="%s are just a fantastic side and you have to take whatever chances that come your way."
+564  ="%s was almost unplayable."
+565  ="%s were very well disciplined and organised."
+566  ="Don't think that either of us got to impose our styles."
+568  ="We won, but that's about as close as it comes."
+569  ="It simply comes down to the fact that we took our chances."
+570  ="%s is the key man!"
+571  ="It's a privilege to play for %s."
+572  ="The fans got us through that one."
+573  ="That's what playing as a team is all about."
+575  ="We need to take away what we can from this game and put things right for the next one."
+576  ="%s was the match-winner."
+577  ="%s ran the show."
+578  =" %s deserved to be on the winning side."
+579  ="It's testing times for me."
+580  ="It can't all be good. It's what you can do in these circumstances which is more important."
+581  ="I'll just keep plugging away doing what I always do."
+582  ="I want to put on a real show next time I go out!"
+583  ="Can't wait for my next game!"
+584  ="You can just feel this positive vibe."
+585  ="There's just no other team like %s."
+586  ="%s are what got me where I am today."
+587  ="I want to win the title with %s."
+588  ="%s is simply priceless."
+589  ="%s is a player we can build a team around."
+590  ="Signing %s was quite an achievement."
+591  ="%s is no less a player than any of our first team regulars."
+592  ="%s is someone who can bring that little bit extra to a game."
+593  ="I have %s to thank for our successes."
+594  ="%s still needs to adapt to our way of playing."
+595  ="I've got high hopes for %s."
+596  ="%s still needs to earn his place in the starting lineup."
+597  =Please enter the manager's details.
+598  =Set the type of player you wish to be scouted and players that meet the conditions you've set will be brought to your attention at regular intervals.
+You will be able to carry out negotiations with these players.
+599  =Players fitting the selected conditions will be short-listed.
+600  =This player plays for your team.
+602  =Negotiations were successful.
+The move will be finalised on %2$d|/%1$d|.
+603  =The player is open to negotiations.
+608  =We received an answer.
+611  =Negotiations cancelled.
+612  =Negotiations broke down.
+The offer wasn't deemed good enough.
+613  =Transfer agreed.
+615  =Will renegotiate terms.
+617  =We have received an answer.
+618  =Contract extension agreed.
+619  =Leaving once his contract expires at the end of the season.
+620  =The player is open to negotiations. Should be a straight forward acquisition.
+621  =The player is open to negotiations. Relatively easy to sign too.
+622  =The player is open to negotiations. A deal is possible, but only under the right conditions.
+623  =The player is open to negotiations. This will be a difficult deal to pull off though.
+625  =The figures we offered should be more than satisfactory.
+626  =Should be fine with the terms that have been put forward.
+627  =There is a chance that our offer may be rejected.
+628  =Hard to see this deal being accepted.
+629  =Can't see anyone agreeing to the offer.
+630  =I doubt that the player will accept this deal.
+631  =New terms have been put forward.
+632  =Looks like a winning deal.
+633  =The offere we tabled was deemed not good enough.
+634  =Seems that the club isn't happy with our terms.
+635  =Seems that the player feels he deserves more.
+636  =We've put forward our revised offer.
+Please wait for a response.
+637  =Negotiations terminated as the transfer would leave the other team with too small a squad.
+638  =You are yet to decide which team you want to manage next season. Please go to Manager's Office > Management Career > Manager Offers, then select one from your list of managerial offers.
+639  =There are ongoing negotiations to which you must respond.
+Please go to the Negotiation Menu in order to give your reply.
+640  =Please select where you want to go.
+641  =You have already submitted a transfer request.
+In order to make a new request, you must rescind your current one.
+642  =Please respond as the player has requested a renewal.
+643  =This player has a release clause in his contract.
+The offer has been automatically accepted as it was made by a team with a high club ranking.
+648  =Some players who are on loan have shown remarkable progress.
+649  =By making use of Live Update, users can start the game with the most up to date team lineups.
+650  =Despite finishing no. %2$d| in the table, %1$s| cannot be promoted due to Reserve Team status. 
+651  =You can acquire up to 10 skills in total.
+The number of skills you can still acquire is %d.
+
+Do you want to acquire this skill?
+652  =You cannot acquire any more skills as you already have 10 which is the allowed maximum.
+653  =This player cannot be released as he has been named in a list of players to be traded.
+654  =Teams have swapped their places following their promotions/relegations. 
+655  =There's been an update in transfer negotiations.
+656  =There's been an update in release negotiations.
+657  =Transfer negotiations have broken down.
+658  =Release negotiations have broken down.
+659  =There's been an update in the renewal negotiations.
+660  =Renewal negotiations have broken down.
+661  =Save appearance data as an image file?
+Once saved, this image will displayed in a variety of screens including the Master League Main Menu.
+662  =Proceed without saving appearance data.
+Are you sure?
+663  =Back Soon
+664  =%s has now ended.
+666  =%s have been defeated.
+667  =Unfortunately, the club have missed out on %s promotion.
+668  =%s have made the %s.
+669  =%2$s| take %1$s| glory
+670  =A-team players cannot be signed by the B-team.
+671  =He doesn't want negotiations to drag on much longer.
+You have to decide now.
+672  =This player plays for our A-team.
+673  =There are transfer negotiations to which you haven't responded. If you do not respond to an offer, negotiations will break down.
+Are you sure you want to proceed?
+674  =There are contract extension negotiations to which you have't responded. If you do not respond to an offer, negotiations will break down.
+Are you sure you want to proceed?
+675  =This is a list of players about whom there are negotiations taking place.
+676  =Select player search criteria.
+677  =Manage Players to Watch and Scouting instructions.
+678  =This is a list of players scouted by Scout.
+679  =This is a list of players you are keeping an eye on.
+680  =View any offers for managerial positions you've received, and indicate your preferences to new teams.
+681  =Up-and-coming players have joined the youth team. Be sure to check them out.
+682  =All the fixtures on this season's calendar have now been completed. The transfer window will reopen tomorrow.
+It's time to reflect upon the team's performances as well as those of the individual players and decide what sort of team you want to build for next season.
+683  =You need to respond to an offer you've had to manage another club by the end of the day.
+684  =The Club Ranking has been updated.
+685  =The National Team Ranking has been updated.
+686  =Be sure to take a look at the Competition Results. One of your players was given an individual award!
+687  =%s sustained an injury in the match. %s occurred while he was making a tackle. It looks like he'll be out until %s.
+688  =%s picked up an injury in training. The diagnosis is %s, which will keep him sidelined for the month of %s. The cause was likely a result of fatigue from being overplayed.
+689  =%s has recovered from his injury.
+690  =%s is suspended for today's match.
+691  =National team squads have been announced ahead of the %1$s|.
+%3$s| from %2$s| was among those selected.
+692  =National team squads have been announced ahead of the %1$s|.
+%3$d| players from %2$s| were among those selected.
+693  =%s has announced that he will retire this season.
+694  =We're having trouble scouting new players.
+Maybe you should try changing your scouting instructions.
+695  =I've found a really special player.
+He's got talent, of course, but he also has the %s Team Role.
+If you sign him right now, he should be available at a reasonable price.
+696  =I've found a really special player.
+He's got talent, of course, but he also has more than one Player Skills.
+If you sign him right now, he should be available at a reasonable price.
+697  =I've found a really special player.
+He's got talent, of course, but he can also play in several positions.
+If you sign him right now, he should be available at a reasonable price.
+698  =I've listed up the players who can help us out where we're weak.
+699  =No players are listed.
+Issue scouting instructions and your Scout will look for players who match your criteria.
+700  =You have been offered the manager's position at %s.
+701  =Great news! We've decided to offer you a contract extension. Please respond to this offer by going to List of Offers.
+702  =Please respond to the contract offer by %2$d| %1$s|.
+703  =%s has been training with his mind set on mastering %s and has finally managed to develop his own Playing Style.
+704  =%s has developed a particular ability to play in the position of %s.
+705  =While on loan, %1$s| has seen their %2$s| boosted to %3$d|.
+706  =While on loan, %1$s| has seen their %2$s| deteriorate to %3$d|.
+707  =Today, you can add a selection to "My Favourite Players“.
+Choose a player who has really played with all their heart and soul and honour them by adding them to "My Favourite Players“.
+Access Manager's Office→Select "My Favourite Players" and then select a player. They will be registered to the list at the start of the next day.
+708  ="My Favourite Players“ is a place that's worthy of the very best.
+Access Manager's Office→Management Career→My Favourite Players to see more.
+709  =Check by selecting "Team Management" → "Negotiations" → "Scouting".
+710  =Scouting currently in progress. The report will come shortly...
+711  =Remove from Players to Watch
+712  =You know how %s played out of position the other day?
+Well, when players get a few games under their belt in a new position, they'll get used to it and make it their own.
+If you want a player to slot into a different position, give them a few games there and see how it goes.
+713  =Well, when players get a few games under their belt in a new position, they'll get used to it and make it their own.
+If you want a player to slot into a different position, give them a few games there and see how it goes.
+714  ="%s"
+715  =Manage Youth Team players.
+716  =You know what the supporters expect from us against our local rivals. So let's get out there and give them what they want!
+717  =You know what we're going up against today, but we're no pushovers either. Don't forget that we're more than capable of winning this.
+718  =We've made it to the final, boys. Now let's take that trophy home!
+719  =The battle for the %s title is about to begin.
+720  =This season's salary budget has been finalised.
+The contribution from last season's merchandising sales is %s.
+We'll be paying out %s to honour options in player contracts.
+You can view more details by going to Manager's Office then Finance.
+721  =Can you believe it? We've only gone and done the treble!
+722  =All that hard work last year is garnering us a lot of attention in next month's pre-season %s competition. Champions from various countries will play each other in a league-format competition. We've also got the option to participate in a pre-season tour, which could turn out to be fairly lucrative. You can view details from the Database menu.
+723  =The World All Stars squad to feature in the upcoming World Selection Challenge match has been announced.
+With such an elite line-up of players from top to bottom, it's set up to be a clash for the ages.
+724  =The World Selection Challenge is finally here.
+Just remember to enjoy yourself when you're stood shoulder to shoulder with football's elite!
+725  =%s was injured in the match. Test results show %s, which will sideline him for the month of %s. Fatigue increases injury risk, so try managing the player's appearances and stamina levels better next time.
+726  =%s has lost his unique playing style due to continued "Balanced" training.
+727  =You've only gone and won 4 titles this year! Congratulations!

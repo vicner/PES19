@@ -1,0 +1,24 @@
+37   =E6W
+
+2    =Target Man
+6    =Positioning
+27   =Long Throw
+35   =Man Marking
+80   =Covering
+92   =Marauding
+93   =Overall Rating
+94   =Creative Playmaker
+95   =Prolific Winger
+96   =Hole Player
+97   =Box-to-Box
+98   =The Destroyer
+99   =Solid Player
+100  =Offensive Full-back
+101  =Build Up
+102  =Defensive Full-back
+103  =Offensive Goalkeeper
+104  =Defensive Goalkeeper
+105  =Roaming Flank
+106  =Cross Specialist
+107  =Orchestrator
+108  =Full-back Finisher

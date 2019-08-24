@@ -1,0 +1,1266 @@
+121  =Helpbody1C
+
+14   =<na>i1
+Take on the might of Europe's elite in the perfectly recreated atmosphere of the na!
+Start a new campaign to claim the title of Europe's Greatest Club.
+This mode supports multi-player.i0
+15   =<nb>i1
+Can you guide your club to victory in a real-life competition, the nb?
+This mode supports multi-player.i0
+16   =Teams in the na are divided into 8 groups of 4, and play each other in the Group stage. Teams finishing in the top 2 of their respective groups advance to the Knockout Phase.
+i0
+<Competition Stages>i1
+
+Group stage
+ ↓
+Knockout Phasei0
+19   =In the nd, 12 teams will enter the Qualifying Round. 6 Home & away matches ties will then be held with the winners over 2 legs (teams scoring more goals on aggregate) progressing to the next phase. 
+The 32 teams taking part in the Group stage are divided into 8 groups of 4 and play each other. Teams finishing in the top 2 of their respective groups advance to the Knockout Phase.
+i0
+<Competition Flowchart>i1
+Qualifying Round
+ ↓
+Group stage
+ ↓
+Knockout Phasei0
+21   =By saving players you have developed in Become a Legend mode to your Edited data, you will be able to sign them to your club in Master League. To save to your Edited data in Become a Legend, on the Main Menu select "System" → "Save player data". To sign these players in Master League, on the Main Menu select "Negotiations" → "Advanced Search", then set Special Search to CREATED PLAYERS.
+
+If you start a game using an Existing Player you cannot use the Save player data feature.
+30   =Once you have developed as a player, you may receive a call-up from the national team.
+This will give you an opportunity to play in International friendlies as well as Continent-based championships
+
+However, please note that you must choose a nationality of a country/region which has a national team that is eligible to take part in such competitions.
+
+* Please note that Internationals are scheduled not to clash with your league commitments.
+Additionally, you cannot turn down an International call-up.
+40   =If you want a player from another team to play for you, you can either bring him in on a full transfer or on temporary loan.
+
+A player brought in on a transfer will become a full-fledged member of your team. You will negotiate the contract period and his annual salary. If one of your players transfers to another team while on your books, you will receive money from the other team for the transfer.
+
+Bringing in a player on loan simply means borrowing that player from another team for a short period. Since his loan spell will be subject to a fixed time period, any impact on the club should be considered for the short-term only. However, while on loan at your club, you do not need to pay the player's salary, and it works out cheaper overall when compared to a full transfer. On the other hand, a loan period at other clubs can give a player a great opportunity to gain match experience, especially for young players.
+41   =The youth team consists of young players who exhibit some of the skills and talent needed to make it at the top level.
+
+Youth team players can be called up to the first team without having to pay any transfer fees.
+
+Go to "Team Management" → "Negotiations" → "Youth Team" and sign professional contracts with any players you want to bring up.
+
+Players from the youth team are also very loyal and are less likely to be tempted away by offers from other clubs. Who knows? With the right guidance, they may turn out to be your standard bearers in the future.
+44   =During the League Season, players from your club may be called to represent their respective countries or regions. 
+They will then play in International Friendly Matches or Continent Based Championship Competitions.
+
+Players returning from International Duty tend to be very tired and you will need to be very watchful of their fitness levels when playing them.
+49   =<League>i1
+Embark on a conquest of leagues across many a nation.
+Unlike other modes, there are no elements of club management or transfers which allows you to just focus on winning your matches.
+This mode supports multi-player.i0
+50   =In League mode, you will embark on a conquest of leagues across many nations. Unlike other modes, there are no elements of club management or transfers, which allows you to focus on your football. This mode supports multi-player.
+51   =Competitions regulations and team lineups can be changed in Edit mode.
+Once everything is set up just the way you like it, it's time to select leagues.
+
+In General Settings, you will be able to choose the number of participants as well as Match Lengths.
+The competition starts once all participants have chosen their respective Personal Data.
+
+* If you are playing alone, your main Personal Data will automatically be selected.
+* Please note that [Injuries] Settings in General Settings cannot be changed mid-game.
+52   =Training is the perfect way to familiarise yourself with the in-game controls in realistic situations.
+Select either [Free Training] or [Skills Training] depending on what parts of your game you want to improve.
+
+<Skills Training>i1
+Familiarise yourself with both the basic and newly introduced controls used in this title via a set of interactive tutorials.i0
+
+<Free Training>i1
+[Free Training] allows you to use the whole pitch to practise all types of plays including set piece situations as many times as you would like.
+You can also freely choose how many players to field on your side of the pitch as well as that of the COM. i0
+53   =In Free Training, you can practise all sorts of in-game controls and simulate set piece situations. You can also choose to play practice matches if you field enough players on both sides of the pitch.
+i0
+<Training Types>i1
+[Free Training] allows you to use the whole pitch to practise whatever you want. [Free Kick] training allows you to practise Free Kicks from any range or position. You can also practise other set piece situations such as [Penalties] and [Corner Kicks] taken from either left or right as many times as you want.
+i0
+<User Team Players>i1
+Adjust the number of players on your team to anything between 1 and 11.
+i0
+<COM Team Players>i1
+You can play against anything between 1 and 11 players.
+i0
+<Training Settings>i1
+Choose Match Level and various other settings such as which team gets to resume play when the ball goes into touch.i0
+55   =In Edit, you can make alterations to a wide variety of player and stadia related data.
+You can also change national team lineups as well as the team composition in both leagues and cup competitions.
+
+Edited contents apply to each mode, however, some parts may not apply during online mode using Live Update.
+56   =Players created in [Players] → [Create Player] are free agents by default and need to be registered to a National Team or a Club Team of your choice if you wish to use them.
+i0
+<National Team>i1
+First, select a National Team of the home country/region of the created player in [National Team Selection]. Then, select a player who you want to remove from the squad followed by the player you created who will take his place.
+i0
+<Club Team>i1
+To register a created player to a Club Team, select [Transfer], then a club of your choice. Then, select [Add] and nominate your created player from [Other] → [CREATED PLAYERS].
+*Please note that [Add] will be disabled for Clubs that have a Squad size of 32 or over. In such cases you will need to transfer or remove existing players from the lineup before you can add the created player.i0
+57   =You must import images you wish to use in the game. Images can be imported from the folder below.
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+
+Select Data Management → Import/Export → Import Images to import this image data and use it in-game.
+61   =In System Settings, you can adjust your audio and display settings, in addition to the game speed.
+i0
+<Match Screen Settings>i1
+Choose what to display in-game, such as the [Power Gauge] which indicates the power of shots, passes and throws or the [Stamina Gauge] which indicates players' stamina levels.
+i0
+<Sound Settings>i1
+Choose to switch commentary ON or OFF as well as the volume of ambient sounds and in-game music.
+i0
+<Game Speed Settings>i1
+Choose how quickly you want both the players and the ball to move in the game.
+i0
+<Controller Vibration Setting>i1
+Choose whether or not to enable Controller vibrations for on-the-pitch action.i0
+67   =In a Ranking Match, you will play a single match against a random online user.
+If you are up for a quick game and not bothered with who you will be playing, Ranking Match would be the perfect choice.
+
+Please note that you have the choice to play 1 VS 1 or to recruit a friend to play 2 VS 2.
+
+To check out your ranking, simply select [Statistics] → [Overall Ranking Match Rankings] in the Top Menu.
+70   =A Friendly Match can be played by up to 8 Online Users.
+Friendly Match Results are not recorded and do not affect your Ranking in any way.
+71   =Results from online matches in Online Divisions have a direct effect on a user's rating. The general rule is that ratings increase with wins and decrease with losses (sometimes, it stays the same irrespective of the result depending on who you play).
+Ratings will ultimately be reflected on your overall Ranking Match Rankings.
+74   =Online Competitions are competitive cups aimed at users who like to test themselves online against many fellow users. Online competitions vary depending on your level of skill and the teams that participate. Do you have what it takes to make it through the Qualifying Round and the Knockout Phase? Why not give it a try?
+75   =Once an Online Competition is underway, you can enter it from WHAT'S ON. Make sure you confirm both the start time and conditions for eligibility before entering the competition.
+76   =Each Competition comprises of a Qualifying Round and a Knockout Phase.
+In the Qualifying Round you are allowed to play as many Matches as you want provided that they are all completed within the Allowed Time.
+The 16 best Users from the Qualifying Round advance to the Knockout Phase.
+
+Please refer to the Competition Regulations for more details.
+77   =Competition results affect your rating in the same way as Ranking Match and are ultimately reflected on your Overall Ranking Match Rankings. 
+High achievers in each Competition are also eligible for generous Competition bonus ratings!
+78   =In Master League Online, your objective is to create your very own original team out of the talent available on the transfer market. 
+
+There are many online rivals who are plotting to do just that.
+Star names naturally command high transfer fees and are not easy to sign.
+One of the joys of Master League Online is for you to dig up the undiscovered talents who your rivals may have overlooked and turn them into match winners.
+
+Can you better your rivals by winning in both matches and Competitions? Will you be able to form that dream team you always dreamt of doing one day?
+
+* Game Progress will be saved automatically in Master League Online.
+108  =In Personal Data settings, you can check and make changes to your Personal Data.
+
+Personal Data can be best described as a collection of your very own custom settings.
+Having your own Personal Data allows you to apply your settings quickly and easily. All you need to do is to select the data just before you start your match.
+110  ="rm" is an application available for mobile phones which if enabled, enable it, allows you to receive results from every single match you play. 
+As rm takes a tally of all your results, you can compare and keep track of rankings (of yourself and your friends) at all times.
+
+Using rm, requires you to register a KONAMI ID account.
+To register your account, please enter your Login ID and KONAMI ID Password in [Personal Data Settings] - [rm Settings]. 
+Once you have installed the rm application onto your mobile device, please enter your account details.
+Only when you have entered your account details in both rm and Personal Data will you be able to use the application.
+117  =In Skills Training you'll be taken through training in the basics of PES gameplay, as well as elements new to the series.
+
+For a detailed look of what areas you can train in, visit Skills Training. 
+
+As you train, you'll see an overview of your progress in the top right of the screen, helping you on your way to 100％ completion and that gold trophy.
+118  =Football Life is a truly unique mode which allows you to see the beautiful game from many different angles.
+i0
+<myClub>i1
+Build yourself an all-conquering team and take on all comers both human and COM.
+i0
+<Master League>i1
+Take control over your club on and off the pitch. Become the world's most successful club by winning domestic and international silverware.
+i0
+<Become a Legend>i1
+Get a taste of what life is like in the beautiful game by playing through the career of a footballer.i0
+119  =Even when there are no games, players can hone their skills with regular training.
+
+To train players, select "Team Management" → "Training" and choose the desired type of training for each player from the menu.
+On the Training Menu, you can train players in specific Playing Styles.
+Do this, and the abilities they need to master their particular Playing Styles will be boosted.
+The most appropriate Playing Styles for each player are determined by the position they are most suited to.
+When a player can perform in a variety of positions on the pitch, they will have more options available to them on the Training Menu.
+Once players have done a certain amount of training, they will master whichever of the Playing Styles was selected for them.
+
+In addition to Playing Styles selection, you can also select the following types of training for your players:
+i0
+<Balanced>i1
+This won't enhance any particular ability dramatically, but will raise the overall skill level of the player.
+i0
+<Focused Training>i1
+This hones in on a particular ability and aims to improve it significantly.i0
+141  =In the Friendly match lobby, you can play online matches against multiple random users. The match settings can be tailored to your liking.
+To play matches you can either create a match room and wait for other users to enter or enter one which has been created by another user in the lobby.
+142  =In the Friendly match lobby, you can play 1 VS 1 matches or anything up to a 2 VS 2 match as either user can add an additional guest user to the team.
+Results from Friendly matches do not affect your Online Ranking.
+143  =In Competition mode, you will be competing with many fellow users in a bid to win silverware in a wide variety of competitions, all with unique sets of regulations.
+
+<na>i1
+Take on the might of Europe's elite in the perfectly recreated atmosphere of the na!
+Start a new campaign to claim the title of Europe's Greatest Club.
+This mode supports multi-player.i0
+
+<nb>i1
+Can you guide your club to victory in a real-life competition, the nb?
+This mode supports multi-player.i0
+
+<AFC Champions League>i1
+The AFC Champions League is the biggest club competition in the region where the winners can rightly declare themselves the best club in Asia.
+Can you guide your club to regional domination?
+This mode supports multi-player.i0
+
+<League>i1
+Embark on a conquest of leagues across many a nation.
+Unlike other modes, there are no elements of club management or transfers which allows you to just focus on winning your matches.
+This mode supports multi-player.i0
+
+<Cup>i1
+Why not play competitions under your own regulations? Will there be silverware at the end of the road?
+Also compatible with multi-player.i0
+
+<Online Competition>i1
+Have you got what it takes to be a winner? Then try entering the many Online Competitions which are held regularly.i0
+156  =You can play matches both online and offline.
+
+<KICK OFF>i1
+Take on a friend or the COM in a single match. You have the option of four modes: Exhibition Match, Random Selection Match, VERSUS and CO-OP.i0
+
+<Online Divisions>i1
+Have you got what it takes to play through a gruelling series of 10-match seasons and make it to the very top?
+You will play random opponents that meet your selected preferences.i0
+
+<Online CO-OP>i1
+An online cooperative mode. Automatically search for other users to play with and form a team to work your way up the Leaderboards.i0
+
+<PES LEAGUE>i1
+Win competition events played with different regulation settings.i0
+
+<Quick Match>i1
+Have fun playing quick matches where results don't matter. 
+You will play random opponents that meet your selected preferences.i0
+
+<Friendly Match Lobby>i1
+Play matches with custom rules against other online users.
+To play a match, enter a lobby of your choice then create a match room. Or alternatively, you can join match rooms which have been created by other users.i0
+
+<Team Play Lobby>i1
+In Team Play Lobby, users are able to play co-op matches with anything between 2 and 22 participants.
+Users can enter a lobby of their choice and either create their own match room or join one which has already been created by another user.i0
+158  =rm can still be used by rf users who have no online access.
+For this, you will need to select [Options] → [Personal Data Settings] → [rm Settings] in order, then enable "Upload Stats".
+
+By doing this, you will be able to upload your Stats Data on to rm by reading the 2D-code issued after each match using the built-in camera on your mobile device.
+
+* As information which can be uploaded via the use of 2D-codes are somewhat limited, we do recommend that you enable [Upload Stats] in [rm Settings] if you have online access.
+159  =If you are connected online, you can download additional contents.
+Such contents can include updated player data as well as new footballs and football boots.
+If there are new contents available, this will be posted on the Information page, so stay tuned!
+161  =Your skill level will change in accordance to your rating.
+The general rule is that the higher your rating, the higher your skill level.
+
+Please note that all users will start at beginner level when playing their first ranking match.
+The beginner level can be seen as a temporary title you hold during a trial period.
+While you are at beginner Level, you will obtain no ratings either.
+Once you have player 5 ranked matches, you will be given the appropriate rating and skill level.
+162  =An Exhibition Match can be played as a quick one-off match.
+
+A key feature of the Exhibition Match is that it can be played in many formats.
+You could play against a friend, the COM or a whole group of people for a multi-player match.
+163  =You can use teams from the Master League and myClub.
+
+You can save your team by selecting "Save Team Data" in each mode. These saved teams can then be used by selecting "User Data" when choosing your team. You will then need to load the data.
+
+Why not save your User Data onto storage media and take it to your friend's house? Just copy the data over and select "User Data" to load your team during team selection.
+
+*Please note that if your team data has a name that is identical to that of your friend's, your data will overwrite it when copying. To avoid this, make sure you change the name in advance by saving it to a different location.
+164  =In Options, you can check or customise your own settings.
+For Online settings, please refer to [Statistics] or [Online settings].
+i0
+<Personal Data Settings>i1
+Check or make changes to your Personal Data.
+i0
+<Playlist Editor>i1
+Edit your track list by changing your selection of music tracks.
+i0
+<VS COM Record>i1
+Check your match records or statistics against COM.
+i0
+<Credits>i1
+See a full list of the staff who worked on re.
+i0
+<Data Version>i1
+Check your current game version.i0
+166  =Select Personal Data
+168  =In Online Settings, you can choose your own settings to play online.
+i0
+<Edit Profile>i1
+Edit your profile that will be visible online.
+i0
+<Edit Text Chat Presets>i1
+Edit chat presets.
+i0
+<Match Block List>i1
+Check the list of users you would like to avoid playing online. You can check the details of such users, or remove users from the list where appropriate.
+To add a user to this list, select [Statistics] → [Results from last 20 online matches], or simply add the user in the results screen where post-match rating changes are shown.
+i0
+<Auto-login>i1
+Choose whether or not to enable Auto-login.i0
+169  =Get connected online to see a wide variety of information and data as listed below:
+i0
+<Online Information>i1
+Catch up on what's going on in the online universe by checking out the latest Online Information.
+i0
+<User Details>i1
+Check your profile and match records which will be made visible to other online users.
+i0
+<Overall Ranking Match Rankings>i1
+Check out where you are on the latest Overall Rankings for Ranking Match.
+i0
+<Results From Last 20 Online Matches>i1
+Check out your records from the last 20 matches in Online Divisions, myClub and Online Competition.
+i0
+<Live Update Summary>i1
+See how the latest Live Update has affected player form.i0
+171  =Create a Match Room which can accommodate up to 22 users. These users will be split between a home side and an away side to take each other on in a maximum 11 vs 11 co-op match.
+You can either create your Match Room and wait for others to join in, or enter existing rooms which other users have created. 
+172  =When creating a Match Room, the owner has the choice to choose between a match where participating users all cooperate to take on the COM or play against each other.
+Select "11 VS 11" in order to play a match where multiple users are placed in both the home and away side, then pitted against each other.
+Alternatively, you can choose "11 VS COM" if you would like to team up with other users to play a co-op match against the COM.
+173  =When creating a Match Room, the owner gets to choose its maximum capacity.
+However, if none is selected, it will be set automatically in accordance to the owner's VS settings.
+174  =Users can load and use their alter-egos from Become a Legend.
+However, this is restricted to rooms which have Legend Player settings enabled.
+*The data used will be your save file from Become a Legend. 
+175  =In the Team Play Lobby, all participating users have a choice between 2 types of cursor options.
+1. Set cursor: The user will control one fixed player for the duration of the match.
+2. Any Player: The user is free to take control of any player who is not already being controlled by another user.
+Please note that in rooms where Any Player Setting is [OFF], you can only control one player so please make sure you select one player.
+
+If every user selects [Any Player] before Kick Off, the match will be played as a co-op match with non-fixed cursors.
+176  =Users in the Match Room who receive high ratings will be shortlisted by position and their names will be shown in the Team Play Lobby Match Room Main Menu.
+
+The 4 positions are Forward, Midfielder, Defender, Goalkeeper and it will be the Average Rating of each user which will be taken into account.
+If there are no suitable candidates, then none will be listed.
+177  =Enter a lobby of your choice then create a Match Room or join one which has already been created by another user.
+Make sure to check the room settings carefully on entry.
+Even if a match is in progress within the Match Room, you can enter and wait until it ends.
+If you are looking to use your Legend Player, make sure you load the appropriate data as soon as you enter the Match Room.
+178  =When you are ready for kick off, follow the on-screen instructions and then select "Start Match".
+Matches start automatically when:
+・The match room owner selects "Start Match"
+・All participants in the match room select "Start Match"
+・The number of participants inside the match room exceeds the minimum set in "Auto Start Settings"
+
+Participating users can then choose to join either the Home or Away side.
+One user from each side will be named leader and will be tasked with the responsibility of choosing the team as well as strategy and tactics.
+179  =Once the leader selects "KICK-OFF", the participants will get to choose their positions and players.
+If there are multiple users vying for a single position, a draw will be held to decide who plays there.
+If you loaded your Legend Player data on entering the Match Room, you will be able to choose your player once your position has been decided. Otherwise, you will end up controlling an existing player who has been allocated to you by the leader.
+If you have chosen "Any Player" as your cursor option, you will proceed to the match without the above steps. However, you will be unable to control any player that has already been assigned to another user. 
+180  =In the revamped Master League Online, your objective would be to build a team while at the same time making sure that you live within your means.
+
+The re gives you the freedom to sign and release players freely provided that you have enough points to cover the costs.
+
+Who knows? Perhaps you might want to try out some players as you look for that last piece of the puzzle which your team needs.
+Now you can do just that.
+
+All teams have their own unique styles.
+What is the best style for your team? That's for you to find out while you go about building your teams with the points you earn from both matches and competitions. 
+
+* Your progress will be saved automatically in Master League Online.
+181  =Master League Online is all about the "Asset Points" which you can earn by playing matches.
+
+Asset Points can be earned regardless of the result, but naturally you earn more by winning.
+There is also the additional incentive of bonuses which are paid out when certain conditions are met.
+So, the rule is simple. If you want Asset Points, then you have to play matches.
+
+When trying to strengthen your team, it is essential that you show some prudence and live within your means as all purchases must be covered by your Total Assets.
+There are also restrictions on the number of players you can sign initially, but this will gradually increase until it reaches its maximum of 10.
+
+With reduced risks of being priced out of the market by price fluctuations and transfer embargoes being placed on certain players, you now have the luxury to take your time to work out what style of play best suits your team and which talents you need.  
+182  =On starting Master League Online, you will be asked to join one of the below leagues:
+i0
+<League Types>i1
+・Association League
+・Lega Catenaccio
+・Continental League
+・Galactico League
+
+All 4 leagues have their own unique characteristics and you will be able to see this in more details in the league selection screen.
+
+While the players you can sign in all these leagues are the same, their prices are not (Player Costs paid in Points).
+
+You are free to move from one league to another provided that you meet the necessary conditions. Why not test yourself in all these leagues to see which one suits your style of play best?i0
+183  =In Master League Online, you can use the below conditions to configure your Matchmaking conditions in Quick Match Settings.
+While you may have to widen your search if finding an opponent proves to be difficult, you should be able to find the ideal opponent in most cases.
+
+<Rating>i1
+You can choose to filter potential opponents by ensuring that you will only face users falling within a certain range either side of your own rating.i0
+
+<League>i1
+Matchmaking can be restricted in such a way that you will only play against teams from the same league as you.
+The converse is also true in that if diversity is what you are looking for, you can choose to accept opponents from all leagues.i0
+
+<Team Strength Level>i1
+"Team Strength Level" refers to a 5 point scale which categorises teams by the total costs of all the players in their respective squads.
+You can use this option to ensure that you are only pitted against teams with the same Team Strength Level.i0
+
+<Support Setting Level>i1
+If you are seeking out opponents whose Support Settings are identical, if not similar to yours, then choose "Similar Level".i0
+184  =There are 2 match categories in Master League Online. These are:
+
+・"Match" where users assume full control of all players on their teams.
+・"Match (Coach Mode)" matches where users are restricted to a managerial role of giving players tactical instructions as opposed to having full control over them.
+
+There are competitions which are specific to each category and rankings are also kept separately.
+185  =All users will start Master League Online with an identical squad of players.
+It is all down to you to shape the team into one which you feel would best suit your style of play.
+i0
+<Signing Players>i1
+To sign a player, go to the Master League Online main menu, then select [My Team] → [Sign Player] in order.
+You can then choose your preferred search settings to find the player you are looking for.
+When you sign the player, the Player Cost will be added to your team's Total Costs.
+This means that the cost of any player you sign must be less than the difference between your Total Assets and the Total Player Costs.
+i0
+<Releasing Players>i1
+To release a player, you must first go to the Master League Online main menu, then select [My Team] → [Members List]. You can then select the player you want to release and press ka.
+You can then finalise the release by selecting [Release] from the menu.
+When you release a player, the points the Player Cost will be subtracted from your team's Total Costs.
+While releasing more players may free up more points available for your next signing, don't forget that you need to maintain a minimum squad size of 16 players.i0
+186  =Asset Points refer to the points you earn by playing matches.
+The accumulated total of these points is what is known in this game as Total Assets.
+Your Total Assets unlike money does not increase or decrease every time you sign or release a player. However, the costs of any player you acquire must not exceed this value by even a single point.
+187  =Total Asset level can be split into 5 categories based on the amount of your Total Assets.
+The greater your Total Assets level, the greater the bonus you will receive on completing matches.
+188  =[Player Costs] refer to the amount of Asset Points a user must pay in order to secure the services of a certain player.
+[Total Costs] refer to the sum of all [Player Costs] of each player who is on the team's books.
+Keeping [Total Costs] below the value of your Total Assets is the cast-iron rule which all users of this game must adhere to. 
+189  =Team Strength can be split into 5 categories which are calculated by taking into account the costs of the 11 most expensive players in the "My Team" lineup.
+The resulting level is referred to as "Team Strength Level".
+These levels are used as matchmaking conditions in Master League Online Quick Match.
+
+There are some Competitions which are open only to users of a certain Team Strength Level.
+If your game is about signing players you genuinely like irrespective of their stats as opposed to filling every position with star names, then this will be your scene.
+190  =Check up on your records and achievements in Master League Online.
+The more achievements you unlock, the colour of stars shown in the Main Menu and the Matchmaking screen will change from Bronze, Silver then to Gold.
+
+Your objective will be to unlock all achievements in all leagues.
+
+To look back on all your achievements, simply select [Change League] from the Master League Online Main Menu, then followed by "jf List of League Based Records".
+191  =All 3 leagues which are selectable at the start of Master League Online are subject to a league-wide wage cap.
+
+A wage cap refers to the maximum allowed total cost of players who are in the team.
+
+In a league which imposes a wage cap, you will be unable to sign players in excess of the allowed limit on player costs regardless of how much you have in Total Assets.
+
+The only league not to have a wage-cap is the Galactico League which is inselectable at the start.
+Only by moving to this league can you earn the right to sign players and build teams without any regulatory restrictions.
+192  =A team must have a minimum squad size of 16.
+On the other hand, maximum squad size is restricted to 23.
+193  =Separate Rankings are kept for each league/match category as shown below:
+i0
+<Leagues>i1
+Rankings and records are kept for each of the below leagues.
+・Association League
+・Lega Catenaccio
+・Continental League
+・Galactico League
+i0
+<Match Categories>i1
+Rankings and records are kept for each of the below match categories.
+・"Match" where users assume full control of all players on their teams.
+・"Coach Mode" matches where users are restricted to a managerial role of giving players tactical instructions as opposed to having full control over them.i0
+194  =My Teams are created for each league.
+So, for every league you choose to play in, a corresponding My Team Data file will be created and saved.
+Even if you were to change leagues, your squad lineup and match records remain and will automatically be loaded should you return to the same league at any point in future.
+
+When joining a new league for the first time, the My Team lineup you had in the previous league will be copied.
+However, as player cost settings differ from league to league, there may be cases where the team's Total Costs can exceed their Total Assets.
+In such cases, you will need to adjust your My Team lineup (the one applicable to the new league) accordingly.
+195  =In Cup mode, your objectives are simple. Lead your team to silverware!
+Make sure you have a look through your opponent's Game Plan and make changes to the lineup when appropriate.
+i0
+<Game Plan>i1
+Choose formation and tactics for the match.
+Details of your opponents can be found here.
+i0
+<Information>i1
+Check up on competition rules and regulations, as well as tournament draws
+i0
+<System>i1
+Save your progress, or choose whether or not to enable auto-save.
+Changes to match level and match time can be made in General Settings.
+* Please note that [Injury] settings cannot be changed in General Settings once competitions start.
+* Please also note that there is no accumulated fatigue in Cup Mode.i0
+196  =In the League Mode, your goal will be to guide your favourite club side to glory in a league of your choice.
+Make sure you look through your opponent's Game Plan and league schedule. There may be times you will need to rotate your squad.
+i0
+<My Team>i1
+Check up on team's formation and tactics as well as the records of individual players in the team.
+In Game Plan, you can also check your opponent's details.
+i0
+<Information>i1
+Check your match schedules and standings.
+You can also see lists of individual honours or player records such as goal and assist rankings.
+i0
+<System>i1
+Save your progress, or choose whether or not to enable auto-save.
+Changes to match level and match time can be made in General Settings.
+* Please note that [Injury] settings cannot be changed in General Settings once competitions start.i0
+197  =If you are playing with friends, then the KONAMI CUP is highly recommended.
+First, there are no restrictions regarding team selection, so all participants can choose their favourite sides.
+The rules and regulations are also fully customisable, so whether it's going to be a long gruelling session or a quick game, this competition should suit your needs perfectly.
+198  =Teams competing in the nb are divided into 12 groups of 4, and play each other in the Group stage. The top 2 teams of each group advance to the Knockout Phase. (Some teams are eligible for direct entry to the Knockout Phase).
+i0
+<Competition Stages>i1
+Group stage
+ ↓
+Knockout Phasei0
+199  =<AFC Champions League>i1
+The AFC Champions League is the biggest club competition in the region where the winners can rightly declare themselves the best club in Asia.
+Can you guide your club to regional domination?
+This mode supports multi-player.i0
+201  =The teams contesting the AFC Champions League are divided into 8 groups of 4 and play each other in the Group stage.
+Teams finishing in the top 2 of their respective groups advance to the Knockout Phase.
+i0
+<Competition Flowchart>i1
+Group stage
+ ↓
+Knockout Phasei0
+203  =Have a look to see where the club's money goes.
+Details on potential income sources will be covered next.
+204  =<Market Value>i1
+The market value will form the basis of a player's true financial worth.
+This value can fluctuate based on 2 factors: the player's individual achievements and those achieved by his club.
+The player's transfer fee will also be set in accordance to the market value.i0
+205  =<Salaries>i1
+Players are paid an annual salary.
+Each club starts with a certain annual budget for salaries, and your job is to keep the total amount of player salaries to within the club's salary budget. Managing available budget in pursuit of club aspirations is key.i0
+206  =<Severance Payment>i1
+On releasing a player who he is still contracted to your club, you will be obliged to pay him what is known as a severance payment.
+This amount will be worked out based on the player's annual salary.i0
+207  =<Debt>i1
+A club's coffers can dip into the red when a number of players' salary requirements rise steeply.
+A club in debt can still continue to operate, but no new players can be brought in until the club is back in the black.i0
+208  =The club can raise funds from the following sources.
+209  =<Gate Receipts & Prize Money>i1
+Gate receipts and prize money are what forms the main bulk of the club's revenue. 
+Note, gate receipts can only be earned in home matches.
+Prize money will be awarded in accordance to the club's performances in both league and cup.i0
+210  =<Sponsor(s) and the Fan club>i1
+Money from Annual Sponsorship Fee and Fan club membership fees is received at the start of the season.
+This allows you to spend it on strengthening your team during the transfer window, so it's a really important source of income.i0
+211  =Being given constant playing time as well as being a member of a team which achieves constant success are the 2 ways in which player loyalty increases.
+Players with little affection for the club are bound to leave the club eventually. Managing egos and keeping everyone happy is another important aspect of football management.
+212  =Your contracts with your club team all last one year.
+Each year, you must decide whether or not to renew your contract.
+
+You may also receive offers to take over as the manager of other teams.
+You can view all of these offers on the List of Offers.
+
+Selecting Transfer Request allows you to express your interest in moving to the team of your choice.
+213  =In Master League, a manager's job isn't all about club management.
+Managers yearn for the opportunity to lead their nations and regions to great success.
+Such an opportunity may come calling for you too.
+The more experience you gain in club management, the bigger the chance you will have of receiving such an honour.
+The job of managing the national team is a part-time one and you will continue in your present role at the club even if you were to accept such an offer.
+
+As national team manager, you will be tasked with guiding the team to success in international competitions as well as naming the squads for the qualifiers and friendlies in preparation.
+
+Your performances at both club and international level will ultimately dictate who you will get to manage.
+214  =Here's what you need to know about your expenditures.
+i0
+<Transfer Fee>i1
+In order to sign a player with more than six months remaining on his contract, you'll need to pay a transfer fee. This fee is paid from your Transfer Budget.
+i0
+<Salary>i1
+As the term suggests, this is what you pay the player on a regular basis from your Salary Budget. Before signing a new player or renegotiating an existing player's contract, make sure to confirm your Salary Budget before making a decision.
+i0
+<Severance Payment>i1
+Releasing a player whose contract is not yet up requires you to pay the player a Severance Payment. These payments will be calculated as a Salary Budget expenditure.
+i0
+<Contract Options>i1
+Contract Options, such as the Clean Sheet option, may be included as a part of a contract when signing a player. A payment to the player can be triggered when certain conditions are met.
+i0
+<Budget Deficits>i1
+There may be times when you lack the funds to sign or resign a player, making it impossible to complete the signing. Make sure to balance your budget ahead of time to manage such payments.i0
+215  =Here's an explanation of how you earn income.
+i0
+<Gate Receipts Bonus>i1
+Any time you play a match at your home stadium or at a neutral venue, you will earn income in the form of Gate Receipts. A portion of this income is calculated as a bonus and goes towards your budget.
+i0
+<Merchandise Sales Bonus>i1
+As a club you have the facility to sell replicas of your players' shirts, and other merchandise, to boost your income. A portion of Merchandise Sales is added to your budget as a bonus.
+i0
+<Competition Prize Bonus>i1
+Depending on your results in league and cup competitions, you can earn the club prizes, as well as win bonuses, by winning certain matches in these competitions.
+i0
+<Owner Bonus>i1
+Completing goals set by the club's owner will net you a bonus from the big boss.
+i0
+<Transfer Fee>i1
+Selling a contracted player to another team will earn you a Transfer Fee. The money received via the fee is counted towards your Transfer Budget.i0
+216  =[Become a Legend] gives you a first person's view of the beautiful game.
+You can start the game as a 17 year old hopeful looking for his first big break and play through until you are made to retire at 37.
+217  =Whether you've been chosen to start a match, find yourself on the bench, or not even made it to the team sheet that day is all down to your ability and performance. But don't despair. Even without high stats to begin with, you can still catch the manager's eye by putting in a solid performance when given the chance.
+
+Ultimately, where you play is down to the manager, but you can set your position preference by going to the Player Menu and selecting "Preferred Position". If you and the manager's thinking is on the same wavelength, things might just work out in your favour!
+218  =The only time in the season when you can switch clubs is during the transfer window.
+Take a look at the offers you've received, and if there's a team you'd like to move to, go ahead and accept that offer.
+
+Your contract with a club will specify an annual salary and a length of contract.
+The annual salary that is offered to you indicates the club's valuation of your abilities.  
+219  =Player development isn't restricted to just matchday as they are put through their paces in everyday training. 
+
+The team's training regime can be set by allocating focus points in [Player Menu] → [Training]. Allocating more points to certain aspects of training will lead to quicker increases of related player stats.
+220  =Daily training isn't always about the basics. You could learn new skills or learn how you can adapt your game to play new positions.
+
+If you are looking to do some special training, simply allocate focus points to the appropriate regimes like in normal training.
+Skills and positions can be attained once your mastery level reaches 100％.
+The length of time it takes is entirely dependent on any skills you have prior to your training as well as the difficulty level of the training itself.
+221  =Contract renewals may by instigated by the player, or by the club.
+i0
+<Player Instigation>i1
+Players who are nearing the end of their contracts may express a desire to renew their contracts.
+If you do not have a problem with the terms that the player is proposing, you should go ahead and renew their contract. If you do not agree to their proposed terms, you should renegotiate.
+If renegotiations fail, however, the player will not renew their contract.
+
+Players who do not have much affection for the team will also tend not to renew their contracts.
+Players who do not renew their contracts can be transferred to other teams, but bear in mind that you will not receive a transfer fee for them.
+i0
+<Team Instigation>i1
+Player contracts can be renewed even if they are not close to expiring.
+If negotiations fail in these situations, the player will not necessarily decide not to renew their contracts.
+As such, it's always best to start contract negotiations early with players you want to keep.i0
+222  =You can both create and edit your Game Plan in rm which can then be imported to rf.
+
+Once you have created your Game Plan in rm, click the [rm] icon which can be found on the left side of the Top Menu screen, then follow the relevant instructions.
+
+You can save up to 3 Game Plans in each Personal Data.
+These can then be loaded in the Game Plan Setting screen.
+
+Have you ever thought about tweaking your Game Plan using rm while in transit? Who knows? Being outside may give you the necessary inspiration to devise a winning Game Plan.
+*To use this feature, please enable "Upload Stats" in  [rm Settings].
+223  =You can play matches both online and offline.
+
+<KICK OFF>i1
+Take on a friend or the COM in a single match. You have the option of four modes: Exhibition Match, Random Selection Match, VERSUS and CO-OP.i0
+
+<Ranking Match>i1
+Play against other online users with an established set of rules.
+Ranking MatchIn the Quick Match mode, you can set your desired conditions before being automatically paired with a suitable opponent.i0
+
+<Friendly Match Lobby>i1
+Play matches with custom rules against other online users.
+To play a match, enter a lobby of your choice then create a match room. Or alternatively, you can join match rooms which have been created by other users.i0
+
+<Exhibition Match>i1
+Watch as 2 COM controlled teams play each other.i0
+225  =<nd>i1
+Test yourself in this perfectly recreated rendition of the nd.
+Can you guide your team to glory and claim the title of No.1 Club in Latin America?
+This mode supports multi-player.i0
+226  =The "Team's Trust Level" indicates the level of trust between you and the players.
+
+If this were to drop below a certain level, you will not be offered a renewal at the end of the season.
+
+The trust level fluctuates based on the team's fortunes on the pitch and the amount it changes each time depends on the strength of the opposition.
+So, by this rule, the easiest way to earn your team's trust is to beat big clubs.
+227  =Whenever you're negotiating a transfer or contract extension, you can include a Contract Option to help smooth the way to a successful negotiation.
+i0
+<Appearance Bonus>i1
+This bonus is paid out to a player when he makes a match appearance for the club, no matter if it's the entire 90 minutes or just a few moments.
+i0
+<Goal Bonus>i1
+This bonus is paid out when a player scores a goal. The option is available for midfielders and forwards.
+i0
+<Clean Sheet Option>i1
+This bonus is paid out when the player makes an appearance in a match in which no goals are conceded. This option is available for goalkeepers and defenders.
+i0
+<Win Bonus>i1
+This bonus is paid out when a player makes an appearance in a match the team wins.
+i0
+<Selling On Option>i1
+When a player with this option in his contract is transferred to another club, a portion of the Transfer Fee is paid to his original club.
+i0
+<Option-to-buy>i1
+This option can be attached to contracts for loan players. After bringing in a player on loan, if you wish to trigger this option before his loan term ends, you can buy the player outright. The fee for transferring the player is set at the time of signing him on loan and is paid from the Salary Budget.i0
+228  =The "Manager's Trust Level" indicates the level of trust your manager has in you.
+
+If a Manager's Trust Level drops below a certain level, you will not be offered a contract extension from your team.
+
+The Manager's Trust Level fluctuates based on the team's fortunes on the pitch.
+If you are looking to earn your manager's trust, make sure you do your best to impress him when given the chance.
+229  =If you're not sure what type of player to sign, you can use scouts to list up some potential targets.
+
+Select "Team Management" → "Negotiations" → "Scouting" to indicate your scouting preferences or to view the listed-up players.
+
+Players listed by the Scout have a higher chance for successful negotiation because the scout is in regular contact with the players and their teams. Can you see why scouts are invaluable to improving your squad?
+230  =Play online matches against opponents found at random in accordance to your preferences.
+Match records are not kept, so just enjoy your game!
+231  =All users will play in a series of 10-match seasons and are promoted, relegated or stay where they are based on their final point tally.
+You will be paired with random opponents who meet your personal preferences.
+Matches in "ONLINE DIVISIONS" are treated in the same way as Ranking Matches and the results will count towards your Overall Ranking match Rankings.
+232  =The "Season Points Ranking" is a score ranking system based on the number of season points the user earned in a single season.
+* The amount of season points earned can vary depending on the overall rating of the team selected.
+233  =A season in Online Divisions consists of 10 matches with equal numbers of home and away matches.
+234  =Player ratings from Team Play Lobby matches are largely decided by how far players stray from their expected positions when out of possession.
+By enabling "Rating Restrictions" in Match Room Settings, you can apply entry restrictions to all users who have played a minimum 5 matches with a set average rating (or above).
+235  =In Online Divisions, you can earn "Season Points" based on your records across each season. The amount you can earn depends on the overall strength of the teams you picked for each match.
+So, if you want to earn lots of season points, the easiest solution will be to play under-strength teams.
+236  =<Copa Sudamericana>i1
+Can you guide your club to victory in the Copa Sudamericana?
+This mode supports multi-player.i0
+237  =<Live Update Summary>i1
+See how the latest Live Update has affected player form.i0
+238  =In myClub, the two forms of currency are the  myClub Coins and  GP.
+i0
+< myClub Coins>i1
+The myClub Coins are generally purchased via "myClub Store" → "Buy myClub Coins" and have a wide variety of uses and effects.
+They cannot however be used in certain scenarios, such as Scout Auction.
+i0
+< GP>i1
+GP is usually earned for achieving certain results in matches.
+It can be used to obtain Loaned Player, managers and renew contracts.
+While it can be used to make a bid for a Scout in an Auction or to get an Agent to sign a player, these actions use up an enormous amount of GP. Try to ensure that you don't end up short of GP and find yourself unable to renew contracts.i0
+239  =In myClub, your task is to strengthen your team by performing well in matches and competitions, increasing its income, and attracting top-quality players and managers.
+
+Players and managers have various tactical affinities, so picking Team Instructions which match your manager's tactics is a shortcut to success.
+If your Team Spirit is strong enough, then even the occasional feat of giant-killing is not beyond you!
+
+Each player and manager has a contract, which will run down with every match that is played.
+Players whose contracts have expired cannot take part in any matches, so please be careful.
+Keep a close eye on your funds and try to come up with a plan that will lead your team to glory!
+240  =myClub features the match formats described below.
+
+You can take part in events by going to WHAT'S ON on the Main Menu.
+Playing a match (with the exception of a myClub Friendly Match and the myClub PES LEAGUE) will allow you to acquire a Scout and GP. The amount of GP you earn depends on the result of the match.
+i0
+<RANKED MATCH>i1
+Set matching conditions for automatic searches for online opponents. Results will impact your ranking.
+i0
+<RANKED MATCH (SIM)>i1
+In coach mode, you will only make the team's tactical decisions, such as selecting strategies or making substitutions, as opposed to having to actually control any players who are on the pitch. The opponent team is controlled by the COM.
+If you're the type of player who's not good at action games and doesn't feel confident about playing online matches, this mode allows you to win using strategy alone.
+i0
+<myClub CO-OP>i1
+Play online CO-OP matches using your own players.
+i0
+<VS COM>i1
+This mode allows you to play against teams controlled by the COM.
+There are three different teams of increasing strengths available for each Match Level. Beat a team home and away and you'll be matched with a stronger team.
+i0
+<myClub Friendly Match>i1
+You can create a Match Room and use your myClub Squad to play online matches which won't affect your overall records.
+GP and Scout prizes cannot be acquired.
+i0
+<myClub PES LEAGUE>i1
+Enter PES LEAGUE competitions using a myClub Squad.
+i0
+<myClub Competitions>i1
+A number of users compete simultaneously to see who can achieve the best record. In the Qualifying Round, matches are played over a fixed time period, and the teams with the best results proceed to the Knockout Phase.
+i0
+<Online Challenge Cup>i1
+Prizes are awarded for achieving certain goals in each tournament. You will play online matches against other users in a number of tournament formats: knockout, league, single match, and so on. You may also be matched with online users other than ones taking part in online tournaments.
+i0
+<VS COM Challenge Cup>i1
+Rewards are awarded for achieving certain goals in each tournament. You will play real teams featured in this title in a tournament format.i0
+241  =Within a club, the team of players and managers who take part in matches is known as the Squad.
+A Squad consists of 18 players: the Starting Lineup (11 players), and the Substitutes (7 players).
+The minimum number of people required to make up a Squad is 19: The Starting Lineup, the Substitutes, and a manager.
+Please be aware that you will not be able to play a match if any of the following criteria apply to your squad:
+・It contains a player whose contract has expired.
+・There is an empty slot in either the Starting Lineup or the Substitutes.
+・It contains a suspended player.
+・It contains an injured player.
+If you are unable to play a match for one of these reasons, select Squad Management from the Main Menu to take a closer look at the players in your squad.
+
+The formations and Team Instructions you can use in a match depend on your managers.
+A manager can be assigned to each of your three preset tactics, meaning that your squad can have a variety of tactical approaches.
+You can register up to 10 different Squad settings, allowing you to choose from a range of player-manager combinations.
+242  =There are a number of ways to sign a player.
+
+Think about your team's strengths and weaknesses and make full use of these methods of bolstering your team.
+i0
+<Signing a Player via a Scout>i1
+On the Main Menu, go to the Contract tab and select "Scouts" → "Sign Player". You can obtain Scouts for each game you play or get them via Auctions. When using a Scout to obtain a player, the Level of this player will be Lv.1. The rarity of each player is indicated by the colour of the ball and is based on their Overall Rating at Lv.30.
+i0
+<Signing a Player via an Agent>i1
+From the Main Menu, go to the Contract tab and select "Top Agent" or "Agent".
+Using an Agent will cost  GP or  myClub Coins. You can also obtain an Agent as a reward for a good performance in a competition or other event.
+i0
+<Signing a Player on a LOAN CONTRACT>i1
+From the Main Menu, go to the Contract tab and select "LOAN CONTRACT". Note that you cannot use any loanees in the following modes.
+・myClub PES LEAGUE
+・myClub Competitions
+i0
+<Converting Players>i1
+From the Main Menu, go to the Contract tab and select "TRADE". You can exchange three duplicate cards for one player of the same rarity. You cannot trade players for a player of a different rarity. Players you sign via a trade will be at Lv.1.i0
+243  =You can acquire managers by using GP or myClub Coins. Any managers you acquire will be listed in myClub Members.
+
+Some talented managers may be locked. Locked managers cannot be acquired using GP, but they will become available eventually after you have played a certain number of matches. Managers can also be instantly unlocked by spending myClub Coins. A talented manager is essential to get the most out of talented players. Since you can keep up to 50 managers on your books, this should give you the flexibility to have team setups for all types of opponents.
+
+Manager lists are updated every 8 hours as a general rule.
+*The time between updates may be longer due to maintenance and other factors.
+*Updates can also occur as a result of maintenance. If you see a manager you like, it's best to acquired him at once.
+
+Also, special campaigns may be held that will allow you to acquire certain managers.
+i0
+<Management Skills>i1
+Each player has various Costs, based on their ability.
+If the Total Costs of the players in your Squad is higher than your manager's Management Skills, then Team Spirit will decrease dramatically.
+i0
+<Familiarity (％)>i1
+Just like players, new managers gradually become more familiar with a club with each match the team plays.
+"Familiarity (％)" is a rating which indicates how well a manager knows his club.
+
+In Squad Management, select a manager to view his "Familiarity (％)" rating. A manager's "Familiarity (％)" rating has an effect on Team Spirit.
+
+<Manager Ability and Team Familiarity>i1
+A manager's ability will affect his initial level of Familiarity (％) with a new team as well as the speed at which it grows. The greater a manager's Adaptability, the higher his initial familiarity level and the faster that level will grow.
+
+Additionally, if you utilise a manager as an Assistant Coach for an extended period, his Familiarity (％) will steadily decrease. Employing him as a main manager will help increase his Familiarity (％) once more.i0i0
+244  =Each manager has their own Team Instructions and Preset Tactics.
+Furthermore, each player has affinities with certain instructions.
+
+When putting together a Squad, you can increase Team Spirit by selecting players who have an affinity for the manager's Team Instructions.
+Team Spirit is also affected by the players' Playing Style, as well as their suitability for the positions they've been assigned.
+When Team Spirit is strong, the team works together more effectively, and the team's standard is raised even when individual players' abilities are lacking.
+In "Squad Management", try seeing how various combinations of players and managers affect your Team Spirit.
+
+If you want to make use of each Squad's three Preset Tactics in a match, you will need to pay attention to how each of the Preset Tactics affect the balance of the Team Spirit.
+Select myClub Members → Members List to view each Squad's Preset Tactics and your players' individual affinities.
+245  =Each season consists of 10 matches, and your results in these matches will determine the division in which you will play in the following season.
+The higher the level of the division in which you are playing, the more difficult it is to be promoted. However, you will also earn more GP for each match.
+If you manage to get promoted, or to stay in a division, you will be rewarded with Contract Renewal Tickets, which can be used to renew your players' contracts. The number of tickets you will acquire depends on your division.
+
+Note that in RANKED MATCH and RANKED MATCH (SIM), your division, results, and ratings are handled separately.
+246  =<Team Strength>i1
+This figure represents the overall abilities of the players who make up your Squad.
+It represents the basic potential of your Squad.
+i0
+<Team Strength Level>i1
+This represents the strength of your Squad by assigning one of five levels to it.
+This is used when pairing you up with opponents of similar strength.i0
+247  =In myClub, fatigue builds up in proportion to playing time.
+To help tired players recover, you can rest them and avoid playing them for extended spells.
+Always keep an eye on players' fatigue levels in [Squad Management] and rotate your squad as you see fit.
+You can also use items or myClub Coins for instant stamina recovery. These decisions could prove key if there are crunch games coming up including competitions where you badly need your best players.
+248  =As long as you enter myClub mode at least once a day, it will register that you have played the game that day. You will receive prizes based on the number of days on which you have played the game.
+The counter will run up to nine days, after which it will be reset to one.
+250  =You can renew players' contracts in the following ways:
+・Use  GP or  myClub Coins
+・Use a Contract Renewal Ticket
+
+Please note the following restrictions on Contract Renewal Ticket use.
+・They cannot be used unless a player has come to the end of his contract.
+251  =When a manager signs a new contract with a club, there will be certain stipulations in the contract about the goals he must achieve.
+Achieving these goals will enable you to renew his contract.
+If a manager's contract has expired, you will not be able to use him in any matches until it is renewed.
+
+When using a Contract Extension Option, the goals in each match category will be set depending on the past performance of the team.
+・VS Online User
+Takes into account results in RANKED MATCH and Online Challenge Cup matches.
+・Simulation Match
+Takes into account RANKED MATCH (SIM) match results.
+・VS COM
+Takes into account VS COM and VS COM Challenge Cup match results.
+
+Contract Extension Option conditions will be set when making a new contract with a manager or renewing an old one.
+
+If you are unable to meet Contract Extension Option conditions, you will still be able to renew contracts with  GP or  myClub Coins.
+252  =Just like players, new managers gradually become more familiar with a club with each match the team plays.
+"Familiarity (％)" is a rating which indicates how well a manager knows his club.
+
+In Squad Management, select a manager to view his "Familiarity (％)" rating. A manager's "Familiarity (％)" rating has an effect on Team Spirit.
+
+<Manager Ability and Team Familiarity>i1
+A manager's ability will affect his initial level of Familiarity (％) with a new team as well as the speed at which it grows. The greater a manager's Adaptability, the higher his initial familiarity level and the faster that level will grow.
+
+Additionally, if you utilise a manager as an Assistant Coach for an extended period, his Familiarity (％) will steadily decrease. Employing him as a main manager will help increase his Familiarity (％) once more.i0
+253  =In myClub, three Preset Tactics can be set for each Squad.
+Preset Tactic 1 will be the team's main strategy, while the other two will be set as the team's sub-strategies.
+If a Squad only has one registered manager, then that manager's Offensive Tactic/Defensive Tactic allocation will be as follows:
+・Preset Tactics 1: Main (Offensive)
+・Preset Tactics 2: Sub (Defensive)
+・Preset Tactics 3: Sub (Offensive)
+
+Preset Tactic can be changed with the Game Plan option, and can also be switched in real time during matches.
+i0
+<A Squad with Multiple Managers>i1
+Three Preset Tactics can be set for a Squad, and a different manager can be set for each set of tactics.
+In Squad Management, press jg/jh to switch between Preset Tactics and assign a manager to each one.
+For Preset Tactic 2, the assigned manager's Defensive Tactic is guaranteed to be used. For Preset Tactic 3, an Offensive Tactic is used.
+i0
+<About Sub-Strategies>i1
+If you assign a manager to a sub-strategy, he will be registered in your Squad as an Assistant Coach. If managers are used in this way, their contracts will not run down.
+Unlike main strategies, sub-strategies do not allow for 100％ of the effects of Team Spirit to come into play.
+Additionally, if you use a manager as an Assistant Coach for a long time, his Familiarity (％) will gradually decrease.
+If you have a manager with an effective Offensive Tactic, you should use this as your main strategy.i0
+254  =Each manager has a favourite strategy.
+Some managers use a Fluid Formation.
+You can switch Fluid Formation ON or OFF in Game Plan.
+i0
+<Fluid Formation>i1
+In Fluid Formation, the team's shape will change "When in possession" and "When out of possession".
+For more details on Fluid Formation take a look at the Help section in Game Plan.i0
+255  =Players acquire Experience Points by playing in matches. Once they have earned a certain number of Experience Points, they level up, improving their abilities.
+
+Each player has a level cap, which is determined by the following.
+
+・Their Overall Rating at Lv.30
+・Their age
+
+The younger the player and lower their skill, the higher their level cap.
+256  =Convert a player into an EXP Trainer and he can help with the development of the other players on your books.
+i0
+<How to Convert Players into Trainers>i1
+In Squad Management, select the player you'd like to convert. Select jfPlayer Menu, then "Convert into a EXP Trainer". Alternatively: Select "myClub Members" → "Members List" and select the player you'd like to convert before pressing jc to access the Player Menu, followed by "Convert into a EXP Trainer".
+i0
+<TRAINING>i1
+Select "TRAINING" from the Main Menu, then select your chosen combination of trainer and player to start training.
+Here are some hints for effective TRAINING
+・Use an EXP Trainer with a high Overall Rating.
+・Use a EXP Trainer with a high Level.
+・Use an EXP Trainer who has the same Registered Position or favoured position as the player you're training.
+・Finally, try and find an EXP Trainer and a player who have a lot in common.
+
+In addition to this, you may obtain a Special EXP Trainer as an Agent Option.
+By using a Special EXP Trainer, you can increase the experience points of a chosen player.
+Using a Skill Trainer will teach a player of your choice a particular Player Skill. These Player Skills will be assigned at random, depending on a player's Position Training.
+By using a Position Trainer, you can boost the suitability of a player for a particular Position by one.i0
+257  =The Squad your club manages is used in other players' VS COM and RANKED MATCH (SIM) matches.
+The Cloud Match represents the RANKED MATCH (SIM) matches.
+You will be given the GP the next time you open myClub after 10 Cloud Matches have taken place.
+
+Each club can have up to 10 Squads, but only one will be used for Cloud Matches.
+In Squad Management, you can indicate which Squad you'd like to be used for Cloud Matches.
+
+To indicate which Squad to use for Cloud Matches, follow these steps:
+"Squad Management" → "jcTeam Menu" → "Use in Cloud Match Mode".
+Alternatively:
+"Squad Management" → "jcTeam Menu" → "Squad List" → "jfEdit" → "Use in Cloud Match Mode".
+i0
+<Playing Cloud Matches Without Problems>i1
+・Make sure every member of the Squad has a valid contract.
+・Make sure every member of the Squad is able to play in a match.
+・Make sure the Squad contains fewer than 5 loaned players.i0
+258  =In transfer negotiations, you'll need to agree with first the target player's club and then the transfer target himself. Negotiations of terms can continue over several rounds. Take on board your Chances of signing and Sports Director's advice before deciding how to proceed in the negotiations. The terms that can be negotiated are as follows.
+i0
+<Transfer Fee and Salary>i1
+Negotiate the expected transfer fee and player salary.
+i0
+<Contract Options>i1
+Add or remove Contract Options and adjust the total for each of them.
+i0
+<Release Fee>i1
+Add or remove a Release Fee and adjust the figure.
+i0
+<Trading Players>i1
+Negotiate to trade players.
+i0
+<Add an Option-to-Buy>i1
+You can negotiate to add the option to purchase a player outright during a player's loan period. When deciding whether to trigger the option to buy a loanee, it's wise to consider how the loanee has developed. Similarly, when considering offers to sell a player out on loan, think about their development potential before agreeing to the offer.
+i0
+<Loan Extensions>i1
+You can negotiate to extend loan contracts for an additional season or reduce them to six months.i0
+259  =Each player on the team has their own part to play in how the team works.
+Some especially talented players and natural leaders may even develop their own "Team Role".
+
+Players who have a "Team Role" are extremely important for your team.
+They can have a positive effect on your income and player development, as well as on the pitch.
+
+Players who've contributed to the team for a long time are given an important "Team Role".
+
+The effects of each "Team Role" can be viewed by selecting:
+"My Team Info" → "Team Role List".
+260  =Having players perform Skill Training gives them the opportunity to learn Player Skills.
+First, though, they'll need to be at a certain attribute level in order to learn a new Player Skill.
+261  =When players understand the manager's Team Instructions, Team Spirit grows stronger.
+Team Spirit is absolutely vital if you want to build a winning team.
+
+New players may not be suited to your Team Instructions at first, but with every day spent in training and with each match they play, they'll start to fit in.
+However, if a Team Instruction is not used for a while, players will become unaccustomed to it. Be sure to consider the effects on Team Spirit whenever you change your Team Instructions.
+
+You can check current Team Spirit on the heat map in Game Plan.
+262  =A list of various on-screen icons and their descriptions.
+
+<Related Icons>
+ Your GP.
+ Your myClub Coins.
+263  =In Personal Data, each user can configure their settings and view their individual data. Up to 32 users' data can be stored and accessed here.
+In addition to displaying results for individual ties, users can access data used to analyse their performances and will find a whole host of tools to help make games even more fun.
+264  =Select "To Next Match" from the Main Menu in VERSUS mode and decide the Personal Data to use with your team. VERSUS mode is a match of 1 vs 1, meaning only one user to a team. Then use jfEdit Personal Data and enter the Personal Data Name of the users playing. In Personal Data, you can save a whole range of personal settings, including your Command Configuration.
+265  =All match results from VERSUS will be saved and you can view the data in a variety of ways after the match.
+i0
+<User Match Rankings>i1
+You can see how teams have performed against each other in VERSUS mode via these rankings.
+i0
+<COM Match Rankings>i1
+You can see how teams have fared against the COM in VERSUS mode via these rankings.
+i0
+<Head-to-Head Stats>i1
+You can check out the stats from each specific match in VERSUS mode here.
+
+You can also select specific matches and compare each individual user's Play Analysis via the Head-to-Head Stats menu. On the Match Menu displayed just before kick-off in VERSUS mode matches, select Play Analysis to check data relevant to the game. Getting an idea of your opponent's current form will help you formulate a Game Plan to give you a better chance as you go into the match.i0
+266  =Play Analysis will be stored for all Online Divisions matches.
+On the Main Menu for Online Divisions (the screen showing the point graph for the division), select "jcInformation" → "Play Analysis" to access your own personal Play Analysis.
+When playing online matches, you can select "jcPlay Analysis" from the menu displayed just prior to kick-off to compare your team data with that of your opponent.
+You can also view the Play Analysis of selected players who feature in the Online Ranking by selecting them and pressing ka.
+267  =In myClub, the Play Analysis will be saved for all online matches played in either RANKED MATCH or Online Challenge Cup.
+On the myClub Main Menu, go to the RECORDS tab and select "MYCLUB HISTORY" → "Play Analysis" to check your Play Analysis. When playing online matches, you can select "jcPlay Analysis" from the menu displayed just prior to kick-off to compare your team data with that of your opponent. You can also view the Play Analysis of selected players who feature in the rankings by selecting them and pressing ka.
+268  =The special traits of players obtained by each Scout are determined by that Scout's Specialist Field.
+By combining multiple Scouts, you can focus on finding precisely the type of player you are looking for.
+You can combine up to 3 Scouts at a time.
+
+Please be aware that when multiple players are listed as potential signings, the more talented the player, the lower the chances of getting him on the books.
+But if there is only one player on the list, you are guaranteed to be able to acquire him.
+
+On the Scout combination screen, you will be able to access not only the Scouts you own, but you will be able to run simulations featuring every different type of Scout.
+It's a good idea to wait for a high-value Scout capable of signing great players to become available at Auction.
+269  =Each Scout has a Grade, which is represented by the number of ★ they have.
+Check out a Scout's Grade by looking at the total number of ★ they have above their Scout icon.
+If you combine Scouts with a high Grade, you will have more chance of obtaining players with a high Rarity rating.
+If you are combining multiple Scouts, an average of the ★ total will be used and this will determine your Scout's Grade.
+
+On the screen where you combine Scouts, you can run Simulations using not only your own Scouts, but every different type of Scout.
+When doing this, you will need to set the Grade of each Scout.
+270  =You can obtain a Scout after completing a match, but it is not always easy to get hold of the kind of high-value Scout who can track down premium players.
+By taking part in a Scout Auction, you will have the chance of getting hold of a star Scout.
+
+If you have a particular type of Scout you would like to get hold of in mind, go to the Main Menu and access the Contract tab. Then select "SCOUT" → "Auction Search" to set the type of Scout you are looking for. You can then see if there are any Auctions where they might be available.
+To search all ongoing Auctions, select "SCOUT" and then "Auctions House".
+271  =There are two rounds in an Auction: the 1st Round and the Final Round.
+i0
+<1st Round>i1
+In order to take part in the Auction, you will need to bid in the 1st Round.
+Participants are free to make bids that are higher than the current price, but be aware that the bid you make will be visible to everyone else.
+If there are multiple people taking part, things will proceed to the Final Round after a certain amount of time.
+In order to make a bid in the 1st Round, you will need to use GP, but note that if someone else tops your bid, the GP you have used will be returned to you.
+If the 1st Round contains only 1 bidder, the Final Round will immediately finish and will be declared the winner.
+If that is the case, if an Auto Bid has been set for the Final Round, the price set for the bid will be charged.
+i0
+<Final Round>i1
+In the Final Round, each participant will be allowed to make one bid.
+The bids made in the Final Round will not be visible to the other participants and the highest bidder will win.
+Note that even if someone is the highest bidder in the 1st Round, they will only have the right to make a single bid.
+In case more than one user bids the same amount, the first one to bid will be judged the winner.
+When the deadline is reached or every participant has made their bid, the Final Round comes to the end.
+Bidding in the Final Round will also use GP, but if your bid is not successful, this GP will be returned to you.i0
+272  =During time-limited events, you may be able to get hold of the Tactical Training item. By using this Tactical Training item, you can boost the tactical prowess of players in relation to how they play under certain Team Instructions.
+i0
+<Tactical Training>i1
+From the Main Menu, go to the CLUB HOUSE tab and then select "SQUAD MANAGEMENT". You can then select the Preset Tactics you wish to boost players' affinity with using jg and jh, then selecting jcTeam Menu, followed by "Tactical Training".
+
+Players in your Squad will see an improvement in grasping the manager's Team Instructions as they relate to the selected Preset Tactics. Any player who already has the highest rating for tactical prowess of 99 will not be included in the training.i0
+273  =During time-limited events, you may be able to get hold of the Familiarity Boost item. By using this Familiarity Boost item, you can boost the Familiarity (％) of a specific manager resulting in an increase in overall Team Spirit.
+i0
+<How to Use the Familiarity Boost>i1
+From the Main Menu, go to the CLUB HOUSE tab and select "SQUAD MANAGEMENT". Then, select a manager registered to your Squad, followed by jfManager Menu → "Familiarity Boost".
+
+The selected manager's Familiarity (％) will subsequently be boosted. If the Familiarity (％) of a manager is already at 120％, this item cannot be used on them.i0
+274  =During time-limited events, you may be able to get hold of the Management Skills Boost item. By using this Management Skills Boost, you can increase the Management Skills of the selected manager.
+i0
+<How to Use the Management Skills Boost>i1
+From the Main Menu, go to the CLUB HOUSE tab, and select "SQUAD MANAGEMENT". Then select a manager registered to your squad, followed by jfManager Menu → "Management Skills Boost".
+
+The selected manager's Management Skills will subsequently be boosted. Note that by raising Management Skills, the Total Costs of the Squad to which the manager is registered will increase, which means that even if you add highly skilled players to the Squad, Team Spirit will never suffer a major decline. Note that this item cannot be used if a manager already has Management Skills that have reached 1,200.i0
+275  =By determining a Transfer Policy for your team's players, the process of negotiating loans and transfers is made much smoother.
+
+Select "Team Management" → "Negotiations" → "My Team" to select individual players.
+i0
+<Clubs Making Offers>i1
+If you select "Refuse All", any offers from other teams will be cancelled. However, that doesn't include any offers for which you've already committed to paying a Release Fee.
+i0
+<Place on Transfer List>i1
+Adding a player to the Transfer List makes it more likely that another team will make an offer for a full transfer. 
+i0
+<Open to Reasonable Offers>i1
+Only accept offers that exceed the market price.
+i0
+<Place on Loan List>i1
+Adding a player to the Loan List makes it more likely that another team will make an offer. i0
+276  =Each player has the Personality stat. The Personality stat plays a big factor in deciding the player's Team Role.
+
+Each player has a Personality, which is made from one trait from the following four categories: Team Player or Lone Wolf, Passion or Composure, Technique or Physical, Instinct or Insight. A player's Personality can change depending on the team's Playing Style, training and how a match plays out.
+
+A player's "Impact" is their overall presence within the team. The higher the player's Impact, the stronger the Team Role they develop. A player's Impact can improve through better performances and an increase in stats.
+277  =You are in charge of managing two pots of money: the Transfer Budget and the Salary Budget. The Transfer Budget is mainly used to pay for players when negotiating transfers with other clubs. You can get more funds by transferring players to other teams.
+
+The Salary Budgetis used to pay your players. The Salary Budget displayed is the total of all your players' salaries.
+
+You can keep an eye on your expenditures from Contract Options and other payments, as well as your bonus income from competition prizes, via "Manager's Office" → "Finance" → "Budget Settings".
+278  =If you save a team you have created in the Master League, you will be able to use it in other modes, such as Exhibition matches.
+You can save a team by going to System → Save Team Data.
+Note that when you load a team, their Team Spirit will not be a factor in their performance.
+279  =If you have special players who only feature as a part of myClub, you can also register them to the Master League. By selecting "System" →"Import a myClub Player", you will be able to use those special players on your myClub Mode team in the Master League. Any players you have imported will be part of the OTHER team, and you will be able to get hold of them via transfer negotiations.
+280  =You can export Team and Competition Data. This data will be stored in the folder below. Please create a folder with this name before exporting the data.
+C:\Users\*****\Documents\KONAMI\re\WEPES
+***** may differ depending on your system set-up.
+
+Images will not be included in the exported data, but if you save image files in the same folder as the exported data, these files can then be imported again.
+281  =You will almost certainly need to use different Game Plans depending on your team's opponents, their current performance and the match scheduling. Bear the following points in mind to help you select the right approach for every game.
+
+To set your team's basic Game Plan, select "Team Management" → "Game Plan" from the Main Menu. Even if you switch the Game Plan during a match, it will revert to the Game Plan you have set after the match is over.
+
+If you change the plan after selecting "To Next Match", that change will apply only to that match. You can select tactics as well as the approach to substitution you wish to adopt for an individual match.
+282  =Players do Skill Training in order to learn a whole range of different Player Skills.
+Only one player at a time can do Skill Training.
+
+Players need to possess certain attributes in order to learn a new Player Skill.
+The more difficult a skill is, the longer it will take to master and the fewer players will have the attributes required to learn it.
+283  =Online match records taken from PES LEAGUE mode will be sent to ranking websites administered outside the game.
+Please note the following points in advance of playing online matches in PES LEAGUE mode.
+
+・Membership registration for each ranking website should be made on the appropriate websites.
+・Please ask to the administrators of the website any questions about membership registration.
+・Match records in PES LEAGUE mode are reflected in the Ranking Match records in rf.
+・You may be paired with opponents playing Online Divisions.
+・Play results will not affect your division in Online Divisions.
+・Playable teams may be limited compared to standard Online modes.
+・In PES LEAGUE, the number of matches you can play are limited over a certain time period.
+
+For any other information about competitions operated by external websites, please refer to the information available in PES LEAGUE.
+284  =Decide how you want to play Master League in Club Operations.
+You can now choose between Classic and Challenge modes.
+In Challenge mode, you can expect to run into more obstacles in managing your squad.
+You may find players tougher to deal with and contracts harder to negotiate, and your players may sign for other clubs.
+A run of poor results or trouble with the team and you may even be shown the door.
+
+You can change settings in System → General Settings.
+285  =The Release Fee is a player contract option that triggers the release of a player from his contract when paid. When the Release Fee is the same or a higher sum than the proposed Transfer Fee, the player's club is obliged to accept the transfer. In other words, you have no choice other than to accept the player moving on.
+
+Equally, if you choose to pay the Release Fee of another team's player, you can lure him to your team, and although his club may not be able to stop you, you'll still need to gain player's approval. Players from top class clubs are rarely open to moving to a weaker club.
+
+An expensive Release Fee will make it all the harder to secure the player. Young career-minded players, for example, can be picky about where they play. Then again, fending off other clubs' attempts to lure away a loyal player can be easier.
+286  =As the manager of a club you work under the club's owner. Owners make a point of informing you of their shopping list of goals for the club. This ranges from seasonal objectives to results in derby games. The better you meet the owner's expectations, the more the owner will trust you and the more open they are to providing you with bigger budgets. Go on a losing streak or fail to meet their needs and you will lose their trust, potentially leading to your dismissal.
+287  =Players are selected at random using parameters set by the user.
+
+Users trade players from their randomly selected squads. The challenge for each user is to prevent their best players going to other team whilst at the same time taking their opponent's top players from them.
+288  =Up to three users can play on one side. Match results will show how each user performed and contributed to the team.
+
+Two of the three users to a side can be controlled by the COM when only one human user is participating. The COM can't be selected when two human users are playing.
+289  =Make use of the Scout Database to identify which Scouts will help you secure specific target players.
+i0
+<Identifying a Scout>i1
+1. Search for a player in SCOUT → Database.
+2. Select your target player from the search results.
+3. Review the list of Scouts for which Scout can get you your target player.
+4. Select the Scout you wish to use.
+5. Create a set of Scouts to pinpoint your target player.
+
+The Scouts you selected in the Simulation can be added to your Wish List. Then, whenever a desired Scout is available via auction, you'll be able to confirm this from your Wish List.i0
+290  =You can set your Final Round bid ahead of time during the 1st Round of the Auction. An Auto Bid can be retracted at any time before the end of the Final Round.
+
+In the Final Round, each bidder is allowed only 1 bid, and your Auto Bid is not accepted as your final bid until the end of the Final Round.
+
+Note that if the 1st Round contains only 1 bidder, they will become the successful bidder, and if they have set the Auto Bid the price set for the bid will be charged.
+
+Before the Final Round begins, you can adjust and confirm the amount set for your Auto Bid.
+291  =It's possible to receive and keep a duplicate Manager, but only when their Game Plan formations, player positions, or Team Instructions are different.
+
+Coaches with the same Management Skills, as in Team Spirit and Familiarity (％), will not be synced.
+292  =Competitive online CO-OP matches feature up to six users (3 vs 3). Each action taken in the match is logged and rated with results announced after the final whistle.
+
+Matchmaking is automatic, making it simple to play Casual Matches and Clan Match as your Clan.
+293  =In Casual Matches you will be matched with a random partner to play with against other users. Your opponent is selected automatically.
+
+Matchmaking can pair you with Casual Match users, but also Clan Match users.
+
+There's also the option to add a Guest User to your team so you can enjoy local CO-OP play with a friend or family member at home.
+294  =With Clan Matches, you can create your own Clan Match Room or join other Clan's Match Rooms to join forces with other users.
+
+Matchmaking finds opponents from other rooms or selects a team playing a Casual Match. Just as with Casual Matches, you can add a Guest User teammate so you can enjoy local CO-OP play with a friend or family member at home.
+
+Your Clan Rating may go up or down depending on match performance. You can see your Rating on the Clan Rankings screen.
+295  =In online CO-OP, you have the option to form a Clan with other online users and battle with other Clans for ranking position. Create your Clan in CO-OP Settings.
+
+You can only create one Clan at a time. Clans cannot be deleted after creation.
+
+If you want to join another user's Clan, identify the Clan and send them a request. You can become a member after the Owner's approval of your request. You can become a member of up to three other user's Clans.
+
+You can view other user's requests to join your Clan in your Requests Received. Here you can either "Accept" or "Decline" the requests. The Requests Made is a list of your requests to other Clans and their status.
+
+You can choose to Follow users you play with after a CO-OP match. Your Following List is a list of users you are currently Following. Users can be invited to join your Clan from this list.
+
+You can also add users you played with in CO-OP matches to your Rejection List. Users on this list won't be matched with you for any Casual Matches.
+296  =In CO-OP, points are awarded for how well you perform in the match. This in turn impacts your CO-OP Level. Earn significantly more points than is standard for your current level and your CO-OP Level will go up. Earn less, on the other hand, than is standard for your level over a number of matches and your level will go down.
+297  =Repeatedly disconnecting from live CO-OP matches or not finishing a match will result in a CO-OP Courtesy Rating of B or C. Be aware that a low CO-OP Courtesy Rating will result in certain online features being locked off. If your CO-OP Courtesy Rating has been lowered, continue playing and finishing CO-OP matches to raise it again.
+298  =You will receive CO-OP Playing Styles and CO-OP Playing Skills according to how you play CO-OP matches.
+
+CO-OP Playing Styles represent each user's playing style, and some are earned by completing certain conditions.
+
+CO-OP Playing Skills represent each user's playing skill, and consistent good performances will lead to additional ★.
+299  =PES LEAGUE is an online eSports competition. You can enter any ongoing competitions from WHAT'S ON.
+
+You can also view information on previous competitions and the results of any competitions you've participated in from the Statistics section in the Top Menu.
+
+myClub competitions are open to entry via PES LEAGUE in myClub Mode.
+300  =There are a number of different match types in PES LEAGUE.
+i0
+<1 vs 1>i1
+1 vs 1 matches, in which the user selects which team to play as.
+i0
+<1 vs 1 (Random Selection Match)>i1
+Random Selection Match matches, in which 24 random players are assigned to your team in a 1 vs 1 match. The players and number of trade rounds differ depending on the competition.
+i0
+<3 vs 3>i1
+Online CO-OP Clan matches, which feature up to three users to a team.i0
+301  =For some competitions in PES LEAGUE, players will have their overall ratings made uniform. See the competition's regulations to understand whether the competition uses this format.
+
+Competitions with uniform player ratings will apply a uniform overall rating to all players on selectable teams.
+As a result, the differences in overall strength between teams will be virtually eliminated.
+Players' individual abilities, such as having great pace, will be retained as much as possible.
+This way all users are free to use their favourite teams in the competition.
+302  =PES LEAGUE features its own unique Divisions. You start a new game not assigned to any Division.
+
+If you enter a competition limited to those not in any Division, your overall performance in the competition will determine your Division. From then on you will enter competitions according to your Division, which in turn may change again depending on your competition result.
+303  =Some competitions allow you to earn a Competition Berth to other competitions. Clear the necessary objectives in the competition to earn eligibility to these further competitions.
+304  = There are a few different kinds of Agents.
+i0
+<Special Agents>i1
+Special Agents help you sign a random player from your List of Targets, with chances to sign dependent on the player's rarity. There is a set chance of signing each rarity of player, regardless of any difference in stats among players of the same rarity. However, it is possible to sign duplicates of players you have already signed.
+*These agents are scheduled to appear in future events.
+*An agent's list of target players may periodically change via a Live Update.
+i0
+<Top Agents>i1
+Top Agents help you sign a random player from your List of Targets according to position, with chances to sign dependent on the player's rarity. There is a set chance of signing each rarity of player, regardless of any difference in stats among players of the same rarity. However, it is possible to sign duplicates of players you have already signed.
+*An agent's list of target players may periodically change via a Live Update.i0
+305  =You can exchange 3 duplicate players for 1 preferred player of the same rarity. Players signed via a Trade are signed at Lv.1. The confirmation screen for players to be released will only show duplicates of player cards for which you possess two or more cards.
+*Loaned Players are not displayed.
+
+The valid combinations of players you can select to release when performing a Trade are as follows.
+
+・Duplicate player cards
+・3 players of the same rarity
+
+Combinations that include the following variations of players are not allowed.
+1. Special FEATURED PLAYERS variations
+2. Multiple variations of players (cards) licensed under different terms. *For example, players at AFC Champions League clubs
+3. Different eras of the same player card.
+
+You can specify the target to sign from the Top Agent's targets from all positions. Only players able to be signed via Trade are displayed.
+*The agent's list of target players may periodically change via a Live Update.
+306  =myClub can feature a number of variations of the same real-world player. There can be different variations of a player when the following occurs.
+
+1. Special FEATURED PLAYERS variations
+2. Multiple variations of players (cards) licensed under different terms. *For example, players at AFC Champions League clubs
+3. Different eras of the same player card.
+
+Including the variations described above, you cannot register multiple versions of the same player to the same squad. As to how you are able to sign duplicate players, that depends on how the player is signed.
+i0
+<Signing a Player via a Scout>i1
+As a basic rule, you are unable to sign two copies of the same player. However, you can sign two different versions of the same player when, for example, they are licensed to the game under different terms.
+*You cannot sign players via a Scout in the case of 1. and 3. above.
+i0
+<Signing a Player via an Agent>i1
+When using an Agent, you can sign duplicates of the same player regardless of their different versions.
+i0
+<Signing a Loan Contract Player>i1
+As a basic rule, you are unable to sign two copies of the same player. However, you can sign two different versions of the same player when, for example, they are licensed to the game under different terms.
+*You cannot sign players on loan in the case of 1. and 3. above.
+i0
+<Signing a Player via a Trade>i1
+As a basic rule, you are unable to sign two copies of the same player. However, you can sign two different versions of the same player when, for example, they are licensed to the game under different terms.
+*You cannot sign players via a Trade in the case of 1. and 3. above.i0
+307  =Acclaim is a measure of your skill in 1-vs-1 matches against other users. Once you graduate from the rookie class after completing 10 1-vs-1 matches in RANKED MATCH or Online Challenge Cups, you'll be awarded Acclaim based on your Rating. Later, once you achieve a certain Rating, you can earn higher ranked Acclaim as you continue. There's even special Acclaim awarded to players who compete in eSports competitions.
+308  =In Weekly PES LEAGUE you'll get to compete for weekly rankings against users of a similar level. Ranking is reset every week, and you can earn rewards based on your final position.
+
+You can enter Weekly PES LEAGUE after completing your rookie period, so make sure to complete your 10 1-vs-1 matches in either RANKED MATCH or Online Challenge Cups.
+309  =In myClub, Live Updates include updates to the FEATURED PLAYERS list. Players who play well over the weekend's matches in the real world are added to myClub as a new variation based on their performance in that match. As well as those players, we also plan to include in the FEATURED PLAYERS list key players from various clubs. In summary, FEATURED PLAYERS are special variations of current myClub players but with improved stats.
+310  =WHAT'S ON will showcase exclusive online competitions, such as PES LEAGUE and Online Competitions. You can find up-to-date information on events by going to EXTRAS in the Top Menu, then selecting "Statistics" → "Online Information".

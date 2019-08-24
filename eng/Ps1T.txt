@@ -1,0 +1,65 @@
+201  =Ps1T
+
+29   =Please connect Controller.
+30   =The Computer controls all players while the User makes tactical decisions.
+31   =Select a Base Team to apply the following to your team:
+
+- Team Name
+- Strip
+- Emblem
+- Formation
+- Strategy
+
+You can change Formation and Strategy from your Game Plan.
+32   =You can set up to four categories by which players are selected - teams, leagues, nationality and region.
+
+You can also allow the game to choose for you completely at random by not selecting any category.
+33   =Cannot proceed to selection as there are not enough eligible players. Add more players from eligible teams, leagues, or nationalities/regions.
+34   =You can trade players in Random Selection Match mode.
+First select the number of trade rounds you want to have.
+35   =Select from a team
+36   =Select from the league
+37   =Select from the Nationality/Region
+38   =Team selections are complete. 
+The 1st round of trading will begin next. 
+Decide your Trade Target to commence trading.
+39   =All teams' players have been selected.
+Round 1 of trading will now begin.
+Select one Trade Target player from your opponent and confirm with "OK".
+40   =The outcome of the last trade round has been applied.
+Round %d will now begin.
+Select one Trade Target player from your opponent and confirm with "OK".
+41   =Select one player you don't want to trade and confirm with "OK".
+This will become your Protected Player and can't be traded.
+42   =Select one Unwanted Player, then "OK" to confirm. If you successfully prevent your protected player from being traded, this player will be traded instead.
+43   =Select a player.
+44   =Waiting for opponent to select a player...
+45   =Players confirmed.
+Proceeding to trade results.
+46   =Players confirmed.
+Proceeding to the match.
+47   =Trading has ended.
+Proceeding to the match.
+48   =Time is up. Selections were made automatically.
+%s
+49   =%s (%s) chose %s as their Trade Target.
+50   =Trade executed! You couldn't protect your player...
+51   =%s (%s) protected their player!
+52   =Both teams protected their players!
+53   =Proceeding with trading Unwanted Player(s).
+54   =The Random Selection Match will now commence.
+There will be %d round(s) of trading.
+55   =This will discard all changes and selected players, and you will return to the base team selection screen. 
+Are you sure?
+56   =Your opponent is viewing the trade results.
+57   =Select a Trade Target
+58   =Select a Protected Player
+59   =Select an Unwanted Player
+60   =The outcome of the last trade round has been applied.
+Round %d will begin next.
+Confirm one Trade Target player from your opponent to proceed.
+61   =Confirm one player you don't want your opponent to take from you to proceed. You will attempt to prevent your opponent from trading for this Protected Player.
+62   =Confirm one Unwanted Player to proceed. If you successfully prevent your protected player from being traded, this player will be traded instead.
+63   =Proceed to Player Selection
+64   =Cannot proceed to selection as there are not enough eligible players on the Home team. Add more players from eligible teams, leagues, or nationalities/regions.
+65   =Cannot proceed to selection as there are not enough eligible players on the Away team. Add more players from eligible teams, leagues, or nationalities/regions.

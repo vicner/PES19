@@ -1,0 +1,362 @@
+277  =Lcm15T
+
+52   =Seems to peak at an early age.
+57   =It's difficult to gauge just how much he will develop.
+117  =Rumours suggest he will retire soon.
+139  =Very much the finished article. Can't see much room for improvement.
+142  =Very much at the peak of his powers now.
+150  =Easily one of the most popular players around.
+151  =A household name known throughout the world.
+152  =Player with a huge worldwide following.
+153  =A player who is hugely popular nationally.
+154  =Very popular nationally.
+155  =A player with a huge following at grass roots level.
+156  =Very popular locally.
+157  =Popularity about average.
+158  =Should have a bright future ahead of him.
+162  =A Youth Team player.
+164  =A former %s international.
+171  =Looks like he's on the move.
+174  =A current %s  international.
+250  =The lineup of teams eligible for this competition has not been decided.
+252  =Group stage groupings can be freely re-arranged.
+253  =Team lineups in the Group stage and Playoffs can be freely altered. 
+483  =Have a look at the youth team.
+492  =See which players are easiest to sign.
+496  =Quit Topics and proceed to Main Menu.
+537  =Check out the %s.
+573  =Out of contract at the end of the season and will be leaving
+574  =A player whose best years are yet to come.
+575  =Someone who can keep playing at top level for a very long time.
+576  =Still has room for improvement.
+577  =Very much at peak level now and can cut it for some time to come.
+578  =Has agreed on a move to %s. 
+579  =Has agreed on a loan move to %s. 
+580  =Has been signed from %s. 
+581  =Has been brought in on loan from %s. 
+582  =Will be joining the team on an annual salary of %s.
+583  =Some new players have joined the youth team.
+585  =Try moving to the club of your dreams!
+586  =The transfer window is now closed.
+All players who were negotiating over a new contract have had their deals extended.
+587  =Transfer Confirmed.
+588  =Join this club.
+589  =Make use of your scout
+590  =No players injured.
+591  =No players suspended for the %s.
+592  =No players have announced their retirement.
+593  =No players are out on loan.
+594  =When you promote a Youth Prospect to the first team, the gratitude they feel will be evident in their performances.
+595  =Players who consider themselves a manager's Protégé will develop rapidly as they play more and more matches.
+596  =He just oozes charisma, and the fans know it. He's got it all, you know? Yep, a real Star Player.
+597  =He's a bone fide Superstar, you know? He's got something that's all his own, and he's sure to inspire the whole team.
+598  =He's just a natural leader. His passion gets all his teammates properly fired up.
+599  =They call him the General. It's that rare combination of flair and never-say-die spirit which has pulled his team out of some difficult spots.
+600  =His technique is on another level. He can create chances from nothing, and that's why the other players call him the Creator.
+601  =He's just got this aura about him. It's an amazing mix of technical flair and charisma, and that's what's earned him the name of the Maestro.
+602  =Players become a Bandiera by showing great loyalty to a team, serving them for years and becoming a fan favourite.
+603  =A Legend requires no introduction. These players are at the top of their game and are prized the world over.
+604  =More Experience Points earned per match.
+605  =Team Instruction affinity increased.
+606  =Sales of merchandise bonus.
+607  =Fan Club Income bonus.
+608  =Some players' condition level boosted by 1 for derbies and other key matches.
+609  =Some players' condition level boosted by 1 for all matches.
+610  =Players with the same first position earn more training exp. points.
+611  =Players with the same first position/category (FW, MF, DF, GK) earn more training exp. points.
+612  =Superstar, General and Maestro effects.
+613  =Team-mate development bonus.
+614  =Sponsor income bonus.
+615  =More sales of merchandise if captain.
+616  =More exp. points earned by team-mates if captain.
+617  =All income streams boosted.
+618  =After his promotion from the Youth Team, %s made his debut in the first team.
+619  =%s just got promoted from the Youth Team, but he seems to fit in really well with the first eleven.
+620  =%s came up from the Youth Team and is putting together a string of performances for the first team. He's an example for all young players.
+621  =%s's got great potential.
+You should give him some more game time.
+622  =It seems that %s wants to keep playing with you and gaining experience.
+623  =%s has learned a lot from you.
+I'd say you're kind of his mentor.
+624  =%s has been telling the media how grateful he is to you, and how he's determined to keep doing his best for the team. He's become a really key player.
+625  =%s is becoming really popular with the fans.
+He's got the potential to become a future star.
+626  =%s seems to be becoming more popular, and more and more fans are coming to matches to see him in action.
+627  =%s just keeps getting more and more popular.
+We get more fans in the stadium when he plays, which is definitely good for the team.
+628  =%s is a huge hit with the fans. Merchandise with his name is flying off the shelves, making him a very valuable resource for the club.
+629  =It's not just fans of this team that are fond of %s.
+He's becoming one of the country's leading stars.
+630  =%s is a real Superstar.
+There isn't a single supporter who isn't singing his praises.
+631  =Surely everyone in the country knows who %s is.
+He's pretty much become the face of this league.
+632  =%s is one of the best players on the planet.
+People come from all over the world just to see him play.
+633  =He's still young, but you can tell that %s's passion is rubbing off on all the other players.
+It's definitely worth keeping an eye on his development.
+634  =The whole atmosphere of the team changes when %s's around.
+He really gives us that extra fighting spirit, especially in the big games.
+635  =The atmosphere that %s creates is definitely having a positive effect on the team's performance.
+636  =%s's sense of presence within the team just keeps growing.
+He's become totally indispensable.
+637  =%s has plenty of experience under his belt now, and has grown into an important player.
+He's the kind of player that's going to move this team forwards.
+638  =%s gives his all in every single match, and has a really positive effect on the rest of the team.
+He's definitely worthy of being called a "General".
+639  =When %s speaks, the whole team listens.
+He's an incredibly influential player.
+640  =%s's presence doesn't just have a positive effect on the other players - he gives the supporters and the staff a lift as well.
+He's the real cornerstone of this team.
+641  =%s does such a good job on the pitch, even if he doesn't always grab the headlines.
+The other players are definitely learning from him.
+642  =%s is such a neat and clinical player, always making the right decision. It seems the other players are calling him "Creator".
+643  =%s just gets better and better. He's an excellent example to all the players around him.
+644  =Even I'm impressed with %s's movement and intelligence on the pitch.
+He's such a good example to younger players.
+645  =%s is a textbook example of how to be a professional footballer.
+He raises the whole level of the team.
+646  =%s is the guy that all the other players aspire to be.
+A real "Maestro".
+647  =%s's performances have been getting rave reviews in the media, and the supporters call him the "Maestro".
+648  =Everyone knows all about %s's skill and understanding of football. When he plays, the whole world watches.
+649  =There aren't many players who've served this team for as long as %s has.
+Some supporters are starting to call him our "Bandiera".
+650  =%s really is the symbol of this team.
+He's been through so much with us.
+Every coach would be delighted to have someone like him in their team.
+651  =More and more of our fans are starting to call %s a "Legend".
+It makes sense when you think about everything he's achieved.
+652  =%s is not just the star of this team, or even of his generation - he's going to go down as one of the best of all time.
+I'm just really happy that I get to work with him every day.
+653  =Team Role acquired: %s.
+654  =Team Role acquired: %s(Lv.1).
+655  =The level of the "%1$s|" Team Role has increased to %2$d|.
+656  =Player will earn bonus Experience Points when he plays a match.
+657  =Player will earn more bonus Experience Points when he plays a match.
+658  =He'll adapt to your tactics more quickly than other players.
+659  =He'll adapt to your tactics even more quickly.
+660  =Sales of merchandise in home games will increase when he's in the Starting Lineup.
+661  =Sales of merchandise in home games will increase.
+662  =Your Fan Club Income will increase.
+663  =Your Fan Club Income and Sponsorship Income will increase.
+664  =Your Fan Club Income and Sponsorship Income will increase even more.
+665  =Several players' condition level boosted by 1 for derbies and other key matches.
+666  =More players will have their condition boosted by 1 for derbies and other key matches.
+667  =Several players' condition level boosted by 1 for all matches.
+668  =More players will have their condition boosted in matches.
+669  =Players with the same Registered Position will acquire more Experience Points in training.
+670  =Players with the same Registered Position will acquire even more Experience Points in training.
+671  =Players with the same Registered Position category (FW, MF, DF, GK) will acquire more Experience Points in training.
+672  =Players with the same Registered Position category (FW, MF, DF, GK) will acquire even more Experience Points in training.
+673  =Has all the effects of a Superstar, a General and a Maestro.
+674  =Sales of merchandise in home games will also increase dramatically.
+675  =His teammates will also acquire a lot more Experience Points in training.
+676  =He has an even greater effect if he is selected as captain.
+677  =%s often uses feints to get past opposition players. It seems to be something he's been working on in training.
+678  =%s has really perfected his %s this season.
+679  =%s's well-aimed shots are really effective. Every opposition team needs to be wary of them.
+680  =It seems his %s is particularly good.
+681  =It seems his %s and %s are particularly good.
+682  =He's been practising %s recently.
+683  =He's been working on his %s recently.
+684  =Lately he's been working on his %2$s| with %1$s|.
+685  =Recently he's been working on his Punting, and %s's been helping him out.
+686  =%s's long-range passing and shooting is really good.
+At the moment, it seems he's working on using the outside of his foot.
+687  =If he gets a chance to practice in a game, he'll have it perfected as one of his skills before long.
+688  =It won't be long before he has a new skill ready to show off.
+689  =He seems to be aware of his strengths, and is working hard on them in training.
+690  =He wants to keep scoring, so he's doing some %s work at the moment.
+If you're aware of this, and give him a chance to practice his %s during a match, he'll improve much faster.
+691  =%s often tries to shoot directly whenever he gets the ball, which just goes to show his poacher's instinct.
+Right now he's trying to get to the next level, so that he can fire off an accurate shot no matter how tricky the ball into him is.
+692  =The crowd go wild for %s's acrobatic goals.
+Even now he's working hard in training to try and take this to the next level. I can't wait to see what he pulls off next!
+693  =%s is great at making one-touch passes, and they often lead to dangerous attacks for our team.
+694  =%s's lofted pass have become a really effective attacking weapon. You know he's in the mood when you see a lot of lofted passes during a match.
+695  =%1$s|'s accurate %2$s| have become a really key attacking technique for us.
+696  =It's a sad fact, but a good player is bound to get fouled a lot.
+%s is often marked really tightly and aggressively, but he's now working on making sure he's awarded a foul in those situations.
+697  =%s's defensive skills are well known, and he can really make life easier for the team by marking an opposition player and taking them out of the game.
+Actually, it seems he's working on his Man Marking in training right now.
+698  =%s really puts a shift in for the team, defending from the front.
+He's a really important player for us.
+699  =This team concedes a lot fewer goals thanks to %s's timely and secure clearances.
+Right now he's practising %s, so that he can clear the ball from even more dangerous situations.
+700  =%s always does a good job when he's picked as captain.
+His leadership potential is really coming to the fore, and he is gaining the trust of his teammates.
+701  =%s always makes an impact when he's brought on from the bench.
+Players like him are really valuable.
+702  =%s has learned a lot from %s, who's renowned for his fighting spirit.
+He keeps going no matter how tired he is, and often drags the whole team over the line with him.
+703  =%s has acquired the following skill: %s.
+704  =This'll give us another attacking option.
+705  =This should make our defence even more stable.
+706  =This is going to allow us to create more chances.
+707  =He's become an indispensable player for this team.
+708  =%s's passing and shooting in the opposition half are a big weapon for us.
+It seems he's currently learning the Rabona from %s, which should add some welcome variety to his game.
+709  =He seems to have been given a nickname. The fans are calling him "%s" now.
+710  =%s has become pretty much synonymous with the sport of football.
+711  =%s's scoring prowess puts him amongst the very best in the world.
+712  =%s is scoring goals by the bucketload. It's no wonder he's so popular!
+713  =%s's goalscoring exploits have been getting a lot of attention.
+714  =%s is a top-level player who can pass and shoot with equal skill. As a result, he's one of the most popular footballers there is.
+715  =%s is in good form right now. Players like him who can both score and assist are really valuable to a team.
+716  =I think it's fair to say that %s's goals have propped this team up at times.
+717  =Fans are expecting %s to score in every game he plays!
+718  ="%s is a creator who gives birth to goals."
+That's how people are talking about him these days...
+719  =Opposing teams have to watch %s like a hawk. He seems to set up a goal in every match he plays.
+720  =%s's dribbling talents are rated really highly.
+721  =Everyone's full of praise for %s's work rate and devotion to the team.
+722  =Everyone in football's talking about %s's defensive talents.
+723  =%s is such a hard worker.
+It seems he's getting the recognition he deserves, too.
+724  =This is a report on the development of your players.
+725  =%s has increased to %d!
+726  =%s has decreased to %d.
+727  =%s has been showing great improvement while out on loan!
+728  =%1$s|'s %2$s| has increased to %3$d|!
+729  =%1$s|'s %2$s| has decreased to %3$d|.
+730  =Take up the role of captain on the pitch, reducing the effects of fatigue for all the team.
+731  =The squads for the %s has been announced.
+Congratulations! You were selected to represent your country!
+732  =Today marks the end of %s's career.
+A testimonial will be held for him.
+733  =A testimonial match for retiring players will be held today.
+Let's have fun and give them a good send-off.
+734  =It seems you've been making great strides in the professional game. You're getting more and more fans all the time!
+735  =It seems the fans have decided to honour your progress by giving you a new nickname!
+736  =Well done for getting picked in the Best Eleven! The fans have decided to honour the fact that you're one of the best in the league by giving you a new nickname!
+737  =Well done for winning the %s award!
+You really are the team's key man these days. In fact, it seems your supporters have given you a nickname!
+738  =Well done for winning World Best Player Award!
+The fans have given you a nickname worthy of your status as the best player on the planet.
+739  =Well done for winning World Best Player Award!
+You're definitely going to go down in the annals of football history. Your fans have given you a nickname that's worthy of your legendary status!
+740  =A player's Team Role is providing a %d％ efficiency boost to your training.
+741  =Check the Training Screen to see which players are benefiting from the effects of a Team Role.
+742  =Be sure to take a look at which players are enjoying a boost to their condition as a result of a Team Role.
+743  =(Players with improved Condition are indicated by a glowing Condition Icon when viewing the Game Plan.)
+744  =There are no players currently on the list.
+745  =Team lineups in the Qualifying Round and Group stage can be freely altered.
+746  =Team lineups can be freely altered.
+747  =The definitive Team Player. His tactical nous and unselfish play is what pulls everyone together.
+748  =The way he reads the game is second to none. He burns with fiery passion and he's prepared to cover every inch of the pitch. It's that dedication that's earned him the nickname of the Workhorse.
+749  =It's not for the faint-hearted, but he always gives absolutely everything he has for his team and loves to make life difficult for the opposition. They're right to call him the Fighter.
+750  =His tactical mind means he always knows just what the manager is looking for, and he's not afraid to take the lead. He's a real Playmaker.
+751  =He has a sixth sense for how the game is going, and can use his technical skills to bring out the best in his team. He's a hugely respected member of the team and a truly Smart Player.
+752  =You name it, he's got it. Passion, flair, technical skill and tactical prowess. With his kind of Personality, he's always aiming to lead his team to victory and has earned his role as a Key Player.
+753  =He burns with an irrepressible passion on the pitch and he's simply called the Hero by the rest of the team. When he's good, he can lift the whole team, but when he's off his game, it can really drag everyone down.
+754  =Right from kick-off, you know that he's the closest thing to the manager on the pitch. He directs the rest of the team like they're an orchestra, earning him the nickname of the Conductor. His tactical nous can really determine the result of a game.
+755  =When he's on the ball it's magic, pure and simple. It's impossible to tear your eyes away. Other players refer to him as the Virtuoso and wish they possessed half the natural talent he does.
+756  =He may lack finesse, but he's got a lot of experience for one so young. He's known as the Rising Star of the team, and as he goes from strength to strength, so does the squad.
+757  =He's got flair and technique, but he doesn't always fall in line and that's earned him his reputation as the Bad Boy of the team.
+758  =What he lacks in technique, he makes up for with his indomitable Personality. He's prone to throwing caution to the wind, which has earned him the nickname of the Risk-Taker and he can heavily influence which way a game will go.
+759  =・The condition of some players will be boosted for key matches. (S)
+760  =・The condition of some players will be boosted for key matches. (M)
+761  =・The condition of some players will be boosted for key matches. (L)
+762  =・The condition of some players will be boosted for all matches. (S)
+763  =・The condition of some players will be boosted for all matches. (M)
+764  =・The condition of some players will be boosted for all matches. (L)
+765  =・The player's condition affects that of his teammates when he's on the field.
+766  =・Lowers teammates' condition for the next match according to the previous match's rating.
+767  =The higher the rating, the better the condition.
+768  =The lower the rating, the worse the condition.
+769  =・More experience points earned per match.
+770  =・As captain, teammates will earn more exp. points. (S)
+771  =・As captain, teammates will earn more exp. points. (M)
+772  =・As captain, teammates will earn more exp. points. (L)
+773  =・Exp. points earned by teammates will change according to the match rating.
+774  =The higher the rating, the more exp. points can be earned, and vice versa.
+775  =・More merchandise sales. (S)
+776  =・More merchandise sales. (M)
+777  =・More merchandise sales. (L)
+778  =・More merchandise sales if captain.
+779  =・Team Spirit increases when playing. (S)
+780  =・Team Spirit increases when playing. (M)
+781  =・Team Spirit increases when playing. (L)
+782  =・The player's offensive and defensive tactical ability affects Team Spirit when he's on the field.
+783  =・Team Spirit increases more if captain.
+784  =・More training effects earned.
+785  =・Training effects boosted for all players with the same  registered position. (S)
+786  =・Training effects boosted for all players with the same registered position. (M)
+787  =・Training effects boosted for all players with the same registered position. (L)
+788  =・The effects of training for players with the same registered position (FW, MF, DF, GK) will be boosted.
+789  =・As captain, entire team's fatigue effects are reduced (Low)
+790  =・As captain, entire team's fatigue effects are reduced (High)
+791  =・As captain, win rate for skipping match increases. (S)
+792  =・As captain, win rate for skipping match increases. (M)
+793  =・Master player skills faster.
+794  =・Teammates can master player skills faster.
+795  =・Greater Gate Receipts Bonus due to match appearances.
+796  =・Team budgets are further boosted.
+797  =・The player's condition affects his teammates' actions on the pitch.
+798  =The better his condition, the more effective his teammates' movement is.
+799  =The worse his condition, the less effective his teammates' movement is.
+800  =・The condition of some players will be boosted for key matches. %s
+801  =・Added Fan-Favourite Bonus "%s"
+802  =・Team Spirit increases when playing. %s
+803  =・Training effects boosted for all players with the same registered position. %s
+804  =・The condition of some players will be boosted for all matches. %s
+805  =・Training effects are boosted for teammates with the same registered position as your playable position. %s
+806  =(L)
+807  =(M)
+808  =(S)
+809  =Condition Boost: %s
+810  =Revenue Boost: %s
+811  =Team Spirit Boost: %s
+812  =Development Boost: %s
+813  =Captain Boost
+814  =Special Boost
+815  =Personal Development Boost
+816  =There are no players currently available to you.
+817  =・If players are in good condition, Team Spirit will increase, and vice versa.
+818  =・If players are in good condition, Team Spirit will greatly increase, and vice versa.
+819  =%s has a really strong grasp of the team's tactical approach and he's keen to contribute.
+820  =%s has been really getting on board with our tactics and he's giving his all out there on the pitch.
+821  =%s's tactical understanding is about as good as it gets. He should have no trouble holding the team together.
+822  =%s knows how to keep a cool head, but underneath it he burns with passion. He's fast becoming indispensable.
+823  =Players dream of becoming even half as smart and committed as %s. He's developed into a role model for the rest of the team.
+824  =%s is a workhorse and he'll always dig the team out of a hole. Players don't come much better.
+825  =%s has a passion that lifts the whole team. His technique is something all the players around him can learn from.
+826  =%s has both finesse and fierce commitment. He's certainly cut from a different cloth.
+827  =%s has always been passionately committed, and he's getting more polished as a player by the minute.
+828  =%s is truly on the same page as the manager. He does everything to make his vision a reality on the pitch, and the other players can see that too.
+829  =%s has turned into a player you can really depend on. He knows exactly what he's doing out there.
+830  =Having %s in the squad is like having another manager out there on the pitch.
+831  =%s can really read the game and knows just what he needs to do. He's the embodiment of a Smart Player.
+832  =%s's calm, level-headed approach on the pitch really makes him a pleasure to watch.
+833  =It's rare to combine tactical awareness with impeccable technique, but %s has got it all.
+834  =%s is turning into a flawless player. He's the Key Player for the team, no doubt about it.
+835  =Whether it's a big game or a training session, the rest of the squad are always looking at him and learning.
+836  =He's got a well-developed personality. As a player, he's basically the total package.
+837  =Look up the word "Hero" in the dictionary and you're going to see a picture of %s. He gets the whole team fired up.
+838  =I don't think you'll find a player anywhere in the world who approaches the game with as much commitment as %s.
+839  =%s isn't just loved by our fans. He's a Hero to anyone who watches the game.
+840  =%s has developed into an indispensable member of the team. The other players follow his instructions as if he was the manager.
+841  =%s has become a player who can grab a game by the scruff of the neck and dictate the play.
+842  =What %s says goes, and the other players know it. It feels like the whole world of football is under his spell.
+843  =When %s plays, the whole world watches. His mastery of the game means that "Virtuoso" is the only word for him.
+844  =Most players would give anything to have even a fraction of %s's technical prowess.
+845  =%s has technique the like of which no one's ever seen. He's basically reinventing the game.
+846  =%s is still young but he's got bags of experience. He's a star of the future, make no mistake. For better or worse, his form influences the whole team.
+847  =%s might be a bit hard to handle, but if you learn how to manage him, he could develop into a true star.
+848  =%s isn't the most skilled player, but he's still always worth watching. He affects the performance of all the players around him.
+849  =Experience Points acquired in training will increase further.
+850  =Income from merchandise is going to receive a boost.
+851  =Team Spirit will increase during matches.
+852  =%s acquired his new Team Role of %s.
+853  =No players were selected for their national teams.
+854  =No players are absent.
+855  =No transfers out or retirements.
+856  =There are no players registered to the Youth Team.
+857  =・Success is more likely in negotiations with a player with a different registered position, but less likely in negotiations with the same position.
+858  =・Chances for a big development gain are boosted based on rating.
+859  =・Transfer offer fees are increased.
+860  =・Your own condition is boosted for all matches.
+861  =
+862  =・The suspension period for being sent off in a match may be longer.
+863  =Gate Receipts Bonus has increased %d％ due to a player's Team Role.

@@ -1,0 +1,126 @@
+270  =Lcm8T
+
+105  =Master League is starting up. Please wait.
+119  =Auto-save is currently enabled.
+Disable Auto-save?
+120  =Auto-save is currently disabled.
+Enable Auto-save?
+123  =Individual Records of players who are in the team.
+127  =You will refuse the transfer offer and will remain manager of this club.
+Are you sure?
+128  =This will officially confirm you as %s's manager.
+Are you sure?
+129  =Confirm National Team squad for the upcoming international friendly match?
+130  =Confirm your squad members for the upcoming %s.
+You will not be able to make any changes to the squad once the competition starts.
+131  =You will accept the job of managing %s this season.
+132  =You are yet to select a national team.
+If you proceed, you will not be a national team manager.
+Are you sure?
+133  =No Match Today
+135  =No upcoming matches
+136  =The main schedule for %s.
+137  =%d
+138  =%s will return after his injury.
+139  =A derby match against %s.
+140  =An important match against our rivals, %s.
+141  =This is a report on today's match income.
+142  =This is a report on our Sponsor(s) and Fan club income.
+143  =This is a financial report based on player acquisition.
+144  =This is a financial report based on player sales.
+145  =Prize money has been received as a result of our performance in a tournament.
+146  =Today's match was away from home, so we didn't earn any gate receipts.
+147  =Today's match was played at a neutral ground, so we didn't earn any gate receipts.
+148  =We are receiving a bonus because we have a Team Role in our team.
+149  =We are receiving a Team Role bonus because we have a Star Player, a Superstar, a Bandiera or a Legend in our team.
+150  =These are the Team funds  we have remaining after paying our squad.
+The squad is paid on %2$d| %1$s|.
+151  =Check the players registered as My Favourite Players.
+152  =Take a look at all the titles you've captured.
+153  =All results and squads on each season are recorded.
+154  =Delete %s from My Favourite Players?
+If the player has left your club, the records of his Career will be lost even if you try to register him again.
+155  =The player can learn COM Playing Styles.
+156  =You don't need any special command.
+157  =It is activated automatically depending on the situation.
+158  =Select player to offer training.
+159  =No player meets requirements.
+160  =Suspend the current training?
+This training can restart at any time and the training already completed will be taken into account.
+161  =No nickname is set yet.
+Once a player has one or more nicknames, you can use that name in your everyday dealings with them.
+162  =Select the player you wish to include in My Favourite Players.
+You can only select a single player.
+Once you skip forward to the next day, your selection will be confirmed.
+163  =%s will be saved to My Favourite Players.
+164  =No players will be registered to My Favourite Players this season.
+Is that okay?
+165  =You have no players registered yet.
+You can select a player to add to My Favourite Players once a year, and can only add a single player on the designated day.
+166  =This is this season's club account balance.
+167  =This is your income from television broadcasting rights.
+It will vary depending on the team's results and their final position.
+168  =This is your income from sponsors and other corporate tie-ups.
+It will vary depending on your team's results and the popularity of individual players.
+169  =This is your income from fan club fees.
+It is largely dependent on the popularity of individual players.
+170  =This is your income from goods branded with your players' names.
+It reflects the performance of your players. The Team Role of players also affects this revenue stream.
+171  =This is your income from ticket sales when you play at home.
+The figure will vary depending on what competition you are playing in.
+172  =The income you receive from winning a competition.
+173  =Your total transfer expenditure and income.
+174  =This is a list of player's salaries. You don't need to pay salaries to players that are on loan.
+175  =This is a tally of the money spent when making contracts with players.
+176  =This shows costs incurred for dismissing players before their contracted period was over.
+177  =%s has now mastered Skill Training (%s).
+178  =By mastering %s, you will be able to do the Skill Training required to master %s.
+179  =You've won %d matches on the trot! You've earned a bonus from the owner, so be sure to check it out!
+180  =Congratulations! You won the %s! The owner has given you a bonus as a show of their appreciation!
+181  =You made it through the Group stage of the %s, and the owner has seen fit to reward you with a bonus!
+182  =You reached the Semi-finals of the %s, and as a thank you from the owner themselves you've earned yourself a bonus!
+183  =You did it! You won the %s! Needless to say, the club are over the moon with your performance. The owner's bonus is going to be a big one!
+184  =The club have been thrilled with your performance this season. This is a huge boost to the budget!
+185  =The club have been really happy with your performance this season. The budget has got a nice boost.
+186  =Your performance this season wasn't anything out of the ordinary. But you've got a small boost to the budget.
+187  =It doesn't look like the club was too happy with your performance this season. The budget hasn't been increased by very much, I'm afraid.
+188  =Your results last season were super, but the club think you already have a strong team for next season, so they're not going to increase your budget by much, I'm afraid.
+189  =Your results last season were really good, but the club think you already have a strong team for next season, so they're not going to increase your budget by much, I'm afraid.
+190  =Your results this season were just fine, but the club think you have sufficient funds already, so aren't going to boost your budget by much.
+191  =After assessing the club's performance this past season, you'll receive the following additional funds for next season.
+192  =After assessing the club's performance this past season, you'll receive the following additional funds for next season.
+For a detailed breakdown of the season's financial results, see the Club Account Balance.
+193  =The club made a %d％ profit increase compared to last season. The bean counters couldn't be happier.
+194  =The club made a %d％ profit increase compared to last season. A financial performance to be proud of.
+195  =The club brought in no more and no less than last season. At least the bare minimum of targets were achieved.
+196  =The club took a %d％ loss compared to last season. Top brass will not be happy.
+197  =%1$s| were an especially strong profit centre for the club, bringing in an additional %2$d|％.
+198  =Since the club's Superstar, %s, had a particularly strong year, additional funds to the tune of %d％ will be added to the war chest.
+199  =Since the club's Superstar, %s, put in a middle-of-the-road performance this year, there will be no budgetary bonus this coming year.
+200  =Since the club's Superstar, %s, barely saw any playing time, there will be no budgetary bonus this coming year.
+201  =The current balance has been assessed as sufficient, so no additional funds were awarded.
+202  =Looking at Contract Options and Severance Payments that were triggered, which will be paid for from the Transfer Budget, the amount for this season comes to %s.
+203  =By having a Bandiera on the team, you significantly increased your income. In light of this, a %d％ bonus has been added to your budget.
+204  =This won't enhance any particular ability dramatically, but will raise the overall skill level of the player.
+205  =This hones in on a particular ability and aims to improve it significantly.
+206  =You can't register any more players to My Favourite Players because you've reached the 30-player limit. 
+To make space for a new player first remove a player from My Favourite Players.
+207  =The salary budget has been revised due to changes in the team roles of one or more players.
+208  =%s's value has increased by %s.
+209  =%s's value has decreased by %s.
+210  =The salary budget has risen for next season. It's a sign that the team is coming along nicely.
+211  =The salary budget has been revised downward. Try developing star players in order to raise the budget next season.
+212  =Do you wish to participate in the %s?
+213  =You've confirmed the club's appearance in the competition.
+The schedule will be announced on the 1st of next month.
+214  =You've decided against making an appearance in the competition.
+Are you sure?
+215  =This is your salary budget for this season.
+A %d％ cut of last season's merchandise sales will be added on top of this.
+Any payments triggered by contract options from last season will come out of the budget.
+216  =This will be your salary budget for next season.
+The better you perform, the more you can expect when the season ends.
+217  =As %s has the %s Team Role, the board have responded with an increase to the salary budget going forward. The club expects a big return from this player, both in a footballing and financial sense.
+218  =%s has increased his standing with the supporters and merchandise sales are on the rise as a result. 
+The board have seen fit to increase the salary budget going forward.
+Developing fan-favourites to seems to be paying off.

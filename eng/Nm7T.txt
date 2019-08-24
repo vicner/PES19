@@ -1,0 +1,148 @@
+513  =Nm7T
+
+23   =Unable to find Opponent.
+70   =Enter this Competition. Proceed?
+71   =Unable to enter Competition as Maximum Capacity has been reached.
+72   =You have already entered one Competition. You cannot enter multiple Competitions at once.
+75   =Enter %s into Competition. Proceed?
+87   =Final standings of the Qualifying Round to come shortly.
+92   =・Contested by the %d teams that came through the Qualifying Round
+・Single leg knockout format 
+・No Extra Time for First knockout round, Quarter-finals and Semi-finals . In the event of a draw, winners are decided by a Penalty Shootout after Full-Time.
+・For the Final , there will be both Extra-Time and Penalty Shootout if needed. 
+・No 3rd place playoff
+103  =・Yellow cards
+Players receive a 1-match suspension for 3 cautions
+・Red cards
+Players receive an automatic 1-match suspension for a Red card
+104  =・Positions in Qualifying Round are ranked by: 
+1. Highest points total from 3 consecutive games
+2. Goal Difference over the same 3 games
+3. Time taken in posting the results above.
+
+In order of decreasing priority
+107  =%s Qualifying Round now under way!
+108  =・Qualifying Round
+Your best results over 3 consecutive games is what decides your rank. As there are no limits to the number of matches you can play in the Qualifying Round, you should look to play as many as possible to improve your chances of making the top 16 that will progress to the Knockout Phase.
+109  =・Qualifying Round Final Standings
+The Final Standings will be worked out when the Qualifying Round ends. However, this may take some time.
+Please note that results from unfinished matches will not be counted.
+Make sure you are logged in to the Qualifying Round Menu at the time the Qualifying Round ends, (As this is when your Final Standings are worked out) otherwise, you will automatically lose your place in the Qualifying Round Final Standings.
+110  =The Knockout Phase is contested by %d teams under the Knockout system.
+If you are logged in to the Knockout Phase Menu before starting time, your match will start automatically. 
+Failure to log in to the Knockout Phase Menu at the required time will result in an automatic disqualification. 
+For more details on the Knockout Phase, go to [Knockout Phase Data] → [Regulations].
+111  =Congratulations!!
+You have made it through the Qualifying Round and have advanced to the %s Knockout Phase.
+112  =・Competition Bonus Ratings
+Users may be awarded Competition Bonus Ratings by getting far in various Competitions.
+The amount of  Competition Bonus Rating depends on the type of Competition and the user's current Ratings.
+113  =・Knockout Phase
+If you are logged in to the Knockout Phase Menu before starting time, your match will start automatically. 
+Please make sure to log in to the Knockout Phase Menu with time to spare or you will face automatic disqualification.
+Matches in the Knockout Phase have time limits by which they must be completed. In unfinished matches, the score at the time when play was interrupted will be recorded as the final score. 
+If scores are level, then the User who was ranked higher in the Qualifying Round Final Standings will be declared winner.
+119  =As the match was tied when abandoned, %s who was ranked higher in the Qualifying Round is declared winner.
+120  =%s who was leading at the point when the Match was abandoned is declared winner.
+122  =The match has been abandoned as communications with your opponent has been lost. As a result of our review, %s has been declared winner.
+123  =%s wins via forfeit as opponent did not show up.
+150  =Not played in any Competitions to date.
+151  =Too many "Disconnections due to poor connection quality" may result in you being disqualified at the end of the Qualifying Round.
+Regulations regarding Disqualifications are unique to each Competition.
+152  =You have been disqualified from the Qualifying Round due to excessive number of disconnections resulting from poor connection quality.
+153  =Please note that the Disqualification standards are unique to each competition and cannot be disclosed.
+154  =Disqualification by improper match termination
+157  =Due to multiple connectivity issues detected from your side, your opponent has been awarded the win.
+158  =Due to multiple connectivity issues detected on your opponent's side, you have been awarded the win.
+160  =Please wait until the other matches have been played.
+161  =・Positions in Qualifying Round are ranked by:
+1. Rankings for each individual team
+2. Highest points total from 3 consecutive games
+3. Goal Difference over the same 3 games
+4. Time taken in posting the results above. In order of decreasing priority
+162  =The Knockout Phase is contested by %d teams under the Knockout System.
+Matches start at given times provided you are logged in to the Knockout Phase Menu screen.
+As Knockout Phase Matches do not count towards a player's Duration of Contract, you can play them as many times as you want as long as they are still contracted to your team.
+So, field your best 11 and give it your best shot!
+163  =The key to qualifying is how many points you can accumulate over 3 matches!
+
+So, you got off to a bad start?
+Don't worry about it!
+There are plenty of chances for you to qualify!
+164  =Your first objective would be to become No. 1 in the "Team Based Rankings"!
+
+The fewer the number of users who pick the same team as you, the bigger your chances of becoming No. 1!
+Your key to success is results in 3 consecutive matches!
+So, try focusing on earning as many points as possible over these 3 matches!
+
+Ready for kick off?
+165  =You cannot take part in this competition as it is being held at a later date
+170  =%s
+i0
+<Qualifying Round>i1
+Match Time: %d min
+%s
+%si0
+<Knockout Phase>i1
+Match Time: %d min
+%s
+%si0
+<Final>i1
+Match Time: %d min
+%s
+%si0
+171  =Leave the Qualifying Round and return to Top Menu.
+172  =<Online Competition>i1
+Have you got what it takes to be a winner? Then try entering the many Online Competitions which are held regularly.i0
+173  =<Cup>i1
+Why not play competitions under your own regulations? Will there be silverware at the end of the road?
+Also compatible with multi-player.i0
+174  =You cannot take part in competitions as you have a "C" courtesy rating.
+178  =This competition has been cancelled.
+180  =This match has been deemed a forfeited match.
+%s will now advance to the next round.
+181  =While Online Competitions are designed to not restrict user participation based on their network connections (in particular NAT types), there may be times when users are made to directly communicate with each other via their networking appliances due to high traffic or server operation status.
+In such cases, matches between users of a certain NAT type may be deemed invalid and the one with the better record during qualification will go through to the next round.
+Thank you in advance for your understanding.
+182  =Unable to start match due to the NAT types of the connections of both you and your opponent being incompatible. 
+Therefore, %s who had the better record in the Qualifying Round is declared winner in line with the regulations and will advance to the next round.
+183  =The match could not be started.
+Since %s has the better record in the Qualifying Round, they will be declared the winner in line with the competition regulations.
+184  =The number of times you have disconnected is increasing.
+Please note that if a certain percentage of your matches are not concluded correctly and you receive a "B" courtesy rating, you will be subject to the below restrictions.
+185  =Your courtesy rating has fallen to "B". Please make sure that the number of times you disconnect does not increase any further.
+Users with a "B"courtesy rating are subject to the below restrictions.
+186  =The number of times you have disconnected is increasing.
+Please note that if a certain percentage of your matches are not concluded correctly and you receive a "C" courtesy rating, you will be subject to the below restrictions in addition to courtesy rating "B" restrictions. 
+187  =Your courtesy rating has fallen to "C". Please make sure that the number of times you disconnect does not increase any further.
+Users with a "C" courtesy rating are subject to the below restrictions.
+188  =・You will more likely be paired with users who have "B" or "C" courtesy ratings.
+189  =・If you maintain a "B" courtesy rating, you courtesy rating will eventually fall to "C" making you subject to further restrictions.
+190  =・A ban from Online Competitions
+191  =・Disqualification from all online rankings
+192  =The number of times you have failed to properly complete matches is increasing. 
+Please note that if a certain amount of your matches are not concluded correctly and you receive a "B" Courtesy Rating, you will be subject to the below restrictions.
+・You will more likely be paired with users who have "B" or "C" courtesy ratings.
+・If you maintain a "B" courtesy rating, you courtesy rating will eventually fall to "C" making you subject to further restrictions.
+193  =Your courtesy rating has fallen to "B". Please make sure that the number of times you disconnect does not increase any further.
+Users with a "B"courtesy rating are subject to the below restrictions.
+・You will more likely be paired with users who have "B" or "C" courtesy ratings.
+・If you maintain a "B" courtesy rating, you courtesy rating will eventually fall to "C" making you subject to further restrictions.
+194  =The number of times you have failed to properly complete matches remains high. 
+Please note that if a certain amount of your matches are not concluded correctly and you receive a "C" Courtesy Rating, you will be subject to the below restrictions in addition to the Courtesy Rating B restrictions.
+・A ban from Online Competitions
+・Disqualification from all online rankings
+195  =Your courtesy rating has fallen to "C". Please make sure that the number of times you disconnect does not increase any further.
+Users with a "C" courtesy rating are subject to the below restrictions.
+・You will more likely be paired with users who have "B" or "C" courtesy ratings.
+・A ban from Online Competitions
+・Disqualification from all online rankings
+196  =Any rewards you earn will depend upon your final result.
+However, please note that should you disconnect mid-match, you may not receive your rewards if you are not logged in to the Competition Menu at the time qualifiers finish.
+197  =You have received rewards in accordance to your efforts in the competition.
+198  =In the Knockout Phase, all matches kick off at the same time.
+If you don't return before the next round of matches, you'll automatically lose.
+Are you sure you want to leave?
+199  =If you don't resume the game prior to the end of the Qualifying Round period, you will be eliminated. If you are not in the Qualifying Round Menu when the Qualifying Round ends and the final ranking is determined, you won't be able to claim the Did not qualify bonus. 
+Do you want to proceed?
+200  =You qualified for the Knockout Phase of the Competition you're participating in. As long as you're still in the Knockout Phase, you can't take part in any other Competitions.

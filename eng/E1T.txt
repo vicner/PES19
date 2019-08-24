@@ -1,0 +1,32 @@
+229  =E1T
+
+0    =Change player names and appearances. You can also create new players.
+44   =Load Edit Data.
+45   =Save Edit Data.
+46   =Save Data and Quit Editing.
+51   =Only capitals, full-stops and spaces can be used.
+57   =Make use of both shapes and letters to create new Emblems. Images can be coloured, scaled or layered on top of each other making editing effortless!
+The Pen and Eraser tools can be used to make fine adjustments too.
+62   =Edit Game Plan, Team Names, etc.
+63   =Pick players for their national teams.
+64   =Transfer Club Team Player.
+66   =Choose competition names and regulations.
+67   =Swap clubs between competitions.
+71   =Create data which can be used as back-up or shared with friends.
+72   =Load data which you created in Export.
+74   =Make changes to stadium names.
+75   =Punt kicks take a different flight through the air depending on the type of motion selected.
+
+1. Standard trajectory
+
+2. High trajectory
+
+3. Standard trajectory
+
+4. Low trajectory
+76   =Select positions in which the player is capable of playing.
+77   =Choose player stats, Player Skills, Playing Style and COM Playing Styles.
+78   =Copy data from another player to the one currently being edited.
+79   =You can save and load Edit Data, import and export Team and Competition Data and import or delete graphic data.
+80   =You can change a manager's name or create an image of him.
+81   =You can import and export team data.

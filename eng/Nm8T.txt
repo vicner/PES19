@@ -1,0 +1,28 @@
+515  =Nm8T
+
+6    =This user has already been added to the Friend List.
+26   =Waiting for other User(s).
+30   =%s has become the leader.
+31   =This User cannot be added as a Friend.
+37   =Cancel?
+38   =Unable to connect with other User(s).
+47   =%s was disconnected.
+61   =Searching for an Opponent.
+62   =Checking Connection Status.
+63   =Abandon match.
+Should you proceed, you will automatically forfeit this match.
+(It will not be counted as a disconnection)
+
+Are you sure?
+64   =Your opponent has abandoned the match.
+As a result, you have been awarded the win.
+65   =You requested to abandon the match.
+66   =When both users request to abandon the match within 15:00 of the 1st half, the match will be abandoned and deemed void.
+Neither user will be informed of the other's desire to abandon the match or not.
+You can also request to abandon the match during play by pressing ll + ja.
+Do you want to send a request to abandon the match?
+67   =You've requested to abandon the match.
+Only when the other user also requests the same will the match end and be considered void.
+68   =We've detected that your connection with your opponent is not stable.
+Press ll + ja within 15:00 of the 1st half to request to abandon the match. Once confirmed, the request can't be withdrawn.
+Only when the other user also requests the same will the match end and be considered void.

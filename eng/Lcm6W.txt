@@ -1,0 +1,11 @@
+30   =Lcm6W
+
+71   =Promotion and Relegation
+183  =League standings
+184  =Yellow and red cards
+278  =Next Match
+280  =Place %d Votes %d
+281  =How can I manage another club?
+282  =International call-ups
+283  =Can I manage National Teams?
+284  =A friendly match has been arranged.

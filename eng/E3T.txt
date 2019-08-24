@@ -1,0 +1,12 @@
+231  =E3T
+
+0    =A prolific goalscorer.
+1    =Creates chances from out wide by beating opposition Full Backs.
+2    =Conducts the attack from an advanced position.
+3    =Player looking to attack from out wide.
+4    =An all-round midfielder who provides both attacking and defensive prowess.
+5    =Sits deep in midfield protecting the backline.
+6    =Defends the wide areas while also providing width in attack.
+7    =A centrally positioned defender who guards the 18 yard box.
+14   =A withdrawn forward who plays off a Centre Forward.
+16   =Registered Position Selected.

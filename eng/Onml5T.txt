@@ -1,0 +1,106 @@
+554  =Onml5T
+
+23   =The team's squad lineup.
+42   =You can use Scouts to sign players.
+*You cannot use a Scout to sign a player you already have.
+Each Scout has a specialist field, and will therefore bring very different players to the team.
+
+Setting a Scout to a slot updates the list of player candidates you to can sign.
+Press jc to see the full list of candidates.
+*The agent's list of target players may periodically change via a Live Update.
+
+Combine multiple Scouts to narrow the field of potential players you can sign.
+You can combine up to 3 Scouts at any one time.
+
+Just be aware that when a number of potential candidates are listed, the most talented players will be the hardest to sign.
+But if you manage to limit the list to a single player, you are guaranteed to sign him.
+
+When you sign a player using a Scout, his Level is always 1.
+The ball colour that represents a player's Rarity is based on their Overall Rating at Lv. 30.
+
+i0
+<Scout ★ Total>i1
+All Scouts have a specific Grade that is based on the number of ★ they have.
+The ★ that indicate a Scout's Grade are displayed above the icon for that Scout.
+Combine Scouts with high Grades and you'll be more likely to obtain players with a high Rarity.
+If you are combining multiple Scouts, an average of the ★ total will be used, and this will determine your Scout's Grade.
+i0
+<Simulation>i1
+You can simulate the results using not only Scouts that you have, but you can use Scouts of every type.
+Any Scout you have on your list can be added to your Wish List.
+It's a good idea to set a Scout to your Wish List who seems likely to land that player you want. You'll then be able to check if that player is available at auction.i0
+43   =By spending GP or myClub Coins, you can call on the services of a Top Agent.
+You are more likely to be able to sign a talented player using such an Agent than you are by using an ordinary Scout.
+
+You can also sign players for specific positions, and the players you sign are likely to be better.
+44   =You can obtain players by signing a loan contract with them directly.
+The list of Loaned Players you may be able to add to the team is subject to regular updates, so be aware that players may become unavailable for loan.
+The loan system allows you to add talented players to your squad for a limited period, but take note that extending the contracts of Loaned Players is not possible. When their contract ends, they will simply leave the club.
+
+Note that all players you field in myClub Competitions need to have permanent contracts and therefore you can't field a Squad which contains Loaned Players.
+
+Access myClub Members to see players you have acquired on loan.
+If you want them to play on the team, register them to the Squad via Squad Management.
+45   =You can spend GP or myClub Coins on acquiring new managers. Managers you acquire will be registered to your club.
+
+Talented managers are locked and cannot be acquired using GP. These managers will gradually be unlocked as you play more matches. If you don't want to wait, you can acquire them by spending myClub Coins. Try and find the best manager to suit your style and your long-term goals.
+
+The manager list is updated every 8 hours as a general rule. During some campaigns, special managers may be added to and remain on the list for a limited time.
+i0
+<Management Skills>i1
+Each player has various Costs, based on their ability.
+If the Total Costs of the players in your Squad is higher than your manager's Management Skills, then Team Spirit will decrease dramatically.
+i0
+<Familiarity (％)>i1
+Just like players, new managers gradually become more familiar with a club with each match the team plays.
+"Familiarity (％)" is a rating which indicates how well a manager knows his club.
+
+In Squad Management, select a manager to view his "Familiarity (％)" rating. A manager's "Familiarity (％)" rating has an effect on Team Spirit.
+
+<Manager Ability and Team Familiarity>i1
+A manager's ability will affect his initial level of Familiarity (％) with a new team as well as the speed at which it grows. The greater a manager's Adaptability, the higher his initial familiarity level and the faster that level will grow.
+
+Additionally, if you utilise a manager as an Assistant Coach for an extended period, his Familiarity (％) will steadily decrease. Employing him as a main manager will help increase his Familiarity (％) once more.i0i0
+46   =By spending GP or myClub Coins, you can call on the services of a Special Agent.
+You are more likely to be able to sign a talented player using such an Agent than you are by using an ordinary Scout. What's more, the conditions you can specify when signing players are different to those available when you use a Top Agent.
+
+If you are able to use a Special Agent, you can sign players without spending myClub Coins.
+47   =This is a list of your club's Squads.
+
+You can create, name, and save up to 10 Squads.
+If you want to create a new Squad, select Create New.
+
+The Squad you have selected to play in Cloud Matches will take part in matches against other users even when you are not playing. You will be awarded GP on a regular basis, based on the results of these matches.
+48   =Each manager has two strategies.
+Press jg and jh to switch between their Offensive Tactic and Defensive Tactic.
+
+The Offensive Tactic or Defensive Tactic will be used depending on which of your squad's three strategic plans a manager has been assigned to.
+49   =You can improve your players through TRAINING by selecting a combination of EXP Trainer and player. Here are some hints for effective TRAINING.
+
+・Use an EXP Trainer with a high Overall Rating.
+・Use an EXP Trainer with a high Level.
+・Use an EXP Trainer who has the same position and Registered Position as the player you're training.
+・Finally, try and find an EXP Trainer and a player who have a lot in common.
+50   =This is a list of every EXP Trainer on your team.
+
+Using a EXP Trainer to train another player can help that player develop and improve. When a player is converted into a EXP Trainer, he will retain his level and attributes. This means that a talented player will become a talented EXP Trainer, making for effective training.
+
+You can have a maximum of 100 Trainers.
+51   =<Management Skills>i1
+Each player has various Costs, based on their ability.
+If the Total Costs of the players in your Squad is higher than your manager's Management Skills, then Team Spirit will decrease dramatically.
+i0
+<Familiarity (％)>i1
+Just like players, new managers gradually become more familiar with a club with each match the team plays.
+"Familiarity (％)" is a rating which indicates how well a manager knows his club.
+
+In Squad Management, select a manager to view his "Familiarity (％)" rating. A manager's "Familiarity (％)" rating has an effect on Team Spirit.
+
+<Manager Ability and Team Familiarity>i1
+A manager's ability will affect his initial level of Familiarity (％) with a new team as well as the speed at which it grows. The greater a manager's Adaptability, the higher his initial familiarity level and the faster that level will grow.
+
+Additionally, if you utilise a manager as an Assistant Coach for an extended period, his Familiarity (％) will steadily decrease. Employing him as a main manager will help increase his Familiarity (％) once more.i0i0
+52   =<Manager Ability and Team Familiarity>i1
+A manager's ability will affect his initial level of Familiarity (％) with a new team as well as the speed at which it grows. The greater a manager's Adaptability, the higher his initial familiarity level and the faster that level will grow.
+
+Additionally, if you utilise a manager as an Assistant Coach for an extended period, his Familiarity (％) will steadily decrease. Employing him as a main manager will help increase his Familiarity (％) once more.i0

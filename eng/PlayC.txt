@@ -1,0 +1,6 @@
+111  =PlayC
+
+3    =Shoot
+5    =Sliding Tackle
+6    =Pressure
+8    =GK runs towards the ball

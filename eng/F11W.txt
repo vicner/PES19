@@ -1,0 +1,22 @@
+66   =F11W
+
+37   =No Preference
+38   =By Form
+39   =By Ability
+40   =Very Late
+42   =Very Early
+52   =Defensive
+54   =Offensive
+61   =Flexible
+65   =Offensive
+66   =Balanced
+67   =Defensive
+69   =Auto Trigger Setting
+70   =Auto change Preset Tactics
+71   =Fluid Formation
+72   =Main
+73   =Preset Tactics(Offensive)
+74   =Preset Tactics(Defensive)
+75   =Contract Expired
+76   =Auto Change Attack/Defence Level
+77   =Go to Simple Settings

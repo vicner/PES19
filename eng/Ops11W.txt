@@ -1,0 +1,8 @@
+50   =Ops11W
+
+13   =User Library
+25   =Support Settings
+27   =Menu BGM
+28   =Track Title
+29   =Adjust Volume
+31   =Artist

@@ -1,0 +1,20 @@
+60   =F7W
+
+3    =Substitutions
+4    =Formation
+9    =Simple Settings Menu
+13   =Participation
+33   =Mark Settings
+47   =Data Management
+61   =Players to Join Attack
+74   =Squad List
+81   =Player Menu
+82   =Player Details
+85   =Choose Manually
+100  =Leave to Manager
+107  =
+108  =
+111  =Display in Game Plan
+112  =Auto Substitution
+113  =Heat Map Display
+114  =Switch Players

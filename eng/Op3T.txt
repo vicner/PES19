@@ -1,0 +1,9 @@
+205  =Op3T
+
+19   =Choose volume level for a variety of sound effects including cursor sounds.
+20   =Choose BGM volume level for movies, highlight footage and menu screens.
+21   =Choose volume level for the in-game commentary.
+22   =Choose volume level for crowd noise and chanting.
+23   =Choose volume level for in-game PA announcements.
+24   =Choose volume level for music played in stadiums featured in this title.
+25   =Choose volume level for in-game sound effects including the sound made by the ball.

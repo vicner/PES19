@@ -1,0 +1,19 @@
+1    =Ps1W
+
+10   =Fixed
+11   =Player Name
+21   =Cursor Type
+33   =Cursor Display
+39   =Coach Mode
+44   =Cursor Change
+47   =Select Player
+50   =Controller No.
+51   =Base Team
+52   =Trade Settings
+53   =Trade Rounds
+54   =Trade Target
+55   =Protected Player
+56   =Unwanted Player
+57   =Bluff
+58   =Select Base Team
+59   =Next Player Indicator

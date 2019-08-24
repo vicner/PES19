@@ -1,0 +1,23 @@
+504  =Nm3W
+
+0    =Match Lobby
+1    =Quick Match
+2    =Competition
+21   =Select server
+22   =Select Lobby
+36   =Online Settings
+40   =Edit Preset Messages
+81   =Entrance Limitations
+85   =Ranking Match
+86   =Friendly Match
+110  =Thanks!
+124  =Great pass!
+225  =Online Ranking
+229  =Load User Data
+232  =Competition Start Time
+234  =Currently being Contested
+235  =Competition Results
+242  =LOADED USER DATA
+243  =Friendly Match
+244  =FRIENDLY MATCH
+245  =Register KONAMI ID

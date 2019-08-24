@@ -1,0 +1,6 @@
+62   =F9W
+
+24   =Select Captain
+31   =Switch Player Icons
+32   =Variant Formation
+33   =Captain

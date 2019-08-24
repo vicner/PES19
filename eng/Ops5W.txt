@@ -1,0 +1,9 @@
+7    =Ops5W
+
+2    =Replay Playback
+6    =Credits
+47   =Average Stats
+66   =Play
+104  =Select Nationality/Region
+105  =Favourites
+106  =Add to Favourites

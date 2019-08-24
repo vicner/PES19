@@ -1,0 +1,618 @@
+127  =Tip2C
+
+54   =Settings: What is Personal Data?
+55   =Support Settings: Pass Support Level
+56   =Settings: Data Management in Personal Data
+57   =Settings: Custom Camera Type
+58   =Edit: Import/Export
+59   =Online: Edit data in online matches
+60   =Using your user data in offline matches
+61   =The use of User Data in Online Matches
+62   =Online: Quick Match Settings/Ratings
+63   =Online: Quick Match Settings/Team Class Restrictions
+64   =Online: Ranking Matches
+65   =Online: How many people can take part in a Team Play Lobby Match?
+66   =Online: Team Play Lobby Match Room VS Settings
+67   =Online: The use of Legends Players in Team Play Lobby
+68   =Online: Team Player Lobby "ANY PLAYER" setting
+69   =Master League Online: The 4 major leagues
+70   =Master League Online: Association League
+71   =Master League Online: Lega Catenaccio
+72   =Master League Online: Continental League
+73   =Master League Online: Galactico League
+74   =Master League Online: Wage Cap
+75   =Master League Online: Match (Coach Mode)
+76   =Master League Online: League Based Achievements
+77   =Master League Online: Signing and releasing players
+78   =Master League Online: Quick Match Settings
+79   =Master League Online: User ranking
+80   =Online: Courtesy Rating
+81   =Online: Skill Level
+82   =Online: Beginner Level
+83   =Online: Competition/Qualifying Round Points
+84   =Online: Competition/Team selection
+85   =Master League: Managerial transfers
+86   =Master League: Managing the national team
+87   =What is rm?
+88   =rm: Upload Stats Data
+89   =rm: Uploading your stats
+90   =rm: User registration
+91   =rm: Bonuses for registered users
+92   =rm: Importing Game Plan Data
+94   =Support settings, button configuration and cursor settings can all be saved as a collective data file known as Personal Data. You can create up to 32 such data files.
+95   =One of the Personal Data settings.
+It indicates the extent to which pass targets will be automatically searched for when passing the ball.
+When the Pass Support Level is set to "Off", no pass assistance will be provided, and your passes will be controlled by the direction and the strength of your input.
+96   =To save your settings, press jf in the Personal Data Settings screen. 
+This data can then be exported onto external storage media and imported when needed by following the same steps.
+97   =To customise and configure your in-game camera settings, go to pause menu and select the camera option. The height and the angle can be fully adjusted for each pre-set camera type, so why not try to fine tune it to create your very own perfect setup?
+98   =Individual blocks of Edit Data can be exported and saved. Once exported, the data can then be imported by selecting Edit mode → [Import].
+99   =When playing online, edit data will not be applied with the exception of Team Name, Team Emblems, Team Strips, Crowd Support and Stadium Name.
+100  =You can play Master League and myClub matches using Team Data you have saved. During PLAY MATCH in VERSUS or an Exhibition Match, you can go to Select Team, select "User Data" and follow the on-screen instructions to load saved data.
+101  =You can use both your Master League and myClub teams to play against friends in Online Matches. To select these teams, enter a Match Room in the Friendly Match Lobby, then select Match Room Main Menu followed by [Load User Data].
+102  =In Quick Match Settings, Matchmaking conditions can be set so that you only get to play users whose ratings are within 50, 100 or 200 either side of your own. If no users match your selected conditions, you will not be able to find opponents.
+103  =In Ranking Match, you can choose to restrict selectable teams.
+In such a case, you will only be paired with opponents who play under the same team restrictions and will only be allowed to select teams from the matching classes.
+104  =Records from Online Divisions and Online Competitions will both be reflected on your overall user rankings.
+To check out your ranking, go to the Top Menu screen, then select EXTRAS → [Statistics] → [Overall Ranked Match Rankings] in order.
+105  =Up to 22 users can play in a single Team Play Lobby Match. Rooms are open to users even when there is a match in progress. So, why not enter and wait until more users turn up to make up the numbers for the next match?
+106  =If you fancy a co-op match against a COM controlled team, then try setting the opponent to COM in the Match Room Settings.
+Why not set the difficulty level to "Super Star" and let them take control of a real powerhouse club? This should prove a stern test for your teamwork credentials.
+107  =Legend players (referring to players you developed in Become a Legend) can be used in the Team Play Lobby.
+To do this, simply load your Become a Legend data on entering the match room, then select your Legend Player as the player you want to use.
+108  =To play a match in the Team Player Lobby in which you can take control of multiple players, choose "ANY PLAYER" as your position in the pre-match settings. This will enable you to take control of multiple players by switching cursors.
+109  =In Master League Online, you have the choice of playing in one of 4 leagues.
+Each league has its own characteristics with the most notable one being the differences in the amount required in "Player Costs" to register players to "My Team". 
+110  =The Association League is one of the leagues you can select on starting Master League Online. It is a very physical and fast-paced league where physical and quick players can be signed at a lower cost.
+111  =The Lega Catenaccio is one of the leagues you can select on starting Master League Online. It is a very defensive league where defensive players can be signed at a lower cost.
+112  =The Continental League is one of the leagues you can select on starting Master League Online. It is a very attack oriented league featuring many technically gifted players where players who are good passers of the ball or those blessed with good technique can be signed at a lower cost.
+113  =The Galactico League, is a special league where entry is reserved only for those who have built up impressive records in Master League Online. Unlike other leagues, there are no wage caps and teams are free to spend however much they want in creating a team full of superstars to compete against other dream teams.
+114  =All 3 leagues which can be selected at the start of Master League Online have a limit in "My Team" expenditures. Trying to build a team which suits your style of play within these budgetary restrictions is another challenge you should relish when playing this game.
+115  =Master League Online isn't all about taking direct control of players on the pitch. "Coach Mode" is the perfect way to outwit and outthink your opponent even if you don't possess the quickest of hands or feel that action games are not the genre for you.
+116  =Each league in Master League Online has their own set of achievements which you can unlock by meeting the required conditions. The colour of the stars shown on your profile during Matchmaking is an indication as to what you achieved. Having 4 gold stars shows that you have done very well regardless of what type of team you used.
+117  =Players can be signed without any restrictions as long as you can cover the necessary costs. Although there may be times you have to sell before you buy, your overall points won't change regardless of how many players you sign or release.
+So, you'll get plenty of chances to find the perfect mix of players which you are looking for.
+118  =Quick Match Settings can be set so that you only meet opponents who play in the same league. You can also choose to only play users from another league whose teams are equal in strength to yours. If you are picky about who you want to play, then this is about as fair as it gets.
+119  =All leagues in Master League Online have their own set of rankings, one for "Match" another for "Match (Coach Mode)".
+So, think you can cut it at top level as both player and manager? Then the easiest way to prove it would be to get your name amongst the top ranked users in both rankings.
+120  =For every online match which ends in an incorrect manner e.g. via disconnection (intentional or otherwise), you run the risk of losing your courtesy rating.
+For users with a courtesy rating of AA or above, other factors will be taken into consideration.
+Your rating will gradually recover if you complete a set number of matches correctly.
+121  =Each Online User Ranking has its own set of ratings and these ratings are the basis of what forms your "Skill Level". Do you have what it takes to attain the highest skill level of "Superstar" in all rankings?
+122  =All users who are new to online matches will start off at "Beginner Level" in all rankings. 
+Once you have played 5 matches, you will be given a rating and skill level which is appropriate for your level of play.
+123  =During qualification, there are no limits to the number of matches you play provided they are completed within the allowed time.
+Each win earns you 3 points, while you get 1 point for a draw and 0 for a loss.
+Your qualifying ranking is ultimately decided by your best points tally over 3 consecutive matches.
+124  =In the Qualifying Round, your first aim is to finish top amongst the users who have selected the same team as you. 
+The more popular the team, the greater the level of competition in the Qualifying Round.
+For more details, have a look in "Regulations" in Online Settings.
+125  =In rf, it's not just players that can change clubs in Master League. Now, managers too have the chance to move from one club to the next.
+The rules are simple. The better you do, the bigger the club that will come looking for your services.
+126  =In the rf rendition of the Master League, you may get the chance to manage national teams.
+Can you guide both your club and country to no.1? Are you made of the right stuff to achieve this feat? Only you can answer that.
+127  =rm is an application which enables you to check your records on rf using a smartphone or a tablet device.
+Once registered, you can easily compare your records against those of your friends or family members if they too are on rm. 
+128  =By enabling rm Settings, you will be able to check your records against those of your friends using mobile devices.
+Records aren't restricted to just online matches. Records from 1 VS. 1offline matches are also kept. So, what's stopping you? Now is as good a time as any to register.
+129  =You can still use rm even without online access for rf.
+By enabling "Upload Stats" in rm Settings, you will be able to obtain 2D-Codes after matches.
+Once you have the code, simply photograph it with a camera on your mobile device to read the data.
+130  =Users with a KONAMI ID, can start using rm at any time.
+As you can register up to 32 accounts in Personal Data Settings, why not register your friends and family members and get playing?
+131  =Registered rm users can claim more points for completing Master League Online.
+In addition to this, there are competitions which are exclusive to rm users. So why not make playing online in rf that much more special by signing up for rm?
+132  =Using rm application allows you to create and edit your Game Plan Data even when during transit.
+Once created, this data can then be downloaded by selecting the  [rm] icon which is displayed on the left hand side of the Top Menu screen.
+133  =EXGP and Reward GP
+134  =Choosing your favourite team
+135  =Attacking Instructions: Attacking styles
+136  =Online Divisions: Division Point Ranking
+137  =Online Matches: HOME & AWAY
+138  =myClub: Divisions
+139  =myClub: Simulation Matches
+140  =myClub: VS. COM Matches
+141  =myClub: Team Spirit
+142  =myClub: The key to good teamwork
+143  =myClub: Tactical fit with the manager
+144  =myClub: Players and Managers
+145  =myClub: Stamina recovery
+146  =myClub: Player registration
+147  =myClub: Management & Tactics (Team Instructions)
+148  =myClub: Scout
+149  =myClub: Scouts and their specialist fields
+150  =myClub: Reward Scouts
+151  =myClub: Utilising Agents to Obtain Players
+152  =myClub: Player Contracts
+153  =myClub: Managerial Contracts
+154  =Edit: Using prequel data 
+155  =The latest player skill data based on current form and club information are regularly updated online. In PLAY MATCH in VERSUS or in an Exhibition Match, you can select whether or not to use this Live Update function when you're selecting your team. Toggle it on and off using jl.
+When there is a lot of Live Update info, updates can occur as regular as weekly.
+156  =When playing while connected to the rf server, you can acquire GP at various points in the game.
+GP acts like a form of in-game currency in myClub and is used when signing players or renewing contracts.
+157  =When playing online, you can acquire EXGP at various points in the game.
+You may also be rewarded GP for use in myClub at the same time.
+158  =myClub Coin is a virtual currency which can be used in myClub.
+They are available from the myClub Store and will allow you to buy a wide range of in-game content.
+159  =In "Role Control" teams are divided into 3 sections ATTACK, MIDFIELD and DEFENCE allowing up to 3 players to play for one side.
+To play "Role Control", simply press jh(jg) when selecting sides (Only applies to offline matches).
+160  =Master League as well as League and Cup matches can be played in co-op mode.
+All you need to do is to enable this setting in the option screen when starting your game in any of these modes.
+161  =Pitch conditions as well as the length of grass can affect the velocity at which the ball travels along the ground.
+Choice of pitch conditions is down to the Home side user (excluding certain online matches). So, if you have home advantage, make the most of it and recreate the conditions that best suit your team's playing style.
+162  =What's your favourite team? If you have one, then it's best to choose one as doing so would mean that a player from your favourite team will grace the Top Menu screen. If you don't, then a player will be picked at random out of all players featured in this title.
+163  =Play a series of 10 game seasons with teams being promoted and relegated based on their final standings. Using teams with a lower overall rating allows you to earn more points.
+164  =The Season Point Ranking as its name suggests is a ranking system based on how many Season Points teams can accumulate over the course of a single season.
+Reckon you have a team that will propel you up the rankings? Then try challenging for the coveted top spot!
+165  =RANKED MATCH matches in Online Divisions and myClub are played as 10-game seasons and these will be equally split between home and away fixtures.
+166  =Seek out opponents that fit your preferences and challenge them to an online match!
+Opponents are found at random and results from these matches will not affect your overall records.
+167  =When playing co-op matches in Team Play Lobby, users who either head the side or have control of the goalkeeper can communicate with other users on their team by using a set of 8 simple pre-set messages. Please note this is restricted to matches where cursor settings are fixed.
+168  =Play a series of 10 game seasons with teams being promoted and relegated based on their final standings. The higher the division, the harsher the conditions are to get promoted. Have you got what it takes to make it to the very top?
+169  =In coach mode, you will only make the team's tactical decisions, such as selecting strategies or making substitutions, as opposed to having to actually control any players who are on the pitch. The opponent team is controlled by the COM.
+If you're the type of player who's not good at action games and doesn't feel confident about playing online matches, this mode allows you to win using strategy alone.
+170  =This mode allows you to play against teams controlled by the COM.
+There are three different teams of increasing strengths available for each Match Level. Beat a team home and away and you'll be matched with a stronger team.
+171  =One formula for success is to keep Team Spirit high. This can be done by signing players who are a good tactical fit with the manager's team instructions.
+A high Team Spirit ensures good team work amongst the players.
+172  =Team Spirit can also be increased by signing players who are a good tactical fit with the manager's preferred team instructions.
+Generally, players from the same national/club team tend to display better tactical fit.
+173  =Players who are a good tactical fit with their manager's team instructions tend to display good teamwork.
+To find out the level of tactical fit, check the heat map in either Game Plan or Squad Management.
+174  =For any team to work, it needs a set of players and a manager. Tactical Fit between a manager and his players is essential for good teamwork, but even players who initially don't fit well can be blended in as long as you are patient with them and give them enough chances over time.
+175  =A player's stamina will recover when they are rested, and not playing in a match.
+You can also restore player stamina instantly by using a Stamina Recovery item, or by spending myClub Coins.
+176  =A club can have more than one Squad.
+A Squad is simply the combination of players and manager that plays a match.
+A squad cannot play in a match if it contains fewer than 18 players.
+177  =In myClub, the manager is basically in charge of implementing the strategy selected in Game Plan. The changes you are able to make are limited to things such as using the Edit Position feature and changing a player's position.
+To change Formation or Team Instructions, you will need to change the manager.
+178  =In myClub, scouts are used to sign new players.
+Scouts are acquired by playing matches in myClub mode.
+179  =Each Scout has a specialist field, and will therefore bring very different players to the team.
+180  =Scouts are obtained by playing matches. More than one Scout can be used simultaneously when signing players.
+Using more than one Scout allows you to increase the likelihood that you'll get the player you want.
+181  =A Top Agent can acquire highly skilled players for specific positions.
+You can also use a Special Agent for limited periods, allowing you to obtain players meeting certain designated criteria.
+182  =The number of games that players in myClub can play is dictated by the length of contracts.
+The player will still remain with the club even if the contract were to expire, but he will be ineligible to play in any matches until it is renewed.
+183  =Your manager will take control of a team for the number of matches indicated in their contract.
+If a manager achieves their designated goals within the duration of their contract, their contract can be renewed for free.
+184  =To import and use a section of the edit data from rg, select the following in order:
+[EXTRAS] → [Edit] → [Data Management] → [Use Prequel Data].
+185  =Earn GP by exercising "Close Control"!
+186  =Earn GP by executing "Speed Burst"!
+187  =Earn GP by executing "Flick"!
+188  =Earn GP by executing "Through Feint"!
+189  =Earn GP by executing "Trap Feint"!
+190  =Earn GP by executing "High Pass"!
+191  =Earn GP by executing "Chipped Through Ball"!
+192  =Earn GP by executing "Low Cross"!
+193  =Earn GP by executing "High Cross"!
+194  =Earn GP by executing "Early Cross"!
+195  =Earn GP by executing "Low Early Cross"!
+196  =Earn GP by executing "High Early Cross"!
+197  =Earn GP by executing "Controlled Shot"!
+198  =Earn GP by executing "Chip Shot"!
+199  =Earn GP by placing the ball (GK) !
+200  =Earn GP by throwing the ball into space (GK) !
+201  =Earn GP by executing "Manual Pass"!
+202  =Earn GP by executing "Manual Shot"!
+203  =Earn GP by executing "1-2 Pass"!
+204  =Earn GP by executing "Pass and Move"!
+205  =Earn GP by executing "Teammate Controls"!
+206  =Earn GP by executing "Scissors Feint"!
+207  =Earn GP by executing "Step-over"!
+208  =Earn GP by executing "Multiple Scissors Feint"!
+209  =Earn GP by executing "Draw and Open"!
+210  =Earn GP by executing "Draw and Close"!
+211  =Earn GP by executing "Out & In"!
+212  =Earn GP by executing "In & Out"!
+213  =Earn GP by executing "Marseille Turn"!
+214  =Earn GP by executing "Double Touch"!
+215  =Earn GP by executing "Cross Over Turn"!
+216  =Earn GP by executing "Sombrero"!
+217  =Earn GP by executing "Rainbow Flick"!
+218  =Earn GP by executing "Kick Feint"!
+220  =Earn GP by chasing down an opponent!
+221  =Earn GP by tackling an opponent!
+222  =Earn GP by slide tackling an opponent!
+223  =Earn GP by clearing the ball!
+224  =Earn GP by getting a teammate to apply pressure!
+225  =Earn GP by getting multiple teammates to apply pressure!
+226  =Earn GP by bringing out the goalkeeper!
+227  =Earn GP by ably controlling the defensive line!
+228  =Earn GP by playing the offside trap!
+229  =Earn GP by taking a free kick with 2 players!
+230  =Earn GP by executing "Trick FK"!
+231  =Earn GP by executing "Lay Off"!
+232  =Earn GP by jumping when in the defensive wall!
+233  =Earn GP by charging down a free kick!
+234  =Earn GP by using "Off the Ball Controls"!
+235  =Earn GP by defeating COM using Role Control!
+236  =Earn GP by making managerial debut!
+237  =Earn GP by entering competition!
+238  =Earn GP by signing a player through an agent!
+239  =Earn GP by signing a player through a top agent!
+240  =Earn GP for "Renewing player contract using GP"!
+241  =Earn GP for "Renewing player contract using myClub Coins"!
+242  =Earn GP for "Renewing managerial contract using GP"!
+243  =Earn GP for "Renewing managerial contract using myClub Coins"!
+244  =Earn GP for "Creating New Squad"!
+245  =Earn GP for "Expanding player roster"!
+246  =Earn GP by "Hiring a manager"!
+247  =Earn GP by "Making a loan signing"!
+248  =Earn GP for "Recharged Player Stamina"!
+249  =Earn GP for "Recharging energy using myClub Coins"!
+250  =Earn GP by forming the "Perfect Tactical Link"!
+251  =Earn GP by "Giving instructions to your scout"!
+252  =Earn GP for "View Players to Watch"!
+253  =Earn GP for "Making the big breakthrough"!
+254  =Earn GP by "Giving a loan signing his big break"!
+255  =Earn GP for exercising "Close Control" in a match.
+Maintain close control at all times while keeping your eyes fixed on the opposition goal.
+
+Press lk + ob
+256  =Earn GP for executing "Speed Burst" in a match.
+Use sudden bursts of pace to go past your opponents.
+
+Press lj × 2+ob
+257  =Earn GP for executing Flicks in a match by lifting the ball when trapping it.
+
+Press and hold jl just before you trap the ball.
+258  =Earn GP for executing "Through Feint" in a match.
+Make your opponent think you're going to trap the ball only to let it go through to another teammate.
+
+Release jm→ Press and hold lj before trapping the ball
+259  =Earn GP for executing "Trap Feint" in a match.
+Turn and chase the ball as opposed to taking a touch to bring it under control.
+
+ob Let go → Before trapping the ball hold lj
+260  =Earn GP for executing "High Pass" in a match.
+High passes are particularly effective if you have a tall target man playing up front.
+
+Press la while holding lk 
+261  =Earn GP for executing Chipped Through Ball in a match.
+Exploit the space behind opposition defences by dinking the ball over them.
+
+Press ld while holding li
+262  =Earn GP for hitting Low Crosses in a match by whipping in low balls at the speed of action, targeting a teammate's feet.
+
+Press la twice.
+263  =Earn GP for hitting High Crosses in a match by picking out your target man with a high delivery into the box.
+
+Press lk + la.
+264  =Earn GP for hitting Early Crosses in a match by crossing the ball high up the pitch from a deep position.
+
+Press li + Cross.
+265  =Earn GP by hitting a "Low Early Cross" in a match.
+Try playing a low ball into space in front of the goal from a deep wide position.
+
+Press li + Cross ×2
+266  =Earn GP by hitting a "High Early Cross" in a match.
+Try playing a high ball into space in front of the goal from a deep wide position.
+
+Press li + lk+ Cross
+267  =Earn GP for taking Controlled Shots in a match by taking well-placed shots.
+
+Press and hold lk + lc.
+268  =Earn GP for pulling off a "Chip Shot" in a match.
+Put the ball into an empty net by lobbing the ball over the oncoming goalkeeper.
+
+li + lc
+269  =Earn GP for "Putting the ball down" (GK Controls) in a match.
+When controlling the goalkeeper, get him to place the ball at his feet.
+
+Release ob, then press lj
+270  =Earn GP for "Throwing the ball into space" (GK Controls) in a match.
+When controlling the goalkeeper, throw the ball into open space for some on to run on to.
+
+Press ld while the goalkeeper has the ball in his hand.
+271  =Earn GP for executing Manual Passes in a match. Manual passing uses no pass assistance and gives you full control of both the direction and the amount of speed you put on the ball.
+
+Press ll + ob + Pass Command.
+272  =Earn GP for executing Manual Shots in a match. Manual shooting uses no shot assistance and gives you full control of both the direction and the amount of power you put on the shot.
+
+Press ll + ob + lc.
+273  =Earn GP for executing 1-2 Passes in a match. Pass the ball to a teammate and run at the same time to shake off your opponent and receive the ball again.
+
+li + lb → Release ob just before trapping the ball → ld or li + ld.
+274  =Earn GP for executing "Pass and Move" in a match.
+Pass the ball to a teammate then immediately make a forward run.
+
+Any type of pass → lk before the player kicks the ball
+275  =Earn GP for executing Teammate Controls in a match. Off-the-ball players burst forward.
+
+Select a player using jn while holding li → Release jn.
+276  =Earn GP for executing the "Scissors Feint" in a match.
+Hide the ball by stepping over it with your feet while running.
+
+()   →  Release
+Push ob immediately afterwards to turn
+Then push ob to turn
+277  =Earn GP for executing the "Step-over " in a match.
+Use your feet skills to try and force an opening when facing off against an opponent.
+
+()   →  Release
+Then push ob to turn
+278  =Earn GP for executing the "Multiple Scissors Feint" in a match.
+Hide the ball by stepping over it multiple times when on the run.
+
+()  →  Release
+Then push ob to turn
+279  =Earn GP for executing the Draw and Open in a match.
+Use the sole of your foot to drag the ball back, then kick it out diagonally to beat your opponent.
+
+Hold  + od/oj / of
+280  =Earn GP for executing the "Draw and Close" in a match. Use the sole of your foot to drag the ball back, then kick it diagonally inwards to beat the opponent.
+
+Hold  + oh.
+281  =Earn GP for executing the "Out & In" in a match.
+Touch the ball with the outside of your foot and then kick it inwards to beat your opponent.
+
+Hold  + oh
+282  =Earn GP for executing the "In & Out" in a match.
+Touch the ball with the inside of your foot and then kick it outwards to beat your opponent.
+
+Hold  + oj
+283  =Earn GP for executing the Marseille Turn in a match.
+Control the ball with the sole of your foot then pirouette your way around an opponent.
+
+Hold () + of/oj/od(of/oh/oc)
+284  =Earn GP for executing the "Double Touch" in a match.
+Beat your opponent by bouncing the side-footing the ball off the inside of one foot then pushing it out with the other.
+
+Hold () + ob
+285  =Earn GP for executing the Cross Over Turn in a match. Take a touch with your heel and cut the ball behind your pivot foot as you make a large turn to beat an opponent.
+
+Hold  + oc/oh/og(od/oj/oi).
+286  =Earn GP for executing the Sombrero in a match.
+Beat your opponent by taking the ball in mid-flight, then delightfully flicking it over his head using your toes.
+
+When the ball has been flicked up or is already in the air, Hold jl + ob
+287  =Earn GP for executing the Rainbow Flick in a match.
+Put the ball between both your feet and flick it up and over an oncoming opponent.
+
+Press jl X 2
+288  =Earn GP for executing the Kick Feint in a match. Fool the opponent into thinking you are going to kick the ball.
+
+Press lc or la → Just before the player kicks the ball lb.
+290  ="Chase Down" an opponent during a match to earn GP.
+This will allow you to quickly close the distance between you and your opponent and apply pressure.
+
+Press and hold lj + lf
+291  =Earn GP for "Tackling an opponent" in a match.
+Stick out your foot and attempt to win the ball back from your opponent. 
+
+Press lf X 2
+292  =Earn GP for "Slide tackling an opponent" in a match.
+Slide in feet first and attempt to win the ball back from your opponent. 
+
+When the opposition have the ball le
+293  =Earn GP by "Clearing the ball" in a match.
+Kick the ball far away to safety when under threat from opposition attacks.
+
+Press lc
+294  =Earn GP by "Instructing a teammate to apply pressure" in a match.
+Order your teammate to close down an opponent who is on the ball.
+
+Press lg
+295  =Earn GP by "Instructing multiple teammates to apply pressure" in a match.
+Order your teammates to close down an opponent who is on the ball in 2's or 3's.
+
+Press lg X 2, then hold lg
+296  =Earn GP by "Bringing out the Goalkeeper" in a match.
+Get the goalkeeper to come out of his goal and close down an opponent who is on the ball.
+
+Hold lh
+297  =Earn GP by "Controlling the defensive line".
+Command teammates on defensive line.
+
+Move defensive line forward: :on
+Move defensive line deeper:om
+*When the Camera is Behind the Goalokol
+298  =Earn GP by playing an "Offside Trap" in a match.
+Try to catch an opponent offside by moving the defensive line forward for a set time.
+
+on X 2 
+*When the Camera is Behind the Goalok X 2 
+299  =Earn GP for "Taking a free kick with 2 players" in a match.
+Place 2 free kick takers over the ball.
+
+li+ok
+or li+ol
+300  =Earn GP by executing "Trick FK" in a match.
+Line up 2 free kick takers during a set piece routine, then get one to act as decoy.
+
+1st FK Taker: Press then release lc → lb immediately
+2nd FK Taker: ll + press then release lc → lb immediately
+301  =Earn GP by executing "Lay off" in a match.
+Line up 2 free kick takers during a set piece routine, then get the second free kick take to roll the ball into a position where the main free kick taker will have a cleaner shot at goal.
+
+Select Taker : li + lb 
+2nd FK Taker : ll + li + lb
+302  =Earn GP by "Jumping when in a defensive wall" during a match.
+When facing a free kick, instruct players in the defensive wall to jump.
+
+Press le just as the free kick taker strikes the ball
+303  =Earn GP by "Charging down free kick" in a match.
+When facing a free kick, instruct players in the wall to rush forward and charge down the ball.
+
+Press lg just as the free kick taker strikes the ball
+304  =Earn GP by executing Off the Ball Controls in a match.
+Make a player who is off the ball run in a certain direction, then designate him as the ball receiver.
+
+li + jn → Release jn
+305  =Earn GP by defeating COM using Role Control.
+To play "Role Control", simply press jh(jg) when selecting sides (Only applies to offline matches).
+306  =Earn a GP Reward by playing matches in myClub.
+Play against a wide variety of opponents both human and COM.
+307  =Earn a GP Reward by entering competitions in myClub.
+Take part using teams which you have created in myClub.
+308  =Earn a GP Reward by using an agent to sign players in myClub.
+Agents can be acquired through playing in matches and competitions or as rewards to unlocking achievements.
+309  =Earn a GP Reward by signing a player through a Top Agent in myClub.
+To call on the services of a top agent, you will need myClub Coins.
+310  =Earn a GP Reward by using GP to renew a player contract in myClub.
+The player will still remain with the club even if the contract were to expire, but he will be ineligible to play any in matches until it is renewed.
+311  =Earn a GP Reward by using myClub Coins to renew a player contract.
+The player will still remain with the club even if the contract were to expire, but he will be ineligible to play any in matches until it is renewed.
+312  =Earn a GP Reward by renewing a managerial contract in myClub.
+The manager will still remain with the club even if the contract were to expire, but you will be unable to call upon his services until you renew it.
+313  =Earn a GP Reward by using myClub Coins to renewing a managerial contract.
+The manager will still remain with the club even if the contract were to expire, but you will be unable to call upon his services until you renew it.
+314  =Earn a GP Reward by creating a new team in myClub.
+In myClub, you can have multiple teams within one club.
+To create a new team, select [Squad Management] → [jcTeam Menu] → [Squad List] in order.
+315  =Earn a GP Reward by expanding the team's roster in myClub.
+Select myClub Store → [Increase Players Slots] in order.
+316  =Earn a GP reward by acquiring a manager in myClub. The list of available managers is updated every 8 hours as a general rule.
+317  =Earn a GP Reward by signing a player on loan in myClub.
+There is a special list for players who are available on loan which is updated at regular intervals.
+318  =Earn a GP Reward by recovering player stamina in myClub.
+Select [Squad Management] → [jfPlayer Menu] in order to replenish any spent stamina.
+319  =Earn a GP Reward by recovering player stamina in myClub.
+Select [Squad Management] → [jcTeam Menu] in order to replenish any spent stamina.
+320  =Earn a GP reward by increasing your team's Team Spirit up to 99 in myClub.
+To increase Team Spirit, you can either put together a team of players who are a good tactical fit with the manager's basic tactics in Squad Management or by patiently using the same group of players until they fit in.
+321  =Earn a GP reward by giving instructions to a scout in Master League.
+Let your scout know what types of players you need by selecting [Negotiations] → [Scouting] in order.
+322  =Earn a GP Reward by reading a scouting report in Master League.
+To see which players your scout has shortlisted, select "Negotiations" → "Scouting Report".
+323  =Earn a GP Reward when a player makes his big breakthrough in Master League.
+Player development isn't always at a constant pace. Some players may experience a hugs boost in stats by making the most of his opportunities.
+324  =Earn a GP Reward when a player who is on loan at your club makes his big breakthrough in Master League.
+Player development isn't always at a constant pace. Some players may experience a hugs boost in stats by making the most of his opportunities.
+325  =Online: Quick Match
+326  =Online: Online Divisions
+327  =The Master League has been reborn.
+Key new features such as Team Roles, Team Spirit, and Player Skills have been added.
+328  =When players understand the manager's Team Instructions, Team Spirit grows stronger.
+Team Spirit is absolutely vital if you want to build a winning team.
+329  =Exceptionally talented players can develop their own "Team Role".
+Each "Team Role" has its own effects. Having these players can be a great benefit when you're building your team.
+330  =Young players will sometimes show dramatic improvement when they are given a run of matches.
+The more matches they play during their development period, the more they will improve.
+331  =You will receive a "Monthly Report" containing an analysis of data from the matches you've played that month.
+Take a look at the analysis and see if it can be of use to you in the forthcoming month's fixtures.
+332  =Players listed by the Scout have a higher chance for successful negotiation because the scout is in regular contact with the players and their teams. Can you see why scouts are invaluable to improving your squad?
+333  =Fans will give your players nicknames based on their performances and the way they play.
+334  =This indicates the extent to which the manager trusts you.
+The higher your Manager's Trust Level is, the more likely it is that you will be picked for matches, or have your contract extended.
+335  =In Become a Legend, Player Skills are learned in training.
+Allocate your Focus Points from the Training Screen.
+336  =In Become a Legend, you can learn to become adept at additional positions in training.
+Allocate your Focus Points from the Training Screen.
+337  =As players improve and become more skilful, they may attract the attention of their national teams.
+If you are picked for your national team, you may get to appear in various international tournaments.
+338  =You will get transfer offers from various clubs during the season.
+You can also start negotiations with teams you'd like to be transferred to.
+339  =Players developed in Become a Legend can be acquired in Master League mode, and used in Online matches.
+340  =myClub: 3 Preset Tactics
+341  =myClub: Main Preset Tactics
+342  =myClub: Contract Extension Option
+343  =myClub: Manager Adaptability
+344  =myClub: Fluid Formation
+345  =myClub: Experience Points and Level
+346  =myClub: Convert into a EXP Trainer
+347  =myClub: Development Hints 1
+348  =myClub: Development Hints 2
+349  =myClub: Development Hints 3
+350  =myClub: Scout's Grade
+351  =myClub: Cloud Match
+352  =myClub: Management Skills and Team Spirit
+353  =myClub: Contract Renewal Ticket
+354  =Each Squad has a total of three Preset Tactics: one main strategy, and two sub-strategies.
+A different manager is registered for each set of Preset Tactics, allowing a single Squad to use the strategies of three different managers.
+355  =Of a Squad's three Preset Tactics, the main set is the one most likely to produce interconnected teamplay.
+If exactly the same Preset Tactics are selected more than once, Team Spirit will increase.
+356  =If a manager achieves his designated goals within the duration of his contract, you can extend it for free.
+If he doesn't achieve all his goals, you will need to spend GP in order to extend his contract, or pay for it another way.
+If you don't renew a manager's contract, he will stay on the books but you won't be able to put him to work.
+357  =Just like players, it takes time for managers to adapt to a new team.
+Talented managers adapt quickly, and are soon able to perform to 100％ of their abilities.
+A manager's ability has a significant effect on Team Spirit.
+358  =There are myClub managers who can make tactical use of the Fluid Formation.
+If you register a manager who can use the Fluid Formation to your Squad, you will be able to toggle Fluid Formation ON and OFF as part of your game plan.
+359  =Players develop by acquiring Experience Points in training and during matches.
+The more Experience Points a player has, the higher his Level becomes. As a player's Level increases, his ability also improves incrementally.
+360  =Any player who is on your club's books can be converted into a EXP Trainer. 
+A EXP Trainer is used to help develop another player.
+361  =The higher a EXP Trainer's ability, the greater the effect he will have on the development of the player he is training.
+362  =The more things a EXP Trainer has in common with the player he is training, the more effective the training will be.
+363  =Making sure that the players undergoing training are in good Condition will help the training to be a little more effective.
+364  =When using a Scout to acquire a new player, remember that by combining more than one Scout with a high Grade, you will be more likely to acquire highly talented players.
+The Grade is indicated by the number of ★ displayed on each Scout's icon.
+365  =Each Squad belonging to your club plays matches against other users, even when you don't control the games yourself.
+You will be awarded GP on a regular basis, based on the results of these matches.
+366  =Each player has various Costs, based on their ability.
+If the Total Costs of the players in your Squad is higher than your manager's Management Skills, then Team Spirit will decrease dramatically.
+367  =A certain number of Contract Renewal Tickets are acquired whenever you manage to achieve a promotion or stay in the same division in RANKED MATCH and RANKED MATCH (SIM) modes.
+368  =You can create a Match Room and use your myClub Squad to play online matches which won't affect your overall records.
+GP and Scout prizes cannot be acquired.
+369  =In PLAY MATCH → VERSUS, users are categorised in line with their Personal Data and their results, stats and Play Analysis can all be saved.
+Personal Data Name can be used to store individual settings and  Personal Data.
+370  =An analysis of data relating to playing traits and favoured moves of each user can be viewed when playing a match. 
+Individual Play Analysis will be stored for VERSUS, Online Divisions and myClub RANKED MATCH (including Online Challenge Cup).
+371  =In VERSUS, Online Divisions and myClub RANKED MATCH (including Online Challenge Cup), you can press jf on the match menu prior to kick-off to view Play Analysis. 
+It's a good idea to have a firm idea of the way your opponent plays before starting a match.
+372  =You can check out the Play Analysis of other users via Online Ranking or the User List.
+You can compare this data to your own, allowing you to do a full analysis of the way they play and your relative strengths and weaknesses.
+373  =Collect Scouts and use them to target the players that really fit your team.
+By participating in auctions, you may also be able to obtain top Scouts who can get hold of the best players.
+Note that if you are unsuccessful in an auction, the GP you bid will be returned to you.
+374  =An auction is split into two rounds.
+In order to take part in an auction, you will first need to make a bid in the 1st Round.
+All users who have made a bid will then be able to proceed to the Final Round.
+375  =In the Final Round of an auction, each participant will have the right to put up a single bid, with the highest bid winning the auction.
+In this round, you will be unable to see the amount other users are bidding.
+376  ="Tactical Training" can be selected from Squad Management via the jcTeam Menu.
+Players registered to the selected Squad will be more receptive to the Team Instructions set as part of their Preset Tactics.
+This will result in an increase in Team Spirit.
+377  =A "Familiarity Boost" can be activated via Squad Management from jfManager Menu once you have selected a manager.
+The "Familiarity (％)" of the selected manager will increase, leading to an overall increase in Team Spirit.
+378  =A "Management Skills Boost" can be activated via Squad Management from jfManager Menu once you have selected a manager.
+The "Management Skills" of the selected manager will receive a boost, meaning that the Total Costs of the Squad will increase.
+379  =Meet the goals in "myClub Records" and learn about the functions available in myClub.
+Don't forget to collect your reward after meeting each goal!
+380  =Most of the pre-set place names listed in Home Town Settings can also be applied in the Commentary Team Name settings.
+Come up with a superb name for your club which will do your Home Town proud.
+381  =Use a Special EXP Trainer and you can distribute Experience Points to selected players. 
+Unlike players who have become EXP Trainer, the affinity between the player and coach is not relevant here and they will be able to reap the benefits of training effects.
+382  =Check Out Play Analysis Before Each Game
+383  =Online: Play Analysis of Other Users
+384  =myClub: Scout Auction
+385  =myClub: Auction - 1st Round
+386  =myClub: Auction - Final Round
+387  =myClub: Tactical Training
+388  =myClub: Familiarity Boost
+389  =myClub: Management Skills Boost
+390  =myClub: myClub Records
+391  =myClub: Home Town
+392  =myClub: Special EXP Trainer
+393  =Your team has two budgets which need to be managed separately: the Transfer Budget, which is used to pay for new additions to the team, and the Salary Budget, which is used to pay your players' wages.
+394  =If a player gets several run outs in an unfamiliar position, they will gradually get used to it.
+395  =You can choose your playing style in Master League. 
+Choose Challenge to enjoy a more demanding experience full of challenging scenarios.
+396  =If you manage to get hold of the kind of very special players who only appear in myClub, you will be able to add them to your team in the Master League.
+397  =While the transfer window is open, player can request a change of shirt numbers. If another player is already wearing that shirt, it will be at the discretion of the club whether or not to grant this request.
+398  =Player can ask his manager to let them play in a different position. If the player seems like they have what it takes, they may well get a chance to prove themselves in a new role.
+399  =When playing while connected to the rf server, you can acquire GP at various points in the game.
+GP can be used in myClub, available in the full version.
+400  = The Import Team feature is great for importing a large number of teams in one go.
+401  =Set matchmaking conditions to automatically search for an opponent and play an online match against them. The match result will count towards your ranking.
+402  =Acclaim is awarded based on your skill in 1-vs-1 myClub matches. There's also a special type of Acclaim awarded for players who compete in our eSports competitions.
+403  =In myClub's Weekly PES LEAGUE, users compete for rankings against other users of a similar skill level. The better the opponent you defeat, the bigger your rise on the leaderboard. But only the best can rise to the top spot!
+404  =In myClub's WHAT'S ON, you can enter time-limited competitions to earn exclusive rewards. Make sure to head over to WHAT'S ON when starting myClub Mode.
+405  =Any player that has less than 10 Player Skills can learn new ones based on his position. And when developing the same player multiple times, you can replace Player Skillss with new ones.
+406  =For players you're looking to train, you have the choice of developing one of their less compatible positions to maximize the player's compatibility to it. You can repeat this process until all positions are at their maximum compatibility.
+407  =When signing a player via an Agent, there may be times the player you sign is a duplicate of a player already signed to your club. In these cases, you can convert the duplicate player into a EXP Trainer and train the same player you already own to greatly increase the benefits gained from training.
+408  =Live Update or Data Pack player updates include regular updates to the list of players you can sign via a Top Agent or certain exclusive Agents. Whenever you attempt to sign a player via an Agent, you can view that Agent's List of Targets using jfProfile from the Agent's list.
+409  =When using a Scout to sign players, it is not possible to sign a duplicate of a player you already have signed to your club. There is one exception, however, and that is with variations of players. Scouts can help you sign different variations of the same player, and these signings are not considered duplicates.
+410  =In myClub, you can view other users' squads. You can take a look at their squad while browsing the leaderboards or when viewing Guest Users in online matches.
+411  =You can combine three duplicate signings in exchange for one player of the same rarity. Variations or different rarities of the same player cannot be combined. The level of the player obtained is set at Lv.1.
+412  =When there is an interruption to play, such as a throw in or corner kick, you may see the option 'jaSubs' appear at the bottom of the screen. By pressing ja while this option is displayed, you can easily make a quick substitution without pausing the game.
+413  =As a player's stamina drops, he becomes fatigued, and he may lose a step in reacting to the ball and experience a drop in positional awareness. In other words, his ability to perform is hindered, and he is likely to make a mistake. You can check a player's stamina level during a match using his stamina gauge or via the Game Plan.
+414  =When a player experiences a drop in stamina, he may show signs of worrying about his legs. Continuing to play in this state puts him at risk of a serious injury, so you should consider a substitution.
+415  =When on the ball, hold lk and press la to perform a high punt kick. If the keeper possesses the High Punt Trajectory skill, the ball can travel deep into the opposition's half. This is also the case for keepers who possess the Low Punt Trajectory skill.
+416  =Hold down ld when defending to sprint towards the player on the ball in an attempt to close him down.
